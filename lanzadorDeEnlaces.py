@@ -5,7 +5,7 @@ edgePath = "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe"
 webbrowser.register('edge', None, webbrowser.BackgroundBrowser(edgePath))
 
 #navegador chrome
-chromePath = ""
+chromePath = "C:\Program Files\Google\Chrome\Application\chrome.exe"
 webbrowser.register('chrome', None, webbrowser.BackgroundBrowser(chromePath))
 
 #navegador brave
@@ -18,10 +18,10 @@ def lecturaArchivo(ruta):
     return archivo
 
 #apertura de soportes
-soportes = lecturaArchivo('C:\Users\sebas\OneDrive\Escritorio\Ejercicio\soportes.txt')
+soportes = lecturaArchivo('.\soportes\soportesActa8.txt')
 
 for i in soportes.readlines():
-    webbrowser.get('brave').open_new_tab(i)
+    webbrowser.get('chrome').open_new_tab(i)
     
 
 

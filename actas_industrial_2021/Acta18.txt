@@ -1,0 +1,207 @@
+CARRERA DE INGENIERÍA INDUSTRIAL
+COMITÉ ASESOR DE CARRERA - INGENIERÍA INDUSTRIAL
+ACTA No. 018 de Septiembre 21 de 2021
+
+ASISTENTES
+Ing. Jenny Marcela Sánchez Torres		Directora de Área Curricular
+Lady Johana Rodríguez			Representante estudiantil - Principal	
+María José Losada Durán			Representante estudiantil – Suplente – Invitado
+Ing. Leonardo Salgado				Asesor curricular
+Ing. Hugo Herrera				Coordinador Curricular Ing. Industrial
+Ing. Fernando Guzmán Castro			Representante de los profesores del programa
+Ing. Wilson Adarme 				Representante de los profesores del programa
+David Felipe Gutiérrez				Representante estudiantil – Suplente – Invitado
+Camilo Castañeda				Representante estudiantil – Principal
+
+AUSENTE
+Ing. Camila Sanguino				Representante Egresados
+Lady Johana Rodríguez			Representante estudiantil – Principal
+Ing. Jenny Marcela Sánchez Torres		Directora de Área Curricular
+
+Lugar: Virtual.
+Fecha: martes 21 de septiembre de 2021
+Hora: 11:00 a.m.
+
+ORDEN DEL DÍA
+1.	Asuntos Varios
+2.	Asuntos estudiantiles
+
+DESARROLLO DEL ORDEN DEL DÍA
+
+ASUNTOS VARIOS
+
+ASUNTOS ESTUDIANTILES
+
+HOMOLOGACIÓN/EQUIVALENCIA DE ASIGNATURAS
+9.1.1	Sánchez Rodríguez Nicolas	DNI. 1026293956
+Tipo de solicitud:	Homologación de asignaturas.
+Justificación:	Por medio de la presente, radico la solicitud para realizar una homologación o equivalencia de 2 asignaturas que curse en el programa de estadística de la facultad de Ciencias en la Universidad Nacional de Colombia, estas fueron Ingeniería económica (2015703) y Finanzas (2016741). Adjunto en la presente solicitud un documento en el que especifica las fechas en las que aprobé dichas materias y por las materias que quiero hacer equivalencia en la carrera lectiva para el siguiente semestre, además debido a las circunstancias presentadas este año, que obligaron a modificar el calendario académico, tengo una materia en periodo de calificaciones llamada sistemas de costos (2016610) que he aprobado en el presente periodo académico y que es prerrequisito de la materia ingeniería económica y análisis de riesgos(2025986), de manera muy cordial radico esta solicitud.
+Soportes:	Formato de solicitud, 
+Fecha de radicación:	
+Análisis:	Acuerdo 008 de 2008, 
+1.	Las asignaturas a homologar cumplen con los prerrequisitos (Resolución 024 de 2014 – Consejo de Facultad).
+Concepto: El Comité Asesor recomienda al Consejo de Facultad APROBAR convalidar en el periodo académico 2021-1S, la(s) siguiente(s) asignatura(s) cursada(s) en el programa Estadística, de la siguiente manera (Artículo 35 del Acuerdo 008 de 2008 del Consejo Superior Universitario)
+Nicolas Sánchez Rodríguez - 1026293956
+Asignaturas a convalidar en el plan de estudios de Ingeniería Industrial (2546) 	Asignaturas cursadas en el plan de estudios Estadística de la Universidad Nacional
+Código	Asignatura	C	T	Nota	Asignatura	C	Nota
+2025986	Ingeniería Económica y Análisis de Riesgo	3	C	3.9	Ingeniería Económica	3	3.9
+2016741	Finanzas	3	T	4.1	Finanzas	3	4.1
+
+
+9.1.2	Mojica Roatán Iván Alexis	DNI. 1006554670
+Tipo de solicitud:	Equivalencia de asignaturas del traslado
+Análisis:	Acuerdo 008 de 2008, Acuerdo 024 de 2014.
+Concepto: El Comité Asesor recomienda al Consejo de Facultad APROBAR equivaler en el periodo académico 2021-1S, la(s) siguiente(s) asignatura(s) cursada(s) en el programa Ingeniería Industrial de la Sede Manizales  de la siguiente manera (Artículo 35 del Acuerdo 008 de 2008 del Consejo Superior Universitario)
+Mojica Roatán Iván Alexis	DNI. 1006554670
+Asignaturas a equivaler en el plan de estudios de Ingeniería Industrial (2546) 	Asignaturas cursadas en el plan de estudios Ingeniería Industrial (4024) - Manizales  
+Código	Asignatura	C	T	Nota	Asignatura	Nota	Periodo
+1000005	Cálculo Integral	4	O	3.8	Cálculo Integral	3.8	2021-1S 
+1000019	Fundamentos de Mecánica	4	B	3.8	Física: Mecánica	4.2	2021-1S
+100003	Algebra Lineal	4	O	3.0	Algebra Lineal	3.0	2021-1S
+2015734	Programación de Computadores	3	C	3.6	Lógica De Programación	3.6	2021-1S
+	Créditos equivalidos O	8	
+	Créditos equivalidos B	4	
+	Créditos equivalidos C	3	
+	Total de créditos que se equivalen	15	
+
+9.1.3	Méndez Méndez Eduar Mauricio	DNI. 1122653404
+Tipo de solicitud:	Equivalencia de asignaturas del traslado
+Análisis:	Acuerdo 008 de 2008, Acuerdo 024 de 2014.
+Concepto: El Comité Asesor recomienda al Consejo de Facultad APROBAR equivaler en el periodo académico 2021-1S, la(s) siguiente(s) asignatura(s) cursada(s) en el programa Ingeniería de Sistemas y Computación (2879) PEAMA de la siguiente manera (Artículo 35 del Acuerdo 008 de 2008 del Consejo Superior Universitario)
+Méndez Méndez Eduar Mauricio	DNI. 1122653404
+Asignaturas a equivaler en el plan de estudios de Ingeniería Industrial (2546) 	Asignaturas cursadas en el plan de estudios Ingeniería de Sistemas y Computación (2879)   
+Código	Asignatura	C	T	Nota	Asignatura	Nota	Periodo
+1000004	Cálculo Diferencial	4	O	3.2	Cálculo Diferencial	3.2	2021-1S
+2015734	Programación de computadores	3	C	5.0	Programación de computadores	5.0	2021-1S
+	Créditos equivalidos O	4	
+	Créditos equivalidos C	3	
+	Total de créditos que se equivalen	7	
+
+9.1.4	Galeano Contreras Karen Xiomara	DNI. 1000257201
+Tipo de solicitud:	Equivalencia de asignaturas del traslado
+Análisis:	Acuerdo 008 de 2008, Acuerdo 024 de 2014.
+Concepto: El Comité Asesor recomienda al Consejo de Facultad APROBAR equivaler en el periodo académico 2021-1S, la(s) siguiente(s) asignatura(s) cursada(s) en el programa Ingeniería Química 2549 de la siguiente manera (Artículo 35 del Acuerdo 008 de 2008 del Consejo Superior Universitario)
+Galeano Contreras Karen Xiomara	DNI. 1000257201
+Asignaturas a equivaler en el plan de estudios de Ingeniería Industrial (2546) 	Asignaturas cursadas en el plan de estudios Ingeniería química 2549   
+Código	Asignatura	C	T	Nota	Asignatura	Nota	Periodo
+2015702	Gerencia y Gestión de Proyectos	3	T	4.8	Gerencia y Gestión de Proyectos	4.8	2021-1S
+2015811	Sociología especial: Industrial y del trabajo 	3	C	4.9	Sociología especial: Industrial y del trabajo	4.9	2021-1S
+	Créditos equivalidos T	3	
+	Créditos equivalidos C	3	
+	Total de créditos que se equivalen	6	
+
+9.1.5	Sarmiento Trujillo Juan Pablo	DNI. 1010049626
+Tipo de solicitud:	Equivalencia de asignaturas del traslado
+Análisis:	Acuerdo 008 de 2008, Acuerdo 024 de 2014.
+Concepto: El Comité Asesor recomienda al Consejo de Facultad APROBAR equivaler en el periodo académico 2021-1S, la(s) siguiente(s) asignatura(s) cursada(s) en el programa Ingeniería de Sistemas y Computación (2879)  de la siguiente manera (Artículo 35 del Acuerdo 008 de 2008 del Consejo Superior Universitario)
+Sarmiento Trujillo Juan Pablo	DNI. 1010049626
+Asignaturas a equivaler en el plan de estudios de Ingeniería Industrial (2546) 	Asignaturas cursadas en el plan de estudios Ingeniería de Sistemas y Computación (2879)    
+Código	Asignatura	C	T	Nota	Asignatura	Nota	Periodo
+1000019	Fundamentos de mecánica	4	B	3.9	Fundamentos de mecánica	3.9	2021-1S
+1000003	Álgebra Lineal 	4	O	3.6	Álgebra Lineal 	3.6	2021-1S
+2028594	Emprendimiento e Innovación	3	L	3.3	Emprendimiento e Innovación	3.3	2021-1S
+1000017	Fundamentos de electricidad y magnetismo	4	B	3.0	Fundamentos de electricidad y magnetismo	3.0	2021-1S
+2027877	Probabilidad fundamental	4	B	3.6	Probabilidad fundamental	3.6	2021-1S
+	Créditos equivalidos O	4	
+	Créditos equivalidos L	3	
+	Créditos equivalidos B	8	
+	Total de Créditos equivalidos 	15	
+
+9.1.6	Pinzon Laiton Claudia Vanessa	DNI. 1002524640
+Tipo de solicitud:	Equivalencia de asignaturas del traslado
+Análisis:	Acuerdo 008 de 2008, Acuerdo 024 de 2014.
+Concepto: El Comité Asesor recomienda al Consejo de Facultad APROBAR equivaler en el periodo académico 2021-1S, la(s) siguiente(s) asignatura(s) cursada(s) en el programa Ingeniería Química 2549 de la siguiente manera (Artículo 35 del Acuerdo 008 de 2008 del Consejo Superior Universitario)
+Galeano Contreras Karen Xiomara	DNI. 1002524640
+Asignaturas a equivaler en el plan de estudios de Ingeniería Industrial (2546) 	Asignaturas cursadas en el plan de estudios Ingeniería química 2549   
+Código	Asignatura	C	T	Nota	Asignatura	Nota	Periodo
+1000019	Fundamentos de Mecánica	4	B	4.1	Fundamentos de Mecánica	4.1	2021-1S
+1000003	Algebra Lineal	4	O	4.8	Algebra lineal	4.8	2021-1S
+1000005	Cálculo Integral	4	O	4.6	Cálculo Integral	4.6	2021-1S
+	Créditos equivalidos B	4	
+	Créditos equivalidos O	8	
+	Total de Créditos equivalidos B	12	
+
+9.1.7	Rivas Maldonado Laura Sofia	DNI. 1000323444
+Tipo de solicitud:	Homologación de estudios previos en la Escuela Colombiana de Ingeniería
+Justificación: 	Hago esta solicitud con el fin de avanzar en mi programa académico teniendo en cuenta que ya cursé algunas materias en otra institución. Tuve la oportunidad de ingresar a la UNAL, donde quiero finalizar mis estudios pero quiero aprovechar el tiempo que invertí en dichas materias.
+Soportes: 		Formato de Solicitud, contenidos programáticos y certificado de notas
+https://drive.google.com/file/d/17WHGjtoJcrT5UFX7MYAHmAz3PD15-R5_/view?usp=sharing
+https://drive.google.com/open?id=1bdkXhFqgG-362zolQZgVsSMBSJuPh7Fx
+https://drive.google.com/open?id=1pGZKyEOHMSgplCTUXOFzU_tvehKW-Nid
+
+Análisis:	Acuerdo 008 de 2008, Acuerdo 024 de 2014.
+
+Concepto: El Comité Asesor recomienda al Consejo de Facultad APROBAR homologar en el periodo académico 2021-1S, la(s) siguiente(s) asignatura(s) cursada(s) en el programa Ingeniería Industrial de la Escuela Colombiana de Ingeniería Julio Garavito de la siguiente manera (Artículo 35 del Acuerdo 008 de 2008 del Consejo Superior Universitario)
+Rivas Maldonado Laura Sofia	DNI. 1000323444
+Asignaturas a equivaler en el plan de estudios de Ingeniería Industrial (2546) 	Asignaturas cursadas en el plan de estudios  Ingeniería Industrial de la Escuela Colombiana de Ingeniería Julio Garavito
+Código	Asignatura	C	T	Nota	Asignatura	Nota	
+1000004	Cálculo Diferencial	4	O	3.0	Cálculo Diferencial	3.0	
+1000003	Álgebra Lineal	4	O	3.45	Álgebra Lineal	3.3	
+					Precálculo	3.6	
+1000019	Fundamentos de Mecánica	4	B	3.9	Fundamentos de mecánica	4.0	
+					Química	3.6	
+2025069	Historia y geografía de Colombia	2	L	4.4	historia y geografía de Colombia.	4.4	
+	Créditos equivalidos O	8	
+	Créditos equivalidos B	4	
+	Créditos equivalidos L	2	
+	Total Créditos equivalidos 	14	
+
+TRASLADO DE CRÉDITOS SOBRANTES DE BAPI A PREGRADO
+9.1.8	Mora García Diego Alejandro	DNI. 1015429782
+Tipo de solicitud:	Traslado de créditos a libre elección.
+Justificación:	Amablemente solicito colaboración para trasladar los créditos excedentes que tengo en BAPI a mi historia principal.
+Soportes:	Formato de solicitud, 
+Fecha de radicación:	septiembre 7
+Análisis:		Acuerdo 026 de 2012
+1.	SIA: Tiene pendientes créditos en libre elección.
+2.	SIA: Aprobados 6 créditos tipología L en BAPI.
+Concepto: El Comité Asesor recomienda al Consejo de Facultad APROBAR trasladar 6 créditos aprobados en BAPI que exceden a los créditos exigidos por la asignatura Trabajo de Grado, los cuales se asumirán como créditos inscritos y aprobados del componente de libre elección, si en este componente aún hay créditos por ser aprobados. (Artículo 16 del Acuerdo 026 de 2012 del Consejo Académico)
+
+9.1.9	Álvarez Torres Julián David	DNI. 1052411629
+Tipo de solicitud:	Traslado de créditos a libre elección.
+Justificación:	Acabo de finalizar mis materias de BAPI como modalidad de grado y me quedan 2 créditos, debido a que cada asignatura tiene 4 créditos y el trabajo de Grado exige 6 en total. Por lo tanto solicito su colaboración para validar estos 2 créditos en la modalidad de libre elección, debido a que en mi plan de estudios me hacen falta estos 2 créditos para finalizar el 100%. Agradezco la revisión de mi solicitud.
+Soportes:	Formato de solicitud, 
+Fecha de radicación:	septiembre 7
+Análisis:		Acuerdo 026 de 2012
+3.	SIA: Tiene pendientes créditos en libre elección.
+4.	SIA: Aprobados 2 créditos tipología L en BAPI.
+Concepto: El Comité Asesor recomienda al Consejo de Facultad APROBAR trasladar 2 créditos aprobados en BAPI que exceden a los créditos exigidos por la asignatura Trabajo de Grado, los cuales se asumirán como créditos inscritos y aprobados del componente de libre elección, si en este componente aún hay créditos por ser aprobados. (Artículo 16 del Acuerdo 026 de 2012 del Consejo Académico)
+
+
+9.1.10	Pineda Aldana Laura Camila	DNI. 1022432201
+Tipo de solicitud:	Traslado de créditos a libre elección.
+Justificación:	"Requiero la homologación de los créditos restantes de BAPI. 
+	Este semestre  (2021-1) cursé dos asignaturas en BAPI de la maestría en administración:
+	1. Gestión de mercados
+	2. Gestión financiera
+
+	Ambas materias suman 8 créditos, y debido a que para BAPI requiero cursar 6 créditos, quedan dos créditos restantes que requiero que sean homologados como libre elección para poder completar el total de los créditos del programa académico.  
+
+	Ambas materias las aprobé de forma exitosa. No obstante, debido a que aún no termina el periodo de calificaciones, aun no cuento con la nota de gestión financiera en el SIA. 
+
+	"
+Soportes:	Formato de solicitud, 
+Fecha de radicación:	septiembre 8
+Análisis:		Acuerdo 026 de 2012
+1.	SIA: Tiene pendientes créditos en libre elección.
+2.	SIA: Aprobados 2 créditos tipología L en BAPI.
+Concepto: El Comité Asesor recomienda al Consejo de Facultad APROBAR trasladar 2 créditos aprobados en BAPI que exceden a los créditos exigidos por la asignatura Trabajo de Grado, los cuales se asumirán como créditos inscritos y aprobados del componente de libre elección, si en este componente aún hay créditos por ser aprobados. (Artículo 16 del Acuerdo 026 de 2012 del Consejo Académico)
+
+
+9.1.11	MOVILIDAD SALIENTE
+Tipo de solicitud:	Movilidad saliente.
+Justificación:	PRI presenta las solicitudes de movilidad entrante 
+Soportes:	Correo enviado por PRI
+Fecha de radicación:	septiembre 3
+Análisis:		
+
+Concepto: El Comité Asesor recomienda al Consejo de Facultad APROBAR movilidad  entrante a los siguientes estudiantes; aclarando que el desarrollo de las asignaturas en mención será en virtualidad.
+	Nombre	DNI	Institución de destino	Periodo	Modalidad:  Cursar asignaturas	
+	Rueda Cuaran Luis Bernardo	1087007236 	TECNOLOGICO NACIONAL DE MEXICO - CAMPUS TUXTLA GUTIERREZ	2021-2S	Programación Orientada a Objetos	Algoritmos y Lenguajes de Programación	
+
+
+
+
+
+Ing. Hugo Herrera
+Coordinador Curricular 

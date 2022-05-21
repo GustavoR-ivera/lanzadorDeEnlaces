@@ -1,0 +1,100 @@
+﻿Área Curricular de Ingeniería de Sistemas e Industrial | Facultad de Ingeniería | Sede Bogotá
+
+COMITÉ ASESOR DE CARRERA  
+INGENIERÍA DE SISTEMAS Y COMPUTACIÓN 
+ACTA No. 13 de junio 29 de 2021
+
+ASISTENTES
+Ing. Jenny Marcela Sánchez Torres		Directora de Área Curricular
+Ing. Elizabeth León Guzmán		Coordinadora Curricular Ingeniería de Sistemas  Computación
+Ing. Jorge Eduardo Ortiz Triviño		Representante de los profesores
+Gabriela María García				Representante estudiantil
+Angela María Cárdenas Orjuela 		Representante estudiantil
+Ing. Luis Fernando Niño			Representante de los profesores
+Ing. Luis Fernando Caicedo	Representante de los Egresados. 
+Ing. Leonardo Salgado				Asesor curricular
+
+Lugar: Virtual.
+Fecha: martes 29 de junio de 2021
+Hora: 2:30 pm.
+
+ORDEN DEL DÍA
+1. Asuntos Varios
+2. Asuntos estudiantiles
+
+DESARROLLO DEL ORDEN DEL DÍA
+
+ASUNTOS VARIOS
+
+· Definición de cupos 2022-1S
+https://docs.google.com/spreadsheets/d/1jsThKKOTaBe-86PC-ljNJrE_31hatosD/edit#gid=111059421
+o 90 Cupos regulares. De acuerdo al estudio realizado en el Comité debido al crecimiento de admitidos, se decide dejar nuevamente el número de admitidos regularmente en 90 como se tenía antes del 2020-II
+o 6 Traslados: 3 cupos para estudiantes de traslado con avance menor al 30% del plan de estudios de origen y 4 cupos para estudiantes de traslado con avance superior al 30% del plan de estudios del plan de origen.
+
+· PRI-Fibog 160.   Solicitud de aval para el proceso de convalidación de asignaturas para estudiantes de doble titulación internacional.
+https://drive.google.com/file/d/1PVau6sfwoynf53dQJc7C3P3vN9tP7TZO/view?usp=sharin
+
+  Proceso doble titulación saliente: Se propone que las convalidaciones se realicen en bloque, tomando el promedio de las notas de todo lo cursado en la institución de destino y asignar esta nota a todo lo que le haga falta para cerrar su historia académica, esto claramente después de hacer la conversión correspondiente a nuestro sistema, usando las tablas ya aprobadas.  Esta es la solución definida, pero que no se ha implementado, porque tanto la Secretaría de Facultad como Registro solicitan la normatividad que permita hacer esto.
+ Proceso doble titulación entrante: En el caso de los estudiantes internacionales (en el marco de convenios) que vienen a hacer doble titulación en la Universidad Nacional de Colombia, se hace un promedio de las notas obtenidas en su institución de origen (normalmente lo visto en los 3 primeros años de estudio), se trasladan a nuestro sistema y se les pone esta nota en todas las asignaturas que se aceptan como cursadas.
+
+Concepto: El Comité Asesor NO AVALA la propuesta de hacer las convalidaciones de asignaturas cursadas en dobletitulación en bloque, tomando el promedio de las notas de todo lo cursado en la institución de destino y asignar esta nota a todo lo que le haga falta para cerrar su historia académica, dado que se considera importante detallar más la propuesta, con respecto las equivalencias de créditos, notas y promedios, propendiendo a una solución híbrida en que algunas homologaciones o convalidaciones se den el bloque y otras en las que se pueda hacerlas una a una.
+
+
+ASUNTOS ESTUDIANTILES
+
+CANCELACIÓN DE ASIGNATURAS
+9.1.1 Quevedo Ayala Daniel Arturo	DNI. 1015475194
+Tipo de solicitud:	Cancelación de asignaturas.
+Justificación:	"Durante el mes de Mayo fui aceptado en Data Science for All, un programa del MinTIC en convenio con Correlation One para formar personas en el área de ciencias de datos. Es mi intención aprovechar al máximo esta oportunidad y darle prioridad a este programa, pues no solo contribuye en gran medida a mi desarrollo profesional sino que puede abrirme puertas en el mundo laboral en el futuro.
+	Busco aligerar mi carga académica para centrarme en este programa porque a causa del paro nacional, varios profesores buscan acabar de forma más bien rápida sus cursos durante el siguiente mes, pero considerando todo el tiempo que necesito dedicarle al programa de DS4A, sé que no cuento con tiempo suficiente para sacar ambas cosas, el programa del MinTIC y la mayoría de mis asignaturas de la universidad, adelante.
+	Es por esto que solicito amablemente al Consejo de Facultad que me sean canceladas las asignaturas:
+	 2025995 Introducción a los sistemas inteligentes
+	2016703 Pensamiento Sistémico
+	 2025969 Modelos estocásticos y simulación en computación y comunicaciones
+	"
+Soportes:	Formato de solicitud, 
+https://drive.google.com/open?id=1Byjp5y6ALiVEv2zXio0Ib01yom8O7U9ehttps://drive.google.com/open?id=1rvF4w8_hW15scUBFE60Z52qtuLPGATeE
+Fecha de radicación:	junio 21
+	Análisis:	Acuerdo 008 de 2008
+		Con la cancelación de las tres asignaturas quedaría cursando:
+o Lenguajes de programación (2025966)
+o Redes de computadores (2025967)		PAPA 4.0 Avance 70.3%
+Concepto: El Comité Asesor recomienda al Consejo de Facultad APROBAR cancelar la(s) siguiente(s) asignatura(s) inscrita(s) del periodo académico 2021-1S, porque justifica debidamente la solicitud. (Artículo 15 Acuerdo 008 de 2008 del Consejo Superior Universitario)
+CódigoNombre AsignaturaGrupoTC2025995Introducción a los sistemas inteligentes2C32016703Pensamiento Sistémico2C32025969Modelos estocásticos y simulación en computación y comunicaciones2C3
+
+CANCELACIÓN DE PERIODO ACADÉMICO
+9.1.2 González Gómez Ángel Vladimir	DNI. 1000971579
+Tipo de solicitud:	Cancelación de periodo académico.
+Justificación:	“Anteriormente he realizado un proceso para cancelar mi matrícula 2020-1 debido a que mi situación económica cambió, pero no he recibido ninguna respuesta e investigando el portal de servicio académico me aparece la siguiente información. (adjunto imagen)
+
+Soportes:	solicitud SIA y mail de solicitud
+Fecha de radicación:	SIA 10 de  mayo, correo junio 18
+Análisis:	Acuerdo 008 de 2008
+1. El estudiante no canceló el recibo y esta en reserva de cupo
+Concepto: El Comité Asesor recomienda al Consejo de Facultad NO APROBAR Cancelar el periodo académico 2021-1S, porque no procede dado que se encuentra en reserva de cupo en el periodo en mención.
+
+MOVILIDAD SALIENTE
+9.1.3 Gabriel Pérez Santamaria	DNI. 1020843548
+El Comité Asesor recomienda el Consejo de Facultad APROBAR actualización del plan de estudios de movilidad saliente académica así: 
+ProgramaNombreDNIDestinoPeriodoModalidadProrrogaIngeniería de Sistemas y Computación (2879)Gabriel Pérez Santamaria1020843548King Abdullah University of Science and Technology – Arabia Saudita2021-2SCursar asignaturasBachelor Thesis - Final Degree ProjectTrabajo de Grado
+
+Ing. Elizabeth León Guzmán	
+Coordinadora Curricular Ingeniería de Sistemas y Computación
+
+proyecto
+cultural,
+científico
+y colectivo
+de nación
+Av. Carrera 30 # 45-03 - Ciudad Universitaria
+Edificio 453, Oficina 209
+(+57 1) 3165357 - (+57 1) 3165000 EXT: 14068
+Bogotá, D. C., Colombia
+acisi_fibog@unal.edu.co
+
+
+[ Página 2 de 2 ] 
+Elaboró: LS/IV/JMS
+
+
+
