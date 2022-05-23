@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 import webbrowser
 
 #navegador edge
@@ -18,7 +19,7 @@ def lecturaArchivo(ruta):
     return archivo
 
 #apertura de soportes
-soportes = lecturaArchivo('.\soportes\soportesActa8.txt')
+soportes = lecturaArchivo('.\soportes_industrial_2021\soportesActa8.txt')
 
 for i in soportes.readlines():
     webbrowser.get('chrome').open_new_tab(i)
