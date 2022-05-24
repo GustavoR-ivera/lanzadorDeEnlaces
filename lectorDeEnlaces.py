@@ -36,12 +36,12 @@ def leerActasIndustrial(actaInicial, actaFinal):
     for i in range(actaFinal-actaInicial+1):
         try:
             #apertura de acta (se debe cambiar cada que se quiera procesar una nueva acta)
-            nombreActa = '.\Actas_industrial_2021\Acta'
+            nombreActa = '.\Actas_industrial_2020\Acta'
             rutaActa = nombreActa + str(m) + '.txt'
             acta = lecturaArchivo(rutaActa)
    
              #crear archivo con soportes
-            nombreSoporte = '.\soportes_industrial_2021\soportesActa'
+            nombreSoporte = '.\soportes_industrial_2020\soportesActa'
             rutaSoporte = nombreSoporte + str(n) + '.txt'
             soportes = crearArchivo(rutaSoporte)
 
@@ -63,12 +63,12 @@ def leerActasSistemas(actaInicial, actaFinal):
     for i in range(actaFinal-actaInicial+1):
         try:
             #apertura de acta (se debe cambiar cada que se quiera procesar una nueva acta)
-            nombreActa = '.\Actas_sistemas_2021\Acta'
+            nombreActa = '.\Actas_sistemas_2020\Acta'
             rutaActa = nombreActa + str(m) + '.txt'
             acta = lecturaArchivo(rutaActa)
    
              #crear archivo con soportes
-            nombreSoporte = '.\soportes_sistemas_2021\soportesActa'
+            nombreSoporte = '.\soportes_sistemas_2020\soportesActa'
             rutaSoporte = nombreSoporte + str(n) + '.txt'
             soportes = crearArchivo(rutaSoporte)
 
@@ -84,9 +84,9 @@ def leerActasSistemas(actaInicial, actaFinal):
 
 def main(): 
     #especificar numero de acta inicial y final
-    #leerActasIndustrial(8,26)
+    leerActasIndustrial()
     #especificar numero de acta inicial y final
-    leerActasSistemas(8,25)
+    leerActasSistemas()
 
 main()
     
