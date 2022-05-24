@@ -1,0 +1,471 @@
+﻿Área Curricular de Ingeniería de Sistemas e Industrial | Facultad de Ingeniería | Sede Bogotá
+
+COMITÉ ASESOR DE CARRERA  
+INGENIERÍA DE SISTEMAS Y COMPUTACIÓN 
+ACTA No. 19 de octubre 5 de 2021
+
+ASISTENTES
+Ing. Jenny Marcela Sánchez Torres		Directora de Área Curricular
+Angela María Cárdenas Orjuela 		Representante estudiantil (Suplente)
+Ing. Leonardo Salgado				Asesor curricular
+Ing. Jorge Eduardo Ortiz Triviño		Representante de los profesores
+Ing. Luis Fernando Niño			Representante de los profesores
+Gabriela María García				Representante estudiantil
+Ing. Luis Fernando Caicedo	Representante de los Egresados. 
+Ing. Germán Hernández	Coordinador del programa
+Angela María Cárdenas Orjuela 		Representante estudiantil (Suplente)
+Ing. Luis Fernando Caicedo			Representante de los Egresados
+
+Lugar: Virtual.
+Fecha: martes 5 de octubre de 2021
+Hora: 2:00 pm.
+
+ORDEN DEL DÍA
+1. Asuntos Varios
+2. Asuntos estudiantiles
+
+DESARROLLO DEL ORDEN DEL DÍA
+
+ASUNTOS VARIOS
+
+1. Programación de comité extraordinario asincrónico 11 de octubre:
+· La Vicedecanatura Académica envía la siguiente comunicación:
+	
+Considerando que en la semana del 4 al 8 de octubre se recibirán las solicitudes de aquellos estudiantes que desean escribir un número de créditos superior a 20 y con el objetivo de poder tramitar dichas solicitudes en el periodo de adiciones y cancelaciones programado hasta el 15 de octubre, comedidamente sugiero que dichos casos sean estudiados de manera extraordinaria en los comités asesores de los programas de pregrado entre los días 11 y 12 de octubre, para que aquellas solicitudes que sean avaladas por cada comité,  se remitan y sean aprobados en el Consejo de Facultad del 14 de octubre. Esto permitiría realizar la inscripción de dichos cursos, sujeto a la disponibilidad de cupos, a más tardar el 15 de octubre.
+
+· La consideración del Vicedecano está enmarcada en la circular 3 de la Vicerrectoría Académica del 14 de septiembre, que dice:
+
+	Mediante acuerdo 356 de 2021, el Consejo Superior Universitarios prorrogó las medidas académicas, para disminuir el impacto negativo de la pandemia del COVID-19 ten el trabajo académico de los estudiantes durante el segundo periodo académico del año 2021.
+
+	El Artículo 7 del mencionado acuerdo señala:
+
+ARTICULO 7. Máximo número de créditos en inscripción. El número máximo de créditos que un estudiante puede inscribir en el segundo período académico del año 2021 es veinte (20 créditos). Los Consejos de Facultad podrán autorizar cursar un número mayor de créditos en los casos en que lo consideren justificado y pertinente.
+
+	Para que puedan inscribirse, luego de obtener la aprobación de los Consejos de Facultad, sin perder un tiempo importante de asistencia a los cursos y dentro de los plazos permitidos, la Vicerrectoría Académica recomienda a los estudiantes entregar, dentro de los días hábiles de la primera semana del segundo periodo académico lectivo de 2021, en las direcciones de área curricular, para su estudio por el Consejo de Facultad, las solicitudes de inscripciones de asignaturas que, que al sumarse a las ya inscritas, superen veinte (20) créditos.
+
+· Análisis:
+El  objetivo de poder tramitar dichas solicitudes en el periodo de adiciones y cancelaciones, programado hasta el 15 de octubre, es loable pero esto no significa que puedan inscribir asignaturas en las citaciones del último día de la segunda semana del periodo dado que los casos pasan para el Consejo de Facultad del jueves 14 de octubre y en pocas ocasiones se hacen las notificaciones de las respuestas el viernes siguiente al consejo y además las mismas demoran en tomar firmeza 10 días o hasta que el estudiante reciba el correo de notificación y manifieste que renuncia a la presentación de recursos. 
+	Además en el transcurso de las dos primeras semanas del periodo es cuando la Coordinación de registro del Departamento (Ing. Ingrid Páez) está atendiendo las solicitudes de inscripciones radicadas por el aplicativo UNcupo y los mismos estudiante hacen usos de sus citaciones de adiciones y cancelaciones, por lo que si se revisa un horario de un estudiante durante esas dos primeras semanas la información no es fiable y en la mayoría de los casos han de sufrir cambios que, cuando se vaya a ejecutar alguna decisión del Consejo de Facultad del 14 de octubre en la semana tres o cuatro del periodo, pueden ocasionar solapes, solicitudes de cancelaciones o desistimientos, aclaraciones o que las devuelvan de Registro porque ya tienen las asignaturas inscrita en otro grupos. Además el darle trámite por Consejo de Facultad a solicitudes, posiblemente aprobando cupos,  enviadas en la primera semana ocasiona que los criterios de priorización que se manejan con las solicitudes de UNcupo pierdan su importancia (Asignaturas obligatorias, mayor porcentaje de avance de carrera, asignaturas elegibles, etc.) y sea inequitativo con los que utilizaron el aplicativo Uncupo.
+
+Algunos casos, el trámite por Consejo de Facultad de solicitudes radicadas en esta primera semana del periodo, de aquellos estudiantes que desean escribir un número de créditos superior a 20 y que en simultánea soliciten inscribir asignaturas, no tienen inconveniente, por ejemplo cuando tienen pendiente que les inscriban Trabajo de Grado, Inglés por parte de la Dirección Académica o Práctica estudiantil, ya que dichas asignaturas no tienen cupos limitados y han realizado con antelación un proceso para su inscripción, que normalmente se hace superada la segunda semana del periodo. 
+
+Concepto: El Comité Asesor APRUEBA programar una sesión extraordinaria asincrónica para el 11 octubre para revisar las solicitudes de aquellos estudiantes que desean escribir un número de créditos superior a 20 en el periodo 2021-2S y radicaron la solicitud antes del 8 de octubre.
+
+2. Claustros 2021. 
+	La directora de área curricular informa que el próximo 12 y 13 de octubre de desarrollarán los Claustros para Profesores por Unidad Académica Básica, Institutos de Investigación de Sede y Centros de Sede y  Estudiantes por Área Curricular, por lo que abre la invitación a todos los miembros del comité a participar y recomienda a la representación estudiantil la importancia de su participación tanto al convocar a los estudiantes como al recopilar las discusiones llevadas a cabo.
+
+3. Ajustes  del plan de estudios. El Coordinador del programa, Ing. Germán Hernández socializa y concluye la propuesta de modificaciones al plan de estudios que ha sido discutida desde el comité anterior:
+a. Se eliminan todos requisitos para Pensamiento Sistémico y se introduce este curso como requisito para Ingeniería de software I y para Sistemas de información y Sistemas de Información Gerencial (se propone la aplicación de este requisito se suspende hasta el segundo periodo de 2023).
+b. Se cambian o eliminan los siguientes requisitos para flexibilizar o unificar con otros programas:
+i. Se cambia el requisito de Cálculo en Varias Variables o Cálculo Vectorial por Cálculo Integral o Cálculo Integral en una variable para las asignaturas de la Subagrupación: Ingeniería Económica para unificarlo con el resto de ingenierías.
+
+ii. Se elimina el requisito Teoría de la Información y Sistemas de Comunicaciones o Comunicaciones para Computación Visual
+
+iii. Se cambia el requisito de Algoritmos por Probabilidad y Estadística Fundamental o Probabilidad para Teoría de la Información y sistemas de comunicaciones 
+
+iv. Se eliminan los requisitos Redes de Computadores y Sistemas Operativos para Computación Paralela y Distribuida
+
+v. Se cambia el requisito Ingeniería de Software II por Arquitectura de Software para Arquitectura de Infraestructura y gobierno de TICs
+
+vi. Se eliminan los requisitos Probabilidad y Estadística Fundamental o Probabilidad y Redes de Computadores para Criptografía y Seguridad de la Información
+
+vii.  Se cambia el requisito Programación Orientada a Objetos por Bases de Datos o Análisis de Bases de Datos para Sistemas de Información
+
+ 
+c.  Cambio/inclusión de asignaturas optativas que se han modificado o creado.
+ 
+i. Se cambia 2015150 Análisis Numérico por 2019072 Análisis Numérico I en la Subagrupación: Métodos Numéricos
+
+ii. Se cambia 2015177 Modelos Matemáticos por 2019082 Modelos matemáticos 1 en la Subagrupación: Modelos y Sistemas 
+
+iii. Inclusión de 2027877 Probabilidad Fundamental en la AGRUPACIÓN: Probabilidad y Estadística
+
+iv. Inclusión de 2027313 Teoría de la codificación y 2027310 Criptografía en la Subagrupación: Criptografía y Seguridad de la Información
+
+Concepto: El Comité Asesor APRUEBA las siguientes modificaciones al plan de estudios: 
+a. Eliminar todos requisitos para Pensamiento Sistémico y se introduce este curso como requisito para Ingeniería de software I y para Sistemas de información y Sistemas de Información Gerencial (la aplicación de este requisito se suspende hasta el segundo periodo de 2023).
+b. Cambiar o eliminar los siguientes requisitos para flexibilizar o unificar con otros programas:
+v. Cambiar el requisito de Cálculo en Varias Variables o Cálculo Vectorial por Cálculo Integral o Cálculo Integral en una variable para las asignaturas de la Subagrupación: Ingeniería Económica para unificarlo con el resto de ingenierías.
+
+vi. Eliminar el requisito Teoría de la Información y Sistemas de Comunicaciones o Comunicaciones para Computación Visual
+
+vii. Cambiar el requisito de Algoritmos por Probabilidad y Estadística Fundamental o Probabilidad para Teoría de la Información y sistemas de comunicaciones 
+
+viii. Eliminar los requisitos Redes de Computadores y Sistemas Operativos para Computación Paralela y Distribuida
+
+ix. Cambiar el requisito Ingeniería de Software II por Arquitectura de Software para Arquitectura de Infraestructura y gobierno de TICs
+
+x. Eliminar los requisitos Probabilidad y Estadística Fundamental o Probabilidad y Redes de Computadores para Criptografía y Seguridad de la Información
+
+xi.  Cambiar el requisito Programación Orientada a Objetos por Bases de Datos o Análisis de Bases de Datos para Sistemas de Información
+
+ 
+c.  Cambiar/incluir asignaturas optativas que se han modificado o creado.
+ 
+xii. Cambiar 2015150 Análisis Numérico por 2019072 Análisis Numérico I en la Subagrupación: Métodos Numéricos
+
+xiii. Cambiar 2015177 Modelos Matemáticos por 2019082 Modelos matemáticos 1 en la Subagrupación: Modelos y Sistemas 
+
+xiv. Incluir de 2027877 Probabilidad Fundamental en la AGRUPACIÓN: Probabilidad y Estadística
+
+xv. Incluir de 2027313 Teoría de la codificación y 2027310 Criptografía en la Subagrupación: Criptografía y Seguridad de la Información
+
+ASUNTOS ESTUDIANTILES
+
+DESISTIMIENTO:
+
+9.1.1 Poveda Bermúdez Ricardo Ernesto	DNI. 1032495594
+Justificación: 	 El estudiante manifiesta que desea desistir de la solicitud de traslado presentada en 2021-12S entre Economía e Ingeniería de Sistemas y Computación (2879). 
+			
+	
+· 28 de septiembre escribe el estudiante: “Cordial saludo, por medio de la presente quisiera solicitar desistir de la solicitud de traslado que realice durante el periodo 2021-1 entre el programa de economía y el programa de ingeniería de sistemas y que se aprobó para el periodo 2021-2. A continuación expongo los motivos de realizar esta solicitud.
+Entiendo la complejidad de esta solicitud, que la envío por fuera de los plazos establecidos y que debí enviarla con mucha más anticipación. Entenderé si no alcanza a ser analizada para la siguiente sesión del consejo de facultad, pero agradecería inmensamente si se alcanza a incluir en la sesión de esta semana, ya que me ahorraría mucho tiempo. Dicho esto, expongo los motivos de mi solicitud.
+Principalmente, son los mismos motivos que me motivaron a querer salir de ingeniería. Y es el bajo desempeño académico que mostré en mi paso por ingeniería. Tengo miedo de volver a atravesar por esa experiencia que ya viví varias veces y que no pude superar; esa experiencia de sentir que no soy lo suficientemente bueno para estudiar ingeniería, de estar cerca de aprobar asignaturas, pero no lograrlo; de repetir materias y sentir que me atraso y pierdo tiempo mientras todos los demás logran avanzar, Esta situación es muy frustrante, aun cuando me esfuerzo por sacar adelante esas materias, no es suficiente para lograrlo. Tener que enfrentarme nuevamente a las mismas asignaturas me hace recordar todo el tiempo que perdí y la frustración que esto me
+causó, y no es un sentimiento agradable. Fue justamente esta frustración la que me llevó a querer salir de ingeniería. Además, me preocupa seguir con bajo rendimiento y seguir perdiendo tiempo porque ya ha pasado bastante tiempo y la edad a la que terminaré empieza a preocuparme.
+Por otro lado, siento que toda esta situación se debió a la pandemia y los cambios que trajo en nuestras vidas. Antes del inicio de la emergencia sanitaria solicité volver a economía con la esperanza de dejar de sentirme frustrado, y aunque me fue aprobado, los problemas personales y familiares que trajo la pandemia no me permitieron disfrutar de este beneficio, por el contrario, me encontraba muy inestable emocionalmente y el cambio que tanto había anhelado en situaciones normales, me trajo más confusión. Por esa razón no lo valoré ni lo disfruté.
+Durante los últimos meses, las actividades de todos se han reanudado de manera similar a lo cotidiano y he podido analizar con menos ansiedad y un poco más de calma las decisiones que he tomado durante el último año, y este traslado es una de las que más he cuestionado. Hasta hace un año y medio quería salir de ingeniería y pasar a economía, por las razones que expresé previamente, buscaba algo que me permitiera aprender otras áreas y mejorar mi desempeño académico porque para ese momento sentía que ingeniería no era el camino; Además me identifico con la parte política y de historia de la economía, y después del estallido social que hemos presenciado siento que esa carrera toma un especial significado en el futuro del país en varios ámbitos, la regulación, la legislación y la distribución de riqueza. Las matemáticas que he aprendido son necesarias y suficientes para aplicarlas a economía. Otro aspecto clave en esta decisión, fue el desempeño que tuve durante el último semestre, si bien no fue el mejor, siento que fue bueno y desde hace algún tiempo no tenía un semestre normal, en el sentido de que pudiera con su dificultad y no me viera forzado a cancelar o perder asignaturas, así que el nivel de dificultad de economía es más tolerable y superable para mí.
+	Soy consciente de que ya inscribí asignaturas para este periodo académico, así que autorizo al consejo de facultad a realizar lo necesario para cumplir mi petición (de ser posible), incluyendo cancelar las asignaturas que inscribí. Si no es posible cumplir con mi petición para este periodo académico 2021-2, entenderé y aceptaré la decisión. En cualquier caso, deseo cursar este periodo académico, no quiero perder más tiempo. Si esta solicitud no alcanza a ser incluida en la sesión del consejo de facultad del 30 de septiembre, solicito que sea desestimada, ya que no alcanzaría a tener efecto para este periodo académico de 2021-2 y me perjudicaría en términos de tiempo.
+En resumen, esos son mis argumentos para realizar esta solicitud, la dificultad de estudiar ingeniería y mi miedo a recaer en ese bajo rendimiento académico y las decisiones que tomé por el confinamiento. Me disculpo por tantas molestias que he causado y agradezco su tiempo.
+
+Atentamente,
+
+Ricardo Poveda Bermúdez
+
+	Análisis:      El traslado fue aprobado en el acta del 13 de mayo de 2021.
+
+· El 4 de octubre se le contestó al correo del estudiante desde el correo del asistente curricular del comité:
+
+Sr. Estudiante
+Ricardo Poveda Bermúdez
+
+Teniendo en cuenta que su comunicación Solicitud Cancelación Traslado fue enviada el 28 de septiembre no fue posible incluirla en el Consejo de Facultad del 30 de septiembre dado que las solicitudes de dicho consejo tenían como fecha límite de radicación el 16 de septiembre y fueron revisadas por el Comité Asesor del 21 de septiembre, estaba por fuera de todos los tiempos.
+
+Ahora bien, como usted mismo lo informa en la comunicación "Si no es posible cumplir con mi petición para este periodo académico 2021-2, entenderé y aceptaré la decisión. En cualquier caso, deseo cursar este periodo académico, no quiero perder más tiempo. Si esta solicitud no alcanza a ser incluida en la sesión del consejo de facultad del 30 de septiembre, solicito sea desestimada, ya que no alcanzaría a tener efecto para este periodo académico de 2021-2 y me perjudicaría en términos de tiempo."  me permito confirmarle que siendo su deseo el de cursar este periodo académico en Ingeniería de Sistemas  y Computación, al no ser decidida la solicitud en el consejo del 30 de septiembre, no procede nada ante el Comité Asesor o Consejo de Facultad y quedaría listo para completar la matrícula cancelando el recibo de matrícula dado que ya tiene asignaturas inscritas.
+
+Atentamente
+--
+Ing. Leonardo A. Salgado P
+Asesor Curricular
+Secretaría Académica
+Facultad de Ingeniería
+Universidad Nacional de Colombia - Sede Bogotá
+
+· El 6 de octubre escribe el estudiante:
+
+Buen día.
+
+Muchas gracias por responder.
+
+No había respondido el mensaje antes por pena, pero de nuevo agradezco que me hayan respondido. Quisiera saber si aún es posible continuar con mi solicitud en el siguiente consejo, es decir, desistir del traslado por las razones que manifesté en mi solicitud inicial. Yo pedí que se desestimara si no alcanzaba a entrar en el consejo del 30 de septiembre y entiendo que fué así porque no la envié en los plazos establecidos. Sin embargo, quisiera preguntar si existe la pequeña posibilidad de tramitar esa solicitud para este periodo académico. Esa era la razón por la que yo debí enviar la solicitud mucho antes, para que entrara en el consejo del 30. No fué así, no lo hice. Pero no sabía que la próxima semana hay otro consejo (me enteré por el correo institucional); y no sé qué tan probable sea que mi solicitud se pueda tramitar en el próximo consejo; y no sé si se pueda efectuar para este periodo. Es decir, me da miedo que se tramite mi solicitud pero no se haga efectiva para este periodo y me quede cruzado de brazos sin poder estudiar de aquí hasta marzo que comience el siguiente periodo, ese es mi mayor miedo y por eso pedí desestimar la solicitud si no alcanzaba a entrar en el consejo del 30.
+Y de ser aprobada no sé si demore en efectuarse o si pueda inscribir materias luego de 2 semanas.
+
+Así que trataré de ser concreto y preguntar si en el próximo consejo se puede tramitar mi solicitud y si se alcanza a hacer efectiva en este periodo académico.
+
+Es complicado lo que estoy solicitando y agradecería una respuesta, cualquiera que sea.
+
+Me disculpo y gracias por su tiempo, feliz día
+
+Atentamente,
+
+Ricardo Poveda Bermúdez
+
+· El 6 de octubre se le consulto al abogado de la facultad sobre cómo procede ante la situación del estudiante y se obtuvo la siguiente respuesta:
+
+Buen día, el desistimiento es una figura que tiene prescripción normativa en el artículo 18 del CPACA, incorporado en la Ley 1755 de 2015:  Artículo 18. Desistimiento expreso de la petición. Los interesados podrán desistir en cualquier tiempo de sus peticiones, sin perjuicio de que la respectiva solicitud pueda ser nuevamente presentada con el lleno de los requisitos legales, pero las autoridades podrán continuar de oficio la actuación si la consideran necesaria por razones de interés público; en tal caso expedirán resolución motivada", pero "cualquier tiempo" se entiende en relación a la existencia de la situación jurídica, esto quiere decir que mientras esté en curso el trámite, el desistimiento es posible sin ningún límite, el trámite culmina cuando queda en firme la decisión, esto es, cuando ya no proceden los recursos, porque a partir de ese momento se genera una nueva situación jurídica, la cual adquiere ejecutoria (artículos 87 y 89 del CPACA), por lo que en mi opinión ya no es posible aprobar el desistimiento de la solicitud, pues al ser aprobada en el Acta 13 de 2021, hace rato adquirió firmeza y por tanto ejecutoria, de no ser así, el estudiante podría decir que desiste luego de cursar dos periodos académicos en el nuevo plan y dejaría en el vacío las decisiones que ya surtieron todos sus efectos, lo que vulnera la seguridad jurídica también. Att, Hernany
+· El comité considera que aprobándole el desistimiento  con el ánimo de no afectar la actividad académica del estudiante.
+	
+Soportes:	Carta de desistimiento  28 septiembre
+https://drive.google.com/file/d/1gZiUgzSH7uq8RJjkU9tcdxFhcpVwcArm/view?usp=sharing	
+Correo 4 octubre 
+https://drive.google.com/file/d/13ARTc3PFm9CHB97qFwOJkYQB4KCst0sx/view?usp=sharing 
+Correo 6 octubre
+https://drive.google.com/file/d/1b_DOdATmQAM_xRz-LFOgAQ6uikjnQ3K_/view?usp=sharing 
+
+Concepto: El Comité Asesor recomienda al Consejo de Facultad APROBAR desistimiento del traslado aprobado en acta 13 de 2021 de Consejo de Facultad con el objetivo de no afectar la actividad académica del estudiante.
+
+AUTORIZACIÓN DE CURSAR MÁS DE 20 CRÉDITOS
+9.1.2 González Martínez Sergio Andrés	DNI. 1014308388
+Justificación: 	 "Realizare inscripción para noveno semestre con 42 créditos faltantes, por lo cual quería contar con la posibilidad de ver 21 créditos este semestre y el siguiente para culminar mis estudios en el semestre 2022-1."
+Soportes:	Formato de solicitud
+https://drive.google.com/open?id=1mxgse07L5K5XBc_8ArnRgGoA0z2F2XQK
+Fecha radicación:	Septiembre 28
+Normatividad: 		
+· Acuerdo 356 de 2021 CSU
+Análisis
+· PAPA 3.8
+· Avance: 74.5%
+· Ya tiene inscritos los 15 créditos el 29 de septiembre
+·  
+· Las notas de los dos semestres pasados fueron las siguientes 
+·
+· La circular 3 de 2021 de Vicerrectoría Académica dice:
+o …Para que puedan inscribirse, luego de obtener la aprobación de los Consejos de Facultad, sin perder un tiempo importante de asistencia a los cursos y dentro de los plazos permitidos, la Vicerrectoría Académica recomienda a los estudiantes entregar, dentro de los días hábiles de la primera semana del segundo periodo académico lectivo de 2021, en las Direcciones de Área Curricular, para su estudio por el Consejo de Facultad, las solicitudes de inscripción de asignaturas que, al sumarse a las ya inscritas, superen veinte (20) créditos.
+
+Concepto: El Comité Asesor recomienda al Consejo de Facultad APROBAR inscribir más de la carga máxima autorizada, en el periodo académico 2021-2S, teniendo en cuenta que los Consejos de Facultad podrán autorizar cursar un número mayor de créditos en los casos en que lo consideren justificado y pertinente. (Acuerdo 356 de 2021)
+
+9.1.3 Camilo José Sepúlveda Zúñiga	DNI. 1015463832
+Justificación: 	 "Actualmente tengo inscritos 15 créditos (Soporte) de los 21 que me quedan de carrera (Soporte), solo me faltaría la inscripción de la asignatura de trabajo de grado (6 créditos), para la cual ya envié el formato de formalización. 
+En lo posible me gustaría cursar los 21 créditos este semestre y así poder finalizar mi carrera, sin tener que alargarla otro semestre por una materia que puedo cursar ahora sin ningún inconveniente."
+Soportes:	Formato de solicitud
+https://drive.google.com/open?id=144ZsAmGBSFuL1VAeJlN3BQnVZ40EHNiEhttps://drive.google.com/open?id=1ie7Z5iwef1jcnJiDDwWRUt8mHl7IzppK
+Fecha radicación:	Septiembre 228
+Normatividad: 		
+· Acuerdo 356 de 2021 CSU
+Análisis
+· PAPA 3.9
+· Avance: 87.3%
+· Ya tiene inscritos los 15 créditos el 29 de septiembre
+·  
+· Las notas de los dos semestres pasados fueron las siguientes 
+·
+· La circular 3 de 2021 de Vicerrectoría Académica dice:
+o …Para que puedan inscribirse, luego de obtener la aprobación de los Consejos de Facultad, sin perder un tiempo importante de asistencia a los cursos y dentro de los plazos permitidos, la Vicerrectoría Académica recomienda a los estudiantes entregar, dentro de los días hábiles de la primera semana del segundo periodo académico lectivo de 2021, en las Direcciones de Área Curricular, para su estudio por el Consejo de Facultad, las solicitudes de inscripción de asignaturas que, al sumarse a las ya inscritas, superen veinte (20) créditos.
+
+Concepto: El Comité Asesor recomienda al Consejo de Facultad APROBAR inscribir más de la carga máxima autorizada, en el periodo académico 2021-2S, teniendo en cuenta que los Consejos de Facultad podrán autorizar cursar un número mayor de créditos en los casos en que lo consideren justificado y pertinente. (Acuerdo 356 de 2021)
+
+9.1.4 Niño Ramírez Sonny Ernesto	DNI. 1000577581
+Justificación:  En el periodo académico 2019-2 presente problemas de salud que causaron que aplazara el semestre en la primera semana de clases, provocando que me atrasara un semestre en mi carrera. Debido a esto me gustaría poder inscribir 6 créditos más de los 19 créditos que puedo inscribir, esos 6 créditos serían destinados para las materias Métodos Numéricos (2015970) e Inglés III. También me gustaría agregar que debido a la virtualidad de las clases obtengo un tiempo adicional que contribuye, pero no determina a que pueda cursar los 25 créditos sin ningún tipo de inconveniente. Todo esto lo hago con el fin de tratar de reducir mi tiempo en la universidad. 
+Soportes:	Formato de solicitud
+Fecha radicación:	Septiembre 20
+Normatividad: 		
+· Acuerdo 356 de 2021 CSU
+Análisis
+· PAPA 4.4
+· Avance: 39.4%
+· Ya tiene inscritos los 19 créditos el 29 de septiembre
+·  
+· Las notas de los dos semestres  pasados fueron las siguientes:
+· .
+· La circular 3 de 2021 de Vicerrectoría Académica dice:
+o …Para que puedan inscribirse, luego de obtener la aprobación de los Consejos de Facultad, sin perder un tiempo importante de asistencia a los cursos y dentro de los plazos permitidos, la Vicerrectoría Académica recomienda a los estudiantes entregar, dentro de los días hábiles de la primera semana del segundo periodo académico lectivo de 2021, en las Direcciones de Área Curricular, para su estudio por el Consejo de Facultad, las solicitudes de inscripción de asignaturas que, al sumarse a las ya inscritas, superen veinte (20) créditos.
+Concepto: El Comité Asesor recomienda al Consejo de Facultad APROBAR inscribir más de la carga máxima autorizada, en el periodo académico 2021-2S, teniendo en cuenta que los Consejos de Facultad podrán autorizar cursar un número mayor de créditos en los casos en que lo consideren justificado y pertinente. (Acuerdo 356 de 2021)
+
+9.1.5 Muñoz Díaz Diana Katerine	DNI. 1016079364
+Justificación:  "Quisiera solicitar la autorización para ver más de 20 créditos este semestre, toda vez que planeo culminar la carrera este año, porque cuento con el tiempo  suficiente para dedicarle a las materias que me hacen falta y así llegar a buen  término al finalizar este periodo académico"
+Soportes:		Formato de solicitud 
+Fecha radicación:	Septiembre 24
+Normatividad: 		
+· Acuerdo 356 de 2021 CSU
+Análisis
+· PAPA 3.3
+· Avance: 85.5%
+· Ya tiene inscritos los 15 créditos el 29 de septiembre
+·  
+· Las notas del semestre  pasado fueron las siguientes; periodo donde se le aprobó cursar más de 20 créditos
+· .
+· La circular 3 de 2021 de Vicerrectoría Académica dice:
+o …Para que puedan inscribirse, luego de obtener la aprobación de los Consejos de Facultad, sin perder un tiempo importante de asistencia a los cursos y dentro de los plazos permitidos, la Vicerrectoría Académica recomienda a los estudiantes entregar, dentro de los días hábiles de la primera semana del segundo periodo académico lectivo de 2021, en las Direcciones de Área Curricular, para su estudio por el Consejo de Facultad, las solicitudes de inscripción de asignaturas que, al sumarse a las ya inscritas, superen veinte (20) créditos.
+
+Concepto: El Comité Asesor recomienda al Consejo de Facultad APROBAR inscribir más de la carga máxima autorizada, en el periodo académico 2021-2S, teniendo en cuenta que los Consejos de Facultad podrán autorizar cursar un número mayor de créditos en los casos en que lo consideren justificado y pertinente. (Acuerdo 356 de 2021)
+
+
+9.1.6 Morales Pulido Santiago Alejandro	DNI. 1070989887
+Justificación: 	 " Estoy a punto de terminar mi pregrado y deseo inscribir más de 20 créditos para lograrlo este semestre."
+	La presente solicitud es con el fin de solicitar amablemente al Consejo de Facultad el poder inscribir más de 20 créditos con el fin de culminar satisfactoriamente mi programa de estudios. Actualmente he inscrito 3 materias con códigos (2025966, 2025995, 2021140) que suman en total 9 créditos, deseo inscribir las materias 2026537 (4 créditos), 2026075 (4 créditos) estas en la modalidad de BAPI, así como también estoy gestionando el proceso de inscripción de la práctica estudiantil, la cual estimo que me asignen entre 6 y 9 créditos, obteniendo un total entre 23 y 26 créditos, estos son los faltantes para terminar mi pregrado.
+Soportes:	Formato de solicitud
+https://drive.google.com/open?id=1205kk8dCFTenQqSfdLPy07-6Ei16V8Vu
+Fecha radicación:	Septiembre 29
+Normatividad: 		
+· Acuerdo 356 de 2021 CSU
+Análisis
+· PAPA 3.9
+· Avance: 87.3%
+· Ya tiene inscritos los 9 créditos el 29 de septiembre
+·  
+· Las notas de los dos semestres pasados fueron las siguientes 
+·
+· El estudiante realizó la preinscripción de Trabajo de grado – BAPI correctamente por lo que la  coordinación le inscribirá la asignatura en las próximas 2 semanas. También el estudiante radicó la solicitud de Práctica Estudiantil el 28 de septiembre pero esta será tramitada en el siguiente consejo cuando se tenga el grupo del docente creado.
+· La circular 3 de 2021 de Vicerrectoría Académica dice:
+o …Para que puedan inscribirse, luego de obtener la aprobación de los Consejos de Facultad, sin perder un tiempo importante de asistencia a los cursos y dentro de los plazos permitidos, la Vicerrectoría Académica recomienda a los estudiantes entregar, dentro de los días hábiles de la primera semana del segundo periodo académico lectivo de 2021, en las Direcciones de Área Curricular, para su estudio por el Consejo de Facultad, las solicitudes de inscripción de asignaturas que, al sumarse a las ya inscritas, superen veinte (20) créditos.
+
+Concepto: El Comité Asesor recomienda al Consejo de Facultad APROBAR inscribir más de la carga máxima autorizada, en el periodo académico 2021-2S, teniendo en cuenta que los Consejos de Facultad podrán autorizar cursar un número mayor de créditos en los casos en que lo consideren justificado y pertinente. (Acuerdo 356 de 2021)
+
+9.1.7 Castañeda Oviedo Juan Diego	DNI. 1005339095
+Justificación: 	 " En el periodo académico 2021-2 deseo cursar 7 asignaturas obligatorias de la carrera, esto con el fin de continuar en línea con el plan curricular de Ingeniería de Sistemas y Computación. Las asignaturas que deseo cursar son: Sistemas de Información, Sistemas Operativos, Optimización, Ingeniería de Software 2, Lenguajes de Programación, Introducción a los Sistemas Inteligentes y Métodos Numéricos. Estas corresponden a un total de 21 créditos, por lo que deseo inscribir un crédito por arriba de la carga máxima del actual periodo académico (20 créditos). Actualmente tengo inscrito 6 de las 7 asignaturas, por lo que me interesaría inscribir Métodos Numéricos en la semana de adiciones y cancelaciones. El semestre anterior cursé 6 asignaturas (19 créditos) y aprobé todas de manera exitosa, por lo que ya he tenido experiencia con cursando varias asignaturas.
+Soportes:	Formato de solicitud
+https://drive.google.com/open?id=1S3VkaWpjiOGu4QjEh_WEg1zI6HSP33ZL
+Fecha radicación:	Septiembre 29
+Normatividad: 		
+· Acuerdo 356 de 2021 CSU
+Análisis
+· PAPA 4.6
+· Avance: 56.4%
+· Ya tiene inscritos los 18 créditos el 29 de septiembre
+·  
+· Las notas de los dos semestres pasados fueron las siguientes 
+·
+· El estudiante realizó la preinscripción de Trabajo de grado – BAPI correctamente por lo que la  coordinación le inscribirá la asignatura en las próximas 2 semanas. También el estudiante radicó la solicitud de Práctica Estudiantil el 28 de septiembre pero esta será tramitada en el siguiente consejo cuando se tenga el grupo del docente creado.
+· La circular 3 de 2021 de Vicerrectoría Académica dice:
+o …Para que puedan inscribirse, luego de obtener la aprobación de los Consejos de Facultad, sin perder un tiempo importante de asistencia a los cursos y dentro de los plazos permitidos, la Vicerrectoría Académica recomienda a los estudiantes entregar, dentro de los días hábiles de la primera semana del segundo periodo académico lectivo de 2021, en las Direcciones de Área Curricular, para su estudio por el Consejo de Facultad, las solicitudes de inscripción de asignaturas que, al sumarse a las ya inscritas, superen veinte (20) créditos.
+
+Concepto: El Comité Asesor recomienda al Consejo de Facultad APROBAR inscribir más de la carga máxima autorizada, en el periodo académico 2021-2S, teniendo en cuenta que los Consejos de Facultad podrán autorizar cursar un número mayor de créditos en los casos en que lo consideren justificado y pertinente. (Acuerdo 356 de 2021)
+
+
+AUTORIZACIÓN DE CURSAR MÁS DE 20 CRÉDITOS E INSCRIPCIÓN DE ASIGNATURAS
+9.1.8 Bello López Diana Marcela	DNI. 1012452822
+Justificación: 	 "El motivo de la solicitud es que en estos momentos tengo 18 (dieciocho) créditos inscritos, pero deseo inscribir una asignatura de más ya que por motivos personales (y de salud) he cancelado dos semestres académicos y voy demasiado atrás a comparación del avance que debería llevar para la cantidad de matrículas inscritas. La inscripción de esta materia implicaría inscribir 21 (veintiún) créditos, lo que excede la norma y es el crédito de más que estoy solicitando. 
+Adicionalmente solicito la inscripción por sobrecupo de la materia:  Estructuras de datos con código: 2016699 en el grupo 1 ya que el SIA por la misma resolución vigente y porque excedía el límite de créditos, no me dejó inscribirla."
+Soportes:	Formato de solicitud
+https://drive.google.com/open?id=1Lue-Wme7oJ1a7Vw3RL5L8zzCjy9FO2mO
+Fecha radicación:	Septiembre 28
+Normatividad: 		
+· Acuerdo 356 de 2021 CSU
+Análisis
+· PAPA 3.6 
+· Avance: 31.5%
+· Ya tiene inscritos los 18 créditos el 29 de septiembre
+·  
+· Las notas de los dos semestres  pasados fueron las siguientes 
+·
+
+· La circular 3 de 2021 de Vicerrectoría Académica dice:
+o …Para que puedan inscribirse, luego de obtener la aprobación de los Consejos de Facultad, sin perder un tiempo importante de asistencia a los cursos y dentro de los plazos permitidos, la Vicerrectoría Académica recomienda a los estudiantes entregar, dentro de los días hábiles de la primera semana del segundo periodo académico lectivo de 2021, en las Direcciones de Área Curricular, para su estudio por el Consejo de Facultad, las solicitudes de inscripción de asignaturas que, al sumarse a las ya inscritas, superen veinte (20) créditos.
+
+Concepto: El Comité Asesor recomienda al Consejo de Facultad NO APROBAR:
+1. Inscribir más de la carga máxima autorizada, en el periodo académico 2021-2S, teniendo en cuenta que los Consejos de Facultad podrán autorizar cursar un número mayor de créditos en los casos en que lo consideren justificado y pertinente. (Acuerdo 356 de 2021)
+2. inscribir la(s) siguiente(s) asignatura(s) en el periodo académico 2021-2S, porque es consecuencia del punto anterior de esta misma acta. 
+CódigoNombre AsignaturaGrupoTC2016699Estructuras de datos1C3
+HOMOLOGACIÓN DE IDIOMA
+9.1.9 Guzmán del Rio Karen Lorena	DNI. 1032676709
+Tipo de solicitud:	Homologación de requisito de idioma inglés.
+Justificación:	Me gustaría solicitar la convalidación del idioma inglés, de acuerdo con el puntaje obtenido en la prueba de estado de Saber 11, para ello me permito adjuntar los resultados de esta, gracias.
+Soportes:	Formato de solicitud, Resultados SABER 11 marzo 2021
+https://drive.google.com/open?id=1lI9LcJbheas3wW_p7t5QQfrX0hta1Vkohttps://drive.google.com/open?id=1b336bnbQkboUW4yILvZjM7mnrdut54E6
+Fecha de radicación:	septiembre 28
+	Análisis:	Acuerdo 102 de 2013, , Circular 01 de 2016.
+1. Obtuvo un puntaje de B1 
+Concepto: El Comité Asesor recomienda al Consejo de Facultad APROBAR homologar en el periodo académico 2021-2S, el requisito de idioma inglés por obtener una  calificación de B1 en el examen Saber 11 -2021, siendo B1 el mínimo exigido. 
+
+Guzmán del Rio Karen Lorena	DNI. 1032676709Asignaturas a homologar en el plan de estudios de Ingeniería de Sistemas y Computación (2879) Examen de inglés presentadoNotaCódigoAsignaturaCTNota1000044Inglés I- Semestral3EAPSABER 11 – ICFESB11000045Inglés II- Semestral3EAP1000046Inglés III- Semestral3EAP1000047Inglés IV- Semestral3EAPCréditos homologados E12Total créditos que se homologan12
+HOMOLOGACIÓN/EQUIVALENCIA DE ASIGNATURAS
+9.1.10 Barrera González Miller Estiven  	DNI. 1001092579
+Tipo de solicitud:	Homologación de asignaturas.
+Justificación:	En la presente solicitud deseo justificar las razones por las cuales hago la solicitud de Homologación y/o convalidación de materias. Desde el  17/09/2019 me encontraba estudiando Ingeniería Electrónica en la Universidad Distrital Francisco José donde curse materias como: Calculo Diferencial, Calculo Integral, Algebra Línea, Programación Básica, Programación Orientada a objetos y Física l, materias las cuales deseo homologar y tienen un contenido pragmático e intensidad horaria  muy similar a las materias de la malla curricular de ingeniera de sistemas y computación, además la mayoría de materias comparten la misma cantidad de créditos, dichas materias las curse y aprobé exitosamente como constata en la sabana de notas adjunta a esta solicitud; El conocimiento adquirido en dichas materias fue sumamente enriquecedor en su momento y quisiera homologar dicho conocimiento para seguir construyendo ideas cada vez más complejas, dichas materias fueron cursadas en los periodos de 2019-3, 2020-1, 2020-3.
+Soportes:	Carta de solicitud, certificado de notas y contenidos programáticos 
+https://drive.google.com/open?id=1kw6fsLQfVGed7HEIChUhOUxCR6AaCLmmhttps://drive.google.com/open?id=1ZUULK-wa3tJssRi8ZBeXKXdLieLCPKNc
+Fecha de radicación:	septiembre 28	
+Análisis:	Acuerdo 008 de 2008, Acuerdo 026 de 2014.
+1. Solicitud de homologación de asignaturas del programa Ingeniería Eléctrica  de la institución Universidad Distrital Francisco José de Caldas.
+2. Las asignaturas a homologar cumplen con los prerrequisitos 
+3. No se homologan/convalidan más del 50 % de créditos del plan (Artículo 38, Acuerdo 008 de 2008 – Consejo Superior Universitario.). 
+Concepto: El Comité Asesor recomienda al Consejo de Facultad 
+1. APROBAR convalidar en el periodo académico 2021-2S, la(s) siguiente(s) asignatura(s) cursada(s) en el programa Ingeniería Eléctrica  de la institución Universidad Distrital Francisco José de Caldas., de la siguiente manera (Artículo 35 del Acuerdo 008 de 2008 del Consejo Superior Universitario)
+Barrera González Miller Estiven  	DNI. 1001092579Asignaturas a convalidar en el plan de estudios de Ingeniería de Sistemas y Computación (2879) Asignaturas cursadas en el plan de estudios Ingeniería Eléctrica  de la institución Universidad Distrital Francisco José de Caldas.CódigoAsignaturaCTNotaAsignaturaCNota1000004Cálculo Diferencial4O3.7Cálculo Diferencial43.71000005Cálculo Integral4O3.7Cálculo Integral33.8Física I: Mecánica Newtoniana33.21000003Algebra Lineal4O3.4Algebra Lineal 33.42015734Programación de Computadores3T3.6Programación Básica33.62016375Programación Orientada a Objetos3C3.4Programación Orientada a Objetos33.4Créditos convalidados O8Créditos convalidados C3Créditos convalidados T3Total de créditos convalidados14
+9.1.11 Ramírez López Juan David 	DNI. 1001185516
+Tipo de solicitud:	Homologación de asignaturas.
+Justificación:	"Presento la solicitud, ya que en periodos pasado presenté la solicitud de unas materias que ya tenía cursadas y aprobadas en el tiempo que estuve en la Universidad Distrital Francisco José de Caldas. La restricción que tenía era que no había cursado ni aprobado la materia de Calculo diferencial, en el semestre que recién finalizo aprobé la materia y quisiera volver a presentar la solicitud.
+
+	Muchas Gracias"
+Soportes:	Formato de solicitud, Certificado de notas, y contenidos programáticos
+https://drive.google.com/open?id=1U6Ms4ALCLbdU-lLFXj3ZvaUZy-beUSnhhttps://drive.google.com/open?id=1O-9QTzTWIMLZ3VD4nZD8wW3Udv5R94D1
+https://drive.google.com/file/d/1E5--G0cO-Fj1FRX7Iw_hyk4SU5OwnQs8/view?usp=sharing 
+Fecha de radicación:		septiembre 27
+Análisis:	Acuerdo 008 de 2008, Acuerdo 026 de 2014.
+1. Solicitud de homologación de asignaturas del programa Ingeniería Eléctrica de la Universidad Distrital Francisco José de Caldas 
+2. Las asignaturas a homologar cumplen con los prerrequisitos 
+3. NO se homologan/convalidan más del 50 % de créditos del plan de estudios
+4. Las asignaturas que solicita homologar son de 3 créditos pero las equivalentes de la UN son de 4 créditos por lo que se ajusta la solicitud a una convalidación uniendo los 3 créditos Universidad Distrital Francisco José de Caldas de Cálculo Integral con un crédito de Álgebra Lineal para completar los 4 créditos UN de Cálculo Integral. Pero para Fundamentos de Mecánica no se tiene de dónde hacer un ajuste similar.
+5. En el acta de comité 9 de 2021 el caso se cerró así:
+a. El Comité Asesor recomienda Consejo de Facultad NO APROBAR homologar en el periodo académico 2021-1S, las siguientes asignaturas cursadas en el programa Ingeniería Eléctrica de la Universidad Distrital Francisco José de Caldas por las siguientes razones:
+
+	Ramírez López Juan David 	DNI. 100118551Asignatura que no se homologan en el programa Ingeniería de Sistemas y Computación (2879)Asignatura Universidad Nacional de Colombia – (2879) Asignatura Universidad Distrital Francisco José de Caldas JustificaciónCNotaCálculo Integral Cálculo Integralno cumple el prerrequisito establecido en el plan de estudios: Cálculo Diferencial34.5Álgebra LinealÁlgebra Linealno cumple el prerrequisito establecido en el plan de estudios: Cálculo Diferencial33.6Fundamentos de MecánicaFísica I: Mecánica Newtonianano cumple el prerrequisito establecido en el plan de estudios: Cálculo Diferencial33.9Y el Consejo de Facultad acogió la recomendación del Comité Asesor pero en la discusión del caso en comité se cambió la justificación de no aprobar de no es similar en contenido o intensidad, a las que se ofrecen en la Universidad Nacional de Colombia y no cumple el prerrequisito establecido en el plan de estudios: Cálculo Diferencial  a simplemente no cumple el prerrequisito establecido en el plan de estudios: Cálculo Diferencial,  ahora, que el estudiante ya aprobó Cálculo Diferencial en 2021-1S presenta nuevamente la solicitud de homologación.
+Concepto: El Comité Asesor recomienda al Consejo de Facultad 
+1. APROBAR convalidar en el periodo académico 2021-2S, la(s) siguiente(s) asignatura(s) cursada(s) en el programa Ingeniería Eléctrica de la Universidad Distrital Francisco José de Caldas, de la siguiente manera (Artículo 35 del Acuerdo 008 de 2008 del Consejo Superior Universitario)
+Ramírez López Juan David 	DNI. 1001185516Asignaturas a convalidar en el plan de estudios de Ingeniería de Sistemas y Computación (2879) Asignaturas cursadas en el plan de estudios Ingeniería Eléctrica Universidad Distrital Francisco José de Caldas CódigoAsignaturaCTNotaAsignaturaCNota1000005Cálculo Integral4O4.4Cálculo Integral34.5Física I: Mecánica Newtoniana33.91000003Álgebra Lineal4O3.7Álgebra Lineal33.6Créditos convalidados O4
+9.1.12 Ávila Guzmán José Luis	DNI. 1000286927
+Tipo de solicitud:	Homologación de asignaturas.
+Justificación:	El año pasado cursé y aprobé 3 cursos de alemán en el programa de extensión de la Universidad Nacional de Colombia, cada uno de ellos con una duración de 60 horas, para un total de 180 horas de clase, por lo cual atentamente solicito que se analice la posibilidad de realizar la homologación de estos cursos con la asignatura de libre elección Alemán 1, de 3 créditos académicos, con código en el SIA 2022615. De ser factible esta homologación, solicito que por favor se adelante el correspondiente proceso.
+Soportes:	Carta de solicitud, certificado de Alemán para Adultos del programa de extensión y Educación Continua de la Facultad de Ciencias Humanas 
+https://drive.google.com/open?id=15VE4l0P3XfUa8SEAww6nXx1PT665MB5phttps://drive.google.com/open?id=1OXUvDqSKHBWCnacF8qI7CUzw2cz1GYGx
+Fecha de radicación:	septiembre 29
+Análisis:	Acuerdo 008 de 2008, Acuerdo 026 de 2014
+1. Solicitud de homologación de Alemán para Adultos del programa de extensión y Educación Continua de la Facultad de Ciencias Humanas 
+2. Las actividades que solicita homologar no fueron cursadas en estudios condicientes a un título profesional de pregrado. 
+Concepto: El Comité Asesor recomienda al Consejo de Facultad NO APROBAR homologar en el periodo académico 2021-2S, la(s) siguiente(s) asignatura(s) cursada(s) en el programa de extensión y Educación Continua de la Facultad de Ciencias Humanas, de la siguiente manera; teniendo en cuenta la circular aclaratoria de la vicerrectoría Académica la cual dispone que la aprobación de homologaciones solo se podrá realizar cuando las asignaturas bajo estudio, provengan de programas conducentes a la obtención de un título profesional universitario (Circular 005 de 2015 de la Vicerrectoría Académica) 
+
+	Ávila Guzmán José Luis	DNI. 1000286927Asignatura que no se homologan en el programa Ingeniería de Sistemas y Computación (2879)  Asignatura Universidad Nacional de Colombia – Ingeniería de Sistemas y Computación (2879)  Cursos del programa de extensión y Educación Continua de la Facultad de Ciencias Humanas)JustificaciónHorasAlemán 1Alemán 1teniendo en cuenta la circular aclaratoria de la vicerrectoría Académica la cual dispone que la aprobación de homologaciones solo se podrá realizar cuando las asignaturas bajo estudio, provengan de programas conducentes a la obtención de un título profesional universitario (Circular 005 de 2014 de la Vicerrectoría Académica)60Alemán 260Alemán 360
+9.1.13 Guzmán del Rio Karen Lorena	DNI. 1032676709
+Tipo de solicitud:	Homologación de asignaturas.
+Justificación:	Para el periodo de 2021-1s curse y aprobé la materia de introducción a la física para ingenierías mediante el curso de extensión de Reto a la U, dicho esto me gustaría realizar la homologación de este curso en la materia de fundamentos de mecánica, correspondiente a mi programa curricular, me permito adjuntar la certificación expedida por la universidad, gracias.
+Soportes:	Formato de solicitud, certificado del curso de extensión Fac. Ciencias 
+https://drive.google.com/file/d/1fXIcNThMcliR4viCn96jSEj1hdHtt5u0/view?usp=sharing https://drive.google.com/file/d/1nOzcemivDBOCGiH8J1SGd23jDszcMtbv/view?usp=sharing
+Fecha de radicación:	septiembre 27	
+Análisis:	Acuerdo 008 de 2008, Acuerdo 026 de 2014.
+1. Admitida 2021-2S
+2. Solicitud de homologación de asignatura del programa de extensión de reto a la U de la Facultad de Ciencias.
+3. Las asignaturas a homologar cumplen con los prerrequisitos 
+4. No se homologan/convalidan más del 50 % de créditos del plan (Artículo 38, Acuerdo 008 de 2008 – Consejo Superior Universitario.). 
+5. la circular aclaratoria de la vicerrectoría Académica cual dispone que la aprobación de homologaciones solo se podrá realizar cuando las asignaturas bajo estudio, provengan de programas conducentes a la obtención de un título profesional universitario (Circular 005 de 2014 de la Vicerrectoría Académica).
+6. En la página de reto a la U se informa que 
+a. “El programa Reto a la U tiene como objetivo brindar a través de procesos de cualificación, herramientas para la promoción de la vinculación efectiva al mundo laboral, así como hacer procesos de articulación que permitan el tránsito efectivo a la educación superior, puesto que la oferta es homologable en este nivel de formación. Así, las asignaturas cursadas por la población beneficiada serán reconocidas cuando ellos puedan continuar su proceso académico en educación superior.”
+b. “Los estudiantes en calidad de beneficiarios del programa RetoALaU que a futuro se presenten al proceso de admisión para programas de pregrado en la Universidad Nacional de Colombia y sean aceptados, tendrán la posibilidad de homologar las asignaturas aprobadas en este proceso de acuerdo a la normatividad en cada Facultad.
+
+	¿Cómo certificarse?
+
+	Asistencia a por lo menos el 80% de las sesiones programadas.
+	Calificación final Mínima de 3,0 en escala de 1 a 5.”
+7. El certificado presentado por la estudiante informa que aprobó el curso que tuvo una intensidad de 96 horas pero no informa la nota, ni se anexa los contenidos programáticos.
+8. Se le solicito a la Secretaría Académica de la Facultad de Ciencias el certificado de notas y los contenidos programáticos el 30 de septiembre y se está a la espera de la respuesta
+Concepto: El Comité APLAZAR la solicitud de homologar en el periodo académico 2021-2S, la(s) siguiente(s) asignatura(s) cursada(s) en el programa de extensión de reto a la U de la Facultad de Ciencias, de la siguiente manera (Artículo 35 del Acuerdo 008 de 2008 del Consejo Superior Universitario)
+Karen Lorena Guzmán del Rio	DNI. 1032676709Asignaturas a convalidar en el plan de estudios de Ingeniería de Sistemas y Computación (2879) Asignaturas cursadas en programa de extensión de reto a la U de la Facultad de Ciencias.CódigoAsignaturaCTNotaAsignaturaHorasNota100019Fundamentos de Mecánica4Bintroducción a la física para ingenierías96xx
+PERMISO ACADÉMICO
+
+9.1.1 Mora Uribe Cristhian David	DNI. 1233494036
+Tipo de solicitud:	Permiso académico y de representación.
+Justificación:	" "Señores
+	CONSEJO DE FACULTAD 
+	Facultad de Ingeniería 
+	Universidad Nacional de Colombia – Sede Bogotá
+
+	Referencia: Solicitud de permiso académico y representación de la universidad  
+
+	Por medio de la presente y cómo ya se ha tramitado en varias ocasiones, el grupo de trabajo Sociedad de Debate UN (Clínica Experimental de Oralidad), adscrito a la Facultad de Derecho, Ciencias Políticas y Sociales, solicita ante ustedes comedidamente permiso académico y representación por parte de la Universidad Nacional, al “Torneo De la Paz” el cual se llevará acabo de manera presencial del viernes 12 hasta el lunes 15 de noviembre en la ciudad de Medellín y al “Torneo De Regreso” el cual se llevará acabo de manera presencial del sábado 16 hasta el lunes 18 de octubre en la Universidad de los Andes.
+
+	Nuestra participación en el presente evento académico corresponde a los objetivos planteados por el grupo de trabajo para este semestre en su Proyecto para el año 2021, que fue radicado de conformidad con las fechas establecidas por la Dirección de Bienestar de la Facultad. A este evento hemos sido invitados cordialmente por los organizadores del evento, debido a nuestra participación destacada en etapas preliminares y por participaciones destacadas que el grupo ha tenido en distintos eventos de debate dentro y fuera del país. 
+
+	Los integrantes que participarán en dicho torneo son los siguientes: 
+
+	Nombre	Documento	Programa
+	Cristhian David Mora Uribe 	CC. 1233494036	Ingeniería de sistemas y computación 
+	Agradezco su atención, atentamente:
+
+
+
+
+	Cristhian David Mora Uribe 
+	C.C. 1233494036
+	cdmorau@unal.edu.co
+	sdebateun@gmail.com	"				
+Soportes:	Formato de solicitud
+https://drive.google.com/open?id=1ZqSr-Up94T3K9jIz4aZmJjdzHHKuTgxRhttps://drive.google.com/open?id=1KR6KAXpCb6zeGiaN9hTnSMhuLeOoGOq9https://drive.google.com/open?id=1m2b-FRpRFwg0cjJgv0euHS7sXBXl2KEWhttps://drive.google.com/open?id=1ys_ye1226cCwSn1yYuKANg0Y2A4xVJ27
+Fecha de radicación:	septiembre 27
+Análisis:	Acuerdo 008 de 2008
+1. SIA: Porcentaje de avance en el plan: 45.52. Número de matrículas: 4, la actual. PAPA:4.0.
+2. Por los resultados de un torneo de debate del semestre 2020-2S al  estudiante se le otorgó exención del pago del 100 % del  valor de derechos académicos para el periodo académico 2021-1S mediante acta 3 de 2021.
+3. Por los resultados de un torneo de debate del semestre pasado al  estudiante se le otorgó exención del pago del 100 % del valor de derechos académicos para el periodo académico 2021-2S 
+Concepto: El Comité Asesor recomienda al Consejo de Facultad APROBAR 
+1. permiso académico y de representación de la Universidad Nacional de Colombia para asistir al “Torneo de regreso” del 16 al 18 de octubre el cual se ejecutará de manera presencial en la Universidad de los Andes.
+2. permiso académico y de representación de la Universidad Nacional de Colombia para asistir al “Torneo de la Paz” del 12 al 15 de noviembre el cual se ejecutará de manera presencial en Medellín.
+
+
+
+
+Ing. Jenny Marcela Sánchez
+Directora de Área Curricular
+proyecto
+cultural,
+científico
+y colectivo
+de nación
+Av. Carrera 30 # 45-03 - Ciudad Universitaria
+Edificio 453, Oficina 209
+(+57 1) 3165357 - (+57 1) 3165000 EXT: 14068
+Bogotá, D. C., Colombia
+acisi_fibog@unal.edu.co
+
+
+[ Página 2 de 2 ] 
+Elaboró: LS/IV/JMS
+
+
+

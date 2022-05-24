@@ -1,0 +1,138 @@
+﻿Área Curricular de Ingeniería de Sistemas e Industrial | Facultad de Ingeniería | Sede Bogotá
+
+COMITÉ ASESOR DE CARRERA  
+INGENIERÍA DE SISTEMAS Y COMPUTACIÓN 
+ACTA No. 18 de septiembre 21 de 2021
+
+ASISTENTES
+Ing. Jenny Marcela Sánchez Torres		Directora de Área Curricular
+Angela María Cárdenas Orjuela 		Representante estudiantil (Suplente)
+Ing. Luis Fernando Caicedo	Representante de los Egresados. 
+Ing. Leonardo Salgado				Asesor curricular
+Ing. Jorge Eduardo Ortiz Triviño		Representante de los profesores
+Ing. Luis Fernando Niño			Representante de los profesores
+Gabriela María García				Representante estudiantil
+Ing. Luis Fernando Caicedo	Representante de los Egresados. 
+Ing. Germán Hernández	Coordinador del programa
+Angela María Cárdenas Orjuela 		Representante estudiantil (Suplente)
+
+INVITADOS
+Profesores:	
+		Gabriel José Mañana Guichón	
+		Juan Carlos Mendivelso Moreno
+		Juan Carlos Torres Pardo
+		Sandra Liliana Rojas Martínez
+		Francisco Albeiro Gómez Jaramillo
+
+Lugar: Virtual.
+Fecha: martes 21 de septiembre de agosto de 2021
+Hora: 2:00 pm.
+
+ORDEN DEL DÍA
+1. Asuntos Varios
+2. Asuntos estudiantiles
+
+DESARROLLO DEL ORDEN DEL DÍA
+
+ASUNTOS VARIOS
+
+· Propuesta de Modificaciones curriculares – Germán Hernández 
+	https://docs.google.com/presentation/d/1gPSrdkuReQWBDbTV9ehEwiN4WCXub-no/edit?usp=sharing&ouid=114639406296458167586&rtpof=true&sd=true
+
+o El Comité Asesor aprueba cambiar e incluir la asignatura Pensamiento Sistémico a primer semestre.
+o El Comité Asesor aprueba modificar el prerequisito de Ingeniería Económica, quitando Cálculo en varias Variables para homogenizar con las otras ingenierías.
+o El Comité Asesor aprueba  eliminar requisito Modelos y Simulación de Sistemas de Información 
+o El Comité Asesor aprueba remplazar Programación Orientada a Objetos por Bases de Datos como prerequisito de Sistemas de Información
+· Aval de asignaturas del programa de Ingeniería de Sistemas y Computación al programa de Ciencias de la Computación, dadas una próximas modificaciones curriculares de dicho plan de la Facultad de Ciencias -  Juan Carlos Mendivelso Moreno.
+o El Comité Asesor Aprueba emitir AVAL de incluir las siguientes asignaturas en el plan de estudios de Ciencias de la Computación de la Facultad de Ciencias.
+
+Código			Nombre
+2016353		Bases de datos
+2016722 		Computación paralela y distribuida
+2025960		Computación visual
+2016701		Ingeniería de software I
+2025967		Redes de computadores
+2025966		Lenguajes de programación
+2028641		Quantum computer programming
+2025995		Introducción a los sistemas inteligentes
+2023251		Inteligencia Artificial y Mini-Robots
+
+ASUNTOS ESTUDIANTILES
+
+9.1.1 León Rojas Luis Esteban	DNI. 1001192252
+Tipo de solicitud:	Equivalencia de asignaturas del traslado
+Análisis:	Acuerdo 008 de 2008, Acuerdo 026 de 2014.
+Concepto: El Comité Asesor recomienda al Consejo de Facultad APROBAR equivaler en el periodo académico 2021-1S, la(s) siguiente(s) asignatura(s) cursada(s) en el programa Física  de la siguiente manera (Artículo 35 del Acuerdo 008 de 2008 del Consejo Superior Universitario)
+León Rojas Luis Esteban	DNI. 1001192252Asignaturas a equivaler en el plan de estudios de Ingeniería de Sistemas y Computación (2879)  Asignaturas cursadas en el plan de estudios Física   CódigoAsignaturaCTNotaAsignaturaNotaPeriodo1000013Probabilidad y Estadística Fundamental3O3.9Probabilidad y Estadística Fundamental3.92021-1SCréditos equivalidos O3
+
+9.1.2 Poveda Bermúdez Ricardo Ernesto	DNI. 1032495594
+Tipo de solicitud:	Equivalencia de asignaturas del traslado
+Análisis:	Acuerdo 008 de 2008, Acuerdo 026 de 2014.
+Concepto: El Comité Asesor recomienda al Consejo de Facultad APROBAR equivaler en el periodo académico 2021-1S, la(s) siguiente(s) asignatura(s) cursada(s) en el programa Economía  de la siguiente manera (Artículo 35 del Acuerdo 008 de 2008 del Consejo Superior Universitario)
+Poveda Bermúdez Ricardo Ernesto	DNI. 1032495594Asignaturas a equivaler en el plan de estudios de Ingeniería de Sistemas y Computación (2879)  Asignaturas cursadas en el plan de estudios Economía   CódigoAsignaturaCTNotaAsignaturaNotaPeriodo2016015Metodología de la Investigación2L3.8Metodología de la Investigación3.82021-1S1000013Probabilidad y Estadística Fundamental3O3.9Probabilidad y Estadística Fundamental3.92021-1S2016008Fundamentos de contabilidad financiera4L3.6Fundamentos de contabilidad financiera3.62021-1S2016021Modelación estática4L3.0Modelación estática3.02021-1SCréditos equivalidos L10Créditos equivalidos O3Total Créditos equivalidos 13
+
+9.1.3 Vásquez Pinzón Juan David	DNI. 1002459526
+Tipo de solicitud:	Equivalencia de asignaturas del traslado
+Análisis:	Acuerdo 008 de 2008, Acuerdo 026 de 2014.
+Concepto: El Comité Asesor recomienda al Consejo de Facultad APROBAR equivaler en el periodo académico 2021-1S, la(s) siguiente(s) asignatura(s) cursada(s) en el programa Física  de la siguiente manera (Artículo 35 del Acuerdo 008 de 2008 del Consejo Superior Universitario)
+Vásquez Pinzón Juan David	DNI. 1002459526Asignaturas a equivaler en el plan de estudios de Ingeniería de Sistemas y Computación (2879)  Asignaturas cursadas en el plan de estudios Física   CódigoAsignaturaCTNotaAsignaturaNotaPeriodo2016678Mediciones Mecánicas3L4.2Mediciones Mecánicas4.22021-1S2015556Cálculo integral en una variable 4O3.8Cálculo integral en una variable 3.82021-1SCréditos equivalidos O4Créditos equivalidos L3Total Créditos equivalidos 7
+9.1.4 Velásquez Bejarano Laura Alejandra	DNI. 1233488089
+Tipo de solicitud:	Equivalencia de asignaturas de estudios previos de Ing. Mecánica
+Análisis:	Acuerdo 008 de 2008, Acuerdo 026 de 2014.
+Concepto: El Comité Asesor recomienda al Consejo de Facultad APROBAR equivaler en el periodo académico 2021-1S, la(s) siguiente(s) asignatura(s) cursada(s) en el programa Ingeniería Mecánica de la siguiente manera (Artículo 35 del Acuerdo 008 de 2008 del Consejo Superior Universitario)
+Velásquez Bejarano Laura Alejandra	DNI. 1233488089Asignaturas a equivaler en el plan de estudios de Ingeniería de Sistemas y Computación (2879)  Asignaturas cursadas en el plan de estudios Ingeniería MecánicaCódigoAsignaturaCTNotaAsignaturaNota1000003Algebra Lineal4O3.8Algebra Lineal3.81000013Probabilidad y Estadística Fundamental 3O4.6Probabilidad y Estadística Fundamental 4.62015970Métodos numéricos3O4.1Métodos numéricos4.1Créditos equivalidos B
+9.1.5 Velosa Romero Paula Daniela	DNI. 1193125020
+Tipo de solicitud:	Equivalencia de asignaturas del traslado 
+Análisis:	Acuerdo 008 de 2008, Acuerdo 026 de 2014.
+Concepto: El Comité Asesor recomienda al Consejo de Facultad APROBAR equivaler en el periodo académico 2021-1S, la(s) siguiente(s) asignatura(s) cursada(s) en el programa Ingeniería Química 2549   de la siguiente manera (Artículo 35 del Acuerdo 008 de 2008 del Consejo Superior Universitario)
+Velosa Romero Paula Daniela	DNI. 1193125020Asignaturas a equivaler en el plan de estudios de Ingeniería de Sistemas y Computación (2879)  Asignaturas cursadas en el plan de estudios Ingeniería QuímicaCódigoAsignaturaCTNotaAsignaturaNotaPeriodo2027096Français intensif II - internationalisation4L4.6Français intensif II - internationalisation4.62021-1S2015270Fundamentos de economía3L5.0Fundamentos de economía5.02021-1SCréditos equivalidos B7
+
+9.1.6 Soracipa French Jean Sebastián	DNI. 1013686970
+Tipo de solicitud:	Equivalencia de asignaturas del traslado.
+Análisis:	Acuerdo 008 de 2008, Acuerdo 026 de 2014.
+Concepto: El Comité Asesor recomienda al Consejo de Facultad APROBAR equivaler en el periodo académico 2021-1S, la(s) siguiente(s) asignatura(s) cursada(s) en el programa Ingeniería Agrícola 25419   de la siguiente manera (Artículo 35 del Acuerdo 008 de 2008 del Consejo Superior Universitario)
+Soracipa French Jean Sebastián	DNI. 1013686970Asignaturas a equivaler en el plan de estudios de Ingeniería de Sistemas y Computación (2879)  Asignaturas cursadas en el plan de estudios Ingeniería AgrícolaCódigoAsignaturaCTNotaAsignaturaNotaPeriodo2016699Estructuras de Datos3C4.5Estructuras de Datos4.52021-1S2015703Ingeniería Económica3O4.2Ingeniería Económica4.22021-1S1000019Fundamentos de Mecánica4B3.7Fundamentos de Mecánica3.72021-1SCréditos equivalidos B3Créditos equivalidos C3Créditos equivalidos B4Total Créditos equivalidos 10
+
+9.1.7 Lavacude Galvis Cristian David	DNI. 1022442445
+Tipo de solicitud:	Equivalencia de asignaturas por actualización de Historia Académica de Dobletitulación
+Análisis:	Acuerdo 008 de 2008, Acuerdo 026 de 2014.
+Concepto: El Comité Asesor recomienda al Consejo de Facultad APROBAR 
+1. Equivaler en el periodo académico 2021-1S, la(s) siguiente(s) asignatura(s) cursada(s) en el programa Ingeniería Eléctrica   de la siguiente manera (Artículo 35 del Acuerdo 008 de 2008 del Consejo Superior Universitario)
+León Rojas Luis Esteban	DNI. 1001192252Asignaturas a equivaler en el plan de estudios de Ingeniería de Sistemas y Computación (2879)  Asignaturas cursadas en el plan de estudios Física   CódigoAsignaturaCTNotaAsignaturaNotaPeriodo2016698Elementos de Computadores3T5.0Elementos de Computadores5.02021-1SCréditos equivalidos C3
+2. otorgar cupo extraordinario de 8 créditos adicionales para culminar su plan de estudios, teniendo en cuenta que es lo requerido para cursar las asignaturas pendientes del segundo plan dada la doble titulación aprobada, ya que culminó su primer plan con PAPA igual o superior a 4,3. (literal b, parágrafo 2, artículo 6, Acuerdo 155 de 2014 – Consejo Superior Universitario.
+
+CANCELACIÓN DE PERIODO ACADÉMICO
+9.1.8 Vargas Pastor Daniel Santiago	DNI. 1073253226
+Tipo de solicitud:	Cancelación de periodo académico.
+Justificación:	Debido a la crisis social, económica  y de salud producto de la pandemia COVID-19, esto acogiéndome al artículo 12 del acuerdo 340 de 2020 del Consejo Superior Universitario. También debido a afectaciones en mi salud mental y emocional. 
+Soportes:	Carta de solicitud
+Fecha de radicación:	septiembre 4 de 2021
+Análisis:	Acuerdo 008 de 2008
+1. El comité lo considera fuerza mayor o caso fortuito documentado.
+2. SIA: Porcentaje de avance en el plan: 22.4 %. Número de matrículas: 5 PAPA: 3.6
+3. Por la fecha de radicación no procede alguna devolución del valor pagado por matrícula
+4. Al momento del comité, 21 de septiembre, no le aparecen asignaturas en 2021-1S, dado que si las reprobó se le eliminaron por las normas de Pandemia
+Concepto: El Comité Asesor recomienda al Consejo de Facultad APROBAR Cancelar el periodo académico 2021-1S, porque justifica documentalmente la fuerza mayor o caso fortuito. (Artículo 18 del Acuerdo 008 del Consejo Superior Universitario)
+
+
+
+
+Ing. Jenny Marcela Sánchez
+Directora de Área Curricular
+proyecto
+cultural,
+científico
+y colectivo
+de nación
+Av. Carrera 30 # 45-03 - Ciudad Universitaria
+Edificio 453, Oficina 209
+(+57 1) 3165357 - (+57 1) 3165000 EXT: 14068
+Bogotá, D. C., Colombia
+acisi_fibog@unal.edu.co
+
+
+[ Página 2 de 2 ] 
+Elaboró: LS/IV/JMS
+
+
+

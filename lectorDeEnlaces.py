@@ -86,7 +86,7 @@ def main():
     #especificar numero de acta inicial y final
     #leerActasIndustrial(8,26)
     #especificar numero de acta inicial y final
-    leerActasSistemas(8,17)
+    leerActasSistemas(8,25)
 
 main()
     

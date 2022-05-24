@@ -1,0 +1,738 @@
+﻿Área Curricular de Ingeniería de Sistemas e Industrial | Facultad de Ingeniería | Sede Bogotá
+
+COMITÉ ASESOR DE CARRERA  
+INGENIERÍA DE SISTEMAS Y COMPUTACIÓN 
+ACTA No. 21 de octubre 19 de 2021
+
+ASISTENTES
+Ing. Jenny Marcela Sánchez Torres		Directora de Área Curricular
+Angela María Cárdenas Orjuela 		Representante estudiantil (Suplente)
+Ing. Leonardo Salgado				Asesor curricular
+Ing. Jorge Eduardo Ortiz Triviño		Representante de los profesores
+Ing. Luis Fernando Niño			Representante de los profesores
+Gabriela María García				Representante estudiantil
+Ing. Luis Fernando Caicedo	Representante de los Egresados. 
+Ing. Germán Hernández	Coordinador del programa
+
+Lugar: Virtual.
+Fecha: martes 19 de octubre de 2021
+Hora: 11:00 am.
+
+ORDEN DEL DÍA
+1. Asuntos Varios
+2. Asuntos estudiantiles
+
+DESARROLLO DEL ORDEN DEL DÍA
+
+ASUNTOS VARIOS
+
+· Dada la Circular Número 009 de 2021 de la Vicerrectoría de Sede se abre la discusión sobre la manera de realizar las sesiones de los próximos comités. Continuar en la con las sesiones virtuales o hacer sesiones presenciales.
+
+ASUNTOS ESTUDIANTILES
+
+SOLICITUDES DE GRADO- CEREMONIA DICIEMBRE 2021
+Se recibieron las solicitudes de grados por SIA pero no se logra imprimir el reporte en PDF después de haber revisado que todas las Historia Académica están al 100% de avance. Se está pidiendo ayuda a DNINFOA para conseguir el listado y dejarlo en esta acta de comité para que pase a Consejo.
+
+ACLARACIÓN: 
+
+9.1.1 Vásquez Pinzón Juan David	DNI. 1002459526
+Tipo de solicitud:	Aclaración.
+Justificación:	“Cordial saludo.
+	Comedidamente solicito su ayuda en la convalidación de una materia de Física que se ve en Ingeniería de Sistemas (Fundamentos de mecánica (1000019-B)). Yo vengo de la carrera Física y pongo a su consideración que estas cuatro materias pueden equivaler a esta primera materia de física en ingeniería.
+	-Fundamentos de Física Teórica (2016651)
+	-Fundamentos de Física Experimental (2016650)
+	-Mecánica newtoniana (2015176)
+	-Mediciones Mecánicas (2016678)"
+Soportes:	Formato de solicitud,  https://drive.google.com/open?id=1a0oUGqxQOrEBLUqcZsbjGDUyIy3E5P9F
+Fecha de radicación:	octubre 3 
+Análisis:
+1. Cambio de recomendación de equivaler Fundamentos de Física Experimental (2016650) y 	-Mecánica newtoniana (2015176) como Libre elección a Fundamentación: Fundamentos de Mecánica 1000019
+2. Se reviso el plan de estudios de Física y la asignatura Mecánica Newtoniana es similar en contenido e intensidad a Fundamentos de Mecánica, también es cursada en segundo semestre y tiene como prerrequisito Cálculo diferencial en una variable, al igual que pasa en Ingeniería de Sistemas y Computación (2879), se propone unir con  Fundamentos de Física Experimental (2016650) ya que la primera solo tiene una intensidad de 3 horas semanales y carece de la parte experimental o talleres que si incluye Fundamentos de Mecánica.
+Concepto: El Comité Asesor recomienda al Consejo de Facultad:
+1. ACLARAR decisión del Acta 12 de mayo 13 de 2021 del Consejo de Facultad caso 9.7.17, en consecuencia APRUEBA equivaler en el periodo académico 2020-2S, la(s) siguiente(s) asignatura(s) cursada(s) en el programa Física  de la siguiente manera (Artículo 35 del Acuerdo 008 de 2008 del Consejo Superior Universitario)
+Vásquez Pinzón Juan David	DNI. 1002459526Asignaturas a equivaler en el plan de estudios de Ingeniería de Sistemas y Computación (2879)  Asignaturas cursadas en el plan de estudios Física   CódigoAsignaturaCTNotaAsignaturaNota1000019Fundamentos de MecánicaB44.4Fundamentos de Física Experimental4.5Mecánica newtoniana4.4Total Créditos equivalidos B4
+2. APROBAR anulación de las asignaturas 2016650 Fundamentos de Física Experimental, del periodo 2020-1S y 2015176 Mecánica newtoniana, del periodo 2020-2S, en coherencia con la equivalencia aprobada el punto anterior de esta acta y el proceso de ubicación en el segundo plan de estudios al provenir de traslado aprobado en acta 12 de 2021.
+
+9.1.2 León Rojas Luis Esteban	DNI. 1001192252
+Tipo de solicitud:	Aclaración.
+Justificación:	“Soy estudiante de traslado, ya hice la homologación de materias, sin embargo, este semestre estoy cursando la asignatura "Fundamentos de mecánica" (1000019-B) y me doy cuenta que es muy similar a una asignatura que homologué como libre elección. La asignatura en cuestión es "Mecánica Newtoniana" (2015176). Quiero hacer un cambio en la homologación y, de esta forma, "Mecánica Newtoniana" ya no la homologaría como electiva, en cambio la homologaría como "Fundamentos de mecánica"
+	Las temáticas de "fundamentos de mecánica" son las mismas (incluso de menor rigurosidad) que las de "Mecánica newtoniana" y "Fundamentos de física experimental", materias que cursé y aprobé cuando era estudiante de física, por lo que domino todos los contenidos de la materia y no veo necesidad de cursarla.
+Soportes:	Formato de solicitud,  https://drive.google.com/open?id=1um7hrKBgAFgoRZ02xX_rAIM-GHnmy7OA 
+Fecha de radicación:	octubre 1 
+Análisis:
+1. Cambio de recomendación de equivaler Fundamentos de Física Experimental (2016650) y 	-Mecánica newtoniana (2015176) como Libre elección a Fundamentación: Fundamentos de Mecánica 1000019
+2. Se reviso el plan de estudios de Física y la asignatura Mecánica Newtoniana es similar en contenido a Fundamentos de Mecánica, también es cursada en segundo semestre y tiene como prerrequisito Cálculo diferencial en una variable, al igual que pasa en Ingeniería de Sistemas y Computación (2879), se propone unir con  Fundamentos de Física Experimental (2016650) ya que la primera solo tiene una intensidad de 3 horas semanales y carece de la parte experimental o talleres que si incluye Fundamentos de Mecánica.
+Concepto: El Comité Asesor recomienda al Consejo de Facultad:
+1. ACLARAR decisión del Acta 12 de mayo 13 de 2021 del Consejo de Facultad caso 9.7.15, en consecuencia APRUEBA equivaler en el periodo académico 2020-2S, la(s) siguiente(s) asignatura(s) cursada(s) en el programa Física  de la siguiente manera (Artículo 35 del Acuerdo 008 de 2008 del Consejo Superior Universitario)
+León Rojas Luis Esteban	DNI. 1001192252Asignaturas a equivaler en el plan de estudios de Ingeniería de Sistemas y Computación (2879)  Asignaturas cursadas en el plan de estudios Física   CódigoAsignaturaCTNotaAsignaturaNota1000019Fundamentos de MecánicaB44.4Fundamentos de Física Experimental4.3Mecánica newtoniana4.4Total Créditos equivalidos B4
+2. APROBAR anulación de las asignaturas 2016650 Fundamentos de Física Experimental, del periodo 2020-1S y 2015176 Mecánica newtoniana, del periodo 2020-2S, en coherencia con la equivalencia aprobada el punto anterior de esta acta y el proceso de ubicación en el segundo plan de estudios al provenir de traslado aprobado en acta 12 de 2021.
+
+INSCRIPCIÓN DE ASIGNATURAS
+9.1.3 Parrado García Miguel Ángel	DNI. 1000049337
+Tipo de solicitud:	Inscripción de asignaturas.
+Justificación:	“Solicitud para cursar, registrar e inscribir la asignatura de programación orientada a objetos que no se pudo inscribir debido a una nota extemporánea que se está efectuando de su prerrequisito programación de computadores”.
+Soportes:	Formato de solicitud, https://drive.google.com/open?id=1A7cWbFdGADH-x7UNIHjkT_Xbw6t1UY3e
+Fecha de radicación:	octubre 1
+	Análisis:	Acuerdo 026 de 2014.
+1. Ok prerrequisito
+2. Por correo del 16 de octubre informa que desea inscribirse en el grupo 2
+3. El grupo de la asignatura no tiene cupos disponibles:
+a.
+4. El tiempo para la atención de solicitudes por Uncupo ya venció por lo que daría trámite la inscripción por Consejo de Facultad.
+Concepto: El Comité Asesor recomienda al Consejo de Facultad APROBAR inscribir la(s) siguiente(s) asignatura(s) en el periodo académico 2021-2S, porque es consecuencia del proceso de actualización de la historia académica por actualización de su Historia Académica. 
+CódigoNombre AsignaturaGrupoTC2016375Programación Orientada a Objetos2C3
+9.1.4 González Jacobo	DNI. 1001283118
+Tipo de solicitud:	Inscripción de asignaturas.
+Justificación:	“De manera comedida, solicito que se me autorice la inscripción del curso de Bases de Datos (2016353) en el grupo 4. Por error registre en mi cita de inscripción el grupo incorrecto, en cuyo horario me es imposible asistir. Al tener inscrito el curso no me fue posible solicitar el sobre cupo mediante el aplicativo. En la siguiente cita, pude cancelar la materia inscrita en el grupo incorrecto, sin embargo, no había disponibilidad de cupos en el grupo 4. Desde el primer día de clase he estado asistiendo al curso con el aval del profesor Iván Mauricio Rueda. En este momento voy nivelado, no he perdido ninguna materia, mi P.A.P.A. es de 4,3 y para mí es de gran importancia no retrasarme en el avance de mi carrera. Actualmente tengo inscritos 15 créditos, con el curso de Base de Datos tendría 18, lo cual completaría mi carga”.
+Soportes:	Formato de solicitud, https://drive.google.com/open?id=1A7cWbFdGADH-x7UNIHjkT_Xbw6t1UY3e
+Fecha de radicación:	octubre 13
+	Análisis:	Acuerdo 026 de 2014.
+1. El grupo solicitado no presenta cupos disponibles
+2.
+Concepto: El Comité Asesor recomienda al Consejo de Facultad NO APROBAR inscribir la(s) siguiente(s) asignatura(s) en el periodo académico 2021-2S, porque la asignatura solicitada no presenta cupos disponibles y porque no es consecuencia del proceso de actualización de la historia académica por actualización de su Historia Académica. 
+
+CódigoNombre AsignaturaGrupoTC2016353Bases de Datos4C3HOMOLOGACIÓN/EQUIVALENCIA DE ASIGNATURAS
+9.1.5 Acevedo Salinas  Juan Steban	DNI. 1000127590
+Tipo de solicitud:	Homologación de asignaturas.
+Justificación:	“Al ser estudiante admitido proveniente de otra universidad, quisiera realizar la homologación de lo que me sea posible y factible.”
+Soportes:	Carta de solicitud, certificado de notas y contenidos programáticos 
+https://drive.google.com/open?id=1H-i8bRtiVMyEgoBIgf3xtjyYbBxlcyNPhttps://drive.google.com/open?id=1eZRQjJyGXZSVcPyWO1ez00NClMxGjb5p
+Fecha de radicación:	octubre 3
+Análisis:	Acuerdo 008 de 2008, Acuerdo 026 de 2014.
+1. Solicitud de homologación de asignaturas del programa Ingeniería de sistemas   de la institución Universidad Distrital Francisco José de Caldas.
+2. Las asignaturas a homologar cumplen con los prerrequisitos 
+3. No se homologan/convalidan más del 50 % de créditos del plan (Artículo 38, Acuerdo 008 de 2008 – Consejo Superior Universitario.). 
+Concepto: El Comité Asesor recomienda al Consejo de Facultad APROBAR convalidar en el periodo académico 2021-2S, la(s) siguiente(s) asignatura(s) cursada(s) en el programa Ingeniería de Sistemas  de la institución Universidad Distrital Francisco José de Caldas., de la siguiente manera (Artículo 35 del Acuerdo 008 de 2008 del Consejo Superior Universitario)
+Acevedo Salinas  Juan Steban	DNI. 1000127590Asignaturas a convalidar en el plan de estudios de Ingeniería de Sistemas y Computación (2879) Asignaturas cursadas en el plan de estudios Ingeniería de Sistemas  de la institución Universidad Distrital Francisco José de Caldas.CódigoAsignaturaCTNotaAsignaturaCNota1000004Cálculo Diferencial4O3.0Cálculo Diferencial43.01000003Algebra Lineal4O4.3Física I: Mecánica Newtoniana13.1Algebra Lineal 34.72015734Programación de Computadores3T4.5Programación Básica34.52016375Programación Orientada a Objetos3C3.6Programación Orientada a Objetos33.6Créditos convalidados O8Créditos convalidados C3Créditos convalidados T3Total de créditos convalidados149.1.6 Rodríguez Ortiz Nelson Steven	DNI. 1022433449
+Tipo de solicitud:	Homologación de asignaturas.
+Justificación:	“Nelson Steven Rodríguez Ortiz CC 1022433449 Homologación de asignaturas para 2021- 02S. El estudiante solicita al comité asesor la homologación de 4 asignaturas cursadas en el programa de Ingeniería en Sistemas y computación en la Universidad Distrital Francisco José de Caldas. 
+	El estudiante se encuentra cursando se 1 matricula. Se cursaron las siguientes asignaturas en la Universidad Distrital Francisco José de Caldas. Cumpliendo el reglamento de la Universidad Nacional de homologaciones se busca solicitar las siguientes homologaciones. 
+	Calculo diferencial cumpliendo todos los requisitos y siendo una asignatura similar en más de 75% de su respectivo plan de estudios. Programación Básica por Programación de computadores cumpliendo todos los requisitos y siendo una asignatura similar en más de 75% de su respectivo plan de estudios.
+	Lógica no teniendo una respectiva materia en la Universidad Nacional por un curso de libre Elección genérico de 3 créditos.
+	Producción y comprensión de textos y Catedra de Contexto siendo materias que no tienen similitud en la Universidad Nacional por un curso de libre elección genérico de 3 Créditos.
+	Para un total de 13 Créditos en el periodo en curso 2021-2.”
+Soportes:	Carta de solicitud, certificado de notas y contenidos programáticos 
+https://drive.google.com/open?id=1kcvvEFdUMmmGzk6GPIm_iHgu0eit86fJ
+Fecha de radicación:	octubre 5
+Análisis:	Acuerdo 008 de 2008, Acuerdo 026 de 2014.
+1. Solicitud de homologación de asignaturas del programa Ingeniería de sistemas   de la institución Universidad Distrital Francisco José de Caldas.
+2. Las asignaturas a homologar cumplen con los prerrequisitos 
+3. No se homologan/convalidan más del 50 % de créditos del plan (Artículo 38, Acuerdo 008 de 2008 – Consejo Superior Universitario.). 
+Concepto: El Comité Asesor recomienda al Consejo de Facultad APROBAR convalidar en el periodo académico 2021-2S, la(s) siguiente(s) asignatura(s) cursada(s) en el programa Ingeniería de Sistemas  de la institución Universidad Distrital Francisco José de Caldas., de la siguiente manera (Artículo 35 del Acuerdo 008 de 2008 del Consejo Superior Universitario)
+Acevedo Salinas  Juan Steban	DNI. 1000127590Asignaturas a convalidar en el plan de estudios de Ingeniería de Sistemas y Computación (2879) Asignaturas cursadas en el plan de estudios Ingeniería de Sistemas  de la institución Universidad Distrital Francisco José de Caldas.CódigoAsignaturaCTNotaAsignaturaCNota1000004Cálculo Diferencial4O4.3Cálculo Diferencial44.32025242Lógica3L4.3Lógica34.32015734Programación de Computadores3T4.8Programación Básica34.82026634Catedra de
+Contexto1L4.7Catedra de
+Contexto14.72027138Producción y
+comprensión de
+textos2L4.0Producción y
+comprensión de
+textos24.0Créditos convalidados O4Créditos convalidados T3Créditos convalidados L6Total de créditos convalidados13
+9.1.7 Guzmán del Rio Karen Lorena	DNI. 1032676709
+Tipo de solicitud:	Homologación de asignaturas.
+Justificación:	Para el periodo de 2021-1s curse y aprobé la materia de introducción a la física para ingenierías mediante el curso de extensión de Reto a la U, dicho esto me gustaría realizar la homologación de este curso en la materia de fundamentos de mecánica, correspondiente a mi programa curricular, me permito adjuntar la certificación expedida por la universidad, gracias.
+Soportes:	Formato de solicitud, certificado del curso de extensión Fac. Ciencias 
+https://drive.google.com/file/d/1fXIcNThMcliR4viCn96jSEj1hdHtt5u0/view?usp=sharing https://drive.google.com/file/d/1nOzcemivDBOCGiH8J1SGd23jDszcMtbv/view?usp=sharing
+Fecha de radicación:	septiembre 27	
+Análisis:	Acuerdo 008 de 2008, Acuerdo 026 de 2014. RESOLUCIÓN 760 DE 2020 Rectoría
+1. Admitida 2021-2S
+2. Solicitud de homologación de asignatura del programa de extensión de reto a la U de la Facultad de Ciencias.
+3. Las asignaturas a homologar cumplen con los prerrequisitos 
+4. No se homologan/convalidan más del 50 % de créditos del plan (Artículo 38, Acuerdo 008 de 2008 – Consejo Superior Universitario.). 
+5. la circular aclaratoria de la vicerrectoría Académica cual dispone que la aprobación de homologaciones solo se podrá realizar cuando las asignaturas bajo estudio, provengan de programas conducentes a la obtención de un título profesional universitario (Circular 005 de 2014 de la Vicerrectoría Académica).
+6. En la página de reto a la U se informa que 
+· “El programa Reto a la U tiene como objetivo brindar a través de procesos de cualificación, herramientas para la promoción de la vinculación efectiva al mundo laboral, así como hacer procesos de articulación que permitan el tránsito efectivo a la educación superior, puesto que la oferta es homologable en este nivel de formación. Así, las asignaturas cursadas por la población beneficiada serán reconocidas cuando ellos puedan continuar su proceso académico en educación superior.”
+· “Los estudiantes en calidad de beneficiarios del programa RetoALaU que a futuro se presenten al proceso de admisión para programas de pregrado en la Universidad Nacional de Colombia y sean aceptados, tendrán la posibilidad de homologar las asignaturas aprobadas en este proceso de acuerdo a la normatividad en cada Facultad.
+
+	¿Cómo certificarse?
+
+	Asistencia a por lo menos el 80% de las sesiones programadas.
+	Calificación final Mínima de 3,0 en escala de 1 a 5.”
+7. El certificado presentado por la estudiante informa que aprobó el curso que tuvo una intensidad de 96 horas pero no informa la nota, ni se anexa los contenidos programáticos.
+8. El Coordinador del Proyecto Equipo RetoalaU - Facultad de Ciencias JOHN WILLIAM SANDINO remite el siguiente correo el 13 de octubre
+Ing. Leonardo A. Salgado P
+Asesor Curricular
+Secretaría Académica
+
+Lamento la demora en la entrega de la constancia.
+
+Por medio de este correo estoy enviando la certificación respectiva, el contenido de la asignatura corresponde al mismo que dicta el departamento de Física regularmente a la Facultad de Ingeniería.
+
+John Sandino,
+Prof. Physics Department
+Electron Microscopy group leader
+Universidad Nacional de Colombia	
+
+9. El Coordinador del Proyecto Equipo RetoalaU - Facultad de Ciencias JOHN WILLIAM SANDINO envía el oficio PRU.FC-045-21 en donde informa:
+CONSTANCIA DE PARTICIPACIÓN
+
+El coordinador del Proyecto Programa PRAES Secretaría Distrital De Educación – Universidad Nacional De Colombia - “RetoALaU” V.2, adelantado en la Facultad de Ciencias de la Universidad Nacional de Colombia, hace constar que la participante relacionada a continuación estuvo inscrita y participó en el programa en mención con la siguiente información:
+
+Nombre de la participante: KAREN LORENA GUZMÁN DEL RÍO
+Identificación: Cédula de ciudadanía 1032676709
+
+Nombre actividad: Curso INTRODUCCIÓN A LA FÍSICA PARA LAS INGENIERÍAS
+Número de créditos: 4 
+Fecha de realización: 8 de marzo de al 26 de junio de 2021 
+Nota obtenida: 4.8
+Porcentaje de asistencia: 93.8%
+La presente constancia se expide como soporte para el trámite de homologación adelantado por parte de la participante KAREN LORENA GUZMÁN DEL RÍO. Este documento no es válido como certificado académico únicamente tiene validez para fines de constancia de participación.
+
+La presente se firma en la ciudad de Bogotá, a los trece (13) días del mes de octubre del año 2021.
+
+Cordialmente, 
+ ____________________________
+JOHN WILLIAM SANDINO 
+Coordinador del Proyecto
+Equipo RetoalaU 
+Facultad de Ciencias 
+Adjunto: copia de la Resolución de Rectoria760 de 2020, (20 de noviembre). "Por la cual se dictan disposiciones para la participación de la Universidad en el Programa de Reactivación Económica y Social - PRAES de la Secretaría Distrital de Educación de Bogotá D.C."( http://www.legal.unal.edu.co/rlunal/home/doc.jsp?d_i=96985)
+10. La Resolución 760 de 2020 de Rectoría “Por la cual se dictan disposiciones para la participación de la Universidad en el Programa de Reactivación Económica y Social - PRAES de la Secretaría Distrital de Educación de Bogotá D.C.” dice en el cuarto considerando:
+· Que según el artículo 36 del Acuerdo 008 de 2008 del CSU, las asignaturas diferentes en contenido o en intensidad, cursadas en la Universidad Nacional de Colombia o en otra institución, podrán ser convalidadas por el Consejo de Facultad por recomendación debidamente sustentada del Comité Asesor del Programa Curricular correspondiente. De la misma forma, los Consejos de Facultad podrán aprobar la equivalencia de asignaturas cursadas en la Universidad Nacional cuando a juicio del Comité Asesor del Programa Curricular, los contenidos e intensidad sean similares
+
+Y en el Artículo 1, numerales 3 y 6 dice:
+· La convalidación o equivalencia podrá hacerse extensiva a todos los tipos de actividad en la modalidad de Educación Continua y Permanente, siempre que el Consejo de Facultad así lo considere y cuente con la recomendación previa del Comité Asesor del Programa Curricular.
+· En caso de que los usuarios que hayan cursado las actividades de Educación Continua y Permanente en el marco del proyecto referenciado adquieran con posterioridad la calidad de estudiantes de la Universidad en uno de sus programas curriculares de pregrado y pretendan obtener la convalidación o equivalencia de dicha actividad, deberán solicitarla en la Dirección de Programas Curriculares, conforme la normatividad aplicable para tal fin. El Consejo de Facultad procederá a evaluar la solicitud y determinará si concede la convalidación o equivalencia, previa recomendación del Comité Asesor del Programa Curricular respectivo.
+
+Concepto: El Comité Asesor recomienda al Consejo de Facultad  APROBAR la solicitud de homologar en el periodo académico 2021-2S, la(s) siguiente(s) asignatura(s) cursada(s) en el programa de extensión de Reto a la U de la Facultad de Ciencias, de la siguiente manera (Artículo 35 del Acuerdo 008 de 2008 del Consejo Superior Universitario)
+Karen Lorena Guzmán del Rio	DNI. 1032676709Asignaturas a convalidar en el plan de estudios de Ingeniería de Sistemas y Computación (2879) Asignaturas cursadas en programa de extensión de reto a la U de la Facultad de Ciencias.CódigoAsignaturaCTNotaAsignaturaHorasNota100019Fundamentos de Mecánica4B4.8introducción a la física para ingenierías964.8
+9.1.8 Suarez Cortes Miguel Ángel 	DNI. 1020834344
+Tipo de solicitud:	Homologación de asignaturas.
+Justificación:	Para adelantar materias anteriormente vistas, en especial: Fundamentos de mecánica.
+Soportes:	Formato de solicitud,  Historia Académica Ing. Eléctrica
+https://drive.google.com/open?id=1wMXHE3cwaZ2lH0pMPAJ1mITdBWktgFg5https://drive.google.com/open?id=1NxGILoaH7w1lMGQJH_pMp6rSFeZ3EptS
+Fecha de radicación:	octubre 5
+Análisis:	Acuerdo 008 de 2008, Acuerdo 026 de 2014.
+1. Solicitud de homologación de asignatura del programa Historia Académica Ing. Eléctrica 
+2. La asignatura a homologar cumple con los prerrequisitos 
+Concepto: El Comité Asesor recomienda al Consejo de Facultad APROBAR equivaler en el periodo académico 2021-2S, la(s) siguiente(s) asignatura(s) cursada(s) en el programa Ingeniería Eléctrica, de la siguiente manera (Artículo 35 del Acuerdo 008 de 2008 del Consejo Superior Universitario)
+Suarez Cortes Miguel Ángel	DNI. 1020834344Asignaturas a equivaler en el plan de estudios de Ingeniería de Sistemas y Computación (2879) Asignaturas cursadas en el plan de estudios Ingeniería EléctricaCódigoAsignaturaCTNotaAsignaturaCNota1000019Fundamentos de Mecánica4B3.7Fundamentos de Mecánica43.7Créditos equivalidos B4
+9.1.9 Lavacude Galvis Cristian David	DNI. 1022442445
+Tipo de solicitud:	equivalencia  de asignaturas.
+Justificación:	se requiere la actualización de la Historia Académica dada la recienta apertura del segundo plan: Ingeniería de Sistemas y Computación (2879)  
+Soportes:	Historia Académica 2549
+Fecha de radicación:	
+Análisis:	Acuerdo 008 de 2008, Acuerdo 24 de 2014
+Concepto: El Comité Asesor recomienda al Consejo de Facultad APROBAR equivaler en el periodo académico correspondiente, la(s) siguiente(s) asignatura(s) cursada(s) en el programa Ingeniería Eléctrica,  de la siguiente manera (Artículo 35 del Acuerdo 008 de 2008 del Consejo Superior Universitario)
+Lavacude Galvis Cristian David	DNI. 1022442445Asignaturas a equivaler en el plan de estudios de Ingeniería de Sistemas y Computación (2879) Asignaturas cursadas en el plan de estudios 2983 Ingeniería Eléctrica PeriodoCódigoAsignaturaCTNotaAsignaturaCNota2016698Elementos de Computadores3T5.0Elementos de Computadores35.02021-1S
+HOMOLOGACIÓN DE IDIOMA
+9.1.10 León Muñoz David Santiago	DNI. 1073253880
+Tipo de solicitud:	Homologación de requisito de idioma inglés.
+Justificación:	Deseo realizar la homologación de mi suficiencia en Ingles haciendo uso de la opción de presentar el resultado de mi examen Saber 11 donde presento el nivel requerido para hacer la validacion.
+	Adjunto examen ICFES, como nota en el resultado mi primer apellido es diferente, debido a que fue presentado antes de hacer un cambio de apellido, el cual figura dentro de los procesos que he hecho en la universidad donde cambio de "Maldonado" a "León", y el número de documento que figuraba era mi tarjeta de identidad.
+Soportes:	Solicitud Resultados Saber 11 2016
+1073253880 - David León - Homologación de Idioma - David Santiago León Munoz.pdf - Google Drive 
+Fecha de radicación:	octubre 6
+	Análisis:	Acuerdo 102 de 2013, Resolución 144 de 2010, Circular 01 de 2016.
+1. Obtuvo un puntaje de B+ en el 2016
+Concepto: El Comité Asesor recomienda al Consejo de Facultad NO APROBAR homologar en el periodo académico 2021-2S, el requisito de idioma inglés por obtener un puntaje de B+ en el examen Saber 11 de 2016,  porque el certificado presentado es superior a los dos años de vigencia.
+
+9.1.11 Cárdenas Romero Juan David	DNI. 1019133716
+Tipo de solicitud:	Homologación de requisito de idioma inglés.
+Justificación:	Quisiera por medio de este formulario, solicitar que se validen los créditos de idioma Ingles ya que poseo una certificación del examen clasificatorio TOEFL con un puntaje de 88
+Soportes:	Solicitud virtual, resultados TOEFL
+https://drive.google.com/open?id=1l3ED-MUhbm7rT9OnZZhO56j1Y6eC3xvh 
+Fecha de radicación:	octubre 6
+	Análisis:	Acuerdo 102 de 2013, Resolución 144 de 2010, Circular 01 de 2016.
+1. Obtuvo un puntaje de 88 en el 2020
+Concepto: El Comité Asesor recomienda al Consejo de Facultad APROBAR homologar en el periodo académico 2021-2S, el requisito de idioma inglés por obtener un puntaje de 88 en el examen TOELFL, siendo 57 el mínimo exigido. 
+
+Cárdenas Romero Juan David	DNI. 1019133716Asignaturas a homologar en el plan de estudios de Ingeniería de Sistemas y Computación (2879) Examen de inglés presentadoNotaCódigoAsignaturaCTNota1000044Inglés I- Semestral3EAPTOEFL881000045Inglés II- Semestral3EAP1000046Inglés III- Semestral3EAP1000047Inglés IV- Semestral3EAPCréditos homologados E12Total créditos que se homologan12
+9.1.12 Delgado Lozano Gabriel Santiago	DNI. 1000697520
+Tipo de solicitud:	Homologación de requisito de idioma inglés.
+Justificación:	Solicito homologar la nivelación del inglés ya que tengo un nivel bastante alto de inglés, evidenciado por mi nota del Icfes en el área de inglés.
+Soportes:	Formato de solicitud, Resultados SABER 11 marzo 2021
+https://drive.google.com/open?id=1Oa2mj6KNODL4v3V_edIEp0mabSl7pq_fFecha de radicación:	octubre 6
+	Análisis:	Acuerdo 102 de 2013, , Circular 01 de 2016.
+2. Obtuvo un puntaje de B+ 
+Concepto: El Comité Asesor recomienda al Consejo de Facultad APROBAR homologar en el periodo académico 2021-2S, el requisito de idioma inglés por obtener una  calificación de B+ en el examen Saber 11 -2021, siendo B1 el mínimo exigido. 
+
+Delgado Lozano Gabriel Santiago	DNI. 1000697520Asignaturas a homologar en el plan de estudios de Ingeniería de Sistemas y Computación (2879) Examen de inglés presentadoNotaCódigoAsignaturaCTNota1000044Inglés I- Semestral3EAPSABER 11 – ICFESB+1000045Inglés II- Semestral3EAP1000046Inglés III- Semestral3EAP1000047Inglés IV- Semestral3EAPCréditos homologados E12Total créditos que se homologan12
+9.1.13 Amaya Rodríguez María Camila	DNI. 1076736688
+Tipo de solicitud:	Homologación de requisito de idioma inglés.
+Justificación:	Deseo homologar Inglés por medio del ICFES.
+Soportes:	Formato de solicitud, Resultados SABER 11 marzo 2021
+https://drive.google.com/open?id=1ylfLnbBtUeJMJcuRb3tlakBB8kpFlPC6
+Fecha de radicación:	octubre 6
+	Análisis:	Acuerdo 102 de 2013, , Circular 01 de 2016.
+1. Obtuvo un puntaje de B+ 
+Concepto: El Comité Asesor recomienda al Consejo de Facultad APROBAR homologar en el periodo académico 2021-2S, el requisito de idioma inglés por obtener una  calificación de B+ en el examen Saber 11 -2021, siendo B1 el mínimo exigido. 
+
+Amaya Rodríguez María Camila	DNI. 1076736688Asignaturas a homologar en el plan de estudios de Ingeniería de Sistemas y Computación (2879) Examen de inglés presentadoNotaCódigoAsignaturaCTNota1000044Inglés I- Semestral3EAPSABER 11 – ICFESB+1000045Inglés II- Semestral3EAP1000046Inglés III- Semestral3EAP1000047Inglés IV- Semestral3EAPCréditos homologados E12Total créditos que se homologan12
+9.1.14 Ramírez Muñoz Carlos David	DNI. 1193116959
+Tipo de solicitud:	Homologación de requisito de idioma inglés.
+Justificación:	Solicito homologación de la asignatura de idioma extranjero inglés, debido a que me he certificado en ingles a nivel B2, y obtuve la calificación de B+ en las pruebas ICFES.
+Soportes:	Formato de solicitud, Resultados SABER 11 marzo 2021
+https://drive.google.com/open?id=1Zq_DEEc76s3A1PnlT5d0ndzO1pWYAvcH 
+Fecha de radicación:	octubre 6
+	Análisis:	Acuerdo 102 de 2013, , Circular 01 de 2016.
+1. Obtuvo un puntaje de B+ 
+Concepto: El Comité Asesor recomienda al Consejo de Facultad APROBAR homologar en el periodo académico 2021-2S, el requisito de idioma inglés por obtener una  calificación de B+ en el examen Saber 11 -2021, siendo B1 el mínimo exigido. 
+
+Ramírez Muñoz Carlos David	DNI. 1193116959Asignaturas a homologar en el plan de estudios de Ingeniería de Sistemas y Computación (2879) Examen de inglés presentadoNotaCódigoAsignaturaCTNota1000044Inglés I- Semestral3EAPSABER 11 – ICFESB+1000045Inglés II- Semestral3EAP1000046Inglés III- Semestral3EAP1000047Inglés IV- Semestral3EAPCréditos homologados E12Total créditos que se homologan12
+9.1.15 Muñoz Pérez Brayan Alejandro	DNI. 1000328521
+Tipo de solicitud:	Homologación de requisito de idioma inglés.
+Justificación:	Homologar Inglés con el resultado de las pruebas saber 11, ICFES 2020.
+Soportes:	Formato de solicitud, Resultados SABER 11 noviembre 2020
+https://drive.google.com/open?id=1l_wkMOc3_IN-dmTLZhO_ZS5WMNdejHVe 
+Fecha de radicación:	octubre 7
+	Análisis:	Acuerdo 102 de 2013, , Circular 01 de 2016.
+1. Obtuvo un puntaje de B1 
+Concepto: El Comité Asesor recomienda al Consejo de Facultad APROBAR homologar en el periodo académico 2021-2S, el requisito de idioma inglés por obtener una  calificación de B1 en el examen Saber 11 -2020, siendo B1 el mínimo exigido. 
+
+Muñoz Pérez Brayan Alejandro	DNI. 1000328521Asignaturas a homologar en el plan de estudios de Ingeniería de Sistemas y Computación (2879) Examen de inglés presentadoNotaCódigoAsignaturaCTNota1000044Inglés I- Semestral3EAPSABER 11 – ICFESB11000045Inglés II- Semestral3EAP1000046Inglés III- Semestral3EAP1000047Inglés IV- Semestral3EAPCréditos homologados E12Total créditos que se homologan12
+9.1.16 Sánchez Molina Luis Daniel	DNI. 1050610322
+Tipo de solicitud:	Homologación de requisito de idioma inglés.
+Justificación:	"Con motivo de solicitar la homologación de Ingles hasta el nivel B1 con ICFES, me permito enviar este correo ya que deseo realizar el procedimiento, agradezco inmensamente su atención y espero su pronta respuesta.    
+	Mil Gracias por su atención.".
+Soportes:	Formato de solicitud, Resultados SABER 11 noviembre 2020
+https://drive.google.com/open?id=1lZAbpXa0ntREQ2_5TjGrhQIhXaveCGhC
+Fecha de radicación:	octubre 7
+	Análisis:	Acuerdo 102 de 2013, , Circular 01 de 2016.
+2. Obtuvo un puntaje de B1 
+Concepto: El Comité Asesor recomienda al Consejo de Facultad APROBAR homologar en el periodo académico 2021-2S, el requisito de idioma inglés por obtener una  calificación de B1 en el examen Saber 11 -2020, siendo B1 el mínimo exigido. 
+
+Sánchez Molina Luis Daniel	DNI. 1050610322Asignaturas a homologar en el plan de estudios de Ingeniería de Sistemas y Computación (2879) Examen de inglés presentadoNotaCódigoAsignaturaCTNota1000044Inglés I- Semestral3EAPSABER 11 – ICFESB11000045Inglés II- Semestral3EAP1000046Inglés III- Semestral3EAP1000047Inglés IV- Semestral3EAPCréditos homologados E12Total créditos que se homologan12
+9.1.17 Ordoñez Pérez David Fernando	DNI. 1000790828
+Tipo de solicitud:	Homologación de requisito de idioma inglés.
+Justificación:	" Obtuve B2 en las pasadas pruebas ICFES y me gustaría omitir el componente básico de inglés en la Universidad.".
+Soportes:	Formato de solicitud, Resultados SABER 11 2021
+https://drive.google.com/open?id=1p-99Vs_DTfRRbCG70ZSFm2k-mNshcUHW 
+Fecha de radicación:	octubre 12
+	Análisis:	Acuerdo 102 de 2013, , Circular 01 de 2016.
+1. Obtuvo un puntaje de B+1  Saber 11 2021
+Concepto: El Comité Asesor recomienda al Consejo de Facultad APROBAR homologar en el periodo académico 2021-2S, el requisito de idioma inglés por obtener una  calificación de B+ en el examen Saber 11 -2021, siendo B1 el mínimo exigido. 
+
+Ordoñez Pérez David Fernando	DNI. 1000790828Asignaturas a homologar en el plan de estudios de Ingeniería de Sistemas y Computación (2879) Examen de inglés presentadoNotaCódigoAsignaturaCTNota1000044Inglés I- Semestral3EAPSABER 11 – ICFESB+1000045Inglés II- Semestral3EAP1000046Inglés III- Semestral3EAP1000047Inglés IV- Semestral3EAPCréditos homologados E12Total créditos que se homologan12
+9.1.18 Parra Huertas Jhonatan Deyer  	DNI. 1032936484
+Tipo de solicitud:	Homologación de requisito de idioma inglés.
+Justificación:	"En calidad de estudiante me permito hacer entrega de los resultados obtenidos en la prueba saber 11, con el No. de registro AC202110206474, realizada por el ICFES, el 21/03/2021. Esto en cumplimiento de lo establecido en la Circular No. 001 de 2016, numeral 2.
+	Lo anterior, con el fin de que la Secretaria de Facultad emita certificación del cumplimiento del requisito de lengua extranjera para quedar eximido de cursar los niveles de inglés.
+
+	Agradezco de antemano la atención prestada”
+Soportes:	Formato de solicitud, Resultados SABER 11 noviembre 2020
+https://drive.google.com/open?id=1pIHNM5CsA5ndWkaqMT-TRx-N9BjqjQJT 
+Fecha de radicación:	octubre 12
+	Análisis:	Acuerdo 102 de 2013, , Circular 01 de 2016.
+1. Obtuvo un puntaje de B+  Saber 11 2021
+Concepto: El Comité Asesor recomienda al Consejo de Facultad APROBAR homologar en el periodo académico 2021-2S, el requisito de idioma inglés por obtener una  calificación de B+ en el examen Saber 11 -2021, siendo B1 el mínimo exigido. 
+
+Parra Huertas Jhonatan Deyer  	DNI. 1032936484Asignaturas a homologar en el plan de estudios de Ingeniería de Sistemas y Computación (2879) Examen de inglés presentadoNotaCódigoAsignaturaCTNota1000044Inglés I- Semestral3EAPSABER 11 – ICFESB+1000045Inglés II- Semestral3EAP1000046Inglés III- Semestral3EAP1000047Inglés IV- Semestral3EAPCréditos homologados E12Total créditos que se homologan12
+9.1.19 Caicedo Rosero Michael Sebastián	DNI. 1085311338
+Tipo de solicitud:	Homologación de requisito de idioma inglés.
+Justificación:	"Soy Michael Sebastián Caicedo Rosero, cc 1085311338. soy estudiante de primer semestre de ingeniería de sistemas y computación y deseo homologar inglés, nivel B1 en el Icfes.”
+Soportes:	Formato de solicitud, Resultados SABER 11 2021
+https://drive.google.com/open?id=1LjbuHz2Bz4E_k8-5wY5PrptNJ1xTZ4en 
+Fecha de radicación:	octubre 12
+	Análisis:	Acuerdo 102 de 2013, , Circular 01 de 2016.
+1. Obtuvo un puntaje de B1  Saber 11 2021
+Concepto: El Comité Asesor recomienda al Consejo de Facultad APROBAR homologar en el periodo académico 2021-2S, el requisito de idioma inglés por obtener una  calificación de B1 en el examen Saber 11 -2021, siendo B1 el mínimo exigido. 
+
+Caicedo Rosero Michael Sebastián	DNI. 1085311338Asignaturas a homologar en el plan de estudios de Ingeniería de Sistemas y Computación (2879) Examen de inglés presentadoNotaCódigoAsignaturaCTNota1000044Inglés I- Semestral3EAPSABER 11 – ICFESB11000045Inglés II- Semestral3EAP1000046Inglés III- Semestral3EAP1000047Inglés IV- Semestral3EAPCréditos homologados E12Total créditos que se homologan12
+9.1.20 Chacón Muñoz Juan David	DNI. 1023367240
+Tipo de solicitud:	Homologación de requisito de idioma inglés.
+Justificación:	" Quisiera saber si me pueden homologar algunos niveles de ingles teniendo en cuenta el puntaje que obtuve en el Icfes el cual fue de 79/100”
+Soportes:	Formato de solicitud, Resultados SABER 11 2021
+https://drive.google.com/open?id=1Oo03YB2yvcdHFpYILD5EQdqqR08HMdTp 
+Fecha de radicación:	octubre 12
+	Análisis:	Acuerdo 102 de 2013, , Circular 01 de 2016.
+2. Obtuvo un puntaje de B+  Saber 11 2021
+Concepto: El Comité Asesor recomienda al Consejo de Facultad APROBAR homologar en el periodo académico 2021-2S, el requisito de idioma inglés por obtener una  calificación de B+ en el examen Saber 11 -2021, siendo B1 el mínimo exigido. 
+
+Chacon Muñoz Juan David	DNI. 1023367240Asignaturas a homologar en el plan de estudios de Ingeniería de Sistemas y Computación (2879) Examen de inglés presentadoNotaCódigoAsignaturaCTNota1000044Inglés I- Semestral3EAPSABER 11 – ICFESB+1000045Inglés II- Semestral3EAP1000046Inglés III- Semestral3EAP1000047Inglés IV- Semestral3EAPCréditos homologados E12Total créditos que se homologan12
+9.1.21 Cortés Álvarez Daniel	DNI. 1000809198
+Tipo de solicitud:	Homologación de requisito de idioma inglés.
+Justificación:	"Por medio del Icfes tengo el puntaje necesario para dar cumplimiento al nivel B1 exigido por la universidad.”
+Soportes:	Formato de solicitud, Resultados SABER 11 2021
+https://drive.google.com/open?id=1HJF8SkF--t-m_mYarHTniRR0SsUX83w8
+Fecha de radicación:	octubre 13
+	Análisis:	Acuerdo 102 de 2013, , Circular 01 de 2016.
+1. Obtuvo un puntaje de B+  Saber 11 2021
+Concepto: El Comité Asesor recomienda al Consejo de Facultad APROBAR homologar en el periodo académico 2021-2S, el requisito de idioma inglés por obtener una  calificación de B+ en el examen Saber 11 -2021, siendo B1 el mínimo exigido. 
+
+Cortés Álvarez Daniel	DNI. 1000809198Asignaturas a homologar en el plan de estudios de Ingeniería de Sistemas y Computación (2879) Examen de inglés presentadoNotaCódigoAsignaturaCTNota1000044Inglés I- Semestral3EAPSABER 11 – ICFESB+1000045Inglés II- Semestral3EAP1000046Inglés III- Semestral3EAP1000047Inglés IV- Semestral3EAPCréditos homologados E12Total créditos que se homologan12
+9.1.22 Arciniegas Lizarazo Nicolas Felipe	DNI. 1005282120
+Tipo de solicitud:	Homologación de requisito de idioma inglés.
+Justificación:	" Solicito ante ustedes la convalidación del idioma inglés, de acuerdo a mi puntaje obtenido en la prueba Saber 11. De acuerdo a mis resultados alcance una calificación de B1 que es lo que demanda la universidad, quedo atento a su respuesta para adjuntar cualquier documento o certificado que sea necesario, muchas gracias.”
+	Realizo esta petición ya que observe en el SIA en mi sección de "Asignaturas pendientes por cursar", tengo pendiente por nivelar todos los niveles de inglés.
+Soportes:	Formato de solicitud, Resultados SABER 11 2020
+https://drive.google.com/open?id=1Y6x21ivctrxNsVPg0hlzRaQxKfhJ9zal 
+Fecha de radicación:	octubre 13
+	Análisis:	Acuerdo 102 de 2013, , Circular 01 de 2016.
+1. Obtuvo un puntaje de B1  Saber 11 2020
+Concepto: El Comité Asesor recomienda al Consejo de Facultad APROBAR homologar en el periodo académico 2021-2S, el requisito de idioma inglés por obtener una  calificación de B+ en el examen Saber 11 -2021, siendo B1 el mínimo exigido. 
+
+Arciniegas Lizarazo Nicolas Felipe	DNI. 1005282120Asignaturas a homologar en el plan de estudios de Ingeniería de Sistemas y Computación (2879) Examen de inglés presentadoNotaCódigoAsignaturaCTNota1000044Inglés I- Semestral3EAPSABER 11 – ICFESB11000045Inglés II- Semestral3EAP1000046Inglés III- Semestral3EAP1000047Inglés IV- Semestral3EAPCréditos homologados E12Total créditos que se homologan12
+9.1.23 Forero Narváez Melissa Dayanna	DNI. 1006876389
+Tipo de solicitud:	Homologación de requisito de idioma inglés.
+Justificación:	" Homologación de la asignatura Ingles, en base a resultados ICFES.	Los resultados anexados dan cuenta del nivel B1 alcanzado en el componente de Ingles, esto corresponde a un puntaje de 74/100 puntos.
+Soportes:	Formato de solicitud, Resultados SABER 11 2021
+https://drive.google.com/open?id=1wca-6lf85BF3-7ZYvc7IcitRMm-v_jsf
+Fecha de radicación:	octubre 13
+	Análisis:	Acuerdo 102 de 2013, , Circular 01 de 2016.
+1. Obtuvo un puntaje de B1  Saber 11 2021
+Concepto: El Comité Asesor recomienda al Consejo de Facultad APROBAR homologar en el periodo académico 2021-2S, el requisito de idioma inglés por obtener una  calificación de B1 en el examen Saber 11 -2021, siendo B1 el mínimo exigido. 
+
+Forero Narváez Melissa Dayanna	DNI. 1006876389Asignaturas a homologar en el plan de estudios de Ingeniería de Sistemas y Computación (2879) Examen de inglés presentadoNotaCódigoAsignaturaCTNota1000044Inglés I- Semestral3EAPSABER 11 – ICFESB11000045Inglés II- Semestral3EAP1000046Inglés III- Semestral3EAP1000047Inglés IV- Semestral3EAPCréditos homologados E12Total créditos que se homologan12
+9.1.24 Martínez Barreto Alirio Hernando	DNI. 1010246297
+Tipo de solicitud:	Homologación de requisito de idioma inglés.
+Justificación:	" Me gustaría homologar inglés con mi prueba ICFES, puntaje de inglés 71 (B1)”
+Soportes:	Formato de solicitud, Resultados SABER 11 2021
+https://drive.google.com/open?id=1Alt4XalAngExpfCsD7cg01cT7lVPJfNk  
+Fecha de radicación:	octubre 13
+	Análisis:	Acuerdo 102 de 2013, , Circular 01 de 2016.
+1. Obtuvo un puntaje de B1  Saber 11 2021
+Concepto: El Comité Asesor recomienda al Consejo de Facultad APROBAR homologar en el periodo académico 2021-2S, el requisito de idioma inglés por obtener una  calificación de B1 en el examen Saber 11 -2021, siendo B1 el mínimo exigido. 
+
+Martínez Barreto Alirio Hernando	DNI. 1010246297Asignaturas a homologar en el plan de estudios de Ingeniería de Sistemas y Computación (2879) Examen de inglés presentadoNotaCódigoAsignaturaCTNota1000044Inglés I- Semestral3EAPSABER 11 – ICFESB11000045Inglés II- Semestral3EAP1000046Inglés III- Semestral3EAP1000047Inglés IV- Semestral3EAPCréditos homologados E12Total créditos que se homologan12
+9.1.25 Albadan Sarmiento Julio Cesar	DNI. 1012443459
+Tipo de solicitud:	Homologación de requisito de idioma inglés.
+Justificación:	" Deseo homologar la nivelación de inglés.”
+Soportes:	Formato de solicitud, Resultados SABER 11 2021
+https://drive.google.com/open?id=1uuwVjB_NXMcjCRLa4OtLRn6Bkcu1fcpg   
+Fecha de radicación:	octubre 13
+	Análisis:	Acuerdo 102 de 2013, , Circular 01 de 2016.
+1. Obtuvo un puntaje de B1+ Saber 11 2021
+Concepto: El Comité Asesor recomienda al Consejo de Facultad APROBAR homologar en el periodo académico 2021-2S, el requisito de idioma inglés por obtener una  calificación de B+ en el examen Saber 11 -2021, siendo B1 el mínimo exigido. 
+
+Albadan Sarmiento Julio Cesar	DNI. 1012443459Asignaturas a homologar en el plan de estudios de Ingeniería de Sistemas y Computación (2879) Examen de inglés presentadoNotaCódigoAsignaturaCTNota1000044Inglés I- Semestral3EAPSABER 11 – ICFESB+1000045Inglés II- Semestral3EAP1000046Inglés III- Semestral3EAP1000047Inglés IV- Semestral3EAPCréditos homologados E12Total créditos que se homologan12
+9.1.26 Piñeros Sierra Ángel David	DNI. 1000381674
+Tipo de solicitud:	Homologación de requisito de idioma inglés.
+Justificación:	" Mi propósito con la presente solicitud es la homologación de inglés mediante el componente correspondiente alcanzado en mi prueba Icfes.”
+Soportes:	Formato de solicitud, Resultados SABER 11 2021
+https://drive.google.com/open?id=1OzcIk9SdmMGdgp9HvTmiK059eHSRmqjx    
+Fecha de radicación:	octubre 13
+	Análisis:	Acuerdo 102 de 2013, , Circular 01 de 2016.
+2. Obtuvo un puntaje de B1 Saber 11 2021
+Concepto: El Comité Asesor recomienda al Consejo de Facultad APROBAR homologar en el periodo académico 2021-2S, el requisito de idioma inglés por obtener una  calificación de B1 en el examen Saber 11 -2021, siendo B1 el mínimo exigido. 
+
+Piñeros Sierra Ángel David	DNI. 1000381674Asignaturas a homologar en el plan de estudios de Ingeniería de Sistemas y Computación (2879) Examen de inglés presentadoNotaCódigoAsignaturaCTNota1000044Inglés I- Semestral3EAPSABER 11 – ICFESB11000045Inglés II- Semestral3EAP1000046Inglés III- Semestral3EAP1000047Inglés IV- Semestral3EAPCréditos homologados E12Total créditos que se homologan12
+9.1.27 Colmenares Sáenz Julián Darío	DNI. 1001310503
+Tipo de solicitud:	Homologación de requisito de idioma inglés.
+Justificación:	" Solicito me puedan homologar con el ultimo resultado Icfes el idioma ingles para este periodo académico.”
+Soportes:	Formato de solicitud, Resultados SABER 11 2021
+https://drive.google.com/open?id=1Vo6heKiocWpctQLsBL4uagqHbCsmiMgB     
+Fecha de radicación:	octubre 13
+	Análisis:	Acuerdo 102 de 2013, , Circular 01 de 2016.
+1. Obtuvo un puntaje de B1 Saber 11 2021
+Concepto: El Comité Asesor recomienda al Consejo de Facultad APROBAR homologar en el periodo académico 2021-2S, el requisito de idioma inglés por obtener una  calificación de B1 en el examen Saber 11 -2021, siendo B1 el mínimo exigido. 
+
+Colmenares Sáenz Julián Darío	DNI. 1001310503Asignaturas a homologar en el plan de estudios de Ingeniería de Sistemas y Computación (2879) Examen de inglés presentadoNotaCódigoAsignaturaCTNota1000044Inglés I- Semestral3EAPSABER 11 – ICFESB11000045Inglés II- Semestral3EAP1000046Inglés III- Semestral3EAP1000047Inglés IV- Semestral3EAPCréditos homologados E12Total créditos que se homologan12
+9.1.28 Cristancho Álvarez Juan Manuel	DNI. 1192747902
+Tipo de solicitud:	Homologación de requisito de idioma inglés.
+Justificación:	" Homologación de inglés.”
+Soportes:	Formato de solicitud, Resultados SABER 11 2021
+https://drive.google.com/open?id=1XAirfo4p4FLIcPILmRUojIObfVv1_PPq      
+Fecha de radicación:	octubre 13
+	Análisis:	Acuerdo 102 de 2013, , Circular 01 de 2016.
+1. Obtuvo un puntaje de B1 Saber 11 2021
+Concepto: El Comité Asesor recomienda al Consejo de Facultad APROBAR homologar en el periodo académico 2021-2S, el requisito de idioma inglés por obtener una  calificación de B1 en el examen Saber 11 -2021, siendo B1 el mínimo exigido. 
+
+Cristancho Álvarez Juan Manuel	DNI. 1192747902Asignaturas a homologar en el plan de estudios de Ingeniería de Sistemas y Computación (2879) Examen de inglés presentadoNotaCódigoAsignaturaCTNota1000044Inglés I- Semestral3EAPSABER 11 – ICFESB11000045Inglés II- Semestral3EAP1000046Inglés III- Semestral3EAP1000047Inglés IV- Semestral3EAPCréditos homologados E12Total créditos que se homologan12
+9.1.29 Espitia Sotelo Fabián	DNI. 1007885590
+Tipo de solicitud:	Homologación de requisito de idioma inglés.
+Justificación:	" Empezar a ver la materia desde el nivel en el que me encuentro”
+Soportes:	Formato de solicitud, Resultados SABER 11 2021
+https://drive.google.com/open?id=1e5C-Lckrxjg-fZXT3GDs5nX-V5VT5pTV       
+Fecha de radicación:	octubre 13
+	Análisis:	Acuerdo 102 de 2013, , Circular 01 de 2016.
+1. Obtuvo un puntaje de B1 Saber 11 2021
+Concepto: El Comité Asesor recomienda al Consejo de Facultad APROBAR homologar en el periodo académico 2021-2S, el requisito de idioma inglés por obtener una  calificación de B1 en el examen Saber 11 -2021, siendo B1 el mínimo exigido. 
+
+Espitia Sotelo Fabián	DNI. 1007885590Asignaturas a homologar en el plan de estudios de Ingeniería de Sistemas y Computación (2879) Examen de inglés presentadoNotaCódigoAsignaturaCTNota1000044Inglés I- Semestral3EAPSABER 11 – ICFESB11000045Inglés II- Semestral3EAP1000046Inglés III- Semestral3EAP1000047Inglés IV- Semestral3EAPCréditos homologados E12Total créditos que se homologan12
+9.1.30 Vallejo Fonseca Tomás Sebastián	DNI. 1000286825
+Tipo de solicitud:	Homologación de requisito de idioma inglés.
+Justificación:	" El estudiante solicita homologación de los niveles 1,2,3 y 4 de inglés, teniendo en cuenta lo dispuesto en el numeral 1 del artículo 7 del acuerdo 102 de 2013 del Consejo Superior Universitario y el numeral 2 de la circular 001 de 2016 de la Vicerrectoría Académica, presenta copia de los resultados obtenidos en el Examen Saber 11 del 21 de Marzo de 2021 en el cual obtuve la calificación de B1. El estudiante se encuentra en su primera matrícula”
+Soportes:	Formato de solicitud, Resultados SABER 11 2021
+https://drive.google.com/open?id=15-Q6jkAqK5Um4LKQj0myVNo6EzgYNY_I        
+Fecha de radicación:	octubre 13
+	Análisis:	Acuerdo 102 de 2013, , Circular 01 de 2016.
+1. Obtuvo un puntaje de B1 Saber 11 2021
+Concepto: El Comité Asesor recomienda al Consejo de Facultad APROBAR homologar en el periodo académico 2021-2S, el requisito de idioma inglés por obtener una  calificación de B1 en el examen Saber 11 -2021, siendo B1 el mínimo exigido. 
+
+Vallejo Fonseca Tomás Sebastián	DNI. 1000286825Asignaturas a homologar en el plan de estudios de Ingeniería de Sistemas y Computación (2879) Examen de inglés presentadoNotaCódigoAsignaturaCTNota1000044Inglés I- Semestral3EAPSABER 11 – ICFESB11000045Inglés II- Semestral3EAP1000046Inglés III- Semestral3EAP1000047Inglés IV- Semestral3EAPCréditos homologados E12
+9.1.31 Alejo Hurtado Daniel Felipe  	DNI. 1003967839
+Tipo de solicitud:	Homologación de requisito de idioma inglés.
+Justificación:	" Homologación de idioma inglés usando el examen ICFES”
+Soportes:	Formato de solicitud, Resultados SABER 11 2021
+https://drive.google.com/open?id=12HHIuK2qkDrv70SYEC2UW9C0azJz0_ib        
+Fecha de radicación:	octubre 13
+	Análisis:	Acuerdo 102 de 2013, , Circular 01 de 2016.
+1. Obtuvo un puntaje de B1 Saber 11 2021
+Concepto: El Comité Asesor recomienda al Consejo de Facultad APROBAR homologar en el periodo académico 2021-2S, el requisito de idioma inglés por obtener una  calificación de B1 en el examen Saber 11 -2021, siendo B1 el mínimo exigido. 
+
+	Alejo Hurtado Daniel Felipe  	DNI. 1003967839Asignaturas a homologar en el plan de estudios de Ingeniería de Sistemas y Computación (2879) Examen de inglés presentadoNotaCódigoAsignaturaCTNota1000044Inglés I- Semestral3EAPSABER 11 – ICFESB11000045Inglés II- Semestral3EAP1000046Inglés III- Semestral3EAP1000047Inglés IV- Semestral3EAPCréditos homologados E12
+9.1.32 Madrid Contreras Juan David	DNI. 1073671141
+Tipo de solicitud:	Homologación de requisito de idioma inglés.
+Justificación:	" Homologación ingles por examen de admisión ICFES puesto que ya cuento con un nivel de inglés avanzado.”
+Soportes:	Formato de solicitud, Resultados SABER 11 2021
+https://drive.google.com/open?id=1FHGjQ6wmns5-lXnYOfH3P3XXjqELkC8f 
+Fecha de radicación:	octubre 13
+	Análisis:	Acuerdo 102 de 2013, , Circular 01 de 2016.
+2. Obtuvo un puntaje de B1 Saber 11 2021
+Concepto: El Comité Asesor recomienda al Consejo de Facultad APROBAR homologar en el periodo académico 2021-2S, el requisito de idioma inglés por obtener una  calificación de B1 en el examen Saber 11 -2021, siendo B1 el mínimo exigido. 
+
+	Madrid Contreras Juan David	DNI. 1073671141Asignaturas a homologar en el plan de estudios de Ingeniería de Sistemas y Computación (2879) Examen de inglés presentadoNotaCódigoAsignaturaCTNota1000044Inglés I- Semestral3EAPSABER 11 – ICFESB11000045Inglés II- Semestral3EAP1000046Inglés III- Semestral3EAP1000047Inglés IV- Semestral3EAPCréditos homologados E12
+9.1.33 Torres Céspedes Juan Ricardo	DNI. 1002396151
+Tipo de solicitud:	Homologación de requisito de idioma inglés.
+Justificación:	" Me gustaría homologar la asignatura "Inglés" ya que en el examen ICFES (actualmente utilizado como examen de ingreso a la Universidad Nacional de Colombia) obtuve 100 puntos (b+) en el componente de inglés.”
+Soportes:	Formato de solicitud, Resultados SABER 11 2021
+https://drive.google.com/open?id=1diHwyJJgnjFxob0OlbhVjrEEXqmlcnLS  
+Fecha de radicación:	octubre 13
+	Análisis:	Acuerdo 102 de 2013, , Circular 01 de 2016.
+3. Obtuvo un puntaje de B+ Saber 11 2021
+Concepto: El Comité Asesor recomienda al Consejo de Facultad APROBAR homologar en el periodo académico 2021-2S, el requisito de idioma inglés por obtener una  calificación de B+ en el examen Saber 11 -2021, siendo B1 el mínimo exigido. 
+
+	Torres Céspedes Juan Ricardo	DNI. 1002396151Asignaturas a homologar en el plan de estudios de Ingeniería de Sistemas y Computación (2879) Examen de inglés presentadoNotaCódigoAsignaturaCTNota1000044Inglés I- Semestral3EAPSABER 11 – ICFESB+1000045Inglés II- Semestral3EAP1000046Inglés III- Semestral3EAP1000047Inglés IV- Semestral3EAPCréditos homologados E12
+
+9.1.34 Parada Amarillo Sergio Alexander 	DNI. 1023966647
+Tipo de solicitud:	Homologación de requisito de idioma inglés.
+Justificación:	Cuento con la suficiencia en el idioma ingles necesaria para pedir la homologación en dicho idioma. Cuento con documentos que me califican como solvente en la lengua inglesa, Además de que en una carrera anteriormente cursada con la universidad nacional de Colombia ya tengo los 4 niveles de ingles aprobados.
+Soportes:	Formato de solicitud, resultados IELTS, y resultados Saber PRO
+https://drive.google.com/open?id=110eEIPGcSAiZG3qkNxEvNR25P4EvlSiJ	https://drive.google.com/open?id=16-ALVYLpbwuM4E8xhwWxdnVUSJnZzYve
+Fecha de radicación:	octubre 4
+	Análisis:	Acuerdo 102 de 2013, , Circular 01 de 2016.
+1. En estudios previos de Medicina en la Universidad Nacional ya cuenta con los 4 niveles de Inglés aprobados
+Concepto: El Comité Asesor recomienda al Consejo de Facultad APROBAR equivaler en el periodo académico 2021-2S, la(s) siguiente(s) asignatura(s) cursada(s) en el programa Medicina, de la siguiente manera (Artículo 35 del Acuerdo 008 de 2008 del Consejo Superior Universitario)
+
+Parada Amarillo Sergio Alexander 	DNI. 1023966647Asignaturas a convalidar en el plan de estudios de Ingeniería de Sistemas y Computación (2879) Asignaturas cursadas en el plan de estudios MedicinaCódigoAsignaturaCTNotaAsignaturaCNota1000044Inglés I- Semestral3EAPInglés I- Semestral3AP1000045Inglés II- Semestral3EAPInglés II- Semestral3AP1000046Inglés III- Semestral3EAPInglés III- Semestral3AP1000047Inglés IV- Semestral3EAPInglés IV- Semestral3AP Total créditos E que se equivalen12
+9.1.35 Ramírez González Adrián  	DNI. 1000460369
+Tipo de solicitud:	Homologación de requisito de idioma inglés.
+Justificación:	Fui admitido este semestre a ingeniería de sistemas y computación, pero anteriormente ya había cursado el pregrado de psicología aquí mismo en la Universidad Nacional de Colombia (soy readmitido) por lo que ya cursé y aprobé algunas materias mientras estuve en mi anterior carrera y quería que, si es posible, todas estas materias que curse en psicología fueran tomadas como electivas en mi carrera actual. Además de eso, me gustaría homologar los niveles ingles por medio del resultado ICFES del componente de inglés. Aquí adjunto tanto el certificado de notas de las materias como mi resultado ICFES.
+Soportes:	Formato de solicitud, Historia Académica Psicología UN y resultados  Saber11 2021
+https://drive.google.com/open?id=1d_yWuMu8BrGFhCIs3Tt3iGayzyPNSDBm 
+Fecha de radicación:	octubre 13
+	Análisis:	Acuerdo 102 de 2013, , Circular 01 de 2016.
+1. En estudios previos de Psicología  en la Universidad Nacional ya cuenta con los 4 niveles de Inglés aprobados
+Concepto: El Comité Asesor recomienda al Consejo de Facultad APROBAR equivaler en el periodo académico 2021-2S, la(s) siguiente(s) asignatura(s) cursada(s) en el programa Psicología, de la siguiente manera (Artículo 35 del Acuerdo 008 de 2008 del Consejo Superior Universitario)
+Ramírez González Adrián  	DNI. 1000460369Asignaturas a convalidar en el plan de estudios de Ingeniería de Sistemas y Computación (2879) Asignaturas cursadas en el plan de estudios PsicologíaCódigoAsignaturaCTNotaAsignaturaCNota1000044Inglés I- Semestral3EAPInglés I- Semestral3AP1000045Inglés II- Semestral3EAPInglés II- Semestral3AP1000046Inglés III- Semestral3EAPInglés III- Semestral3AP1000047Inglés IV- Semestral3EAPInglés IV- Semestral3AP 1000014Estadística social fundamental3L4.7Estadística social fundamental34.71000009Biología general3L4.9Biología general34.92017881Fundamentos de psicología4L4.5Fundamentos de psicología44.52021668Problemática social colombiana3L5.0Problemática social colombiana35.02027654Epistemología de las ciencias sociales y naturales3L4.7Epistemología de las ciencias sociales y naturales34.72015725Turco I3L4.8Turco I34.81000100Cátedra Nacional: Rayos de sol para días de lluvia3L5.0Cátedra Nacional: Rayos de sol para días de lluvia35.02028700Cátedra Hipatia: Biodiversidad y territorio en el post 20203L5.0Cátedra Hipatia: Biodiversidad y territorio en el post 202035.0Créditos Nivelación E12Créditos Libre Elección L25Total créditos que se equivalen37
+9.1.36 Rolón Acero Álvaro Felipe	DNI. 1070923998
+Tipo de solicitud:	Homologación de requisito de idioma inglés.
+Justificación:	"Homologar esta materia que pase en mi otro plan curricular (Ingeniería electrónica) a mi carrera actual, ingeniería de sistemas y computación. La información requerida se encuentra directamente en mi historia académica. ID | ASIGNATURAS RELACIONADAS universidad asignatura externa nota universidad nacional de Colombia 1000017-B 3.0"
+Soportes:	Solicitud del SIA.
+https://drive.google.com/open?id=1jPFbJBqvVoiPtt3MBPrNNR8sMUYKlM4E  
+Fecha de radicación:	octubre 13
+	Análisis:	Acuerdo 102 de 2013, , Circular 01 de 2016.
+Concepto: El Comité Asesor recomienda al Consejo de Facultad APROBAR equivaler en el periodo académico 2021-2S, la(s) siguiente(s) asignatura(s) cursada(s) en el programa Ingeniería Electrónica, de la siguiente manera (Artículo 35 del Acuerdo 008 de 2008 del Consejo Superior Universitario)
+	Rolón Acero Álvaro Felipe	DNI. 1070923998Asignaturas a convalidar en el plan de estudios de Ingeniería de Sistemas y Computación (2879) Asignaturas cursadas en el plan de estudios Ingeniería ElectrónicaCódigoAsignaturaCTNotaAsignaturaCNota1000017Fundamentos de electricidad y magnetismo4B3.0Fundamentos de electricidad y magnetismo43.0Créditos Fundamentación4
+9.1.37 Vargas Quintero Juan Camilo	DNI. 1032468391
+Tipo de solicitud:	Homologación de requisito de idioma inglés.
+Justificación:	" "De manera atenta y respetuosa solicito la homologación como créditos de Libre Elección, de las siguientes asignaturas cursadas y aprobadas como estudiante del programa de Ingeniería Mecatrónica, bajo la historia académica 2548960.
+	- (2015711) Dibujo Básico, 3 créditos, nota 3.4
+	- (1000024) Principios de Química, 3 créditos, nota 3.5
+	De manera similar solicito el traslado de los créditos excedentes cursados en la historia académica BAPI 7603, también como créditos de Libre Elección.
+	Agradezco la atención prestada a esta solicitud y deseo ser notificado de la decisión sobre esta al correo electrónico: jcvargasq@unal.edu.co"
+	"Se presenta esta solicitud con dos requerimientos de diferente tipo: ‘Homologación/Convalidación/Equivalencia' y 'Traslado créditos excedentes BAPI'"
+Soportes:	Solicitud del SIA.
+https://drive.google.com/open?id=1KS0P3CT641iGzzqmi35bMOwa32Fii5qm 
+Fecha de radicación:	octubre 13
+	Análisis:	Acuerdo 026 de 2014
+		Tiene pendientes 10 créditos de libre elección
+		Con las equivalencias y el traslado de créditos sobrantes completa el 100% del plan de estudios.
+		Las equivalencias son viables para 2021-1S dado que en ese semestre se matriculó el estudiante y para ese mismo momento se le registrarían los créditos exentes de BAPI, completando así el plan de estudios en el100% 
+	
+Concepto: El Comité Asesor recomienda al Consejo de Facultad APROBAR 
+1. equivaler en el periodo académico 2021-1S, la(s) siguiente(s) asignatura(s) cursada(s) en el programa Ingeniería Electrónica, de la siguiente manera (Artículo 35 del Acuerdo 008 de 2008 del Consejo Superior Universitario)
+Vargas Quintero Juan Camilo	DNI. 1032468391Asignaturas a convalidar en el plan de estudios de Ingeniería de Sistemas y Computación (2879) Asignaturas cursadas en el plan de estudios Ingeniería ElectrónicaCódigoAsignaturaCTNotaAsignaturaCNota1000024Principios de química3L3.5Principios de química33.52015711Dibujo básico3L3.4Dibujo básico33.4Créditos Libre Elección6
+2. trasladar 6 créditos aprobados en BAPI que exceden a los créditos exigidos por la asignatura Trabajo de Grado, los cuales se asumirán como créditos inscritos y aprobados del componente de libre elección, si en este componente aún hay créditos por ser aprobados. (Artículo 16 del Acuerdo 026 de 2012 del Consejo Académico)
+
+PRÁCTICA ESTUDIANTIL
+9.1.38 Morales Pulido Santiago Alejandro	DNI. 2016
+Tipo de solicitud:	Práctica estudiantil.
+Justificación:	Solicito amablemente la inscripción de la práctica estudiantil para el segundo semestre de 2021 (2021-2), de la cual ya se realizó el convenio con la empresa.
+Soportes:	Formato de práctica, copia del contrato, ARL 
+https://drive.google.com/open?id=1tXCAb6ID6wOvXLFWoVd9w7vqxXcEG5Dihttps://drive.google.com/open?id=16n7BNIbHOc3vfhb4_fmfz5OAAWNLHkdw
+Fecha de radicación:	Agosto 4
+	Análisis:	Acuerdo 016 de 2011, Acuerdo 026 de 2014
+		Intensidad  40 horas 
+		Contrato por 6 meses desde el 6 de julio 2021 
+		OK carga máxima en acta del14 de octubre
+		Va cursar BAPI en 2021-2S
+		Ok prerrequisito
+		Avance 86.7%
+	Para el acta de Consejo del 14 de octubre se le aprobó cursar mas de 20 créditos 
+	Con Práctica estudiantil de 6 créditos y si aprueba todo lo inscrito completaría plan de estudios.
+Concepto: El Comité Asesor recomienda al Consejo de Facultad APROBAR inscribir la siguiente asignatura en el periodo académico 2021-2S, a desarrollar en la empresa CSG INTERNATIONAL COLOMBIA SAS, a cargo del profesor Luis Fernando Niño Vásquez por parte de la Universidad Nacional de Colombia y el señor Cezar Bastos por parte de la entidad.
+Código SIANombre AsignaturaGrupoTC2016764Práctica estudiantil III6L9
+9.1.39 Ramírez Soto Alci Rene	DNI. 1019104714
+Tipo de solicitud:	Práctica estudiantil.
+Justificación:	"La posibilidad de tener una materia (Trabajo) que me permita incurrir en el campo laboral bajo doble criterio de evaluación me parece una forma pertinente de poder medir mis conocimientos aprendidos y seguir construyendo mi perfil profesional de egresado de la universidad."
+Soportes:	Formato de práctica, copia del contrato, ARL 
+https://drive.google.com/open?id=1h-6tiBYI3MmJ3ay6y3TGwT1v4hznYXCZhttps://drive.google.com/open?id=1Dv1pcl9d6Z3u3YPWrrtRgKZHfW3Y5aekhttps://drive.google.com/open?id=1vWtcTVkXnK-2jAHpnw-7WbqP4wDcvBLj
+Fecha de radicación:	octubre 1
+	Análisis:	Acuerdo 016 de 2011, Acuerdo 026 de 2014
+		PAPA 3.6
+		Avance 77.0%
+		Intensidad  25 horas semanales
+		Contrato por 6 meses desde el 26 de julio 2021 
+	Solo tiene inscritos 6 créditos, tiene pendiente que le inscriban TG.
+		Va cursar BAPI en 2021-2S
+	Requiere aprobación de cursar más de 20 créditos si la práctica es de 9 créditos.
+Concepto: El Comité Asesor recomienda al Consejo de Facultad APROBAR inscribir la siguiente asignatura en el periodo académico 2021-2S, a desarrollar en la empresa CONSULTORES EN INFORMACION INFOMETRIKA SAS, a cargo del profesor Jairo Hernán Aponte Melo  por parte de la Universidad Nacional de Colombia y el señor Julián Rolón Vidal por parte de la entidad.
+Código SIANombre AsignaturaGrupoTC2016762Práctica estudiantil I8L3
+9.1.40 Pallares Rubio Daniel Alejandro	DNI. 1007885358
+Tipo de solicitud:	Práctica estudiantil.
+Justificación:	"deseo tener un acercamiento al campo laboral que posee la carrera , mientras voy finalizando mis estudios de pregrado."
+Soportes:	Formato de práctica, copia del contrato, ARL 
+https://drive.google.com/open?id=130zd_V-COVJFCTNVYJUGp9Epoz-Q2-xZhttps://drive.google.com/open?id=1h2Xs9vwvU9BtY7DC5HahQu5Y7r1hhrJBhttps://drive.google.com/open?id=1VXN-9Dx66yDnGsWDoi2KbZ1RDtBJGug1
+Fecha de radicación:	octubre 1
+	Análisis:	Acuerdo 016 de 2011, Acuerdo 026 de 2014
+		PAPA 4.0
+		Avance 85.5%
+		Intensidad  25 horas semanales
+		Contrato por 6 meses desde el 26 de julio 2021 
+	Solo tiene inscritos 6 créditos, tiene pendiente que le inscriban TG.
+		Va cursar BAPI en 2021-2S
+	Requiere aprobación de cursar más de 20 créditos si la práctica es de 9 créditos.
+Tiene pendientes  18 crédito del plan de estudios: 6 TG y 18 Libre elección.
+Concepto: El Comité Asesor recomienda al Consejo de Facultad APROBAR inscribir la siguiente asignatura en el periodo académico 2021-2S, a desarrollar en la empresa CONSULTORES EN INFORMACION INFOMETRIKA SAS, a cargo del profesor Jairo Hernán Aponte Melo  por parte de la Universidad Nacional de Colombia y el señor Julián Rolón Vidal por parte de la entidad.
+Código SIANombre AsignaturaGrupoTC2016762Práctica estudiantil I8L3
+9.1.41 Barragán Ibáñez Mateo Sebastián	DNI. 1032505184
+Tipo de solicitud:	Práctica estudiantil.
+Justificación:	"Quiero cursar la materia de práctica y cumplo con los requisitos."
+Soportes:	Formato de práctica, copia del contrato, ARL 
+https://drive.google.com/open?id=1orOprfxVOe6Z7fObGX24HpsUYGThB6ufhttps://drive.google.com/open?id=16U5rR3twiRvTuH7CF44_HGiYsTdgJo3O
+Fecha de radicación:	octubre 1
+	Análisis:	Acuerdo 016 de 2011, Acuerdo 026 de 2014
+		PAPA 3.8
+		Avance 86.1
+		Intensidad  25 horas semanales
+		Contrato por 6 meses desde el 26 de julio 2021 
+	Solo tiene inscritos 6 créditos, 
+Concepto: El Comité Asesor recomienda al Consejo de Facultad APROBAR inscribir la siguiente asignatura en el periodo académico 2021-2S, a desarrollar en la empresa CONSULTORES EN INFORMACION INFOMETRIKA SAS, a cargo del profesor Jairo Hernán Aponte Melo  por parte de la Universidad Nacional de Colombia y el señor Julián Rolón Vidal por parte de la entidad.
+Código SIANombre AsignaturaGrupoTC2016762Práctica estudiantil I8L3
+9.1.42 Medina Naranjo Juan Diego	DNI. 1007826422
+Tipo de solicitud:	Práctica estudiantil.
+Justificación:	" Como parte de las asignaturas disponibles en el plan de estudio de la carrera de Ingeniería de Sistemas y Computación, se encuentra la Practica Estudiantil, la cual permite relacionarse en un entorno laboral durante un periodo académico. Con base en esto, el 19 de Julio de 2021 inicie un contrato con la empresa Amazon Web Services Colombia para desarrollar el cargo de Solutions Architect Intern a tiempo completo por un periodo de 6 meses."
+Soportes:	Formato de práctica, copia del contrato, ARL 
+https://drive.google.com/open?id=1Z77b6A0h0H3pqDDksCBQaYsXcYmef8Ff
+Fecha de radicación:	octubre 6
+	Análisis:	Acuerdo 016 de 2011, Acuerdo 026 de 2014
+		PAPA 4.6
+		Avance 93.9
+		Créditos propuestos 6 (tiempo completo)
+		Contrato por 6 meses desde el 19 de julio 2021 
+	Solo tiene inscritos 6 créditos, 
+Concepto: El Comité Asesor recomienda al Consejo de Facultad APROBAR inscribir la siguiente asignatura en el periodo académico 2021-2S, a desarrollar en la empresa Amazon Web Services Colombia S.A.S, a cargo del profesor Jeisson Andrés Vergara Vargas por parte de la Universidad Nacional de Colombia y el señor Luis Caro Pérez por parte de la entidad.
+Código SIANombre AsignaturaGrupoTC2016763Práctica estudiantil II5L6
+9.1.43 Salas Mosquera Jairo Daniel	DNI. 1024597547
+Tipo de solicitud:	Práctica estudiantil.
+Justificación:	Me estoy acercando por primera vez a la vida laboral respecto a mi carrera y quisiera aprovechar ese tiempo invertido como práctica, además cuento con el apoyo de un profesor que aceptó a ayudarme y que figura como mi asesor académico para esta solicitud. Con estas prácticas espero reforzar y aprender nuevos conocimientos que me aporten como persona, como estudiante y como futuro profesional.
+Soportes:	Formato de práctica, copia del contrato, ARL 
+https://drive.google.com/open?id=1DU4ErAq5AbImd2ub60Y1WRN7D5MjSWTJ
+Fecha de radicación:	octubre 6
+	Análisis:	Acuerdo 016 de 2011, Acuerdo 026 de 2014
+		Intensidad  40 horas 
+	Contrato de acuerdo de voluntades por 6 meses desde el 1 de octubre 2021 
+Proponen que sea de 9 créditos
+PAPA 3.9 
+Avance 65.5%
+Tiene inscritos 12 créditos
+	Si se le aprueba la Práctica Estudiantil de 9 créditos debería aprobársele cursar más de 20 créditos mientras
+Se requiere respuesta de la empresa sobre la cantidad de horas a dedicar en la práctica estudiantil.		
+Concepto: El Comité Asesor APLAZA la solicitud de inscribir la siguiente asignatura en el periodo académico 2021-2S, a desarrollar en la empresa Evolution Consulting SAS, a cargo del profesor Jeisson Andrés Vergara por parte de la Universidad Nacional de Colombia y el señor Hernán Gonzáles Moore por parte de la entidad.
+Código SIANombre AsignaturaGrupoTC2016763Práctica estudiantil IIXXL6
+9.1.44 Cristancho Rincón Juan David	DNI. 1000515229
+Tipo de solicitud:	Práctica estudiantil.
+Justificación:	Solicitud de practica de estudiantil convencional.
+Soportes:	Formato de práctica, copia del contrato, ARL 
+https://drive.google.com/open?id=1NvCLc51bVd_vG2yV38yc-gR_216ugZCX
+Fecha de radicación:	octubre 7
+	Análisis:	Acuerdo 016 de 2011, Acuerdo 026 de 2014
+		Intensidad  40 horas 
+	Contrato de acuerdo de voluntades por 6 meses desde el 1 de octubre 2021 
+Proponen que sea de 9 créditos la práctica.
+PAPA 3.9 
+Avance 90.3%
+Tiene inscritos 12 créditos, todos de Libre Elección y tiene pendiente que le inscriban TG BAPI (ya tiene inscritos 8 créditos BAPI) por lo que si se le aprueba la Práctica Estudiantil debería aprobársele cursar más de 20 créditos mientras, que posiblemente, cancele algunos créditos de Libre elección inscritos
+Se requiere respuesta de la empresa sobre la cantidad de horas a dedicar en la práctica estudiantil.		
+Concepto: El Comité Asesor APLAZA la solicitud de
+1. inscribir más de la carga máxima autorizada, en el periodo académico 2021-2S, teniendo en cuenta que los Consejos de Facultad podrán autorizar cursar un número mayor de créditos en los casos en que lo consideren justificado y pertinente. (Acuerdo 356 de 2021)inscribir la 
+2. Inscribir siguiente asignatura en el periodo académico 2021-2S, a desarrollar en la empresa Evolution Consulting SAS, a cargo del profesor Jeisson Andrés Vergara por parte de la Universidad Nacional de Colombia y el señor Hernán Gonzáles Moore por parte de la entidad.
+Código SIANombre AsignaturaGrupoTC2016763Práctica estudiantil IIXL6
+9.1.45 Castañeda Romero Sebastián	DNI. 1019146963
+Tipo de solicitud:	Práctica estudiantil.
+Justificación:	Deseo inscribir mis practicas académicas debido a que las estoy haciendo desde junio de este año para para poder adelantar mis créditos de electivas.
+	Adicional a eso en caso de ser aprobadas cancelaria las siguientes materias para no exceder los créditos del semestre: 2027394 Música y política, 2024124 Sensibilidad y pensamiento cinematográfico, o cualquier otra electiva que tenga inscrita, 2025972 Introducción a la criptografía y a la seguridad de la información
+Soportes:	Formato de práctica, copia del contrato, ARL 
+https://drive.google.com/open?id=1gY0R9MMBsT5AMxWWO1F41Jtx0VCBhC4R
+Fecha de radicación:	octubre 7
+	Análisis:	Acuerdo 016 de 2011, Acuerdo 026 de 2014
+		Intensidad  40 horas 
+	Contrato de Acuerdo de Práctica por 6 meses desde el 21 de junio 2021 
+Proponen que sea de 9 créditos
+PAPA 3.6 
+Avance 75.8%
+Tiene inscritos 12 créditos en Ingeniería de Sistemas y Computación (2879) y tiene pendiente que le inscriban TG BAPI al 16 de octubre
+
+En BAPI tiene inscritos 8 créditos al 16 de octubre
+
+	La cancelación de las dos asignaturas de Libre Elección inscritas resulta coherente en caso de aprobar la Inscripción Práctica estudiantil dado que quedaría con 6 créditos inscritos, pero en total serían 6 Disciplinales(ya inscritos) 6 TG y los 6 o 9 de práctica Estudiantil.
+Se requiere respuesta de la empresa sobre la cantidad de horas a dedicar en la práctica estudiantil.
+Concepto: El Comité Asesor APLAZA la solicitud  de:
+1. inscribir más de la carga máxima autorizada, en el periodo académico 2021-2S, teniendo en cuenta que los Consejos de Facultad podrán autorizar cursar un número mayor de créditos en los casos en que lo consideren justificado y pertinente. (Acuerdo 356 de 2021)
+2. cancelar la(s) siguiente(s) asignatura(s) inscrita(s) del periodo académico 2021-2S, porque justifica debidamente la solicitud. (Artículo 15 Acuerdo 008 de 2008 del Consejo Superior Universitario)
+CódigoNombre AsignaturaGrupoTC2027394Música y Política1L32024124Sensibilidad y pensamiento cinematográfico1L3
+3. inscribir la siguiente asignatura en el periodo académico 2021-2S, a desarrollar en la empresa ACCENTURE LTDA, a cargo del profesor Germán Hernández por parte de la Universidad Nacional de Colombia y el Diego Galvis por parte de la entidad.
+Código SIANombre AsignaturaGrupoTC2016763Práctica estudiantil IIXXL6
+9.1.46 Macías Mahecha José Marcos	DNI. 1026589357
+Tipo de solicitud:	Práctica estudiantil.
+Justificación:	"Solicito al Consejo de Facultad la inscripción de la asignatura ""Práctica Estudiantil"" para el semestre académico en curso, debido a que actualmente estoy en el desarrollo de la práctica universitaria dentro de la empresa Accenture LTDA. Allí desempeño actividades relacionadas al área de estudio del programa curricular en el que me encuentro, esta información se encuentra con mayor detalle en el Formato de inscripción de práctica, anexo en la documentación.
+
+	Para el ejercicio de evaluación de dicha práctica, lo estaré desarrollando junto a la profesora del departamento de Sistemas e Industrial, Jenny Marcela Sánchez Torres, quien aceptó ser mi tutora por parte de la universidad."
+	Debido a que la práctica es de tiempo completo y que el desarrollo de ésta me toma 40 horas semanales, solicito la inscripción de la asignatura con carga de 9 créditos, si el Consejo así lo considera después de analizar la solicitud.
+Soportes:	Formato de práctica, copia del contrato, ARL 
+https://drive.google.com/open?id=1isUM6zeOejxZOLdQ3DrjxZG0QSHPlVzP 
+Fecha de radicación:	octubre 13
+	Análisis:	Acuerdo 016 de 2011, Acuerdo 026 de 2014
+		Intensidad  40 horas 
+	Contrato de Acuerdo de Práctica por 6 meses desde el 21 de junio 2021 
+Proponen que sea de 9 créditos
+PAPA 3.9 
+Avance 70.9%
+Tiene inscritos 9 disciplinares.
+Concepto: El Comité Asesor recomienda al Consejo de Facultad APROBAR inscribir la siguiente asignatura en el periodo académico 2021-2S, a desarrollar en la empresa ACCENTURE LTDA, a cargo del profesor Jenny Marcela Sanchez por parte de la Universidad Nacional de Colombia y el Diego Galvis por parte de la entidad.
+Código SIANombre AsignaturaGrupoTC2016764Práctica estudiantil III7L9
+CANCELACIÓN DE PERIODO ACADÉMICO
+9.1.47 Vahos Duque Juan Sebastián	DNI. 1032477407
+Tipo de solicitud:	Cancelación de periodo académico.
+Justificación:	No tengo el dinero para pagar este semestre.
+	Ya he solicitado reubicación económica y me la han negado por lo cual no pude continuar con mis estudios
+Soportes:	Formato de solicitud, https://drive.google.com/open?id=1f2kw1rM4Ka77DMU7ll_79nJBCTwGj12z
+Fecha de radicación: octubre 11
+Análisis:	Acuerdo 008 de 2008
+1. SIA: Porcentaje de avance en el plan: 27.3 %. Número de matrículas: 2 al 2021-1S,  PAPA: 3.9
+Concepto: El Comité Asesor recomienda el Consejo de Facultad NO APROBAR cancelar la totalidad de las asignaturas en el periodo 2021-2S, en el programa de Ingeniería de Sistemas y Computación (2879), debido a que el estudiante no ha realizado el pago correspondiente al periodo 2021-2S, por lo que no tiene la calidad de estudiante. De acuerdo a lo establecido en las Acuerdo 356 de 2021 de Consejo Superior Universitario Rectoría si no hace uso del derecho de renovación de matrícula estará en reserva de cupo en el periodo 2021-2S.
+
+9.1.1 CRÉDITOS EXCEDENTES PARA DOBLETITULACIÓN:
+Justificación:   La División de Registro informa que la Historia Académica de los siguientes estudiantes es abierta para 2021-2S por lo que se requiere asignarles los créditos adicionales requeridos para cursar las asignaturas pendientes del segundo plan dada la doble titulación aprobada ya que culminaron su primer plan con un PAPA igual o superior a 4,3 y en el primer semestre 2021-1S
+Normatividad:
+	ACUERDO 155 DE 2014  CSU
+	RESOLUCIÓN 13 DE 2020 Vicerrectoría Académica
+Análisis:  	
+· El literal b, parágrafo 2, artículo 6, Acuerdo 155 de 2014 – Consejo Superior Universitario dice: 
+b) El cupo extraordinario de créditos otorgado por el Consejo de Facultad a los estudiantes que presenten un Promedio Académico Ponderado Acumulado superior o igual a 4.3 al cumplir con los requisitos académicos para optar el título en el primer plan de estudios.
+Los cálculos se realizan tomando en cuenta el total de créditos exigidos por el segundo plan menos los créditos sobrantes/disponibles al finalizar el primer plan menos los créditos equivalidos.	
+Concepto:	El Comité Asesor recomienda al Consejo de Facultad APROBAR otorgar un cupo extraordinario de créditos adicionales para culminar su plan de estudios, teniendo en cuenta que es lo requerido para cursar las asignaturas pendientes del segundo plan dada la doble titulación aprobada ya que culminó su primer plan con un PAPA igual o superior a 4,3. (literal b, parágrafo 2, artículo 6, Acuerdo 155 de 2014 – Consejo Superior Universitario)
+
+DNINombrePlanCupo extraordinario de créditos1022435976Hernández Ardila David Santiago Ingeniería de Sistemas y Computación (2879)911022442445Lavacude Galvis Cristian DavidIngeniería de Sistemas y Computación (2879)181023019487Ostos Peñaloza KevinIngeniería de Sistemas y Computación (2879)78
+
+
+
+Ing. Jenny Marcela Sánchez
+Directora de Área Curricular
+proyecto
+cultural,
+científico
+y colectivo
+de nación
+Av. Carrera 30 # 45-03 - Ciudad Universitaria
+Edificio 453, Oficina 209
+(+57 1) 3165357 - (+57 1) 3165000 EXT: 14068
+Bogotá, D. C., Colombia
+acisi_fibog@unal.edu.co
+
+
+[ Página 2 de 2 ] 
+Elaboró: LS/IV/JMS
+
+
+
