@@ -1,321 +1,0 @@
-﻿Área Curricular de Ingeniería de Sistemas e Industrial | Facultad de Ingeniería | Sede Bogotá
-
-COMITÉ ASESOR DE CARRERA - INGENIERÍA DE SISTEMAS Y COMPUTACIÓN 
-ACTA No. 11 de junio 1 de 2021
-
-ASISTENTES
-Ing. Jenny Marcela Sánchez Torres		Directora de Área Curricular
-Ing. Elizabeth León Guzmán		Coordinadora Curricular Ingeniería de Sistemas y Computación
-Ing. Jorge Eduardo Ortiz Triviño		Representante de los profesores
-Gabriela María García				Representante estudiantil
-Ing. Luis Fernando Caicedo		Egresado Ing. Sistemas - Invitado
-Ing. Leonardo Salgado				Asesor curricular
-Angela María Cárdenas Orjuela 		Representante estudiantil
-
-Lugar: Virtual.
-Fecha: martes 1 de junio de 2021
-Hora: 2:30 pm.
-
-ORDEN DEL DÍA
-1. Asuntos Varios
-2. Asuntos estudiantiles
-
-DESARROLLO DEL ORDEN DEL DÍA
-
-ASUNTOS VARIOS
-
-1. Agradecimiento al profesor Charalambos por los servicios prestados al Comité.
-
-2. Avances en virtualización de POO. Se informa que ya se tienen virtualizados 4 módulos de los 5 que componen la asignatura, acercándose a lo propuesto para el primer semestre 2021, que es completar la virtualización de toda la asignatura.
-
-3. Preinscripción Trabajo de Grado 2021-2S – Ingeniería de Sistemas y Computación (2879) 
-
-No.EstudianteDNICorreo ElectrónicoModalidadAvance Disciplinar (Créditos)1Andrés Giovanny Aldana Wilches1023946932agaldanaw@unal.edu.coTrabajo de Grado - Admisión Anticipada - Maestría en Ingeniería de Sistemas632Felipe Pieschacón Rueda1018510719fpieschaconr@unal.edu.coTrabajo de Grado - Admisión Anticipada - Maestría en Ingeniería de Sistemas633Camilo Ernesto Vargas Romero1024578490camevargasrom@unal.edu.coTrabajo de Grado - Admisión Anticipada - Maestría en Ingeniería de Sistemas57+184Cristhian Geovani Contreras Moncada1016092655cgcontrerasm@unal.edu.coAsignaturas de Posgrado755José Miguel Carvajal Jiménez1136885059jmcarvajalj@unal.edu.coAsignaturas de Posgrado606Julián David Acosta Bello1000831128jdacostabe@unal.edu.coAsignaturas de Posgrado637Camilo Andrés Gil Ballen1007358401cgilb@unal.edu.coAsignaturas de Posgrado638Carlos Augusto Gutiérrez Silva1019069457cagutierrezs@unal.edu.coAsignaturas de Posgrado57+69Marcel Julián Martínez Vanegas1026597590majmartinezva@unal.edu.coAsignaturas de Posgrado6010Sergio Iván Sarmiento Beltrán1019111577sisarmientob@unal.edu.coAsignaturas de Posgrado6311Miguel Alejandro Peña Hurtado1049654080miapenahu@unal.edu.coAsignaturas de Posgrado57+1212Gabriel Esteban Bejarano Delgado1022425161gebejaranod@unal.edu.coAsignaturas de Posgrado7213Laura Valentina Castaño Morales1010229518lvcastanom@unal.edu.coAsignaturas de Posgrado57+1214Juan Pablo Bonilla Gómez1032504340jupbonillago@unal.edu.coAsignaturas de Posgrado51+1515Santiago Alejandro Morales Pulido1070989887samoralespu@unal.edu.coAsignaturas de Posgrado57+1216Santiago Duque Bernal1001324824saduquebe@unal.edu.coAsignaturas de Posgrado51+1517Elsa Johanna Arias Muñoz1022391539ejariasm@unal.edu.coAsignaturas de Posgrado6618Alci Rene Ramírez Soto1019104714alrramirezso@unal.edu.coAsignaturas de Posgrado6019Ernesto Bastidas Pulido99122006006ebastidasp@unal.edu.coAsignaturas de Posgrado6320Jonatan Rivera Saumeth1016046978jhriverasa@unal.edu.coAsignaturas de Posgrado6921Sebastián Castañeda Romero1019146963sebcastanedarom@unal.edu.coAsignaturas de Posgrado57+1222Diana Katerine Muñoz Diaz 1016079364dkgarciad@unal.edu.coAsignaturas de Posgrado54+923Camilo Alfonso Mosquera Benavides1015454609camosquerab@unal.edu.coAsignaturas de Posgrado6024Kevin Andrey Herrera Silva1032485124kaherreras@unal.edu.coTrabajos Investigativos - Proyecto Final6925Gabriel Pérez Santamaría1020843548gaperezsa@unal.edu.coTrabajos Investigativos - Participación en Proyectos de Investigación51+1226Carlos Alberto Nieto Tinoco1018450144canietot@unal.edu.coPasantía6327Santiago Hernández Montaño1075686861sanhernandezmon@unal.edu.coPasantía57+628Camilo José Sepúlveda Zúñiga1015463832csepulvedaz@unal.edu.coPasantía6629David Stephan Ramírez Camacho99022206989dsramirezc@unal.edu.coPasantía6030Andrés Felipe Moya Rodríguez1018487684afmoyar@unal.edu.coPasantía6031Duván Camilo Albarracín Vargas1018485253dcalbarracinv@unal.edu.coPasantía6332Diego Fernando Pastas Mueses1085936365dfpastasm@unal.edu.coPasantía6033Carlos Daniel Rincón Mora1020804695cdrinconm@unal.edu.coPasantía51+1234Cristian Alejandro Mantilla Duque1032502457camantillad@unal.edu.coPasantía6635Gustavo Gálvez Bello1014260587ggalvezb@unal.edu.coPasantía57+1536Cesar Augusto Velasco Ramírez1233492163cavelascor@unal.edu.coPasantía6337Valeria Huepa Ducuara1030661820vhuepad@unal.edu.coPasantía51+1538Kevin Alejandro Vanegas Morales 1018483781kavanegasm@unal.edu.coPasantía6639Daniel Marcelo Cifuentes De La Portilla1032504867dmcifuentesp@unal.edu.coPasantía6340Juan Diego Moreno Mora1019146274judmorenomo@unal.edu.coPasantía57+641Julie Vanessa Triviño García1016108312jvtrivinog@unal.edu.coPasantía57+9
-
-ASUNTOS ESTUDIANTILES
-
-RECURSOS DE REPOSICIÓN Y REPOSICIÓN CON SUBSIDIO DE APELACIÓN:
-
-RECURSO DE REPOSICIÓN
-9.1.1 Orduz Lunar Andrés Camilo	DNI. 1001301429
-Tipo de solicitud:	Recurso de reposición con subsidio de apelación.
-Justificación:		“Me comunico para que se tome en reconsideración mi solicitud de traslado intrafacultad del programa Ingeniería Civil (2542) de la Universidad Nacional de Colombia – Sede Bogotá, al programa Ingeniería de Sistemas y Computación (2879) de la Universidad Nacional de Colombia – Sede Bogotá, en el periodo académico 2021-2S. Solicito a ustedes concederme la excepción a la norma en el Acuerdo 089 de 2014, Artículo 3 del Consejo Académico en lo que concierne al número de cupos, dado que:
-
-1. Si decido cursar el 30% de la carrera a la cual fui admitido, es posible que el traslado se demore y con ello pierda créditos necesarios para las asignaturas que se deban ver en la carrera a la cual me quiero trasladar. 
-2. Cumplo ampliamente con los requisitos para traslado incluyendo el del puntaje de admisión con una diferencia de 54,0565 puntos al último admitido en la carrera de traslado.
-3. Tengo entendido que los cupos son limitados pero mi PAPA y mi PAPPI actual se  encuentra entre 30% de los mejores estudiantes de mi carrera (4,2) el cual he mantenido a lo largo de las matrículas que he cursado, pero estudiando algo que realmente me guste y me apasione espero suba aún más mi rendimiento académico.
-	4. Mi salud mental se ve afectada estudiando algo que no me gusta y aún más cuando no sabría que hacer el próximo semestre si no es posible el traslado, ya que mi familia es de escasos recursos y dependen de mi a futuro como profesional.
-5. El desarrollo académico y personal debe llevarse a cabo en una carrera que cumpla mis aspiraciones personales, ya que con ello se puede presentar una mayor motivación y entusiasmo a la hora de trabajar en las materias específicas de la carrera destino en comparación a mi carrera actual. De acuerdo con lo anterior, podría presentar una mayor participación en proyectos, semilleros de investigación; representando un mayor aporte dentro de la academia.
-Soportes:		Recurso de reposición
-https://drive.google.com/file/d/1a32ibgzM26cuel8-_wYL80GpDyhYSa72/view?usp=sharing
-Fecha de solicitud: 25 de mayo
-	Análisis:	
-1. Se interpone recurso de reposición sobre la decisión del acta 12 de mayo 13 de 2021, 
-2. Recomendación del Comité Asesor en acta de comité 8 de 2021: Concepto: El Comité Asesor recomienda al Consejo de Facultad NO APROBAR traslado  intrafacultad del programa Ingeniería Civil (2542) de la Universidad Nacional de Colombia – Sede Bogotá, al programa Ingeniería de Sistemas y Computación (2879)  de la Universidad Nacional de Colombia – Sede Bogotá, en el periodo académico 2021-2S, porque según los criterios de selección del Comité Asesor los cupos ofertados ya fueron ocupados (Artículo 3, Acuerdo 089 de 2014 del Consejo Académico).
-
-1. Datos Generales
-TRASLADO
-Normativa Asociada: Artículo 39 del Acuerdo 008 de 2008 del CSU y Acuerdo 089 de 2014 del C.A.1EstudianteOrduz Lunar Andrés Camilo2DNI 10013014293Plan de estudios origen (1er plan) – Sede BogotáIngeniería Civil (2542)4Código del plan de estudios origen (1er plan) 25215Plan de estudios destino (2° plan) – Sede BogotáIngeniería de Sistemas y Computación (2879)6Código del plan de estudios destino (2° plan) (2879)7Fecha de la Solicitud a través del SIA24  de febrero8¿Estos planes de estudios conducen al mismo título? No
-2. Información Académica:
-Periodo para el cual fue admitido2019-2S¿El solicitante se encuentra matriculado en el semestre de presentar la solicitud?Si¿El solicitante tuvo calidad de estudiante en el plan de estudios destino (2° plan)?NoPorcentaje de créditos aprobados en el plan de estudios origen (1er plan)21.1
-(A) SI EL PORCENTAJE ES MENOR DE 30 DILIGENCIAR (A1) y (A2)(A1) ¿Cuál fue el puntaje de admisión del solicitante?714,42(A2) Puntaje de admisión del último admitido regular al plan destino (2° plan) en la misma prueba de ingreso del solicitante* 660,3935Si el valor de (A2) es mayor que el valor de (A1) el Comité Asesor no debe recomendar favorablemente el traslado y por tanto no es necesario diligenciar el estudio de créditos ni el resumen general de créditos del segundo plan de estudios.C. Estudio de créditos1Cupo de créditos menos créditos pendientes en el plan de estudios origen (1er plan):672Cupo de créditos para traslado (literal d del artículo 3 del acuerdo 089 de 2014 de Consejo Académico)2033¿El cupo de créditos para traslado es igual o mayor al número de créditos pendientes de aprobación en el plan de estudios destino (2° plan)?SI4Si la anterior respuesta es NO el Comité Asesor no puede recomendar favorablemente el traslado y por tanto no es necesario diligenciar el resumen general de créditos del segundo plan de estudios.		* en caso que el plan destino sea de convocatoria anual el puntaje será con la anterior convocatoria.
-3. Resumen general de créditos del segundo plan de estudios:
-CréditosFundamentaciónDisciplinarLibre Elección (L)TotalObligatorios (B)Optativos (O)Obligatorios (C)Optativos (T)Exigidos*1536602133165Convalidados/equivalentes415301638Pendientes1121572117127*Sin incluir los créditos correspondientes al cumplimiento del requisito de suficiencia en idioma extranjero 
-El Comité Asesor de Ingeniería de Sistemas y Computación (2879) en sesión del día 1 de junio de 2021, acta 11.RecomiendaNo recomiendaX
-3. Las solicitudes de traslado tenían plazo para ser radicadas hasta el 9 de  abril 2021, según el calendario académico, por lo que posterior a esa fecha el Comité Asesor (27 de abril) revisó todas las solicitudes de manera simultánea para recomendar asignar los 6 cupos disponibles para traslados para 2021-2S bajo los siguientes criterios, enmarcados en el Acuerdo 089 de 2014 – Consejo de Académico:
-· 3 cupos serían para estudiantes que tienen un porcentaje de avance inferior al 30 %, priorizando a los 3 con mejor puntaje de admisión de ese grupo. 
-· 3 cupos serían para estudiantes con un avance del plan de estudios superior al 30%, priorizando a los de mayor PAPA de ese grupo. 
-· Como criterio de desempate cuando el PAPA sea el mismo en los candidatos a traslado con un avance superior al 30%, se estableció que se ponderarían el porcentaje de avance de carrera que tendría en Ingeniería de Sistemas y Computación (2879) al 20%, el PAPA que tendría en Ingeniería de Sistemas y Computación (2879) al 30% y el puntaje de admisión al 50%. 
-4. La  estudiante tiene un avance de carrera del 21.1%, por lo que sería candidato  a traslado en el grupo de los 3 cupos para estudiantes con avance inferior al 30%  dado que su puntaje de admisión es igual o superior al puntaje del último admitido regular al plan de estudios de destino en la misma prueba de ingreso (Acuerdo 089 de 2014 – Consejo de Académico).
-
-5. De las 31 solicitudes de traslados recibidas 15 de ellas cumplen entonces las condiciones para optar a traslado en el grupo de los 3 cupos para estudiantes con avance inferior al 30%, de las cuales el estudiante es superado por 8 estudiantes con mejor puntaje de admisión que él.
-6. Los 3 cupos de traslados en el grupo de los 3 cupos para estudiantes con avance inferior al 30% fueron asignados a estudiantes con los siguientes puntajes de admisión: 826.78, 786.65 y 735.09
-Concepto: El Comité Asesor recomienda al Consejo de Facultad en atención al recurso de reposición con subsidio de apelación RATIFICAR decisión del Acta 12 de mayo 14 de 2021, en consecuencia, NO APROBAR traslado  intrafacultad del programa Ingeniería Civil (2542) de la Universidad Nacional de Colombia – Sede Bogotá, al programa Ingeniería de Sistemas y Computación (2879)  de la Universidad Nacional de Colombia – Sede Bogotá, en el periodo académico 2021-2S, porque según los criterios de selección del Comité Asesor los cupos ofertados ya fueron ocupados (Artículo 3, Acuerdo 089 de 2014 del Consejo Académico).
-
-1. Datos Generales
-TRASLADO
-Normativa Asociada: Artículo 39 del Acuerdo 008 de 2008 del CSU y Acuerdo 089 de 2014 del C.A.1EstudianteOrduz Lunar Andrés Camilo2DNI 10013014293Plan de estudios origen (1er plan) – Sede BogotáIngeniería Civil (2542)4Código del plan de estudios origen (1er plan) 25215Plan de estudios destino (2° plan) – Sede BogotáIngeniería de Sistemas y Computación (2879)6Código del plan de estudios destino (2° plan) (2879)7Fecha de la Solicitud a través del SIA24  de febrero8¿Estos planes de estudios conducen al mismo título? No
-2. Información Académica:
-Periodo para el cual fue admitido2019-2S¿El solicitante se encuentra matriculado en el semestre de presentar la solicitud?Si¿El solicitante tuvo calidad de estudiante en el plan de estudios destino (2° plan)?NoPorcentaje de créditos aprobados en el plan de estudios origen (1er plan)21.1
-(A) SI EL PORCENTAJE ES MENOR DE 30 DILIGENCIAR (A1) y (A2)(A1) ¿Cuál fue el puntaje de admisión del solicitante?714,42(A2) Puntaje de admisión del último admitido regular al plan destino (2° plan) en la misma prueba de ingreso del solicitante* 660,3935Si el valor de (A2) es mayor que el valor de (A1) el Comité Asesor no debe recomendar favorablemente el traslado y por tanto no es necesario diligenciar el estudio de créditos ni el resumen general de créditos del segundo plan de estudios.C. Estudio de créditos1Cupo de créditos menos créditos pendientes en el plan de estudios origen (1er plan):672Cupo de créditos para traslado (literal d del artículo 3 del acuerdo 089 de 2014 de Consejo Académico)2033¿El cupo de créditos para traslado es igual o mayor al número de créditos pendientes de aprobación en el plan de estudios destino (2° plan)?SI4Si la anterior respuesta es NO el Comité Asesor no puede recomendar favorablemente el traslado y por tanto no es necesario diligenciar el resumen general de créditos del segundo plan de estudios.		* en caso que el plan destino sea de convocatoria anual el puntaje será con la anterior convocatoria.
-3. Resumen general de créditos del segundo plan de estudios:
-CréditosFundamentaciónDisciplinarLibre Elección (L)TotalObligatorios (B)Optativos (O)Obligatorios (C)Optativos (T)Exigidos*1536602133165Convalidados/equivalentes415301638Pendientes1121572117127*Sin incluir los créditos correspondientes al cumplimiento del requisito de suficiencia en idioma extranjero 
-El Comité Asesor de Ingeniería de Sistemas y Computación (2879) en sesión del día 1 de junio de 2021, Acta 11RecomiendaNo recomiendaX
-CUADRO EQUIVALENCIA Y CONVALIDACIONES DE ASIGNATURAS CURSADAS Y APROBADAS HASTA LA FECHA DE PRESENTACIÓN DE LA SOLICITUD POR PARTE DEL ESTUDIANTE.
-Ingeniería Civil (2542)Ingeniería de Sistemas y Computación (2879)PeriodoCódigoAsignaturaCódigoAsignaturaT*AgrupaciónC*NOTA2019-2S1000004Cálculo diferencial 1000004Cálculo DiferencialOAgrupación Matemáticas44.02019-2S2015711Dibujo básico 2015711Dibujo básico LLibre Elección33.62019-2S1000011Fundamentos de ecología 1000011Fundamentos de ecología LLibre Elección34.62019-2S1000024Principios de química 1000024Principios de química LLibre Elección34.22019-2S2026186Introducción a la ingeniería civil 2025975Introducción a la Ingeniería de Sistemas y ComputaciónCAgrupación Contexto Profesional y Proyectos de Ingeniería34,52020-1S1000019Fundamentos de mecánica 1000019Fundamentos de MecánicaBAgrupación Física44.12020-1S1000013Probabilidad y estadística fundamental 1000013Probabilidad y Estadística FundamentalOAgrupación Probabilidad y Estadística34.42020-1S2023250Herramientas modernas para la administración 2023250Herramientas modernas para la administración LLibre Elección34.52020-2S1000003Álgebra Lineal 1000003Álgebra LinealOAgrupación Matemáticas43.92020-2S1000005Cálculo Integral 1000005Cálculo IntegralOAgrupación Matemáticas44.52020-2S2015958Geomática básica 2015958Geomática básica LLibre Elección44.3Total créditos convalidados/equivalentes28
-ASIGNATURAS PENDIENTES POR CURSAR EN EL SEGUNDO PLAN DE ESTUDIOS
-Componente de FundamentaciónObligatorias(B)AgrupaciónCódigoAsignaturaCréditos asignaturaCréditos pendientes por cursar de la agrupación Agrupación Física41000017Fundamentos de Electricidad y Magnetismo4Agrupación Ciencias de la Computación2015174Introducción a la Teoría de la Computación472016696Algoritmos3Total créditos pendientes 11Optativas (O)Nombre de la AgrupaciónCréditos exigidos en la agrupaciónCréditos pendientes por cursar de la agrupación Agrupación Matemáticas164Agrupación Ciencias de la Computación1111Agrupación Ciencias Económicas y Administrativas66Total créditos pendientes 21
-Componente  Disciplinar/Profesional Obligatorias (C y P)AgrupaciónCódigoAsignaturaCréditos asignaturaCréditos pendientes por cursar de la agrupación Agrupación Métodos y Tecnologías de Software2016375Programación Orientada a Objetos3182016699Estructuras de Datos32016701Ingeniería de Software I32016702Ingeniería de Software II32025966Lenguajes de Programación32016716Arquitectura de Software3Agrupación Infraestructura Computacional, de Comunicaciones y de Información2016697Arquitectura de Computadores3182016707Sistemas Operativos32025967Redes de Computadores32016722Computación Paralela y Distribuida32016353Bases de Datos32025983Arquitectura de Infraestructura y gobierno de TICs3Agrupación Computación Visual2025960Computación Visual33Agrupación Sistemas Inteligentes2025995Introducción a los Sistemas Inteligentes33Agrupación Modelos, Sistemas, Optimización y Simulación2016703Pensamiento Sistémico362025969Modelos Estocásticos y Simulación en Computación y Comunicaciones3Agrupación Contexto Profesional y Proyectos de Ingeniería32024045Taller de Proyectos Interdisciplinarios3Agrupación Trabajo de Grado2025974Trabajo de Grado66Total créditos pendientes 57Optativas(T)Nombre de la AgrupaciónCréditos exigidos en la agrupaciónCréditos pendientes por cursar de la agrupación Agrupación Métodos y Tecnologías de Software33Agrupación Infraestructura Computacional, de Comunicaciones y de Información1212Agrupación Modelos, Sistemas, Optimización y Simulación66Total créditos pendientes 21
-Componente de Libre Elección (L) (Créditos pendientes)17
-La oferta de asignatura optativas en cada una de las agrupaciones y componentes del plan de estudios del programa de Ingeniería de Sistemas y Computación (2879), la encuentra en el Acuerdo 026 de 2014 de Consejo de Facultad.
-
-
-RECURSO DE REPOSICIÓN 
-9.1.2 López Torres Yiyi Alejandra	DNI. 1000257988
-Tipo de solicitud:	Recurso de reposición con subsidio de apelación.
-Justificación:		“Me gustaría gestionar un recurso de reposición. Esto debido a que los argumentos por los cuales no aceptaron mi solicitud son erróneos.
-
-(A1) ¿Cuál fue el puntaje de admisión del solicitante?681,42(A2) Puntaje de admisión del último admitido regular al plan destino (2° plan) en la misma prueba de ingreso del solicitante*700,5173El puntaje del último admitido de 2019 tuvo un puntaje de 660. Esto soportado con el pdf que adjunto sacado directamente de la página oficial de UNAL.
-
-  https://admisiones.unal.edu.co/fileadmin/ArchivosDNA/Estadisticas/2019-2/192_regulares_y_MBP_Bogota.pdf   
-Agradezco que se tenga en cuenta una segunda vez.#
-Soportes:		Mail de solicitud y puntajes de admisión por programa 2019-1S
-https://drive.google.com/file/d/14kpPOMmwN1NKBvIIh07loNUYkpcPGnEZ/view?usp=sharing
-Fecha de solicitud: 22 de mayo
-	Análisis:	
-1. Se interpone recurso de reposición sobre la decisión del acta 12 de mayo 13 de 2021, caso 9.7.22
-2. Recomendación del Comité Asesor en acta de comité 8 de 2021 Concepto
-El Comité Asesor recomienda al Consejo de Facultad NO APROBAR traslado intrafacultad del programa Ingeniería Química (2549) de la Universidad Nacional de Colombia – Sede Bogotá, al programa Ingeniería de Sistemas y Computación (2879)  de la Universidad Nacional de Colombia – Sede Bogotá, en el periodo académico 2021-2S, porque el porcentaje de avance del estudiante es 20.6 %, y su puntaje de admisión no es igual o superior al puntaje del último admitido regular al plan de estudios de destino en la misma prueba de ingreso del solicitante. (Artículo 3, Acuerdo 089 de 2014 Consejo Académico)
-
-1. Datos Generales
-TRASLADO
-Normativa Asociada: Artículo 39 del Acuerdo 008 de 2008 del CSU y Acuerdo 089 de 2014 del C.A.1EstudianteYiyi Alejandra  López  Torres2DNI 10002579883Plan de estudios origen (1er plan) – Sede Bogotá Ingeniería Química (2549) 4Código del plan de estudios origen (1er plan) (2549)5Plan de estudios destino (2° plan) – Sede Bogotá Ingeniería de Sistemas y Computación 6Código del plan de estudios destino (2° plan) (2879)7Fecha de la Solicitud a través del SIA26 de febrero 8¿Estos planes de estudios conducen al mismo título? NO
-2. Información Académica:
-Periodo para el cual fue admitido2019-2S¿El solicitante se encuentra matriculado en el semestre de presentar la solicitud?SI¿El solicitante tuvo calidad de estudiante en el plan de estudios destino (2° plan)?NOPorcentaje de créditos aprobados en el plan de estudios origen (1er plan)20.6(A) SI EL PORCENTAJE ES MENOR DE 30 DILIGENCIAR (A1) y (A2)(A1) ¿Cuál fue el puntaje de admisión del solicitante?681,42(A2) Puntaje de admisión del último admitido regular al plan destino (2° plan) en la misma prueba de ingreso del solicitante* 700,5173Si el valor de (A2) es mayor que el valor de (A1) el Comité Asesor no debe recomendar favorablemente el traslado y por tanto no es necesario diligenciar el estudio de créditos ni el resumen general de créditos del segundo plan de estudios.		* en caso que el plan destino sea de convocatoria anual el puntaje será con la anterior convocatoria.
-3. La aclaración que hace la estudiante es correcta, para el periodo 2019-2S el puntaje del último admitido a Ingeniería de Sistemas y Computación (2879) fue 660,3935.
-4. Las solicitudes de traslado tenían plazo para ser radicadas hasta el 9 de  abril 2021, según el calendario académico, por lo que posterior a esa fecha el Comité Asesor (27 de abril) revisó todas las solicitudes de manera simultánea para recomendar asignar los 6 cupos disponibles para traslados para 2021-2S bajo los siguientes criterios, enmarcados en el Acuerdo 089 de 2014 – Consejo de Académico:
-· 3 cupos serían para estudiantes que tienen un porcentaje de avance inferior al 30 %, priorizando a los 3 con mejor puntaje de admisión de ese grupo. 
-· 3 cupos serían para estudiantes con un avance del plan de estudios superior al 30%, priorizando a los de mayor PAPA de ese grupo. 
-· Como criterio de desempate cuando el PAPA sea el mismo en los candidatos a traslado con un avance superior al 30%, se estableció que se ponderarían el porcentaje de avance de carrera que tendría en Ingeniería de Sistemas y Computación (2879) al 20%, el PAPA que tendría en Ingeniería de Sistemas y Computación (2879) al 30% y el puntaje de admisión al 50%. 
-5. La  estudiante tiene un avance de carrera del 20.6% por lo que sería candidata  a traslado en el grupo de los 3 cupos para estudiantes con avance inferior al 30%  dado que su puntaje de admisión es igual o superior al puntaje del último admitido regular al plan de estudios de destino en la misma prueba de ingreso (Acuerdo 089 de 2014 – Consejo de Académico).
-
-6. De las 31 solicitudes de traslados recibidas 15 de ellas cumplen entonces las condiciones para optar a traslado en el grupo de los 3 cupos para estudiantes con avance inferior al 30%, de las cuales la estudiante solo supera a otro candidato, es decir hay 13 candidatos con mejor puntaje de admisión.
-7. Los 3 cupos de traslados en el grupo de los 3 cupos para estudiantes con avance inferior al 30% fueron asignados a estudiantes con los siguientes puntajes de admisión: 826.78, 786.65 y 735.09
-Concepto: El Comité Asesor recomienda al Consejo de Facultad en atención al recurso de reposición con subsidio de apelación RATIFICAR decisión del Acta 12 de mayo 14 de 2021, en consecuencia, NO APROBAR traslado intrafacultad del programa Ingeniería Química (2549) de la Universidad Nacional de Colombia – Sede Bogotá, al programa Ingeniería de Sistemas y Computación (2879)  de la Universidad Nacional de Colombia – Sede Bogotá, en el periodo académico 2021-2S, porque al realizar el estudio de la solicitud el estudiante si cumple con el requisito de tener un puntaje de admisión igual o superior al puntaje del último admitido regular al plan de estudios de destino en la misma prueba de ingreso del solicitante y al tener un avance del plan de estudios inferior al 30% es candidata a traslado pero no supera a los puntajes de los estudiantes ya asignados para traslado, siendo este el criterio de selección del Comité Asesor. (Artículo 3, Acuerdo 089 de 2014 del Consejo Académico).
-
-1. Datos Generales
-TRASLADO
-Normativa Asociada: Artículo 39 del Acuerdo 008 de 2008 del CSU y Acuerdo 089 de 2014 del C.A.1EstudianteYiyi Alejandra  López  Torres2DNI 10002579883Plan de estudios origen (1er plan) – Sede Bogotá Ingeniería Química (2549) 4Código del plan de estudios origen (1er plan) (2549)5Plan de estudios destino (2° plan) – Sede Bogotá Ingeniería de Sistemas y Computación 6Código del plan de estudios destino (2° plan) (2879)7Fecha de la Solicitud a través del SIA26 de febrero 8¿Estos planes de estudios conducen al mismo título? NO
-2. Información Académica:
-Periodo para el cual fue admitido2019-2S¿El solicitante se encuentra matriculado en el semestre de presentar la solicitud?SI¿El solicitante tuvo calidad de estudiante en el plan de estudios destino (2° plan)?NOPorcentaje de créditos aprobados en el plan de estudios origen (1er plan)20.6(A) SI EL PORCENTAJE ES MENOR DE 30 DILIGENCIAR (A1) y (A2)(A1) ¿Cuál fue el puntaje de admisión del solicitante?681,42(A2) Puntaje de admisión del último admitido regular al plan destino (2° plan) en la misma prueba de ingreso del solicitante* 660,3935Si el valor de (A2) es mayor que el valor de (A1) el Comité Asesor no debe recomendar favorablemente el traslado y por tanto no es necesario diligenciar el estudio de créditos ni el resumen general de créditos del segundo plan de estudios.	C. Estudio de créditos1Cupo de créditos menos créditos pendientes en el plan de estudios origen (1er plan):732Cupo de créditos para traslado (literal d del artículo 3 del acuerdo 089 de 2014 de Consejo Académico)2053¿El cupo de créditos para traslado es igual o mayor al número de créditos pendientes de aprobación en el plan de estudios destino (2° plan)?SI4Si la anterior respuesta es NO el Comité Asesor no puede recomendar favorablemente el traslado y por tanto no es necesario diligenciar el resumen general de créditos del segundo plan de estudios.		* en caso que el plan destino sea de convocatoria anual el puntaje será con la anterior convocatoria.
-1. Resumen general de créditos del segundo plan de estudios:
-CréditosFundamentaciónDisciplinarLibre Elección (L)TotalObligatorios (B)Optativos (O)Obligatorios (C)Optativos (T)Exigidos*1536602133165Convalidados/equivalentes415331237Pendientes1121571821128*Sin incluir los créditos correspondientes al cumplimiento del requisito de suficiencia en idioma extranjero 
-El Comité Asesor de Ingeniería de Sistemas y Computación (2879) en sesión del día 1 de junio de 2021, Acta 11RecomiendaNo recomiendaX
-CUADRO EQUIVALENCIA Y CONVALIDACIONES DE ASIGNATURAS CURSADAS Y APROBADAS HASTA LA FECHA DE PRESENTACIÓN DE LA SOLICITUD POR PARTE DEL ESTUDIANTE.
-Ingeniería Química (2549)Ingeniería de Sistemas y Computación (2879)PeriodoCódigoAsignaturaCódigoAsignaturaT*AgrupaciónC*NOTA2019-2S2015734Programación de computadores2015734Programación de computadoresTMétodos y Tecnologías de Software34.72019-2S2015718Introducción a la ingeniería química2025975	
-Introducción a la Ingeniería de Sistemas y ComputaciónCContexto Profesional y Proyectos de Ingeniería34.32020-1S1000024Principios de química1000024Principios de químicaLLibre Elección34.32020-1S1000010Biología molecular y celular1000010Biología molecular y celularLLibre Elección34.62020-1S2015708Balance de materia2015708Balance de materiaLLibre Elección34.32020-1S1000004Cálculo Diferencial1000004Cálculo DiferencialOMatemáticas43.52020-2S2023919La clínica del caso2023919La clínica del casoLLibre Elección35.02020-2S1000003Álgebra Lineal1000003Álgebra LinealOMatemáticas43.82020-2S1000005Cálculo Integral1000005Cálculo IntegralOMatemáticas43.22020-2S1000019Fundamentos de mecánica1000019Fundamentos de mecánicaBFísica44.22020-2S1000013Probabilidad y Estadística Fundamental1000013Probabilidad y Estadística FundamentalOProbabilidad y Estadística34.0Total créditos convalidados/equivalentes37
-ASIGNATURAS PENDIENTES POR CURSAR EN EL SEGUNDO PLAN DE ESTUDIOS
-Componente de FundamentaciónObligatorias(B)AgrupaciónCódigoAsignaturaCréditos asignaturaCréditos pendientes por cursar de la agrupación Agrupación Física41000017Fundamentos de Electricidad y Magnetismo4Agrupación Ciencias de la Computación2015174Introducción a la Teoría de la Computación472016696Algoritmos3Total créditos pendientes 11Optativas (O)Nombre de la AgrupaciónCréditos exigidos en la agrupaciónCréditos pendientes por cursar de la agrupación Agrupación Matemáticas164Agrupación Ciencias de la Computación1111Agrupación Ciencias Económicas y Administrativas66Total créditos pendientes 21
-Componente  Disciplinar/Profesional Obligatorias (C y P)AgrupaciónCódigoAsignaturaCréditos asignaturaCréditos pendientes por cursar de la agrupación Agrupación Métodos y Tecnologías de Software2016375Programación Orientada a Objetos3182016699Estructuras de Datos32016701Ingeniería de Software I32016702Ingeniería de Software II32025966Lenguajes de Programación32016716Arquitectura de Software3Agrupación Infraestructura Computacional, de Comunicaciones y de Información2016697Arquitectura de Computadores3182016707Sistemas Operativos32025967Redes de Computadores32016722Computación Paralela y Distribuida32016353Bases de Datos32025983Arquitectura de Infraestructura y gobierno de TICs3Agrupación Computación Visual2025960Computación Visual33Agrupación Sistemas Inteligentes2025995Introducción a los Sistemas Inteligentes33Agrupación Modelos, Sistemas, Optimización y Simulación2016703Pensamiento Sistémico362025969Modelos Estocásticos y Simulación en Computación y Comunicaciones3Agrupación Contexto Profesional y Proyectos de Ingeniería32024045Taller de Proyectos Interdisciplinarios3Agrupación Trabajo de Grado2025974Trabajo de Grado66Total créditos pendientes 57Optativas(T)Nombre de la AgrupaciónCréditos exigidos en la agrupaciónCréditos pendientes por cursar de la agrupación Agrupación Infraestructura Computacional, de Comunicaciones y de Información1212Agrupación Modelos, Sistemas, Optimización y Simulación66Total créditos pendientes 18
-Componente de Libre Elección (L) (Créditos pendientes)21
-La oferta de asignatura optativas en cada una de las agrupaciones y componentes del plan de estudios del programa de Ingeniería de Sistemas y Computación (2879), la encuentra en el Acuerdo 026 de 2014 de Consejo de Facultad.
-		* en caso que el plan destino sea de convocatoria anual el puntaje será con la anterior convocatoria.
-RECURSO DE REPOSICIÓN CON SUBSIDIO DE APELACIÓN
-9.1.3 Calderón Pineda David Alejandro	DNI. 1024564782
-Tipo de solicitud:	Recurso de reposición con subsidio de apelación.
-Justificación:	“En la presente yo David Alejandro Calderón Pineda identificado con DNI 1024564782 interpongo recurso de reposición y subsidiariamente el de apelación para que se modifique la decisión del Acta 12 de 2021 la cual declara que no se me aprueba el traslado interfacultad del programa de Geografía (2531) al programa de ingeniería de Sistemas y Computación (2879) porque según el comité asesor los cupos ya fueron ocupados.
-	Los motivos provienen de encontrar una acción que manifiesta el acta con respecto a la fecha en la que realicé mi solicitud la cual provocaría que esta fuera tramitada en un tiempo subsiguiente al que debió ser evaluada por el consejo Asesor del programa de ingeniería de Sistemas y Computación. La fecha de radicación fue el 25 DE FEBRERO DE 2021 a través del SIA contraria a la fecha que manifiesta el Acta 12 de 2021 que es el 25 de marzo, un mes después, lo cual explicaría porque mi solicitud fue evaluada por el comité encargado en la sesión del día 27 de abril (Acta 12 de 2021).
-	Por lo anterior solicito modificar la decisión del Acta 12 de 2021 por determinar mi solicitud a una fecha posterior a la que debió ser evaluada por el Comité Asesor del programa destino lo que pudo conllevar a que los cupos se agotaran para la fecha que indica el Acta pues se habría tramitado cuatro semanas después de la fecha original. 
-	Como soporte de mi petición adjunto la información principal con relación a la fecha de radicación de mi solicitud y también un certificado de estudios perteneciente al 2021-1 esto con respecto al porcentaje de créditos que aparece errado en el acta. Toda la Información se puede consultar en el SIA.
-Soportes:	Carta del recurso, copia solicitud traslado SIA y certificado de estudios Geografía.
-https://drive.google.com/open?id=18kf2qcTvwB8ZJjzM0ei_rR_lHoCMRUTRhttps://drive.google.com/open?id=1zjB8HblI32cR7ZIQeMaP9hhAXbtlGkQW
-Fecha de radicación:	mayo 24
-	Análisis:	
-1. Se interpone recurso de reposición sobre la decisión del acta 12 de mayo 13 de 2021, caso 9.7.42
-2. Recomendación del Comité Asesor en acta de comité 8 de 2021 con Concepto El Comité Asesor recomienda al Consejo de Facultad NO APROBAR traslado interfacultad del programa Geografía (2531) de la Universidad Nacional de Colombia – Sede Bogotá, al programa Ingeniería de Sistemas y Computación (2879)  de la Universidad Nacional de Colombia – Sede Bogotá, en el periodo académico 2021-2S, en el periodo académico 2021-2S, porque según los criterios de selección del Comité Asesor los cupos ofertados ya fueron ocupados (Artículo 3, Acuerdo 089 de 2014 del Consejo Académico).
-
-1. Datos Generales
-TRASLADO
-Normativa Asociada: Artículo 39 del Acuerdo 008 de 2008 del CSU y Acuerdo 089 de 2014 del C.A.1EstudianteDavid Alejandro Calderón Pineda2DNI10245647823Plan de estudios origen (1er plan) – Sede BogotáGeografía (2531)4Código del plan de estudios origen (1er plan) (2531)5Plan de estudios destino (2° plan) – Sede Bogotá Ingeniería de Sistemas y Computación 6Código del plan de estudios destino (2° plan) (2879)7Fecha de la Solicitud a través del SIA25 de marzo 8¿Estos planes de estudios conducen al mismo título? NO
-2. Información Académica:
-Periodo para el cual fue admitido2020-1S¿El solicitante se encuentra matriculado en el semestre de presentar la solicitud?SI¿El solicitante tuvo calidad de estudiante en el plan de estudios destino (2° plan)?NOPorcentaje de créditos aprobados en el plan de estudios origen (1er plan)20.6(B) SI EL PORCENTAJE DE CRÉDITOS APROBADOS ES IGUAL O MAYOR DEL 30%, DILIGENCIAR (B1) Y (B2)(B1) PAPA a la fecha de la solicitud4.3(B2) ¿El PAPA se encuentra en la franja del 30 % de los mejores promedios en el plan de estudios origen (1er plan)?SI – Umbral 4.2Si la respuesta en (B2) es NO el Comité Asesor no debe recomendar favorablemente el traslado y por tanto no es necesario diligenciar el estudio de créditos ni el resumen general de créditos del segundo plan de estudios.	C. Estudio de créditos1Cupo de créditos menos créditos pendientes en el plan de estudios origen (1er plan):382Cupo de créditos para traslado (literal d del artículo 3 del acuerdo 089 de 2014 de Consejo Académico)2043¿El cupo de créditos para traslado es igual o mayor al número de créditos pendientes de aprobación en el plan de estudios destino (2° plan)?SI4Si la anterior respuesta es NO el Comité Asesor no puede recomendar favorablemente el traslado y por tanto no es necesario diligenciar el resumen general de créditos del segundo plan de estudios.		* en caso que el plan destino sea de convocatoria anual el puntaje será con la anterior convocatoria.
-3. Resumen general de créditos del segundo plan de estudios:
-CréditosFundamentaciónDisciplinarLibre Elección (L)TotalObligatorios (B)Optativos (O)Obligatorios (C)Optativos (T)Exigidos*1536602133165Convalidados/equivalentes44003341Pendientes113260210124*Sin incluir los créditos correspondientes al cumplimiento del requisito de suficiencia en idioma extranjero 
-El Comité Asesor de Ingeniería de Sistemas y Computación (2879) en sesión del día 27 de abril de 2021, Acta 8RecomiendaNo recomiendaX
-3. Es correcto que el estudiante hizo la solicitud el 25 de febrero por SIA y fue un error de digitación que en la tabla del caso quedara consignado que la solicitud se hizo el 25 de marzo al igual que el porcentaje de avance de carrera, pero esto no influyó en la decisión por lo que se explica en los siguientes puntos. 
-4. Las solicitudes de traslado tenían plazo para ser radicadas hasta el 9 de  abril 2021, según el calendario académico, por lo que posterior a esa fecha el Comité Asesor (27 de abril) revisó todas las solicitudes de manera simultánea para recomendar asignar los 6 cupos disponibles para traslados para 2021-2S bajo los siguientes criterios, enmarcados en el Acuerdo 089 de 2014 – Consejo de Académico:
-· 3 cupos serían para estudiantes que tienen un porcentaje de avance inferior al 30 %, priorizando a los 3 con mejor puntaje de admisión de ese grupo. 
-· 3 cupos serían para estudiantes con un avance del plan de estudios superior al 30%, priorizando a los de mayor PAPA de ese grupo. 
-· Como criterio de desempate cuando el PAPA sea el mismo en los candidatos a traslado con un avance superior al 30%, se estableció que se ponderarían el porcentaje de avance de carrera que tendría en Ingeniería de Sistemas y Computación (2879) al 20%, el PAPA que tendría en Ingeniería de Sistemas y Computación (2879) al 30% y el puntaje de admisión al 50%. 
-5. El estudiante tiene un avance de carrera del 32% por lo que era candidato a traslado en el grupo de los 3 cupos para estudiantes con avance superior al 30% dado que su promedio aritmético ponderado acumulado -PAPA- en el programa de origen se encuentra en la franja del 30% de los mejores promedios: 4.3, siendo 4.2 el umbral del 30% para Geología en el periodo 2020-2S (Acuerdo 089 de 2014 – Consejo de Académico).
-6. De las 31 solicitudes de traslados recibidas 5 de ellas cumplían las condiciones para optar a traslado en el grupo de los 3 cupos para estudiantes con avance superior al 30%, de las cuales el estudiante es el de menor PAPA.
-7. Los 3 cupos de traslados en el grupo de los 3 cupos para estudiantes con avance superior al 30% fueron asignados un estudiante con PAPA 4.6 y dos con PAPA 4.4. Acudiendo al criterio de desempate dado que tres candidatos tenían PAPA 4.4, pero solo quedaban 2 cupos disponibles.
-
-Concepto: El Comité Asesor recomienda al Consejo de Facultad en atención al recurso de reposición con subsidio de apelación RATIFICAR decisión del Acta 12 de mayo 14 de 2021, en consecuencia, NO APROBAR traslado interfacultad del programa Geografía (2531) de la Universidad Nacional de Colombia – Sede Bogotá, al programa Ingeniería de Sistemas y Computación (2879)  de la Universidad Nacional de Colombia – Sede Bogotá, en el periodo académico 2021-2S, en el periodo académico 2021-2S, porque según los criterios de selección del Comité Asesor los cupos ofertados ya fueron ocupados (Artículo 3, Acuerdo 089 de 2014 del Consejo Académico).
-
-2. Datos Generales
-TRASLADO
-Normativa Asociada: Artículo 39 del Acuerdo 008 de 2008 del CSU y Acuerdo 089 de 2014 del C.A.1EstudianteDavid Alejandro Calderón Pineda2DNI10245647823Plan de estudios origen (1er plan) – Sede BogotáGeografía (2531)4Código del plan de estudios origen (1er plan) (2531)5Plan de estudios destino (2° plan) – Sede Bogotá Ingeniería de Sistemas y Computación 6Código del plan de estudios destino (2° plan) (2879)7Fecha de la Solicitud a través del SIA25 de febrero 8¿Estos planes de estudios conducen al mismo título? NO
-3. Información Académica:
-Periodo para el cual fue admitido2020-1S¿El solicitante se encuentra matriculado en el semestre de presentar la solicitud?SI¿El solicitante tuvo calidad de estudiante en el plan de estudios destino (2° plan)?NOPorcentaje de créditos aprobados en el plan de estudios origen (1er plan)32%(B) SI EL PORCENTAJE DE CRÉDITOS APROBADOS ES IGUAL O MAYOR DEL 30%, DILIGENCIAR (B1) Y (B2)(B1) PAPA a la fecha de la solicitud4.3(B2) ¿El PAPA se encuentra en la franja del 30 % de los mejores promedios en el plan de estudios origen (1er plan)?SI – Umbral 4.2Si la respuesta en (B2) es NO el Comité Asesor no debe recomendar favorablemente el traslado y por tanto no es necesario diligenciar el estudio de créditos ni el resumen general de créditos del segundo plan de estudios.	C. Estudio de créditos1Cupo de créditos menos créditos pendientes en el plan de estudios origen (1er plan):382Cupo de créditos para traslado (literal d del artículo 3 del acuerdo 089 de 2014 de Consejo Académico)2043¿El cupo de créditos para traslado es igual o mayor al número de créditos pendientes de aprobación en el plan de estudios destino (2° plan)?SI4Si la anterior respuesta es NO el Comité Asesor no puede recomendar favorablemente el traslado y por tanto no es necesario diligenciar el resumen general de créditos del segundo plan de estudios.		* en caso que el plan destino sea de convocatoria anual el puntaje será con la anterior convocatoria.
-4. Resumen general de créditos del segundo plan de estudios:
-CréditosFundamentaciónDisciplinarLibre Elección (L)TotalObligatorios (B)Optativos (O)Obligatorios (C)Optativos (T)Exigidos*1536602133165Convalidados/equivalentes44003341Pendientes113260210124*Sin incluir los créditos correspondientes al cumplimiento del requisito de suficiencia en idioma extranjero 
-El Comité Asesor de Ingeniería de Sistemas y Computación (2879) en sesión del día 27 de abril de 2021, Acta 8RecomiendaNo recomiendaX
-CUADRO EQUIVALENCIA Y CONVALIDACIONES DE ASIGNATURAS CURSADAS Y APROBADAS HASTA LA FECHA DE PRESENTACIÓN DE LA SOLICITUD POR PARTE DEL ESTUDIANTE.
-Geografía (2531)Ingeniería de Sistemas y Computación (2879)PeriodoCódigoAsignaturaCódigoAsignaturaT*AgrupaciónC*NOTA2017-2S2016366Estadística Descriptiva y Exploratoria2016366Estadística Descriptiva y ExploratoriaLLibre Elección43,72017-2S1000019Fundamentos de mecánica1000019Fundamentos de MecánicaBAgrupación Física44,12018-2S2025053Introducción a la cultura coreana2025053Introducción a la cultura coreanaLLibre Elección34,12018-2S2024999Fiestas populares, carnaval, sociedad y arte2024999Fiestas populares, carnaval, sociedad y arteLLibre Elección34,22018-2S2016377Cálculo diferencial en una variable2016377Cálculo Diferencial en una VariableOAgrupación Matemáticas43,62020-1S2026539Museos: academia y sociedad2026539Museos: academia y sociedadLLibre Elección352020-1S2016133Ciudad, hábitat y vivienda2016133Ciudad, hábitat y viviendaLLibre Elección34,52020-1S2027992Cátedra de gestión y organizaciones2027992Cátedra de gestión y organizacionesLLibre Elección352020-1S2021764Ruso ii 2021764Ruso ii LLibre Elección34,52020-1S2016142Ciudad y medio ambiente sustentable2016142Ciudad y medio ambiente sustentableLLibre Elección34,42020-2S2015238Geografía Física2015238Geografía FísicaLLibre Elección44,72020-2S2015240Geografía Humana2015240Geografía HumanaLLibre Elección44,7Total créditos convalidados/equivalentes41
-ASIGNATURAS PENDIENTES POR CURSAR EN EL SEGUNDO PLAN DE ESTUDIOS
-Componente de FundamentaciónObligatorias(B)AgrupaciónCódigoAsignaturaCréditos asignaturaCréditos pendientes por cursar de la agrupación Agrupación Física41000017Fundamentos de Electricidad y Magnetismo4Agrupación Ciencias de la Computación2015174Introducción a la Teoría de la Computación472016696Algoritmos3Total créditos pendientes 11Optativas (O)Nombre de la AgrupaciónCréditos exigidos en la agrupaciónCréditos pendientes por cursar de la agrupación Agrupación Matemáticas1612Agrupación Probabilidad y estadística33Agrupación Ciencias de la Computación1111Agrupación Ciencias Económicas y Administrativas66Total créditos pendientes 32
-Componente  Disciplinar/Profesional Obligatorias (C y P)AgrupaciónCódigoAsignaturaCréditos asignaturaCréditos pendientes por cursar de la agrupación Agrupación Métodos y Tecnologías de Software2016375Programación Orientada a Objetos3182016699Estructuras de Datos32016701Ingeniería de Software I32016702Ingeniería de Software II32025966Lenguajes de Programación32016716Arquitectura de Software3Agrupación Infraestructura Computacional, de Comunicaciones y de Información2016697Arquitectura de Computadores3182016707Sistemas Operativos32025967Redes de Computadores32016722Computación Paralela y Distribuida32016353Bases de Datos32025983Arquitectura de Infraestructura y gobierno de TICs3Agrupación Computación Visual2025960Computación Visual33Agrupación Sistemas Inteligentes2025995Introducción a los Sistemas Inteligentes33Agrupación Modelos, Sistemas, Optimización y Simulación2016703Pensamiento Sistémico362025969Modelos Estocásticos y Simulación en Computación y Comunicaciones3Agrupación Contexto Profesional y Proyectos de Ingeniería2025975Introducción a la Ingeniería de Sistemas y Computación362024045Taller de Proyectos Interdisciplinarios3Agrupación Trabajo de Grado2025974Trabajo de Grado66Total créditos pendientes 60Optativas(T)Nombre de la AgrupaciónCréditos exigidos en la agrupaciónCréditos pendientes por cursar de la agrupación Agrupación Métodos y Tecnologías de Software33Agrupación Infraestructura Computacional, de Comunicaciones y de Información1212Agrupación Modelos, Sistemas, Optimización y Simulación66Total créditos pendientes 21
-Componente de Libre Elección (L) (Créditos pendientes)0
-La oferta de asignatura optativas en cada una de las agrupaciones y componentes del plan de estudios del programa de Ingeniería de Sistemas y Computación (2879), la encuentra en el Acuerdo 026 de 2014 de Consejo de Facultad.
-CANCELACIÓN DE ASIGNATURAS
-9.1.4 Delgado González Iván Rene	DNI. 1018459812
-Tipo de solicitud:	Cancelación de asignaturas.
-Justificación:	"Buenos días,
-	La presente es para solicitar la cancelación de la asignatura Intensive english ii internationalization con código 2027100, ya que por la situación actual de pandemia,  me vi en la obligación de conseguir un trabajo para ayudar a solventar los problemas  económicos en mi familia. La carga laboral me impide ver correctamente y desarrollar las actividades extra clase propuestas por el docente, en paralelo con las asignaturas de trabajo de grado y métodos numéricos. 
-	A continuación adjunto una certificación laboral para respaldar dicha solicitud.
-	Agradezco su colaboración con mi caso.
-	Atentamente
-	Iván Rene Delgado González.
-	1018459812"
-Soportes:	Formato de solicitud, 
-https://drive.google.com/open?id=1O0U3vLl92aZNQ7HKOT3x_PY0It90a6duhttps://drive.google.com/open?id=1ARh6kaphO73LtvfhV255DXybx7FEm85G
-Fecha de radicación:	
-	Análisis:	Acuerdo 008 de 2008
-1. SIA: Porcentaje de avance en el plan: 94.5 %. PAPA: 4.2, solo tiene pendientes 9 créditos.
-2. El estudiante tiene asignaturas inscritas y recibo pago:
-a.
-Concepto: El Comité Asesor recomienda al Consejo de Facultad APROBAR cancelar la(s) siguiente(s) asignatura(s) inscrita(s) del periodo académico 2021-1S, porque justifica debidamente la solicitud. (Artículo 15 Acuerdo 008 de 2008 del Consejo Superior Universitario)
-CódigoNombre AsignaturaGrupoTC2027100Intensive english II – internationalization4L4
-HOMOLOGACIÓN/EQUIVALENCIA DE ASIGNATURAS
-9.1.5 Echeverry Ayala Camilo Arturo	DNI. 1019149979
-Tipo de solicitud:	Homologación de asignaturas.
-Justificación:	Solicito la homologación de la asignatura de Probabilidad y estadística, dado que está ya cumple con el prerrequisito de Cálculo integral.
-	El contenido original de la materia a la cual realizo la solicitud se encuentra como soporte en el acta 7 del 2019 ítem 9.7.8.
-Soportes:	Formato de solicitud, https://drive.google.com/open?id=18LG_NRKdeMghSAHykT8AJXzi3fw2OKMn
-Fecha de radicación:	21 de mayo
-Análisis:	Acuerdo 008 de 2008, Acuerdo 026 de 2014 CF.
-1. Solicitud de homologación de una asignatura del programa Ingeniería de Sistemas de la Fundación Universitaria Los Libertadores,
-2. La asignatura a homologar cumple con los prerrequisitos.
-3. No se homologan/convalidan más del 50 % de créditos del plan 
-4. Antecedente de homologación de la institución en Acta 7 de 2019.
-5. En el acta 7 de Comité Asesor de  2019 se recomendó no aprobar homologar en el periodo académico 2019-1S, porque no cumplía con los prerrequisitos establecidos
-Concepto: El Comité Asesor recomienda al Consejo de Facultad APROBAR homologar en el periodo académico 2021-1S, la(s) siguiente(s) asignatura(s) cursada(s) en el programa Ingeniería de Sistemas de la Fundación Universitaria Los Libertadores, de la siguiente manera (Artículo 35 del Acuerdo 008 de 2008 del Consejo Superior Universitario)
-Echeverry Ayala Camilo Arturo	DNI. 1019149979Asignaturas a homologar en el plan de estudios de Ingeniería de Sistemas y Computación (2879)Asignaturas cursadas en el plan de estudios Ingeniería de Sistemas de la Fundación Universitaria Los Libertadores CódigoAsignaturaCTNotaAsignaturaCNota1000013Probabilidad y Estadística Fundamental3O4.1Estadística y probabilidad34.1Créditos homologados O3
-HOMOLOGACIÓN DE IDIOMA
-9.1.6 Reyes Benavides Samuel	DNI. 1023162180
-Tipo de solicitud:	Homologación de requisito de idioma inglés.
-Justificación:	"Quisiera homologar los cursos de inglés ofrecidos por la Universidad, ya que mi nivel de suficiencia en la lengua extranjera inglesa, certificada por el examen internacional IELTS se ubica en banda 7.5 referente al nivel C1 según el Marco Común Europeo para el Aprendizaje de Idiomas, esto con el fin de tener la oportunidad de explorar otros idiomas a través de los programas también ofrecidos por la Universidad y para los cuales es prerrequisito tener un buen desempeño en esta lengua  extranjera.
-	Agradezco la atención y colaboración que le den a la presente solicitud.
-	Att. Samuel Reyes Benavides 
-	T.I.1023162180 "
-Soportes:	Formato de solicitud 
-https://drive.google.com/open?id=1BHx-WkXTkTFfzSKvawqP5Veu5TLcSPDOhttps://drive.google.com/open?id=1sXjFSR2jwkuk6KcQWytmOXqkAoVJ9Z9m
-Fecha de radicación:	mayo 25
-	Análisis:	Acuerdo 102 de 2013, , Circular 01 de 2016.
-1. Obtuvo un puntaje de C1 en el IELTS, noviembre 2020
-Concepto: El Comité Asesor recomienda al Consejo de Facultad APROBAR homologar en el periodo académico 2021-1S, el requisito de idioma inglés por obtener una calificación de 7.5 en el examen IELTS, siendo 4.5 el mínimo exigido. 
-
-Samuel Reyes Benavides	DNI. 1023162180Asignaturas a homologar en el plan de estudios de Ingeniería de Sistemas y Computación (2879) Examen de inglés presentadoNotaCódigoAsignaturaCTNota1000044Inglés I- Semestral3EAPIELTS7.51000045Inglés II- Semestral3EAP1000046Inglés III- Semestral3EAP1000047Inglés IV- Semestral3EAPCréditos homologados E12Total créditos que se homologan12
-9.1.7 Cruz Hernández David Santiago	DNI. 1000364069
-Tipo de solicitud:	Homologación de requisito de idioma inglés.
-Justificación:	Buen día. Deseo Homologar el nivel de inglés con el examen de estado ICFES donde obtuve B1 en esta área. Este examen lo presente el 11 de agosto del 2019, por lo que hasta el momento, ha transcurrido 1 año y 9 meses. Gracias.
-Soportes:	Formato de Solicitud, Resultados Saber 11 – 2019
-https://drive.google.com/open?id=1l90N1iV42obgsujY4j7KM5wQRUtlDaBIhttps://drive.google.com/open?id=19Ty0ECws9nsy3i6q4DrQBQTphdt-7Y7u
-Fecha de radicación:	27 de mayo
-	Análisis:	Acuerdo 102 de 2013, Circular 01 de 2016.
-1. Obtuvo un puntaje de B1 en el Saber 11.
-Concepto: El Comité Asesor recomienda al Consejo de Facultad APROBAR homologar en el periodo académico 2021-1S, el requisito de idioma inglés por obtener una calificación de B1 en el examen ICFES – SABER 11, siendo B1 el mínimo exigido. 
-
-Cruz Hernández David Santiago	DNI. 1000364069Asignaturas a homologar en el plan de estudios de Ingeniería de Sistemas y Computación (2879) Examen de inglés presentadoNotaCódigoAsignaturaCTNota1000044Inglés I- Semestral3EAPICFES SABER 11B11000045Inglés II- Semestral3EAP1000046Inglés III- Semestral3EAP1000047Inglés IV- Semestral3EAPCréditos homologados E12Total créditos que se homologan12
-CANCELACIÓN DE PERIODO ACADÉMICO
-9.1.8 Ortiz Chaparro Nicolas	DNI. 1117552614
-Tipo de solicitud:	Cancelación de periodo académico.
-Justificación:	Debido a la situación actual me he visto en la obligación de dedicarme a trabajar a tiempo completo, algo que no me permite seguir estudiando durante este periodo académico. Ya he cancelado la mayoría de las asignaturas, sin embargo, para poder cancelarlas -todas- me he visto en la obligación de realizar esta solicitud.
-Soportes:	Formato de solicitud, 
-https://drive.google.com/open?id=1afO_Cu8UkeU-pAKZuZNaFEOkJBbGTgWW
-Fecha de radicación:	15 de mayo
-Análisis:	Acuerdo 008 de 2008
-	RESOLUCIÓN 1416 DE 2013
-1. El comité lo considera fuerza mayor o caso fortuito documentado.
-2. Si pagó recibo e inscribió asignaturas en 2021-1S
-Concepto: El Comité Asesor recomienda al Consejo de Facultad APROBAR: 
-1. Cancelar el periodo académico 2021-1S, porque justifica documentalmente la fuerza mayor o caso fortuito. (Artículo 18 del Acuerdo 008 del Consejo Superior Universitario)
-2. Devolución proporcional del veintiuno por ciento (21 %) del valor pagado por concepto de derechos de matrícula del periodo 2021-1S, teniendo en cuenta la fecha de presentación de la solicitud y que le fue aprobada la cancelación de periodo en Acta ## de 2021 de Consejo de Facultad. (Acuerdo 032 de 2010 del Consejo Superior Universitario, Artículo 1 Resolución 1416 de 2013 de Rectoría)
-
-DESISTIMIENTO
-9.1.9 Piñeros Pineda Jesús Alejandro	DNI. 1018472928.
-Tipo de solicitud:	Desistimiento de solicitud de inscripción.
-Justificación:	“Por favor ingeniero desista de la inscripción porque no la pude ver precisamente por la demora de todos los trámites en la universidad con todo.”
-Soportes:	Mail de solicitud, 
-Fecha de radicación:	mayo 27
-Análisis:	Acuerdo 008 de 2008
-· El 14 de abril el estudiante en otra comunicación escribió:
-·
-Concepto: El Comité Asesor recomienda al Consejo de Facultad APROBAR el desistimiento de la solicitud inscripción de la asignatura Ingeniería Económica, presentada el 11 de marzo.
-
-MOVILIDAD ACADÉMICA 
-9.1.10 Gabriel Andrés Avendaño Casadiego	DNI. 1003810722
-Justificación:	Programa de relaciones Internacionales Facultad de ingeniería presenta las solicitudes  de movilidad saliente.
-Soportes: 	https://drive.google.com/file/d/1JuftJ5BFA5-3-hEVRwD2ckN03YpR-ELS/view?usp=sharing
-Análisis:	Frankfurt University of Applied Sciences – Alemania
-		PAPA 4.6
-	Avance 83.6%
-	Créditos pendientes:  9 C, 12 L y 6P
-Concepto:	El Comité Asesor recomienda el Consejo de Facultad APRUEBA movilidad saliente académica así: 
-ProgramaNombreDNIDestinoPeriodoModalidadProrrogaIngeniería de Sistemas y Computación (2879)Gabriel Andres Avendano Casadiego1003810722Frankfurt University of Applied Sciences – Alemania 2021-2SCursar asignaturasSiDatabasesLibre ElecciónOperating SystemsLibre ElecciónStatisticsLibre ElecciónGerman Intensive CourseLibre Elección
-9.1.11 ACTUALIZACIÓN DE PLAN DE ESTUDIOS EN MOVILIDAD ACADÉMICA
-Justificación: Los estudiantes presentan la actualización de plan de estudios de la movilidad académica saliente en la que se encuentra	
-Soportes: https://drive.google.com/file/d/1Y5dhlu7zasFhucRYP2X9wp59xVLkZG3k/view?usp=sharing
-	
-Análisis:	
-Concepto:	El Comité Asesor recomienda el Consejo de Facultad APRUEBA actualización del plan de estudios de movilidad saliente académica así: 
-
-ProgramaNombreDNIDestinoPeriodoModalidadProrrogaIngeniería de Sistemas y Computación (2879)Rubén Camilo Buelvas Villa1032493804 Université de Montréal, Canadá2021-1SCursar asignaturasCoréen 1 (niveau A1.1)Libre ElecciónIntro à intelligence artificielleLibre ElecciónInformatique quantiqueLibre ElecciónHistoire du Canada depuis
-1850Libre ElecciónIngeniería de Sistemas y Computación (2879)Nicolas Viveros Barrera1032486413Universidad de Seúl, Corea del Sur2021-1S 2021-2S Intermediate Korean
-
-Language 1Libre ElecciónEast Asian HistoryLibre ElecciónPolitics and Relations of the
-two KoreasLibre Elección
-
-
-
-Ing. Elizabeth León Guzmán	
-Coordinadora Curricular Ingeniería de Sistemas y Computación
-
-proyecto
-cultural,
-científico
-y colectivo
-de nación
-Av. Carrera 30 # 45-03 - Ciudad Universitaria
-Edificio 453, Oficina 209
-(+57 1) 3165357 - (+57 1) 3165000 EXT: 14068
-Bogotá, D. C., Colombia
-acisi_fibog@unal.edu.co
-
-
-[ Página 2 de 2 ] 
-Elaboró: LS/IV/JMS
-
-
-

@@ -1,665 +1,0 @@
-﻿Área Curricular de Ingeniería de Sistemas e Industrial | Facultad de Ingeniería | Sede Bogotá
-
-COMITÉ ASESOR DE CARRERA  
-INGENIERÍA DE SISTEMAS Y COMPUTACIÓN 
-ACTA No. 23 de noviembre 16 de 2021
-
-ASISTENTES
-Ing. Jenny Marcela Sánchez Torres		Directora de Área Curricular
-Angela María Cárdenas Orjuela 		Representante estudiantil (Suplente)
-Ing. Leonardo Salgado				Asesor curricular
-Ing. Jorge Eduardo Ortiz Triviño		Representante de los profesores
-Ing. Luis Fernando Niño			Representante de los profesores
-Gabriela María García				Representante estudiantil
-Ing. Luis Fernando Caicedo	Representante de los Egresados. 
-Ing. Germán Hernández	Coordinador del programa
-
-Lugar: Virtual.
-Fecha: martes 16 de noviembre de 2021
-Hora: 11:00 am.
-
-ORDEN DEL DÍA
-1. Asuntos Varios
-2. Asuntos estudiantiles
-
-DESARROLLO DEL ORDEN DEL DÍA
-
-ASUNTOS VARIOS
-	ACLARACIÓN
-9.1.1 Vargas Quintero Juan Camilo	DNI. 1032468391
-Tipo de solicitud:	Homologación de requisito de idioma inglés.
-Justificación:	" Me dirijo nuevamente ante el Consejo de Facultad para el ajuste de la decisión informada en la Notificación del Acta 29 de 2021, sobre la solicitud radicada el día 13 de octubre por este mismo medio.
-
-	El punto 2 indica lo siguiente:
-	"2.      Trasladar 2 créditos aprobados en BAPI que exceden a los créditos exigidos por la asignatura Trabajo de Grado, los cuales se asumirán como créditos inscritos y aprobados del componente de libre elección, si en este componente aún hay créditos por ser aprobados. (Artículo 16 del Acuerdo 026 de 2012 del Consejo Académico)"
-
-	Con el fin de completar los créditos de libre elección del programa de pregrado requiero que sean trasladados 4 créditos, en lugar de 2 como indica la decisión adoptada. En modalidad BAPI (historia académica 7603) fueron aprobados 12 créditos, 6 más por encima de los 6 créditos requeridos para la asignatura "Trabajo de Grado".
-
-	Válgase también indicar la corrección necesaria sobre el punto 1 de esta misma decisión:
-	"1. Equivaler en el periodo académico 2021-1S, la(s) siguiente(s) asignatura(s) cursada(s) en el programa Ingeniería Electrónica,[...]"
-	El programa donde fueron cursadas las asignaturas a homologar fue Ingeniería Mecatrónica, en lugar de Ingeniería Electrónica como lo indica el acta"
-Soportes:	Solicitud 
-https://drive.google.com/open?id=1ldUPlSWyDx0a3swHm4X1WU9_BVhVkpqN
-Fecha de radicación:	noviembre 8
-	Análisis:	Acuerdo 026 de 2014
-		Tiene pendientes 10 créditos de libre elección
-		Con las equivalencias y el traslado de créditos sobrantes completa el 100% del plan de estudios.
-		Las equivalencias son viables para 2021-1S dado que en ese semestre se matriculó el estudiante y para ese mismo momento se le registrarían los créditos exentes de BAPI, completando así el plan de estudios en el 100% 
-		Por un error de transcripción se informó al Consejo de Facultad trasladar 2 créditos cuando lo correcto es 6 créditos, así como quedó en el acta de Comité Asesor 21
-	
-Concepto: El Comité Asesor recomienda al Consejo de Facultad ACLARAR decisión tomada en el acta 29 de 2021 de Consejo de Facultad, debido a un error de transcripción en el nombre del programa de donde provienen las equivalencias y la cantidad de créditos aprobados en BAPI a trasladas. En consecuencia APROBAR  
-1. equivaler en el periodo académico 2021-1S, la(s) siguiente(s) asignatura(s) cursada(s) en el programa Ingeniería Electrónica, de la siguiente manera (Artículo 35 del Acuerdo 008 de 2008 del Consejo Superior Universitario)
-Vargas Quintero Juan Camilo	DNI. 1032468391Asignaturas a equivaler en el plan de estudios de Ingeniería de Sistemas y Computación (2879) Asignaturas cursadas en el plan de estudios Ingeniería MecatrónicaCódigoAsignaturaCTNotaAsignaturaCNota1000024Principios de química3L3.5Principios de química33.52015711Dibujo básico3L3.4Dibujo básico33.4Créditos Libre Elección6
-2. trasladar 6 créditos aprobados en BAPI que exceden a los créditos exigidos por la asignatura Trabajo de Grado, los cuales se asumirán como créditos inscritos y aprobados del componente de libre elección, si en este componente aún hay créditos por ser aprobados. (Artículo 16 del Acuerdo 026 de 2012 del Consejo Académico)
-
-INSCRIPCIÓN DE ASIGNATURAS
-9.1.2 Muñoz Díaz Diana Katerine	DNI. 1016079364
-Tipo de solicitud:	Inscripción de asignaturas.
-Justificación:	Culminar mi formación académica este semestre
-Soportes:	solicitud, https://drive.google.com/open?id=1x4uUg0IbZTAYsr9vPZMvdr2jO-CcqSn2
-Fecha de radicación:	octubre 28
-	Análisis:	Acuerdo 026 de 2014 de Consejo de Facultad.
-1. La asignatura se encuentra ofertada para el plan de estudios. 
-2. NO Cumple con asignatura prerrequisito Arquitectura de Software
-Concepto: El Comité Asesor recomienda al Consejo de Facultad NO APROBAR inscribir la(s) siguiente(s) asignatura(s) en el periodo académico 2021-2S, porque no cumple con el prerrequisito: Arquitectura de Software; 2016716, establecido en el plan de estudios  Acuerdo 026 de 2014 de Consejo de Facultad. 
-CódigoNombre AsignaturaGrupoTC2025983Arquitectura de Infraestructura y gobierno de TICs2C3
-HOMOLOGACIONES
-9.1.3 Suarez Cortes Miguel Ángel 	DNI. 1020834344
-Tipo de solicitud:	Homologación de asignaturas.
-Justificación:	Homologación para aprovechar las materias anteriormente vistas	Para homologar: Calculo Integral, Fundamentos de mecánica.
-Soportes:	Formato de solicitud,  Historia Académica Ing. Eléctrica
-https://drive.google.com/open?id=1qG5XTYqgNGApj2sZ-WuAmE8JSPQ8TN2D
-Fecha de radicación:	noviembre 4
-Análisis:	Acuerdo 008 de 2008, Acuerdo 026 de 2014.
-1. Solicitud de homologación de asignatura del programa Historia Académica Ing. Eléctrica 
-2. La asignatura a homologar cumple con los prerrequisitos 
-3. En un acta anterior ya fue equivalida Fundamentos de Mecànica
-Concepto: El Comité Asesor recomienda al Consejo de Facultad APROBAR equivaler en el periodo académico 2021-2S, la(s) siguiente(s) asignatura(s) cursada(s) en el programa Ingeniería Eléctrica, de la siguiente manera (Artículo 35 del Acuerdo 008 de 2008 del Consejo Superior Universitario)
-Suarez Cortes Miguel Ángel	DNI. 1020834344Asignaturas a equivaler en el plan de estudios de Ingeniería de Sistemas y Computación (2879) Asignaturas cursadas en el plan de estudios Ingeniería EléctricaCódigoAsignaturaCTNotaAsignaturaCNota1000005Cálculo Integral4B3.0Cálculo Integral43.0Créditos equivalidos B4
-9.1.4 Pineda Lara Gerson Nicolás	DNI. 1022400490
-Tipo de solicitud:	Homologación de asignaturas.
-Justificación:	Dos años atrás me fue aprobada una solicitud que realicé para la homologación de algunas asignaturas cursadas en el anterior pregrado que estudié en esta universidad (ingeniería mecatrónica). Sin embargo, los 4 niveles de inglés fueron homologados como libre elección y consumieron créditos de este tipo, por lo que durante algún tiempo cumplí el requisito de grado para los créditos de aquel tipo. Posteriormente, hice la solicitud para la corrección de estas tipologías, pero los créditos de los niveles de inglés fueron restados y dejé de cumplir el requisito, necesitando cursar más asignaturas de libre elección. Teniendo en cuenta que las asignaturas cursadas en mi anterior pregrado también aportaron a mi conocimiento y desarrollo profesional, de nuevo hago la solicitud de homologación para completar el requisito. De estas asignaturas, amablemente solicito homologar 1000007-B-Ecuaciones diferenciales, cursada durante el semestre 2014-I y aprobada con una nota de 3,4..
-Soportes:	Formato de solicitud,  Historia Académica Ing. Eléctrica
-https://drive.google.com/open?id=1EZB4AGTTO8bsMt-kA1RT59uDyWMxkLJX
-Fecha de radicación:	noviembre 4
-Análisis:	Acuerdo 008 de 2008, Acuerdo 026 de 2014.
-1. Solicitud de homologación de asignatura del programa Historia Académica Ing. Mecatrónica
-Concepto: El Comité Asesor recomienda al Consejo de Facultad APROBAR equivaler en el periodo académico 2021-2S, la(s) siguiente(s) asignatura(s) cursada(s) en el programa Ingeniería Mecatrónica, de la siguiente manera (Artículo 35 del Acuerdo 008 de 2008 del Consejo Superior Universitario)
-Pineda Lara Gerson Nicolás	DNI. 1022400490Asignaturas a equivaler en el plan de estudios de Ingeniería de Sistemas y Computación (2879) Asignaturas cursadas en el plan de estudios Ingeniería Mecatrónica CódigoAsignaturaCTNotaAsignaturaCNota1000006Ecuaciones Diferenciales3L3.4Ecuaciones Diferenciales33.4Créditos equivalidos B4
-9.1.5 Álvarez Duque Juan Manuel	DNI. 1121960116
-Tipo de solicitud:	Homologación de asignaturas.
-Justificación:	"Buenas tardes,
-	En el marco de la finalización de mi programa de doble titulación PMP en la institución extranjera Telecom Paris, adjunto solicitud de convalidación correspondiente a las asignaturas del segundo año (Con mención de las asignaturas ya convalidadas)".
-Soportes:	Solicitud, copia de certificado de notas.
-Fecha de radicación:	Noviembre 9
-Análisis:	Acuerdo 008 de 2008, Acuerdo 026 de 2014 – Consejo de Facultad.
-1. Solicitud de homologación de asignaturas cursadas durante el intercambio académico internacional en convenio de doble titulación con el Télécom ParisTech.
-2. Las asignaturas para homologar cumplen con los prerrequisitos (Acuerdo 026 de 2014 – Consejo de Facultad).
-3. No se homologan/convalidan más del 50% de créditos del plan (Artículo 38, Acuerdo 008 de 2008 – Consejo Superior Universitario.). No ha tenido homologaciones/convalidaciones anteriores.
-4. El intercambio se aprobó para ser cursado durante los períodos 2019-2S a 2021-1S. Ya se homologaron asignaturas de periodos 2019-2S y 2020-1S
-5. No cursó la asignatura que normalmente se homologa por el Trabajo de grado.
-6. Quedaría pendiente por aprobar por parte del estudiante Trabajo de grado.
-Concepto: El Comité Asesor recomienda al Consejo de Facultad APROBAR Homologar en el periodo académico correspondiente, las siguientes asignaturas cursadas en Intercambio Académico Internacional en convenio de doble titulación con el Télécom ParisTech de Francia, de la siguiente manera (Artículo 35, Acuerdo 008 de 2008 del Consejo Superior Universitario y Resolución 105 de 2017 de Vicerrectoría Académica):
-Álvarez Duque Juan Manuel	DNI. 1121960116Asignaturas a homologar en el plan de estudios de Ingeniería de Sistemas y Computación (2879)Asignaturas cursadas en el Télécom ParisTechPeriodoCódigoAsignaturaCTNotaAsignaturaNota2020-2S2027138Atelier de création vidéo2L4.9Atelier de création vidéoVThe World of Classical Music19.02020-2S2026632Master 2 autres parcours hors
-catalogue6L4.2Master 2 autres parcours hors
-catalogueV2021-1S2025974Trabajo de grado6P4,2Stage de Niveau ingenieur
-(Master M2)16.0Créditos homologados L8Créditos homologados P6Total créditos que se homologan14
-CANCELACIÓN DE PERIODO ACADÉMICO
-9.1.6 Alfonso  Ruiz Jaime Esteban  	DNI. 1000515963
-Tipo de solicitud:	Cancelación de periodo académico.
-Justificación:	Me encuentro estudiando este semestre en otra universidad.
-Soportes:	solicitud, https://drive.google.com/open?id=1nxagLplA9q-0wXXZytEhOVlVfxJuqvGl
-Fecha de radicación:	Octubre 30
-Análisis:	Acuerdo 008 de 2008
-1. La Historia Académica está bloqueada por “No uso del derecho de matrícula por parte del admitido” dado que el Sr. Alfonso era admitido para 2021-2S pero no realizó la solicitud de aplazamiento de matrícula inicial.
-2. En el portal del comité de matrículas no aparece información del aplazamiento,
-http://www.registro.bogota.unal.edu.co/comitesede/aplazamiento.ph
-
-Concepto: El Comité Asesor recomienda al Consejo de Facultad NO APROBAR Cancelar el periodo académico 2021-2S, porque la historia académica se encuentra bloqueada por no uso del derecho de matrícula por parte del admitido, con lo que no adquirió la calidad de estudiante de la Universidad Nacional. (Acuerdo 008 de 2008 del Consejo  Superior Universitario)
-
-DOBLE TITULACIÓN
-
-9.1.7 Cañon  Caldas Diego Alexander   	DNI. 1001220137
-Tipo de solicitud:	Doble titulación – 2549 Ingeniería Química e Ingeniería de Sistemas y Computación (2879).
-Justificación:	Solicito la doble titulación, porque me apasiona los temas relacionados con la ingeniería de sistemas y en el desarrollo de la carrera de ingeniería química he observado que ambas tienen muchos aspectos en los cuales relacionar y desempeñar; de modo que quiero obtener los conocimientos brindados por ambas carreras para ser un profesional integral y hacer lo que disfruto y me apasiona.
-Soportes:	Solicitud Virtual https://drive.google.com/open?id=1y5jwCBWoVS0xytqmlz_GSZSQQJjfQfBA
-Fecha de radicación:	octubre 29
-	Análisis:	Acuerdo 155 de 2014, Acuerdo 008 de 2008
-Concepto: El Comité Asesor recomienda al Consejo de Facultad APROBAR no recomendar al Consejo de Sede que formalice la admisión y ubicación en el programa de pregrado Ingeniería de Sistemas y Computación (2879), debido a que no ha cursado el 40 % de los créditos requeridos de su plan de estudios.
-
-1. Datos Generales:
-
-DOBLE TITULACIÓN
-Normativa Asociada: Articulo 47 al 50 del Acuerdo 008 de 2008 del CSU y Acuerdo 155 de 2014 del CSU1Nombre del estudianteCañón  Caldas Diego Alexander   2DNI10012201374Plan de estudios origen (1er plan) - SedeIngeniería Química 5Plan de estudios doble titulación (2° plan)Ingeniería de Sistemas y Computación (2879) 6Código del plan de estudios doble titulación2879 7Fecha de la Solicitud a través del SIA29/10/2021
-2. Información Académica:
-
-¿Tuvo calidad de estudiante en el 2° plan?
-Si la respuesta es Si, el Comité Asesor no debe realizar el estudio de equivalencias y convalidaciones. Sin embargo, el Consejo de Facultad deberá emitir la No recomendación y darle trámite ante el Consejo de SedeSiNoXSe encuentra matriculado al momento de presentar la solicitudSiXNo¿El estudiante ha cursado el 40% de los créditos de su primer plan de estudios?
-Si la respuesta es NO, el Comité Asesor no debe realizar el estudio de equivalencias y convalidaciones. Sin embargo, el Consejo de Facultad deberá emitir la No recomendación y darle trámite ante el Consejo de SedeSiNoXP.A.P.A. en el primer plan de estudio3.8Créditos estudio doble titulación (información reportada en el resumen de créditos del SIA)80
-El Consejo de la Facultad Ingeniería en sesión del día 25  de Noviembre de 2021, Acta___RecomiendaNo recomiendaXObservación:NO ha cursado el 40% de los créditos de su primer plan de estudios
-9.1.8 Vivas Diaz Juan Santiago	DNI. 1007411218
-Tipo de solicitud:	Doble titulación – Ingeniería Industrial (2546) y Ingeniería de Sistemas y Computación (2879).
-Justificación:	Me gustaría realizar una solicitud de doble titulación con el programa académico de Ingeniería de Sistemas y Computación de la facultad de Ingeniería. Considero que este sería un gran complemento a mi formación académica, además de ser de gran interés para mí.
-Soportes:	Solicitud Virtual
-Fecha de radicación:	
-	Análisis:	Acuerdo 155 de 2014, Acuerdo 008 de 2008
-Concepto: El Comité Asesor recomienda al Consejo de Facultad APROBAR no recomendar al Consejo de Sede que formalice la admisión y ubicación en el programa de pregrado Ingeniería de Sistemas y Computación (2879), debido a que no ha cursado el 40 % de los créditos requeridos de su plan de estudios.
-
-1. Datos Generales:
-
-DOBLE TITULACIÓN
-Normativa Asociada: Articulo 47 al 50 del Acuerdo 008 de 2008 del CSU y Acuerdo 155 de 2014 del CSU1Nombre del estudianteVivas Diaz Juan Santiago2DNI10074112184Plan de estudios origen (1er plan) - SedeIngeniería Industrial (2546)5Plan de estudios doble titulación (2° plan)Ingeniería de Sistemas y Computación (2879) 6Código del plan de estudios doble titulación28797Fecha de la Solicitud a través del SIA6/10/2021
-2. Información Académica:
-
-¿Tuvo calidad de estudiante en el 2° plan?
-Si la respuesta es Si, el Comité Asesor no debe realizar el estudio de equivalencias y convalidaciones. Sin embargo, el Consejo de Facultad deberá emitir la No recomendación y darle trámite ante el Consejo de SedeSiNoXSe encuentra matriculado al momento de presentar la solicitudSiXNo¿El estudiante ha cursado el 40% de los créditos de su primer plan de estudios?
-Si la respuesta es NO, el Comité Asesor no debe realizar el estudio de equivalencias y convalidaciones. Sin embargo, el Consejo de Facultad deberá emitir la No recomendación y darle trámite ante el Consejo de SedeSiNoXP.A.P.A. en el primer plan de estudio3.8Créditos estudio doble titulación (información reportada en el resumen de créditos del SIA)80
-El Consejo de la Facultad Ingeniería en sesión del día 25  de Noviembre de 2021, Acta___RecomiendaNo recomiendaXObservación:NO ha cursado el 40% de los créditos de su primer plan de estudios?
-9.1.9 Rincón Díaz Yeimy Lorena	DNI. 1033816156
-Tipo de solicitud:	Doble titulación – Lingüística a Ingeniería de Sistemas y Computación (2879) 
-Justificación:	" Desde niña me han gustado las actividades relacionadas con las letras, sin embargo al entrar a la universidad, conocer el componente de lógica proposicional y el lingüística computacional y al entrar en contacto con el programa de Ingeniera en Sistemas me di cuenta que realmente es en el campo profesional en el que me quiero desarrollar, por ello he comenzado a aprender lenguajes de programación, desarrollo de software y a explorar los campos profesionales donde me gustaría desempeñarme. Gracias a ello, puedo decir que el programa de Ingeniera en Sistemas me puede brindar las herramientas necesarias para llevar a cabo mi proyecto de vida.	Antes de  hacer esta solicitud, me he empapado del programa curricular de la carrera, me contactado con la representante estudiantil Gabriela María García para asesorarme de forma correcta y me he contactado con la secretaria curricular del departamento para conocer el procedimiento correcto para la solicitud de doble titulación. “
-Soportes:	solicitud https://drive.google.com/open?id=1ygBiMxVkYggEP-ShvHTXtf649bd4Il5D
-Fecha de radicación:	OCTUBRE 8
-	Análisis:	Acuerdo 155 de 2014, Acuerdo 008 de 2008
-
-Concepto: El Comité Asesor recomienda al Consejo de Facultad APROBAR recomendar al Consejo de Sede que formalice la admisión y ubicación en el programa de Ingeniería de Sistemas y Computación (2879) teniendo en cuenta que el estudiante tiene un Promedio Académico Ponderado Acumulado superior o igual a 4.3 y ha cursado el 40 % de su plan de estudios (Acuerdo 155 de 2014 del Consejo Superior Universitario, Resolución 13 de 2020 de la Vicerrectoría Académica)
-
-1. Datos Generales:
-
-DOBLE TITULACIÓN
-Normativa Asociada: Articulo 47 al 50 del Acuerdo 008 de 2008 del CSU y Acuerdo 155 de 2014 del CSU1Nombre del estudianteYeimy Lorena Rincón Diaz2DNI10338161564Plan de estudios origen (1er plan) - SedeLingüística 5Plan de estudios doble titulación (2° plan)Ingeniería de Sistemas y Computación (2879) 6Código del plan de estudios doble titulaciónIngeniería de Sistemas y Computación (2879)7Fecha de la Solicitud a través del SIAoct-28
-2. Información Académica:
-
-¿Tuvo calidad de estudiante en el 2° plan?
-Si la respuesta es Si, el Comité Asesor no debe realizar el estudio de equivalencias y convalidaciones. Sin embargo, el Consejo de Facultad deberá emitir la No recomendación y darle trámite ante el Consejo de SedeSiNoXSe encuentra matriculado al momento de presentar la solicitudSiXNo¿El estudiante ha cursado el 40% de los créditos de su primer plan de estudios?
-Si la respuesta es NO, el Comité Asesor no debe realizar el estudio de equivalencias y convalidaciones. Sin embargo, el Consejo de Facultad deberá emitir la No recomendación y darle trámite ante el Consejo de SedeSiXNoP.A.P.A. en el primer plan de estudio4.5Créditos estudio doble titulación (información reportada en el resumen de créditos del SIA)62
-3. Resumen general de créditos del segundo plan de estudios:
-
-Créditos
-
-
-
-FundamentaciónDisciplinarLibre Elección (L)TotalObligatorios
-(B)
-Optativos
-(O)
-Obligatorios
-(C)
-Optativos
-(T)
-Trabajo de Grado (P)Exigidos15365421633165Convalidados/equivalentes000003333Pendientes1536542160132
-4.  Cuadro equivalencia y convalidaciones de asignaturas cursadas y aprobadas hasta la fecha de presentación de la solicitud por parte del estudiante.
-
-
-PLAN DE ESTUDIOS (1)PLAN DE ESTUDIOS (2) COMPONENTE DE LIBRE ELECCIÓN (L)Periodo AcadémicoCódigoAsignaturaCódigoAsignaturaNOTA#Créditos2018-1S2015482Taller de comprensión y producción de textos2015482Taller de comprensión y producción de textos5.032018-2S2015459Historia de la lengua española2015459Historia de la lengua española5.032019-1S2015483Taller de comprensión y producción de textos II2015483Taller de comprensión y producción de textos II5.032020-1S2026251Morfosintaxis de lenguas indígenas y criollas2026251Morfosintaxis de lenguas indígenas y criollas4.932021-1S2015479Psicolingüística2015479Psicolingüística4.83
-2019-2S2024390Lingüística Teórica2024390Lingüística Teórica4.732019-2S2024221Nasa yuwe y pensamiento nasa2024221Nasa yuwe y pensamiento nasa4.732018-2S2016388Psicología y educación2016388Psicología y educación4.732019-1S2015992Panorama Lingüístico Colombiano2015992Panorama Lingüístico Colombiano4.632019-1S2015991Modelos Lingüísticos2015991Modelos Lingüísticos4.63Total créditos convalidados/equivalentes 33
-5. Asignaturas pendientes por cursar en el segundo plan de estudios
-
-Componente de FundamentaciónObligatorias(B)AgrupaciónCódigoAsignaturaCréditos asignaturaCréditos pendientes por cursar de la agrupación Agrupación Física1000019Fundamentos de Mecánica441000017Fundamentos de Electricidad y Magnetismo4Agrupación Ciencias de la Computación2015174Introducción a la Teoría de la Computación472016696Algoritmos3Optativas (O)Nombre de la AgrupaciónCréditos exigidos en la agrupaciónCréditos pendientes por cursar de la agrupación Agrupación Matemáticas1619Agrupación Probabilidad y Estadística33Agrupación Ciencias de la Computación1111Agrupación Ciencias Económicas y Administrativas66
-Componente  Disciplinar/Profesional Obligatorias (C y P)AgrupaciónCódigoAsignaturaCréditos asignaturaCréditos pendientes por cursar de la agrupación Agrupación Métodos y Tecnologías de Software2016375Programación Orientada a Objetos3182016699Estructuras de Datos32016701Ingeniería de Software I32016702Ingeniería de Software II32025966Lenguajes de Programación32016716Arquitectura de Software3Agrupación Infraestructura Computacional, de Comunicaciones y de Información2016697Arquitectura de Computadores3182016707Sistemas Operativos32025967Redes de Computadores32016722Computación Paralela y Distribuida32016353Bases de Datos32025983Arquitectura de Infraestructura y gobierno de TICs3Agrupación Computación Visual2025960Computación Visual33Agrupación Sistemas Inteligentes2025995Introducción a los Sistemas Inteligentes33Agrupación Modelos, Sistemas, Optimización y Simulación2016703Pensamiento Sistémico362025969Modelos Estocásticos y Simulación en Computación y Comunicaciones3Agrupación Contexto Profesional y Proyectos de Ingeniería2025975Introducción a la Ingeniería de Sistemas y Computación362024045Taller de Proyectos Interdisciplinarios3Agrupación Trabajo de Grado2025974Trabajo de Grado66Optativas(T)Nombre de la AgrupaciónCréditos exigidos en la agrupaciónCréditos pendientes por cursar de la agrupación Agrupación Métodos y Tecnologías de Software33Agrupación Infraestructura Computacional, de Comunicaciones y de Información1212Agrupación Modelos, Sistemas, Optimización y Simulación66
-
-Componente de Libre Elección (L) (Créditos pendientes)0
-
-La oferta de asignatura optativas en cada una de las agrupaciones y componentes del plan de estudios del programa curricular de la encuentra en la Acuerdo No 026 . del año 2014, expedido por Consejo de Facultad.
-
-
-El Consejo de la Facultad Ingeniería en sesión del día 25  de Noviembre de 2021, Acta___RecomiendaXNo recomiendaObservación:Aunque no dispone de los créditos suficientes para cursar las asignaturas pendientes de aprobación en el segundo plan, presenta un PAPA mayor o igual a 4.3.
-Nota: La remisión del formato debe realizarse en formato Word.
-
-Nota: En caso de aprobarse la doble titulación, es importante tener en cuenta lo definido en el parágrafo del art 3 del Acuerdo 155 de 2014 del Consejo Superior Universitario, el cual reza: “El comité asesor que administra el segundo plan de estudios deberá facilitar la inscripción de asignaturas de su plan de estudios a los estudiantes a quienes se les haya formalizado la admisión y que aún se encuentran matriculados en el primer plan de estudios”.
-
-9.1.10 Laura Nataly Villalba Redondo	DNI. 1000792323
-Tipo de solicitud:	Doble titulación – Filología E Idiomas Inglés a Ingeniería de Sistemas y Computación (2879) 
-Justificación:	En el marco de la pandemia me di cuenta de la importancia que realmente han adquirido las nuevas tecnologías y cómo hay que adaptarse a éstas continuamente. Adquirí más interés en esta área y deseo conocer más a fondo y entender verdaderamente los procesos que estas llevan a cabo para facilitar todas esas acciones que preferimos automatizar. Debido a ello me permito hacer esta solicitud para ver si puedo complementar mi proceso de educación superior junto con los nuevos saberes que alberga esta área “
-Soportes:	solicitud https://drive.google.com/open?id=1smBy0JClrCuUpbZkfn_xsRiF8ESW-jEP
-Fecha de radicación:	OCTUBRE 29
-	Análisis:	Acuerdo 155 de 2014, Acuerdo 008 de 2008
-
-Concepto: El Comité Asesor recomienda al Consejo de Facultad APROBAR recomendar al Consejo de Sede que formalice la admisión y ubicación en el programa de Ingeniería de Sistemas y Computación (2879) teniendo en cuenta que el estudiante tiene un Promedio Académico Ponderado Acumulado superior o igual a 4.3 y ha cursado el 40 % de su plan de estudios (Acuerdo 155 de 2014 del Consejo Superior Universitario, Resolución 13 de 2020 de la Vicerrectoría Académica)
-
-1. Datos Generales:
-
-DOBLE TITULACIÓN
-Normativa Asociada: Articulo 47 al 50 del Acuerdo 008 de 2008 del CSU y Acuerdo 155 de 2014 del CSU1Nombre del estudianteLaura Nataly Villalba Redondo2DNI10007923234Plan de estudios origen (1er plan) - SedeFilología E Idiomas Inglés5Plan de estudios doble titulación (2° plan)Ingeniería de Sistemas y Computación (2879) 6Código del plan de estudios doble titulaciónIngeniería de Sistemas y Computación (2879)7Fecha de la Solicitud a través del SIAoct-29
-2. Información Académica:
-
-¿Tuvo calidad de estudiante en el 2° plan?
-Si la respuesta es Si, el Comité Asesor no debe realizar el estudio de equivalencias y convalidaciones. Sin embargo, el Consejo de Facultad deberá emitir la No recomendación y darle trámite ante el Consejo de SedeSiNoXSe encuentra matriculado al momento de presentar la solicitudSiXNo¿El estudiante ha cursado el 40% de los créditos de su primer plan de estudios?
-Si la respuesta es NO, el Comité Asesor no debe realizar el estudio de equivalencias y convalidaciones. Sin embargo, el Consejo de Facultad deberá emitir la No recomendación y darle trámite ante el Consejo de SedeSiXNoP.A.P.A. en el primer plan de estudio4.3Créditos estudio doble titulación (información reportada en el resumen de créditos del SIA)70
-3. Resumen general de créditos del segundo plan de estudios:
-
-Créditos
-
-
-
-FundamentaciónDisciplinarLibre Elección (L)TotalObligatorios
-(B)
-Optativos
-(O)
-Obligatorios
-(C)
-Optativos
-(T)
-Trabajo de Grado (P)Exigidos15365421633165Convalidados/equivalentes000003333Pendientes1536542160132
-4.  Cuadro equivalencia y convalidaciones de asignaturas cursadas y aprobadas hasta la fecha de presentación de la solicitud por parte del estudiante.
-
-
-PLAN DE ESTUDIOS (1)PLAN DE ESTUDIOS (2) COMPONENTE DE LIBRE ELECCIÓN (L)Periodo AcadémicoCódigoAsignaturaCódigoAsignaturaNOTA#Créditos2017-2S2016382Fundamentos de la Educación2016382Fundamentos de la Educación4.822017-2S2016466Inglés I - Comunicación Oral2016466Inglés I - Comunicación Oral4.942021-1S2016480Práctica Docente del Inglés2016480Práctica Docente del Inglés4.632018-2S2016461Fonética y Fonología Inglesa2016461Fonética y Fonología Inglesa4.832019-2S2016459Didáctica Inglesa I2016459Didáctica Inglesa I4.632020-1S2016485Traducción inglesa i2016485Traducción inglesa i4.632020-1S2016457Civilización inglesa i2016457Civilización inglesa i5.032020-2S2016427Metodología de la Investigación2016427Metodología de la Investigación5.032020-2S2016460Didáctica Inglesa II2016460Didáctica Inglesa II4.632020-2S2021472Japonés II2021472Japonés II4.632021-1S2021760Chino II2021760Chino II5.03Total créditos convalidados/equivalentes 33
-
-5. Asignaturas pendientes por cursar en el segundo plan de estudios
-
-Componente de FundamentaciónObligatorias(B)AgrupaciónCódigoAsignaturaCréditos asignaturaCréditos pendientes por cursar de la agrupación Agrupación Física1000019Fundamentos de Mecánica441000017Fundamentos de Electricidad y Magnetismo4Agrupación Ciencias de la Computación2015174Introducción a la Teoría de la Computación472016696Algoritmos3Optativas (O)Nombre de la AgrupaciónCréditos exigidos en la agrupaciónCréditos pendientes por cursar de la agrupación Agrupación Matemáticas1619Agrupación Probabilidad y Estadística33Agrupación Ciencias de la Computación1111Agrupación Ciencias Económicas y Administrativas66
-Componente  Disciplinar/Profesional Obligatorias (C y P)AgrupaciónCódigoAsignaturaCréditos asignaturaCréditos pendientes por cursar de la agrupación Agrupación Métodos y Tecnologías de Software2016375Programación Orientada a Objetos3182016699Estructuras de Datos32016701Ingeniería de Software I32016702Ingeniería de Software II32025966Lenguajes de Programación32016716Arquitectura de Software3Agrupación Infraestructura Computacional, de Comunicaciones y de Información2016697Arquitectura de Computadores3182016707Sistemas Operativos32025967Redes de Computadores32016722Computación Paralela y Distribuida32016353Bases de Datos32025983Arquitectura de Infraestructura y gobierno de TICs3Agrupación Computación Visual2025960Computación Visual33Agrupación Sistemas Inteligentes2025995Introducción a los Sistemas Inteligentes33Agrupación Modelos, Sistemas, Optimización y Simulación2016703Pensamiento Sistémico362025969Modelos Estocásticos y Simulación en Computación y Comunicaciones3Agrupación Contexto Profesional y Proyectos de Ingeniería2025975Introducción a la Ingeniería de Sistemas y Computación362024045Taller de Proyectos Interdisciplinarios3Agrupación Trabajo de Grado2025974Trabajo de Grado66Optativas(T)Nombre de la AgrupaciónCréditos exigidos en la agrupaciónCréditos pendientes por cursar de la agrupación Agrupación Métodos y Tecnologías de Software33Agrupación Infraestructura Computacional, de Comunicaciones y de Información1212Agrupación Modelos, Sistemas, Optimización y Simulación66
-
-Componente de Libre Elección (L) (Créditos pendientes)0
-
-La oferta de asignatura optativas en cada una de las agrupaciones y componentes del plan de estudios del programa curricular de la encuentra en la Acuerdo No 026 . del año 2014, expedido por Consejo de Facultad.
-
-
-El Consejo de la Facultad Ingeniería en sesión del día 25  de Noviembre de 2021, Acta___RecomiendaXNo recomiendaObservación:Aunque no dispone de los créditos suficientes para cursar las asignaturas pendientes de aprobación en el segundo plan, presenta un PAPA mayor o igual a 4.3.
-Nota: La remisión del formato debe realizarse en formato Word.
-
-Nota: En caso de aprobarse la doble titulación, es importante tener en cuenta lo definido en el parágrafo del art 3 del Acuerdo 155 de 2014 del Consejo Superior Universitario, el cual reza: “El comité asesor que administra el segundo plan de estudios deberá facilitar la inscripción de asignaturas de su plan de estudios a los estudiantes a quienes se les haya formalizado la admisión y que aún se encuentran matriculados en el primer plan de estudios”.
-
-9.1.11 Giraldo  Jiménez Javier Santiago	DNI. 1000285955
-Tipo de solicitud:	Doble titulación – Ingeniería Eléctrica (2983)  a Ingeniería de Sistemas y Computación (2879) 
-Justificación:	"La motivación para estudiar ingeniería de sistemas y computación surge de un gusto y talento en el campo de la programación y la computación, que al relacionarse con mi carrera inicial (ingeniería eléctrica) genera en mi un gusto particular para adentrarme más a fondo en este campo, incursionando así en una doble titulación como esta. A su vez, la ingeniería de sistemas y computación me parece un campo excepcional por el crecimiento de la era digital que se vive en esta época. Por dichos motivos es que creo que una doble titulación con la misma podría traer beneficios académicos que pueden mejorar mis campos laborales a futuro “
-Soportes:	solicitud https://drive.google.com/open?id=1eNjoeQgiNXgRS91SJgpC3XyF0oJ2iXQk
-Fecha de radicación:	OCTUBRE 29
-	Análisis:	Acuerdo 155 de 2014, Acuerdo 008 de 2008
-
-Concepto: El Comité Asesor recomienda al Consejo de Facultad APROBAR recomendar al Consejo de Sede que formalice la admisión y ubicación en el programa de Ingeniería de Sistemas y Computación (2879) teniendo en cuenta que el estudiante tiene un Promedio Académico Ponderado Acumulado superior o igual a 4.3 y ha cursado el 40 % de su plan de estudios (Acuerdo 155 de 2014 del Consejo Superior Universitario, Resolución 13 de 2020 de la Vicerrectoría Académica)
-
-1. Datos Generales:
-
-DOBLE TITULACIÓN
-Normativa Asociada: Articulo 47 al 50 del Acuerdo 008 de 2008 del CSU y Acuerdo 155 de 2014 del CSU1Nombre del estudianteJavier Santiago Giraldo  Jiménez2DNI10002859554Plan de estudios origen (1er plan) - SedeIngeniería Eléctrica (2983)5Plan de estudios doble titulación (2° plan)Ingeniería de Sistemas y Computación (2879)6Código del plan de estudios doble titulaciónIngeniería de Sistemas y Computación (2879)7Fecha de la Solicitud a través del SIA29 de octubre de 2021
-2. Información Académica:
-
-¿Tuvo calidad de estudiante en el 2° plan?
-Si la respuesta es Si, el Comité Asesor no debe realizar el estudio de equivalencias y convalidaciones. Sin embargo, el Consejo de Facultad deberá emitir la No recomendación y darle trámite ante el Consejo de SedeSiNoXSe encuentra matriculado al momento de presentar la solicitudSiXNo¿El estudiante ha cursado el 40% de los créditos de su primer plan de estudios?
-Si la respuesta es NO, el Comité Asesor no debe realizar el estudio de equivalencias y convalidaciones. Sin embargo, el Consejo de Facultad deberá emitir la No recomendación y darle trámite ante el Consejo de SedeSiXNoP.A.P.A. en el primer plan de estudio4.3Créditos estudio doble titulación (información reportada en el resumen de créditos del SIA)80
-3. Resumen general de créditos del segundo plan de estudios:
-
-Créditos
-
-Fundamentación DisciplinarLibre Elección (L)TotalObligatorios
-(B)
-Optativos
-(O)
-Obligatorios
-(C)
-Optativos
-(T)
-  Trabajo de Grado (P)Exigidos15365421633165Convalidados/equivalentes8223303369Pendientes71451186096
-4.  Cuadro equivalencia y convalidaciones de asignaturas cursadas y aprobadas hasta la fecha de presentación de la solicitud por parte del estudiante.
-
-PLAN DE ESTUDIOS (1)PLAN DE ESTUDIOS (2) COMPONENTE DE FUNDAMENTACIÓN Periodo AcadémicoCódigoAsignaturaCódigoAsignaturaAgrupaciónNOTA#CréditosB*O*2020-2S2015703Ingeniería económica 2015703Ingeniería EconómicaCiencias Económicas y Administrativas4.9 32020-1S1000017Fundamentos de electricidad y magnetismo 1000017Fundamentos de Electricidad y MagnetismoFísica4.44 2019-2S1000019Fundamentos de mecánica 1000019Fundamentos de MecánicaFísica4.24 2020-1S1000006Cálculo en varias variables 1000006Cálculo en Varias VariablesMatemáticas3.8 42019-2S1000003Álgebra Lineal 1000003Álgebra LinealMatemáticas4.0 42019-2S1000005Cálculo Integral 1000005Cálculo IntegralMatemáticas3.4 42019-1S1000004Cálculo diferencial 1000004Cálculo DiferencialMatemáticas5.0 42020-1S1000013Probabilidad y estadística fundamental 1000013Probabilidad y Estadística FundamentalProbabilidad y Estadística4.0 4Total créditos convalidados/equivalentes822B: obligatoria – O: Optativa. 
-
-PLAN DE ESTUDIOS (1)PLAN DE ESTUDIOS (2) COMPONENTE DISCIPLINARPeriodo AcadémicoCódigoAsignaturaCódigoAsignaturaAgrupaciónNOTA#CréditosC*T*2019-1S2016856Introducción a ingeniería eléctrica 2025975Introducción a la Ingeniería de Sistemas y Computación Contexto Profesional y Proyectos de Ingeniería4.33 2019-1S2015734Programación de computadores 2015734Programación de ComputadoresMétodos y Tecnologías de Software5.0 3Total créditos convalidados/equivalentes 33C: obligatoria – T: Optativa 
-
-PLAN DE ESTUDIOS (1)PLAN DE ESTUDIOS (2) COMPONENTE DE LIBRE ELECCIÓN (L)Periodo AcadémicoCódigoAsignaturaCódigoAsignaturaNOTA#Créditos2020-2S2016487Campos electromagnéticos 2016487Campos electromagnéticos 5.042020-2S1000021Fundamentos de Mecánica de Fluidos 1000021Fundamentos de Mecánica de Fluidos 4.932020-2S2015159Variable compleja 2015159Variable compleja 4.942019-1S2016862Taller de ingeniería eléctrica 2016862Taller de ingeniería eléctrica 4.922021-1S2016506Señales y sistemas I 2016506Señales y sistemas I 4.532019-2S2021141Ciencia, tecnología y desarrollo 2021141Ciencia, tecnología y desarrollo 4.422021-1S2016490Circuitos Eléctricos II 2016490Circuitos Eléctricos II 4.242021-1S2016495Electrónica Análoga I 2016495Electrónica Análoga I 4.242020-1S1000007Ecuaciones Diferenciales 1000007Ecuaciones Diferenciales 4.142020-1S2016489Circuitos Eléctricos I 2016489Circuitos Eléctricos I 4.13Total créditos convalidados/equivalentes 33
-
-5. Asignaturas pendientes por cursar en el segundo plan de estudios
-
-Componente de FundamentaciónObligatorias(B)AgrupaciónCódigoAsignaturaCréditos asignaturaCréditos pendientes por cursar de la agrupación Agrupación Física1000019Fundamentos de Mecánica401000017Fundamentos de Electricidad y Magnetismo4Agrupación Ciencias de la Computación2015174Introducción a la Teoría de la Computación472016696Algoritmos3Optativas (O)Nombre de la AgrupaciónCréditos exigidos en la agrupaciónCréditos pendientes por cursar de la agrupación Agrupación Matemáticas160Agrupación Probabilidad y Estadística30Agrupación Ciencias de la Computación1111Agrupación Ciencias Económicas y Administrativas63
-Componente  Disciplinar/Profesional Obligatorias (C y P)AgrupaciónCódigoAsignaturaCréditos asignaturaCréditos pendientes por cursar de la agrupación Agrupación Métodos y Tecnologías de Software2016375Programación Orientada a Objetos3152016699Estructuras de Datos32016701Ingeniería de Software I32016702Ingeniería de Software II32025966Lenguajes de Programación32016716Arquitectura de Software3Agrupación Infraestructura Computacional, de Comunicaciones y de Información2016697Arquitectura de Computadores3182016707Sistemas Operativos32025967Redes de Computadores32016722Computación Paralela y Distribuida32016353Bases de Datos32025983Arquitectura de Infraestructura y gobierno de TICs3Agrupación Computación Visual2025960Computación Visual33Agrupación Sistemas Inteligentes2025995Introducción a los Sistemas Inteligentes33Agrupación Modelos, Sistemas, Optimización y Simulación2016703Pensamiento Sistémico362025969Modelos Estocásticos y Simulación en Computación y Comunicaciones3Agrupación Contexto Profesional y Proyectos de Ingeniería2025975Introducción a la Ingeniería de Sistemas y Computación332024045Taller de Proyectos Interdisciplinarios3Agrupación Trabajo de Grado2025974Trabajo de Grado66Optativas(T)Nombre de la AgrupaciónCréditos exigidos en la agrupaciónCréditos pendientes por cursar de la agrupación Agrupación Métodos y Tecnologías de Software30Agrupación Infraestructura Computacional, de Comunicaciones y de Información1212Agrupación Modelos, Sistemas, Optimización y Simulación66
-
-Componente de Libre Elección (L) (Créditos pendientes)0
-La oferta de asignatura optativas en cada una de las agrupaciones y componentes del plan de estudios del programa curricular de Ingeniería de Sistemas y Computación (2879)  la encuentra en el Acuerdo) No. 026 del año 2014, expedido por Consejo de Facultad  de Ingeniería
-
-El Consejo de la Facultad Ingeniería en sesión del día 25  de Noviembre de 2021, Acta___RecomiendaXNo recomiendaObservación:· Aunque no dispone de los créditos suficientes para cursar las asignaturas pendientes de aprobación en el segundo plan, presenta un PAPA mayor o igual a 4.3.
-
-Nota: La remisión del formato debe realizarse en formato Word.
-
-Nota: En caso de aprobarse la doble titulación, es importante tener en cuenta lo definido en el parágrafo del art 3 del Acuerdo 155 de 2014 del Consejo Superior Universitario, el cual reza: “El comité asesor que administra el segundo plan de estudios deberá facilitar la inscripción de asignaturas de su plan de estudios a los estudiantes a quienes se les haya formalizado la admisión y que aún se encuentran matriculados en el primer plan de estudios”.
-
-
-9.1.12 Ramírez Mojica Juan Daniel	DNI. 1000954106
-Tipo de solicitud:	Doble titulación – Ingeniería Industrial (2546) a Ingeniería de Sistemas y Computación (2879) 
-Justificación:	"Buen día, 
-	Mi nombre es Juan Daniel Ramírez Mojica, estudiante de sexto semestre de Ingeniería Industrial, cuento con el 53.6% de avance en este programa y escribo la presente para solicitar una doble titulación con el programa de Ingeniería de Sistemas, el cual pertenece a la Facultad de Ingeniería y que, junto a las dos carreras ya mencionadas, conforman el departamento de Ingeniería Industrial y de Sistemas. 
-	En cuanto a las razones por las que estoy interesado en realizar la doble titulación, debo decir que, en mi opinión, los dos programas se complementan de una muy buena forma, por lo que esta oportunidad brindada por la universidad permitiría que mi formación académica en pregrado sea más completa y me de mayores herramientas para afrontar el mundo laboral. Por su parte, deseo cursar el programa de Ingeniería de Sistemas porque, con las experiencias de programación que he tenido en mi primera carrera, descubrí que me apasionan los temas relacionados a los sistemas computacionales; un ejemplo de esta situación, fue la clase de optimización con la docente Libia Denise Cangrejo, que es común a ambos programas y en la que, además de que tuve un buen rendimiento académico, pude desarrollar mis conocimientos en cuanto a las formas de implementar modelos óptimos. Adicionalmente, considero que poseo algunas de las cualidades solicitadas por el programa para los aspirantes como lo es la autonomía, la disciplina y la capacidad de llevar a cabo trabajos en equipo. 
-
-	Agradeciendo su amable colaboración, atentamente, “
-Soportes:	solicitud https://drive.google.com/open?id=1u1-NcMiRcGqJMgzqgPvUfPCGvfJgbs6q.
-Fecha de radicación:	OCTUBRE 7
-	Análisis:	Acuerdo 155 de 2014, Acuerdo 008 de 2008
-
-Concepto: El Comité Asesor recomienda al Consejo de Facultad APROBAR recomendar al Consejo de Sede que formalice la admisión y ubicación en el programa de Ingeniería de Sistemas y Computación (2879) teniendo en cuenta que el estudiante tiene un Promedio Académico Ponderado Acumulado superior o igual a 4.3 y ha cursado el 40 % de su plan de estudios (Acuerdo 155 de 2014 del Consejo Superior Universitario, Resolución 13 de 2020 de la Vicerrectoría Académica)
-
-1. Datos Generales:
-
-DOBLE TITULACIÓN
-Normativa Asociada: Articulo 47 al 50 del Acuerdo 008 de 2008 del CSU y Acuerdo 155 de 2014 del CSU1Nombre del estudianteJuan Daniel Ramírez Mojica2DNI10009541064Plan de estudios origen (1er plan) - SedeIngeniería Industrial (2546) 5Plan de estudios doble titulación (2° plan)Ingeniería de Sistemas y Computación (2879) 6Código del plan de estudios doble titulación (2879) 7Fecha de la Solicitud a través del SIA7 de Octubre 2020
-2. Información Académica:
-
-¿Tuvo calidad de estudiante en el 2° plan?
-Si la respuesta es Si, el Comité Asesor no debe realizar el estudio de equivalencias y convalidaciones. Sin embargo, el Consejo de Facultad deberá emitir la No recomendación y darle trámite ante el Consejo de SedeSiNoXSe encuentra matriculado al momento de presentar la solicitudSiXNo¿El estudiante ha cursado el 40% de los créditos de su primer plan de estudios?
-Si la respuesta es NO, el Comité Asesor no debe realizar el estudio de equivalencias y convalidaciones. Sin embargo, el Consejo de Facultad deberá emitir la No recomendación y darle trámite ante el Consejo de SedeSiXNoP.A.P.A. en el primer plan de estudio4.3Créditos estudio doble titulación (información reportada en el resumen de créditos del SIA)80
-3. Resumen general de créditos del segundo plan de estudios:
-Créditos
-
-Fundamentación DisciplinarLibre Elección (L)TotalObligatorios
-(B)
-Optativos
-(O)
-Obligatorios
-(C)
-Optativos
-(T)
-  Trabajo de Grado (P)Exigidos15365421633165Convalidados/equivalentes8196603372Pendientes71748156090
-4.  Cuadro equivalencia y convalidaciones de asignaturas cursadas y aprobadas hasta la fecha de presentación de la solicitud por parte del estudiante.
-
-PLAN DE ESTUDIOS (1)PLAN DE ESTUDIOS (2) COMPONENTE DE FUNDAMENTACIÓN Periodo AcadémicoCódigoAsignaturaCódigoAsignaturaAgrupaciónNOTA#CréditosB*O*2019-1S1000004Cálculo diferencial 1000004Cálculo DiferencialMatemáticas4.1 42019-2S1000003Álgebra Lineal 1000003Álgebra LinealMatemáticas4.8 42019-2S1000005Cálculo Integral 1000005Cálculo IntegralMatemáticas3.7 42020-1S1000006Cálculo en varias variables 1000006Cálculo en Varias VariablesMatemáticas4.0 42020-1S1000019Fundamentos de mecánica 1000019Fundamentos de MecánicaFísica4.54 2020-2S1000017Fundamentos de electricidad y magnetismo 1000017Fundamentos de Electricidad y MagnetismoFísica3.34 2021-1S2025986Ingeniería económica y análisis de riesgo 2025986Ingeniería Económica y Análisis de RiesgoCiencias Económicas y Administrativas3.8 3Total créditos convalidados/equivalentes819B: obligatoria – O: Optativa. 
-
-PLAN DE ESTUDIOS (1)PLAN DE ESTUDIOS (2) COMPONENTE DISCIPLINARPeriodo AcadémicoCódigoAsignaturaCódigoAsignaturaAgrupaciónNOTA#CréditosC*T*2021-1S2025971Optimización 2025971OptimizaciónModelos, Sistemas, Optimización y Simulación5.0 32019-2S2016375Programación orientada a objetos 2016375Programación Orientada a ObjetosMétodos y Tecnologías de Software4.83 2019-1S2015734Programación de computadores 2015734Programación de ComputadoresMétodos y Tecnologías de Software4.3 32019-1S2026805Introducción a la ingeniería industrial 2025975Introducción a la Ingeniería de Sistemas y Computación Contexto Profesional y Proyectos de Ingeniería4.23 Total créditos convalidados/equivalentes 66C: obligatoria – T: Optativa 
-
-PLAN DE ESTUDIOS (1)PLAN DE ESTUDIOS (2) COMPONENTE DE LIBRE ELECCIÓN (L)Periodo AcadémicoCódigoAsignaturaCódigoAsignaturaNOTA#Créditos2020-1S2016592Economía general 2016592Economía general 5.032021-1S1000007Ecuaciones Diferenciales 1000007Ecuaciones Diferenciales 4.942019-1S2015811Sociología especial: Industrial y del trabajo 2015811Sociología especial: Industrial y del trabajo 4.732019-2S2016615Taller de invención y creatividad 2016615Taller de invención y creatividad 4.732020-2S2026058Intensivkurs Deutsch I - Internationalisierung 2026058Intensivkurs Deutsch I - Internationalisierung 4.742019-2S2026055Inglés Intensivo II 2026055Inglés Intensivo II 4.642020-2S2026551Creación y gestión de empresas 2026551Creación y gestión de empresas 4.632021-1S2016618Taller de Procesos Metalmecánicos 2016618Taller de Procesos Metalmecánicos 4.532020-2S2016610Sistemas de costos 2016610Sistemas de costos 4.542021-1S2016619Taller de Procesos Químicos y Biotecnológicos COMODÍNTaller de Procesos Químicos y Biotecnológicos 4.22Total créditos convalidados/equivalentes 33
-
-5. Asignaturas pendientes por cursar en el segundo plan de estudios
-
-Componente de FundamentaciónObligatorias(B)AgrupaciónCódigoAsignaturaCréditos asignaturaCréditos pendientes por cursar de la agrupación Agrupación Física1000019Fundamentos de Mecánica401000017Fundamentos de Electricidad y Magnetismo4Agrupación Ciencias de la Computación2015174Introducción a la Teoría de la Computación472016696Algoritmos3Optativas (O)Nombre de la AgrupaciónCréditos exigidos en la agrupaciónCréditos pendientes por cursar de la agrupación Agrupación Matemáticas160Agrupación Probabilidad y Estadística33Agrupación Ciencias de la Computación1111Agrupación Ciencias Económicas y Administrativas63
-Componente  Disciplinar/Profesional Obligatorias (C y P)AgrupaciónCódigoAsignaturaCréditos asignaturaCréditos pendientes por cursar de la agrupación Agrupación Métodos y Tecnologías de Software2016375Programación Orientada a Objetos3152016699Estructuras de Datos32016701Ingeniería de Software I32016702Ingeniería de Software II32025966Lenguajes de Programación32016716Arquitectura de Software3Agrupación Infraestructura Computacional, de Comunicaciones y de Información2016697Arquitectura de Computadores3182016707Sistemas Operativos32025967Redes de Computadores32016722Computación Paralela y Distribuida32016353Bases de Datos32025983Arquitectura de Infraestructura y gobierno de TICs3Agrupación Computación Visual2025960Computación Visual33Agrupación Sistemas Inteligentes2025995Introducción a los Sistemas Inteligentes33Agrupación Modelos, Sistemas, Optimización y Simulación2016703Pensamiento Sistémico362025969Modelos Estocásticos y Simulación en Computación y Comunicaciones3Agrupación Contexto Profesional y Proyectos de Ingeniería2025975Introducción a la Ingeniería de Sistemas y Computación332024045Taller de Proyectos Interdisciplinarios3Agrupación Trabajo de Grado2025974Trabajo de Grado66Optativas(T)Nombre de la AgrupaciónCréditos exigidos en la agrupaciónCréditos pendientes por cursar de la agrupación Agrupación Métodos y Tecnologías de Software30Agrupación Infraestructura Computacional, de Comunicaciones y de Información1212Agrupación Modelos, Sistemas, Optimización y Simulación63
-Componente de Libre Elección (L) (Créditos pendientes)0
-La oferta de asignatura optativas en cada una de las agrupaciones y componentes del plan de estudios del programa curricular de Ingeniería de Sistemas y Computación (2879)  la encuentra en el Acuerdo) No. 026 del año 2014, expedido por Consejo de Facultad  de Ingeniería
-El Consejo de la Facultad Ingeniería en sesión del día 25  de Noviembre de 2021, Acta___RecomiendaXNo recomiendaObservación:· Aunque no dispone de los créditos suficientes para cursar las asignaturas pendientes de aprobación en el segundo plan, presenta un PAPA mayor o igual a 4.3.
-Nota: La remisión del formato debe realizarse en formato Word.
-Nota: En caso de aprobarse la doble titulación, es importante tener en cuenta lo definido en el parágrafo del art 3 del Acuerdo 155 de 2014 del Consejo Superior Universitario, el cual reza: “El comité asesor que administra el segundo plan de estudios deberá facilitar la inscripción de asignaturas de su plan de estudios a los estudiantes a quienes se les haya formalizado la admisión y que aún se encuentran matriculados en el primer plan de estudios”.
-9.1.13 Riveros Pérez Oscar Leonardo	DNI. 1192803387
-Tipo de solicitud:	Doble titulación – Ingeniería Electrónica (2545)  a Ingeniería de Sistemas y Computación (2879) 
-Justificación:	"Deseo realizar la doble titulación para aprovechar en máximo lo que la universidad nacional puede ofrecerme y complementar mis estudios con otra área de mi interés. “
-Soportes:	solicitud https://drive.google.com/open?id=1yDEz5MgSFddgzAS68kNNDD8kyiJW2eeR
-Fecha de radicación:	OCTUBRE 22
-	Análisis:	Acuerdo 155 de 2014, Acuerdo 008 de 2008
-
-Concepto: El Comité Asesor recomienda al Consejo de Facultad APROBAR recomendar al Consejo de Sede que formalice la admisión y ubicación en el programa de Ingeniería de Sistemas y Computación (2879) teniendo en cuenta que el estudiante tiene un Promedio Académico Ponderado Acumulado superior o igual a 4.3 y ha cursado el 40 % de su plan de estudios (Acuerdo 155 de 2014 del Consejo Superior Universitario, Resolución 13 de 2020 de la Vicerrectoría Académica)
-
-1. Datos Generales:
-
-DOBLE TITULACIÓN
-Normativa Asociada: Articulo 47 al 50 del Acuerdo 008 de 2008 del CSU y Acuerdo 155 de 2014 del CSU1Nombre del estudianteOscar Leonardo Riveros Pérez2DNI11928033874Plan de estudios origen (1er plan) - SedeIngeniería Electrónica (2545)5Plan de estudios doble titulación (2° plan)Ingeniería de Sistemas y Computación (2879)6Código del plan de estudios doble titulación(2879)7Fecha de la Solicitud a través del SIAOctubre 22 de 2021
-2. Información Académica:
-
-¿Tuvo calidad de estudiante en el 2° plan?
-Si la respuesta es Si, el Comité Asesor no debe realizar el estudio de equivalencias y convalidaciones. Sin embargo, el Consejo de Facultad deberá emitir la No recomendación y darle trámite ante el Consejo de SedeSiNoXSe encuentra matriculado al momento de presentar la solicitudSiXNo¿El estudiante ha cursado el 40% de los créditos de su primer plan de estudios?
-Si la respuesta es NO, el Comité Asesor no debe realizar el estudio de equivalencias y convalidaciones. Sin embargo, el Consejo de Facultad deberá emitir la No recomendación y darle trámite ante el Consejo de SedeSiXNoP.A.P.A. en el primer plan de estudio4.4Créditos estudio doble titulación (información reportada en el resumen de créditos del SIA)72
-3. Resumen general de créditos del segundo plan de estudios:
-
-Créditos
-
-
-
-FundamentaciónDisciplinarLibre Elección (L)TotalObligatorios
-(B)
-Optativos
-(O)
-Obligatorios
-(C)
-Optativos
-(T)
-Trabajo de Grado (P)Exigidos15365421633165Convalidados/equivalentes8226703379Pendientes71448146086
-4.  Cuadro equivalencia y convalidaciones de asignaturas cursadas y aprobadas hasta la fecha de presentación de la solicitud por parte del estudiante.
-
-PLAN DE ESTUDIOS (1)PLAN DE ESTUDIOS (2) COMPONENTE DE FUNDAMENTACIÓN Periodo AcadémicoCódigoAsignaturaCódigoAsignaturaAgrupaciónNOTA#CréditosB*O*2018-1S1000004Cálculo diferencial 1000004Cálculo DiferencialMatemáticas4.1 42018-2S1000003Álgebra Lineal 1000003Álgebra LinealMatemáticas3.9 42018-2S1000005Cálculo Integral 1000005Cálculo IntegralMatemáticas4.1 42020-1S1000013Probabilidad y estadística fundamental 1000013Probabilidad y Estadística FundamentalProbabilidad y Estadística4.5 32019-1S1000006Cálculo en varias variables 1000006Cálculo en Varias VariablesMatemáticas4.8 42019-1S1000017Fundamentos de electricidad y magnetismo 1000017Fundamentos de Electricidad y MagnetismoFísica4.44 2018-2S1000019Fundamentos de mecánica 1000019Fundamentos de MecánicaFísica3.44 2021-1S2015703Ingeniería económica 2015703Ingeniería EconómicaCiencias Económicas y Administrativas5.0 3Total créditos convalidados/equivalentes 822B: obligatoria – O: Optativa. 
-
-PLAN DE ESTUDIOS (1)PLAN DE ESTUDIOS (2) COMPONENTE DISCIPLINARPeriodo AcadémicoCódigoAsignaturaCódigoAsignaturaAgrupaciónNOTA#CréditosC*T*2020-2S2016498Electrónica digital I 2016498Electrónica Digital I Infraestructura Computacional, de Comunicaciones y de Información5.0 42018-2S2016375Programación orientada a objetos 2016375Programación Orientada a ObjetosMétodos y Tecnologías de Software4.13 2018-1S2015734Programación de computadores 2015734Programación de ComputadoresMétodos y Tecnologías de Software5.0 32018-1S2016502Introducción a ingeniería electrónica 2025975Introducción a la Ingeniería de Sistemas y Computación Contexto Profesional y Proyectos de Ingeniería4.23 Total créditos convalidados/equivalentes 67C: obligatoria – T: Optativa 
-
-PLAN DE ESTUDIOS (1)PLAN DE ESTUDIOS (2) COMPONENTE DE LIBRE ELECCIÓN (L)Periodo AcadémicoCódigoAsignaturaCódigoAsignaturaNOTA#Créditos2021-1S2016499Electrónica digital II 2016499Electrónica digital II 5.042020-2S2016496Electrónica análoga II 2016496Electrónica análoga II 5.042019-2S2028441Cátedra de Sede Manuel Ancízar "Esta Boca es Mía" 2028441Cátedra de Sede Manuel Ancízar "Esta Boca es Mía" 4.932020-1S2016495Electrónica Análoga I 2016495Electrónica Análoga I 4.842019-1S2028282Cátedra Gabriel García Márquez: Realismo mágico musical 2028282Cátedra Gabriel García Márquez: Realismo mágico musical 4.732018-1S2016509Taller de ingeniería electrónica 2016509Taller de ingeniería electrónica 4.722021-1S2016507Señales y Sistemas II 2016507Señales y Sistemas II 4.532020-2S2016506Señales y sistemas I 2016506Señales y sistemas I 4.532020-1S1000020Fundamentos de oscilaciones, ondas y óptica 1000020Fundamentos de oscilaciones, ondas y óptica 4.542020-1S2015159Variable compleja ComodínVariable compleja 4.52Total créditos convalidados/equivalentes 32
-
-5. Asignaturas pendientes por cursar en el segundo plan de estudios
-
-Componente de FundamentaciónObligatorias(B)AgrupaciónCódigoAsignaturaCréditos asignaturaCréditos pendientes por cursar de la agrupación Agrupación Física1000019Fundamentos de Mecánica401000017Fundamentos de Electricidad y Magnetismo4Agrupación Ciencias de la Computación2015174Introducción a la Teoría de la Computación472016696Algoritmos3Optativas (O)Nombre de la AgrupaciónCréditos exigidos en la agrupaciónCréditos pendientes por cursar de la agrupación Agrupación Matemáticas160Agrupación Probabilidad y Estadística30Agrupación Ciencias de la Computación1111Agrupación Ciencias Económicas y Administrativas66
-Componente  Disciplinar/Profesional Obligatorias (C y P)AgrupaciónCódigoAsignaturaCréditos asignaturaCréditos pendientes por cursar de la agrupación Agrupación Métodos y Tecnologías de Software2016375Programación Orientada a Objetos3152016699Estructuras de Datos32016701Ingeniería de Software I32016702Ingeniería de Software II32025966Lenguajes de Programación32016716Arquitectura de Software3Agrupación Infraestructura Computacional, de Comunicaciones y de Información2016697Arquitectura de Computadores3182016707Sistemas Operativos32025967Redes de Computadores32016722Computación Paralela y Distribuida32016353Bases de Datos32025983Arquitectura de Infraestructura y gobierno de TICs3Agrupación Computación Visual2025960Computación Visual33Agrupación Sistemas Inteligentes2025995Introducción a los Sistemas Inteligentes33Agrupación Modelos, Sistemas, Optimización y Simulación2016703Pensamiento Sistémico362025969Modelos Estocásticos y Simulación en Computación y Comunicaciones3Agrupación Contexto Profesional y Proyectos de Ingeniería2025975Introducción a la Ingeniería de Sistemas y Computación332024045Taller de Proyectos Interdisciplinarios3Agrupación Trabajo de Grado2025974Trabajo de Grado66Optativas(T)Nombre de la AgrupaciónCréditos exigidos en la agrupaciónCréditos pendientes por cursar de la agrupación Agrupación Métodos y Tecnologías de Software30Agrupación Infraestructura Computacional, de Comunicaciones y de Información129Agrupación Modelos, Sistemas, Optimización y Simulación66
-
-Componente de Libre Elección (L) (Créditos pendientes)0
-
-La oferta de asignatura optativas en cada una de las agrupaciones y componentes del plan de estudios del programa curricular de la encuentra en la Acuerdo No 026 . del año 2014, expedido por Consejo de Facultad.
-
-
-El Consejo de la Facultad Ingeniería en sesión del día 25 de Noviembre de 2021, Acta___RecomiendaXNo recomiendaObservación:· Aunque no dispone de los créditos suficientes para cursar las asignaturas pendientes de aprobación en el segundo plan, presenta un PAPA mayor o igual a 4.3.
-
-Nota: La remisión del formato debe realizarse en formato Word.
-
-Nota: En caso de aprobarse la doble titulación, es importante tener en cuenta lo definido en el parágrafo del art 3 del Acuerdo 155 de 2014 del Consejo Superior Universitario, el cual reza: “El comité asesor que administra el segundo plan de estudios deberá facilitar la inscripción de asignaturas de su plan de estudios a los estudiantes a quienes se les haya formalizado la admisión y que aún se encuentran matriculados en el primer plan de estudios”.
-
-9.1.14 Hernández Martínez Álvaro	DNI. 1000612792
-Tipo de solicitud:	Doble titulación – Administración De Empresas (2520)a Ingeniería de Sistemas y Computación (2879)  .
-Justificación:	" Desde mi temprana infancia he estado apasionado por las organizaciones y su impacto en la sociedad, por este motivo tomé la decisión de estudiar Administración de Empresas al terminar mis estudios secundarios en busca de afianzarme de los conocimientos suficientes para liderar y ejercer a través de las diferentes esferas que componen a las ciencias de la gestión. Asimismo, a lo largo de mi vida he tenido un inmenso interés por la tecnología, especialmente aplicada a los sistemas, partiendo de la computación hasta sistemas aún más complejos. Es de esta manera que, conforme he avanzado en mi pregrado de Administración de Empresas y he tenido diferentes acercamientos a los conceptos impartidos en el pregrado de Ingeniería de Sistemas y Computación, desde áreas de la programación hasta sistemas de información, he llegado a la conclusión de que ambos programas curriculares que ofrece la Universidad Nacional de Colombia convergen de manera satisfactoria con mis objetivos profesionales, al proveerme de una formación fundamental y disciplinar que me permite tener más oportunidades de materializar mis proyectos a largo plazo. Adicionalmente, con base a los grandes avances que ha tenido la computación en los últimos años, en especial la ciencia de datos y la inteligencia artificial, me he motivado bastante a formarme desde esta área de conocimiento para tener la capacidad de aplicarla bajo un contexto empresarial del cual actualmente me encuentro capacitando. Es así como en los últimos meses me he dedicado a revisar detalladamente todo el programa curricular de Ingeniería de Sistemas y Computación para conocer sus enfoques y la manera en la que puede aportarme a mi vida profesional, por lo cual he llegado a la conclusión de que, junto a Administración de Empresas, ambos pregrados me permitirán forjarme como un profesional completo y multidisciplinar, de tal forma que en el futuro me constituya como un administrador especializado en sistemas y computación, dispuesto a innovar y contribuir desde la amplia gama de conocimientos que me pueden proporcionar ambos programas curriculares.”
-Soportes:	Solicitud SIA,  https://drive.google.com/open?id=139IrCV_aDMmt0IYMWn7FPBjpOCHffkc2
-Fecha de radicación:	22 octubre
-	Análisis:	Acuerdo 155 de 2014, Acuerdo 008 de 2008
-1. El estudiante puede estar en reserva de cupo.
-Concepto: El Comité Asesor recomienda al Consejo de Facultad APROBAR recomendar al Consejo de Sede que formalice la admisión y ubicación en el programa de Ingeniería de Sistemas y Computación (2879)  teniendo en cuenta que el estudiante tiene un Promedio Académico Ponderado Acumulado superior o igual a 4.3 y ha cursado el 40 % de su plan de estudios (Acuerdo 155 de 2014 del Consejo Superior Universitario, Resolución 13 de 2020 de la Vicerrectoría Académica)
-
-
-1. Datos Generales:
-
-DOBLE TITULACIÓN
-Normativa Asociada: Articulo 47 al 50 del Acuerdo 008 de 2008 del CSU y Acuerdo 155 de 2014 del CSU1Nombre del estudianteÁlvaro Hernández Martínez2DNI10006127924Plan de estudios origen (1er plan) - SedeAdministración De Empresas (2520)5Plan de estudios doble titulación (2° plan)Ingeniería de Sistemas y Computación (2879)   6Código del plan de estudios doble titulación (2879) 7Fecha de la Solicitud a través del SIA22 de octubre de 2021
-2. Información Académica:
-
-,,SiNoXSe encuentra matriculado al momento de presentar la solicitudSiXNo¿El estudiante ha cursado el 40% de los créditos de su primer plan de estudios?
-Si la respuesta es NO, el Comité Asesor no debe realizar el estudio de equivalencias y convalidaciones. Sin embargo, el Consejo de Facultad deberá emitir la No recomendación y darle trámite ante el Consejo de SedeSiXNoP.A.P.A. en el primer plan de estudio4.7Créditos estudio doble titulación (información reportada en el resumen de créditos del SIA)80
-3. Resumen general de créditos del segundo plan de estudios:
-
-Créditos
-
-
-
-FundamentaciónDisciplinarLibre Elección (L)TotalObligatorios
-(B)
-Optativos
-(O)
-Obligatorios
-(C)
-Optativos
-(T)
-Trabajo de Grado (P)Exigidos15365421633165Convalidados/equivalentes0110003354Pendientes1925542160114
-4.  Cuadro equivalencia y convalidaciones de asignaturas cursadas y aprobadas hasta la fecha de presentación de la solicitud por parte del estudiante.
-
-PLAN DE ESTUDIOS (1)PLAN DE ESTUDIOS (2) COMPONENTE DE FUNDAMENTACIÓN Periodo AcadémicoCódigoAsignaturaCódigoAsignaturaAgrupaciónNOTA#CréditosB*O*2020-1S1000004Cálculo diferencial1000004Cálculo DiferencialMatemáticas4,9 42021-1S1000005Cálculo Integral1000005Cálculo IntegralMatemáticas4,8 42020-2S1000013Probabilidad y Estadística Fundamental1000013Probabilidad y Estadística FundamentalProbabilidad y Estadística5 3Total créditos convalidados/equivalentes 0 11B: obligatoria – O: Optativa. 
-
-
-PLAN DE ESTUDIOS (1)PLAN DE ESTUDIOS (2) COMPONENTE DE LIBRE ELECCIÓN (L)Periodo AcadémicoCódigoAsignaturaCódigoAsignaturaNOTA#Créditos2020-1S2016129Teoría de la organización2016129Teoría de la organización542020-2S2016116Derecho de las relaciones laborales2016116Derecho de las relaciones laborales532021-1S2016039Fundamentos de Finanzas2016039Fundamentos de Finanzas542021-1S2016046Mercados I2016046Mercados I542020-2S2016123Instituciones Político-Constitucionales Colom2016123Instituciones Político-Constitucionales Colom4,942020-2S2016021Modelación estática2016021Modelación estática4,942020-2S2016017Microeconomía I2016017Microeconomía I4,842021-1S2016128Teoría Contemporánea de la Organización2016128Teoría Contemporánea de la Organización4,842021-1S2016012Macroeconomía ICOMODINMacroeconomía I4,72Total créditos convalidados/equivalentes 33
-
-
-5. Asignaturas pendientes por cursar en el segundo plan de estudios
-
-Componente de FundamentaciónObligatorias(B)AgrupaciónCódigoAsignaturaCréditos asignaturaCréditos pendientes por cursar de la agrupación Agrupación Física1000019Fundamentos de Mecánica481000017Fundamentos de Electricidad y Magnetismo4Agrupación Ciencias de la Computación2015174Introducción a la Teoría de la Computación472016696Algoritmos3Optativas (O)Nombre de la AgrupaciónCréditos exigidos en la agrupaciónCréditos pendientes por cursar de la agrupación Agrupación Matemáticas168Agrupación Probabilidad y Estadística30Agrupación Ciencias de la Computación1111Agrupación Ciencias Económicas y Administrativas66
-Componente  Disciplinar/Profesional Obligatorias (C y P)AgrupaciónCódigoAsignaturaCréditos asignaturaCréditos pendientes por cursar de la agrupación Agrupación Métodos y Tecnologías de Software2016375Programación Orientada a Objetos3182016699Estructuras de Datos32016701Ingeniería de Software I32016702Ingeniería de Software II32025966Lenguajes de Programación32016716Arquitectura de Software3Agrupación Infraestructura Computacional, de Comunicaciones y de Información2016697Arquitectura de Computadores3182016707Sistemas Operativos32025967Redes de Computadores32016722Computación Paralela y Distribuida32016353Bases de Datos32025983Arquitectura de Infraestructura y gobierno de TICs3Agrupación Computación Visual2025960Computación Visual33Agrupación Sistemas Inteligentes2025995Introducción a los Sistemas Inteligentes33Agrupación Modelos, Sistemas, Optimización y Simulación2016703Pensamiento Sistémico362025969Modelos Estocásticos y Simulación en Computación y Comunicaciones3Agrupación Contexto Profesional y Proyectos de Ingeniería2025975Introducción a la Ingeniería de Sistemas y Computación362024045Taller de Proyectos Interdisciplinarios3Agrupación Trabajo de Grado2025974Trabajo de Grado66Optativas(T)Nombre de la AgrupaciónCréditos exigidos en la agrupaciónCréditos pendientes por cursar de la agrupación Agrupación Métodos y Tecnologías de Software33Agrupación Infraestructura Computacional, de Comunicaciones y de Información1212Agrupación Modelos, Sistemas, Optimización y Simulación66
-
-
-Componente de Libre Elección (L) (Créditos pendientes)0
-
-La oferta de asignatura optativas en cada una de las agrupaciones y componentes del plan de estudios del programa curricular de la encuentra en la Acuerdo No 026 . del año 2014, expedido por Consejo de Facultad.
-
-
-El Consejo de la Facultad Ingeniería en sesión del día 25 de noviembre de 2021, Acta___RecomiendaXNo recomiendaObservación:· Aunque no dispone de los créditos suficientes para cursar las asignaturas pendientes de aprobación en el segundo plan, presenta un PAPA mayor o igual a 4.3.
-
-Nota: La remisión del formato debe realizarse en formato Word.
-
-Nota: En caso de aprobarse la doble titulación, es importante tener en cuenta lo definido en el parágrafo del art 3 del Acuerdo 155 de 2014 del Consejo Superior Universitario, el cual reza: “El comité asesor que administra el segundo plan de estudios deberá facilitar la inscripción de asignaturas de su plan de estudios a los estudiantes a quienes se les haya formalizado la admisión y que aún se encuentran matriculados en el primer plan de estudios”.
-
-
-9.1.15 Ramírez Corredor Joseph Alexander	DNI. 1026593190
-Tipo de solicitud:	Doble titulación – Ingeniería Civil (2542) a Ingeniería de Sistemas y Computación (2879)  .
-Justificación:	" Desde que inicie el programa de MinTIC he descubierto un nuevo mundo que no había explorado antes de esto, que es el mundo de la computación, en la actualidad el mundo cada vez se dirige más a desarrollar todos sus procesos mediante la tecnología e inclusive la ingeniería civil se va adaptando cada día más a la tecnología y la va adoptando como suya, es por eso que me gustaría cursar el programa de doble titulación con ingeniería de sistemas y computación, por un lado para complementar mi carrera de ingeniería civil y por otro lado porque es un tema que me apasiona el diseñar programas y estructurar código he descubierto que es muy extenso y muy interesante y por ello me he inmerso en este realizando diferentes cursos y aprendiendo de los sistemas informáticos, es por eso que en este momento de mi vida cuando aún tengo la posibilidad de realizar el programa de doble titulación en mi alma mater y más en algo que me apasiona y que complementa los conocimientos ya adquiridos, presento esta solicitud y espero que sea aprobada.”
-Soportes:	Solicitud https://drive.google.com/open?id=1RyRN4qy4COAXQXFiEl5qQH1B5vIqkyN0
-Fecha de solicitud:	Octubre 25
-Concepto: El Comité Asesor recomienda al Consejo de Facultad APROBAR no recomendar al Consejo de Sede que formalice la admisión y ubicación en el programa de pregrado Ingeniería de Sistemas y Computación (2879), debido a que tiene un PAPA de 4.0 y no cuenta con el cupo suficiente de créditos para culminar el segundo plan (Acuerdo 155 de 2014 del Consejo Superior Universitario, Resolución 13 de 2020 de la Vicerrectoría Académica) 
-
-
-1. Datos Generales:
-
-DOBLE TITULACIÓN
-Normativa Asociada: Articulo 47 al 50 del Acuerdo 008 de 2008 del CSU y Acuerdo 155 de 2014 del CSU1Nombre del estudianteJoseph Alexander Ramírez Corredor2DNI10265931904Plan de estudios origen (1er plan) - SedeIngeniería Civil (2542)5Plan de estudios doble titulación (2° plan)Ingeniería Civil (2542)6Código del plan de estudios doble titulaciónIngeniería de Sistemas y Computación (2879)7Fecha de la Solicitud a través del SIAoct-25
-2. Información Académica:
-
-¿Tuvo calidad de estudiante en el 2° plan?
-Si la respuesta es Si, el Comité Asesor no debe realizar el estudio de equivalencias y convalidaciones. Sin embargo, el Consejo de Facultad deberá emitir la No recomendación y darle trámite ante el Consejo de SedeSiNoXSe encuentra matriculado al momento de presentar la solicitudSiXNo¿El estudiante ha cursado el 40% de los créditos de su primer plan de estudios?
-Si la respuesta es NO, el Comité Asesor no debe realizar el estudio de equivalencias y convalidaciones. Sin embargo, el Consejo de Facultad deberá emitir la No recomendación y darle trámite ante el Consejo de SedeSiXNoP.A.P.A. en el primer plan de estudio4.0Créditos estudio doble titulación (información reportada en el resumen de créditos del SIA)64
-3. Resumen general de créditos del segundo plan de estudios:
-
-Créditos
-
-
-
-FundamentaciónDisciplinarLibre Elección (L)TotalObligatorios
-(B)
-Optativos
-(O)
-Obligatorios
-(C)
-Optativos
-(T)
-Trabajo de Grado (P)Exigidos15365421633165Convalidados/equivalentes4226303368Pendientes111448186097
-4.  Cuadro equivalencia y convalidaciones de asignaturas cursadas y aprobadas hasta la fecha de presentación de la solicitud por parte del estudiante.
-
-PLAN DE ESTUDIOS (1)PLAN DE ESTUDIOS (2) COMPONENTE DE FUNDAMENTACIÓN Periodo AcadémicoCódigoAsignaturaCódigoAsignaturaAgrupaciónNOTA#CréditosB*O*2017-2S1000006Cálculo en varias variables 1000006Cálculo en Varias VariablesMatemáticas4.5  42016-2S1000003Álgebra Lineal 1000003Álgebra LinealMatemáticas3.6 42016-2S1000005Cálculo Integral 1000005Cálculo IntegralMatemáticas3.3 42016-1S1000004Cálculo diferencial 1000004Cálculo DiferencialMatemáticas3.7 42016-2S1000019Fundamentos de mecánica 1000019Fundamentos de MecánicaFísica3.54 2017-1S2015703Ingeniería económica 2015703Ingeniería EconómicaCiencias Económicas y Administrativas5.0 32016-2S1000013Probabilidad y estadística fundamental 1000013Probabilidad y Estadística FundamentalProbabilidad y Estadística4.0 3Total créditos convalidados/equivalentes 422B: obligatoria – O: Optativa. 
-
-PLAN DE ESTUDIOS (1)PLAN DE ESTUDIOS (2) COMPONENTE DISCIPLINARPeriodo AcadémicoCódigoAsignaturaCódigoAsignaturaAgrupaciónNOTA#CréditosC*T*2019-1S2024045Taller de proyectos interdisciplinarios 2024045Taller de Proyectos Interdisciplinarios Contexto Profesional y Proyectos de Ingeniería4.03 2015-2S2026186Introducción a la ingeniería civil 2025975Introducción a la Ingeniería de Sistemas y Computación Contexto Profesional y Proyectos de Ingeniería4.43 2016-1S2015734Programación de computadores 2015734Programación de ComputadoresMétodos y Tecnologías de Software3.9 3Total créditos convalidados/equivalentes 63C: obligatoria – T: Optativa 
-
-PLAN DE ESTUDIOS (1)PLAN DE ESTUDIOS (2) COMPONENTE DE LIBRE ELECCIÓN (L)Periodo AcadémicoCódigoAsignaturaCódigoAsignaturaNOTA#Créditos2020-2S2026501Física las grandes ideas que cambiaron al mundo 2026501Física las grandes ideas que cambiaron al mundo 5.022021-1S2021758Chino I 2021758Chino I 4.932017-2S2027510Cátedra Gabriel García Márquez: Frankenstein de mary w. shelley: Nuevas miradas políticas y estética 2027510Cátedra Gabriel García Márquez: Frankenstein de mary w. shelley: Nuevas miradas políticas y estética 4.932021-1S2025063Introducción al viaje espacial 2025063Introducción al viaje espacial 4.832021-1S2021478Portugués I 2021478Portugués I 4.832017-2S2025691Recursos genéticos: aspectos técnicos y jurídicos 2025691Recursos genéticos: aspectos técnicos y jurídicos 4.832016-1S2021770Cátedra de derecho para estudiantes de otras carreras 2021770Cátedra de derecho para estudiantes de otras carreras 4.832020-2S2024481NUEVOS Y VIEJOS CONFLICTOS EN EL ORDEN INTERNACIONAL TRAS EL FIN DE LA GUERRA FRÍA 2024481NUEVOS Y VIEJOS CONFLICTOS EN EL ORDEN INTERNACIONAL TRAS EL FIN DE LA GUERRA FRÍA 4.632018-1S2026138Ingeniería de transporte 2026138Ingeniería de transporte 4.632021-1S2015955Fundamentos de construcción 2015955Fundamentos de construcción 4.532017-1S2015958Geomática básica 2015958Geomática básica 4.34Total créditos convalidados/equivalentes 33
-
-
-5. Asignaturas pendientes por cursar en el segundo plan de estudios
-
-Componente de FundamentaciónObligatorias(B)AgrupaciónCódigoAsignaturaCréditos asignaturaCréditos pendientes por cursar de la agrupación Agrupación Física1000019Fundamentos de Mecánica441000017Fundamentos de Electricidad y Magnetismo4Agrupación Ciencias de la Computación2015174Introducción a la Teoría de la Computación472016696Algoritmos3Optativas (O)Nombre de la AgrupaciónCréditos exigidos en la agrupaciónCréditos pendientes por cursar de la agrupación Agrupación Matemáticas160Agrupación Probabilidad y Estadística30Agrupación Ciencias de la Computación1111Agrupación Ciencias Económicas y Administrativas63
-Componente  Disciplinar/Profesional Obligatorias (C y P)AgrupaciónCódigoAsignaturaCréditos asignaturaCréditos pendientes por cursar de la agrupación Agrupación Métodos y Tecnologías de Software2016375Programación Orientada a Objetos3182016699Estructuras de Datos32016701Ingeniería de Software I32016702Ingeniería de Software II32025966Lenguajes de Programación32016716Arquitectura de Software3Agrupación Infraestructura Computacional, de Comunicaciones y de Información2016697Arquitectura de Computadores3182016707Sistemas Operativos32025967Redes de Computadores32016722Computación Paralela y Distribuida32016353Bases de Datos32025983Arquitectura de Infraestructura y gobierno de TICs3Agrupación Computación Visual2025960Computación Visual33Agrupación Sistemas Inteligentes2025995Introducción a los Sistemas Inteligentes33Agrupación Modelos, Sistemas, Optimización y Simulación2016703Pensamiento Sistémico362025969Modelos Estocásticos y Simulación en Computación y Comunicaciones3Agrupación Contexto Profesional y Proyectos de Ingeniería2025975Introducción a la Ingeniería de Sistemas y Computación302024045Taller de Proyectos Interdisciplinarios3Agrupación Trabajo de Grado2025974Trabajo de Grado66Optativas(T)Nombre de la AgrupaciónCréditos exigidos en la agrupaciónCréditos pendientes por cursar de la agrupación Agrupación Métodos y Tecnologías de Software30Agrupación Infraestructura Computacional, de Comunicaciones y de Información1212Agrupación Modelos, Sistemas, Optimización y Simulación66
-
-Componente de Libre Elección (L) (Créditos pendientes)0
-
-La oferta de asignatura optativas en cada una de las agrupaciones y componentes del plan de estudios del programa curricular de la encuentra en la Acuerdo No 026 . del año 2014, expedido por Consejo de Facultad.
-
-
-El Consejo de la Facultad Ingeniería en sesión del día 25 de Noviembre  de 2021, Acta___RecomiendaNo recomiendaXObservación:· Dispone de los créditos suficientes para cursar las asignaturas pendientes de aprobación en el segundo plan.
-
-Nota: La remisión del formato debe realizarse en formato Word.
-
-Nota: En caso de aprobarse la doble titulación, es importante tener en cuenta lo definido en el parágrafo del art 3 del Acuerdo 155 de 2014 del Consejo Superior Universitario, el cual reza: “El comité asesor que administra el segundo plan de estudios deberá facilitar la inscripción de asignaturas de su plan de estudios a los estudiantes a quienes se les haya formalizado la admisión y que aún se encuentran matriculados en el primer plan de estudios”.
-
-9.1.16 Pabón Martínez Juan David	DNI. 1019133974
-Tipo de solicitud:	Doble titulación – Administración De Empresas (2520)a Ingeniería de Sistemas y Computación (2879).
-Justificación:	"Deseo conocer la posibilidad de hacer doble titulación con ingeniería de sistemas”
-Soportes:	Solicitud https://drive.google.com/open?id=1YnXZplNmAfZbsCXaOvgpvKVc4dqQ7wNa
-Fecha de solicitud:	Octubre 22
-Concepto: El Comité Asesor recomienda al Consejo de Facultad APROBAR no recomendar al Consejo de Sede que formalice la admisión y ubicación en el programa de pregrado Ingeniería de Sistemas y Computación (2879), debido a que tiene un PAPA de 4.0 y no cuenta con el cupo suficiente de créditos para culminar el segundo plan (Acuerdo 155 de 2014 del Consejo Superior Universitario, Resolución 13 de 2020 de la Vicerrectoría Académica) 
-1. Datos Generales:
-
-DOBLE TITULACIÓN
-Normativa Asociada: Articulo 47 al 50 del Acuerdo 008 de 2008 del CSU y Acuerdo 155 de 2014 del CSU1Nombre del estudianteJuan David Pabón Martínez2DNI10191339744Plan de estudios origen (1er plan) - SedeAdministración De Empresas (2520)5Plan de estudios doble titulación (2° plan)Ingeniería de Sistemas y Computación (2879)   6Código del plan de estudios doble titulación (2879) 7Fecha de la Solicitud a través del SIA22 de octubre de 2021
-2. Información Académica:
-
-¿Tuvo calidad de estudiante en el 2° plan?
-Si la respuesta es Si, el Comité Asesor no debe realizar el estudio de equivalencias y convalidaciones. Sin embargo, el Consejo de Facultad deberá emitir la No recomendación y darle trámite ante el Consejo de SedeSiNoXSe encuentra matriculado al momento de presentar la solicitudSiXNo¿El estudiante ha cursado el 40% de los créditos de su primer plan de estudios?
-Si la respuesta es NO, el Comité Asesor no debe realizar el estudio de equivalencias y convalidaciones. Sin embargo, el Consejo de Facultad deberá emitir la No recomendación y darle trámite ante el Consejo de SedeSiXNoP.A.P.A. en el primer plan de estudio4.0Créditos estudio doble titulación (información reportada en el resumen de créditos del SIA)76
-3. Resumen general de créditos del segundo plan de estudios:
-
-Créditos
-
-
-
-FundamentaciónDisciplinarLibre Elección (L)TotalObligatorios
-(B)
-Optativos
-(O)
-Obligatorios
-(C)
-Optativos
-(T)
-Trabajo de Grado (P)Exigidos15365421633165Convalidados/equivalentes0180003351Pendientes1518542160114
-4.  Cuadro equivalencia y convalidaciones de asignaturas cursadas y aprobadas hasta la fecha de presentación de la solicitud por parte del estudiante.
-
-PLAN DE ESTUDIOS (1)PLAN DE ESTUDIOS (2) COMPONENTE DE FUNDAMENTACIÓN Periodo AcadémicoCódigoAsignaturaCódigoAsignaturaAgrupaciónNOTA#CréditosB*O*2018-2S1000004Cálculo diferencial1000004Cálculo DiferencialMatemáticas3,1 42020-1S1000003Algebra Lineal1000003Álgebra LinealMatemáticas4,5 42021-1S1000005Cálculo Integral1000005Cálculo IntegralMatemáticas4,1 42020-2S1000013Probabilidad y Estadística Fundamental1000013Probabilidad y Estadística FundamentalProbabilidad y Estadística3,8 32021-1S2016028Diseño, gestión y evaluación de proyectos2016028Diseño, Gestión y Evaluación de ProyectosCiencias Económicas y Administrativas4,3 4Total créditos convalidados/equivalentes 0 19B: obligatoria – O: Optativa. 
-
-
-PLAN DE ESTUDIOS (1)PLAN DE ESTUDIOS (2) COMPONENTE DE LIBRE ELECCIÓN (L)Periodo AcadémicoCódigoAsignaturaCódigoAsignaturaNOTA#Créditos2018-2S2016196Español y Comunicación2016196Español y Comunicación4,832020-1S2016121Gestión de las operaciones y la producción I2016121Gestión de las operaciones y la producción I4,642019-2S2016036Estrategia2016036Estrategia4,432021-1S2016122Gestión de las operaciones y la producción II2016122Gestión de las operaciones y la producción II4,442018-2S2016012Macroeconomía I2016012Macroeconomía I4,43 2016042Internacionalización de la Empresa2016042Internacionalización de la Empresa4,342019-1s2016046Mercados I2016046Mercados I4,242019-1S2016011Historia económica general2016011Historia económica general4,242018-1S2015270Fundamentos de economía2015270Fundamentos de economía4,23Total créditos convalidados/equivalentes 32
-
-5. Asignaturas pendientes por cursar en el segundo plan de estudios
-
-Componente de FundamentaciónObligatorias(B)AgrupaciónCódigoAsignaturaCréditos asignaturaCréditos pendientes por cursar de la agrupación Agrupación Física1000019Fundamentos de Mecánica481000017Fundamentos de Electricidad y Magnetismo4Agrupación Ciencias de la Computación2015174Introducción a la Teoría de la Computación472016696Algoritmos3Optativas (O)Nombre de la AgrupaciónCréditos exigidos en la agrupaciónCréditos pendientes por cursar de la agrupación Agrupación Matemáticas164Agrupación Probabilidad y Estadística30Agrupación Ciencias de la Computación1111Agrupación Ciencias Económicas y Administrativas63
-Componente  Disciplinar/Profesional Obligatorias (C y P)AgrupaciónCódigoAsignaturaCréditos asignaturaCréditos pendientes por cursar de la agrupación Agrupación Métodos y Tecnologías de Software2016375Programación Orientada a Objetos3182016699Estructuras de Datos32016701Ingeniería de Software I32016702Ingeniería de Software II32025966Lenguajes de Programación32016716Arquitectura de Software3Agrupación Infraestructura Computacional, de Comunicaciones y de Información2016697Arquitectura de Computadores3182016707Sistemas Operativos32025967Redes de Computadores32016722Computación Paralela y Distribuida32016353Bases de Datos32025983Arquitectura de Infraestructura y gobierno de TICs3Agrupación Computación Visual2025960Computación Visual33Agrupación Sistemas Inteligentes2025995Introducción a los Sistemas Inteligentes33Agrupación Modelos, Sistemas, Optimización y Simulación2016703Pensamiento Sistémico362025969Modelos Estocásticos y Simulación en Computación y Comunicaciones3Agrupación Contexto Profesional y Proyectos de Ingeniería2025975Introducción a la Ingeniería de Sistemas y Computación362024045Taller de Proyectos Interdisciplinarios3Agrupación Trabajo de Grado2025974Trabajo de Grado66Optativas(T)Nombre de la AgrupaciónCréditos exigidos en la agrupaciónCréditos pendientes por cursar de la agrupación Agrupación Métodos y Tecnologías de Software33Agrupación Infraestructura Computacional, de Comunicaciones y de Información1212Agrupación Modelos, Sistemas, Optimización y Simulación66
-
-
-Componente de Libre Elección (L) (Créditos pendientes)0
-
-La oferta de asignatura optativas en cada una de las agrupaciones y componentes del plan de estudios del programa curricular de la encuentra en la Acuerdo No 026 . del año 2014, expedido por Consejo de Facultad.
-
-
-El Consejo de la Facultad Ingeniería en sesión del día 25 de noviembre de 2021, Acta___RecomiendaNo recomiendaObservación:· No dispone de los créditos suficientes para cursar las asignaturas pendientes de aprobación en el segundo plan.
-
-Nota: La remisión del formato debe realizarse en formato Word.
-
-Nota: En caso de aprobarse la doble titulación, es importante tener en cuenta lo definido en el parágrafo del art 3 del Acuerdo 155 de 2014 del Consejo Superior Universitario, el cual reza: “El comité asesor que administra el segundo plan de estudios deberá facilitar la inscripción de asignaturas de su plan de estudios a los estudiantes a quienes se les haya formalizado la admisión y que aún se encuentran matriculados en el primer plan de estudios”.
-
-CAMBIO DE GRUPO
-9.1.17 Murcia Martínez Fabio Esteban	DNI. 1120957816
-Tipo de solicitud:	Cambio de grupo.
-Justificación:	Me gustaría cambiar de grupo para que los conocimientos que se me dan en la materia me sean útiles en un futuro no muy lejano, además de que no me siento muy cómodo en el grupo en el que me encuentro y espero que cambiar de docente me permita mejorar mis procesos de aprendizaje.
-	La presente es para solicitar un extra-cupo en la clase de elementos de computadores grupo 2, esto por el motivo de que  un estudiante de dicha clase me permitió ver un momento y quedé maravillado, es totalmente diferente a la clase en la que me encuentro, con todo respeto, pero me atrevo a decir que en los momentos que estuve aprendí más que 2 clases con mi actual profesor, la verdad me gustaría muchísimo participar en esta clase, ya que lo que más me interesa es adquirir conocimiento en la asignatura elementos de computadores incluso si no es en el grupo que pido, solo pido poder aprender de la docente Íngrid patricia Páez parra , espero que tomen mí petición y lo consideren.	
-	La asignatura Elementos de computadores es fundamental en mi carrera, por tal motivo los conocimientos que debo obtener de ella son muy importantes en el proceso de mi pregrado.
-Soportes:	solicitud, https://drive.google.com/open?id=1NJVRpB4E9s6MWZQ2oaDvc4tAW26UKZms
-Fecha de radicación:	octubre 29
-	Análisis:	Acuerdo 008 de 2008
-1. El grupo 2 de la asignatura no cuenta con cupos disponibles
-2. El estudiante esta inscrito en el grupo 1
-Concepto: El Comité Asesor recomienda al Consejo de Facultad NO APROBAR cambio de grupo de la asignatura 2016698 Elementos de Computadores, tipología T, inscrita en el periodo 2021-2S, del grupo 1 al grupo 2, debido a que el grupo solicitado no presenta algún cupo disponible.
-
-PRÁCTICA ESTUDIANTIL
-9.1.18 Medina Correa Jherson Adrián	DNI. 1010033587
-Tipo de solicitud:	Práctica estudiantil.
-Justificación:	Estoy por realizar unas pasantías y me gustaría realizar dicha inscripción 	Estas pasantías serán realizadas en Londres, Inglaterra. Por lo tanto no cuento con un certificado ARL propiamente. Sin embargo, dentro del contrato se menciona la cobertura médica con que contaré, y adjunto un documento que menciona la cobertura médica como uno de mis beneficios.
-Soportes:	Formato de Práctica Estudiantil , https://drive.google.com/open?id=1wg-Qnfjr6Mc3tKBE0zt1on5OpFblrKhK
-Fecha de radicación:	octubre 30
-	Análisis:	Acuerdo 016 de 2011, Acuerdo 026 de 2014 de Consejo de Facultad
-1. El estudiante cumple con el requisito 
-2. Proponen 9 créditos
-3. Avance 79.4% PAPA 4.3
-Concepto: El Comité Asesor recomienda al Consejo de Facultad APROBAR inscribir la siguiente asignatura en el periodo académico 2021-2S, a desarrollar en la empresa Facebook UK Limited, a cargo del profesor Germán Hernández por parte de la Universidad Nacional de Colombia y Krystal-Ann Impey por parte de la entidad.
-Código SIANombre AsignaturaGrupoTC2016764Práctica estudiantil III14L9
-
-9.1.19 Cristancho Rincón Juan David	DNI. 1000515229
-Tipo de solicitud:	Práctica estudiantil.
-Justificación:	Solicitud de practica de estudiantil convencional.  7 octubre
-	Buenos días, la siguiente solicitud es para cancelar mi solicitud de prácticas hecha el 7 de octubre, dado que termine el contrato que tenía con la empresa en la que iba a realizar las practicas por lo que la solicitud de prácticas que da inutilizable.2 noviembre
-Soportes:	Formato de práctica, copia del contrato, ARL 
-https://drive.google.com/open?id=1NvCLc51bVd_vG2yV38yc-gR_216ugZCX
-https://drive.google.com/open?id=1Vo_mP73jlzyAMs5FG-D-4r0GrCBOX4n4
-Fecha de radicación:	octubre 7
-	Análisis:	DESISTIMIENTO Radicado en el Formulario de solicitudes
-		Acuerdo 016 de 2011, Acuerdo 026 de 2014
-		Intensidad  40 horas 
-	Contrato de acuerdo de voluntades por 6 meses desde el 1 de octubre 2021 
-Proponen que sea de 9 créditos la práctica.
-PAPA 3.9 
-Avance 90.3%
-16 Créditos pendientes: 6 TG + 10 Libre Elección
-Tiene inscritos 12 créditos, todos de Libre Elección y tiene pendiente que le inscriban TG BAPI (ya tiene inscritos 8 créditos BAPI) por lo que si se le aprueba la Práctica Estudiantil debería aprobársele cursar más de 20 créditos mientras, que posiblemente, cancele algunos créditos de Libre elección inscritos
-El docente de la asignatura informa que:
-De acuerdo a la información recibida por los estudiantes y validada posteriormente, al momento de la firma del formato, ellos se encuentran en jornada completa (8h / día). Por otra parte, el correo electrónico efectivamente es incorrecto, el correo es hernan.gonzalez@evolutioncons.com		
-Concepto: El Comité Asesor recomienda al Consejo de Facultad NO APROBAR la Inscribir siguiente asignatura en el periodo académico 2021-2S  debido a que el estudiante justifica debidamente e informa que terminó el contrato con la empresa que estaba vinculado.
-Código SIANombre AsignaturaGrupoTC2016763Práctica estudiantil IIL6
-
-
-
-
-Ing. Jenny Marcela Sánchez
-Directora de Área Curricular
-proyecto
-cultural,
-científico
-y colectivo
-de nación
-Av. Carrera 30 # 45-03 - Ciudad Universitaria
-Edificio 453, Oficina 209
-(+57 1) 3165357 - (+57 1) 3165000 EXT: 14068
-Bogotá, D. C., Colombia
-acisi_fibog@unal.edu.co
-
-
-[ Página 2 de 2 ] 
-Elaboró: LS/IV/JMS
-
-
-

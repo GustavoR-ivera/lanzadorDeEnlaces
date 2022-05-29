@@ -1,0 +1,590 @@
+﻿Área Curricular de Ingeniería de Sistemas e Industrial | Facultad de Ingeniería | Sede Bogotá
+
+COMITÉ ASESOR DE PROGRAMAS DE POSGRADO
+ÁREA INGENIERÍA DE SISTEMAS E INDUSTRIAL
+ACTA N° 20
+Octubre 19  de 2021
+
+Ing. Jenny Marcela Sánchez Torres	Directora de Área Curricular de Ingeniería de Sistemas e Industrial y Coord. Especialización en Gobierno Electrónico
+Ing. Helga Duarte-Amaya	Coord. Doctorado en Ingeniería - Sistemas y Computación
+Ing. Felipe Restrepo Calle	Coord. Maestría en Ingeniería – Ingeniería de Sistemas y Computación y Conv Unillanos 
+Ing. Gustavo Alfredo Bula		Coord. Maestría en Ingeniería -Ingeniería Industrial
+Prof. Emiliano Barreto Hernández	Coord. Maestría en Bioinformática
+Ing. Fabio Augusto González Osorio	Representante de los grupos de investigación 
+Ing. Pedro Julián Ramírez 		Representante de los egresados 
+
+Ing. Héctor Cifuentes Aya	Coord. Doctorado en Ingeniería – Industria y Organizaciones
+Ing. Jesús Guillermo Tovar Rache	Coord. Maestría en Ingeniería – Telecomunicaciones
+
+Lugar: Virtual.
+
+ORDEN DEL DÍA
+
+1.	Asuntos varios
+2.	Estudio de casos estudiantiles
+
+DESARROLLO DEL ORDEN DEL DÍA
+
+ASUNTOS VARIOS
+
+· Acuerdo Trabajo Final – Modalidad Pasantía 
+o La Vicedecanatura envía la versión trabajada el pasado CDA, del documento referente al Acuerdo correspondiente para Trabajo Final - Modalidad Pasantía, para su correspondiente revisión y socialización con los Comités de Posgrado respectivos.   https://docs.google.com/document/d/1n-f9GUEhsUpB83NdpVYC5EMkQ7wegt3h/edit?usp=sharing&ouid=114639406296458167586&rtpof=true&sd=true 
+
+ESTUDIO DE CASOS ESTUDIANTILES.
+
+	SOLICITUDES DE GRADO
+El Comité Asesor recomienda en Consejo de Facultad APROBAR la solicitud de grado de los siguientes estudiantes:
+
+N.Nombres CompletosApellidos CompletosNúmero de IdentificaciónPrograma 1Feizar JavierRueda Velasco80757372DOCTORADO EN INGENIERÍA - INDUSTRIA Y ORGANIZACIONES2Jairo AlexanderMoreno Calderón80732419DOCTORADO EN INGENIERIA - SISTEMAS Y COMPUTACION3Andrés EnriqueRosso Mateus79958715DOCTORADO EN INGENIERIA - SISTEMAS Y COMPUTACION4Fabián AlbertoHernández Tarapués1030661037MAESTRÍA EN BIOINFORMÁTICA5Eduardo FabioBerrio Charry14324180MAESTRIA EN INGENIERIA - INGENIERIA DE SISTEMAS Y COMPUTACIÓN6Juan CamiloCalero Espinosa1019125483MAESTRIA EN INGENIERIA - INGENIERIA DE SISTEMAS Y COMPUTACIÓN7Víctor HugoContreras Ordoñez1018423340MAESTRIA EN INGENIERIA - INGENIERIA DE SISTEMAS Y COMPUTACIÓN8Karen DanielaCuervo Cely1049647158MAESTRIA EN INGENIERIA - INGENIERIA DE SISTEMAS Y COMPUTACIÓN9Jhohan RicardoFranco Sánchez1016032949MAESTRIA EN INGENIERIA - INGENIERIA DE SISTEMAS Y COMPUTACIÓN10Juan SebastiánLara Ramírez1014278662MAESTRIA EN INGENIERIA - INGENIERIA DE SISTEMAS Y COMPUTACIÓN11Nelson FabianLeiva Ruiz1022334382MAESTRIA EN INGENIERIA - INGENIERIA DE SISTEMAS Y COMPUTACIÓN12Manuel LeonedMolano Saavedra1030626820MAESTRIA EN INGENIERIA - INGENIERIA DE SISTEMAS Y COMPUTACIÓN13AníbalMontero Leguizamón80832404MAESTRIA EN INGENIERIA - INGENIERIA DE SISTEMAS Y COMPUTACIÓN14Javier MauricioMorales Chavarro80097427MAESTRIA EN INGENIERIA - INGENIERIA DE SISTEMAS Y COMPUTACIÓN15Christian EnriqueOrtega Loaiza1015400969MAESTRIA EN INGENIERIA - INGENIERIA DE SISTEMAS Y COMPUTACIÓN16Anderson KavirOsorio Delgado1076659278MAESTRIA EN INGENIERIA - INGENIERIA DE SISTEMAS Y COMPUTACIÓN17Mónica PatriciaPineda Vargas1018453509MAESTRIA EN INGENIERIA - INGENIERIA DE SISTEMAS Y COMPUTACIÓN18Yerson FerneyPorras García1118556893MAESTRIA EN INGENIERIA - INGENIERIA DE SISTEMAS Y COMPUTACIÓN19Gloria PatriciaRestrepo Espinel1121819190MAESTRIA EN INGENIERIA - INGENIERIA DE SISTEMAS Y COMPUTACIÓN20Edwar AlonsoRojas Blanco1022323265MAESTRIA EN INGENIERIA - INGENIERIA DE SISTEMAS Y COMPUTACIÓN21RigobertoSáenz Imbacuan1018417749MAESTRIA EN INGENIERIA - INGENIERIA DE SISTEMAS Y COMPUTACIÓN22José DanielSalazar Mora1022385505MAESTRIA EN INGENIERIA - INGENIERIA DE SISTEMAS Y COMPUTACIÓN23StephanieTorres Jiménez1023924965MAESTRIA EN INGENIERIA - INGENIERIA DE SISTEMAS Y COMPUTACIÓN24Juan SebastiánTriana Correa1032438210MAESTRIA EN INGENIERIA - INGENIERIA DE SISTEMAS Y COMPUTACIÓN25RafaelArévalo Ascanio1013658340MAESTRIA EN INGENIERIA - INGENIERIA INDUSTRIAL26Sandra MilenaBarrera Niño1049621377MAESTRIA EN INGENIERIA - INGENIERIA INDUSTRIAL27Karen BriyithGaravito Vélez1012381454MAESTRIA EN INGENIERIA - INGENIERIA INDUSTRIAL28Diana CarolinaLópez Becerra1016062073MAESTRIA EN INGENIERIA - INGENIERIA INDUSTRIAL29Henry PompilioMartínez Martínez79065657MAESTRIA EN INGENIERIA - INGENIERIA INDUSTRIAL30Catalina Moreno Castro1018474048MAESTRIA EN INGENIERIA - INGENIERIA INDUSTRIAL31Cindy LorenaSilva Riapira1022367502MAESTRIA EN INGENIERIA - INGENIERIA INDUSTRIAL32Diana July EsperanzaToro Hernández1032410264MAESTRIA EN INGENIERIA - INGENIERIA INDUSTRIAL33MaryluzVerdugo Cañón1030525251MAESTRIA EN INGENIERIA - INGENIERIA INDUSTRIAL34Jhon AlexanderLópez Velasco1010165489MAESTRIA EN INGENIERIA - TELECOMUNICACIONES35OswaldoPérez Murillo79221722MAESTRIA EN INGENIERIA - TELECOMUNICACIONES36Elkin YezithRamírez Galvis1016004990MAESTRIA EN INGENIERIA - TELECOMUNICACIONES37Mauricio AlexanderVargas Rodríguez1013578594MAESTRIA EN INGENIERIA - TELECOMUNICACIONES
+	
+MAESTRÍA EN INGENIERÍA - INGENIERÍA DE SISTEMAS Y COMPUTACIÓN
+
+INSCRIPCIÓN DE ASIGNATURAS
+10.9.1 Caviedes Rojas Jerson Mauricio	DNI. 1122138028
+Tipo de solicitud:	Inscripción de asignaturas.
+Justificación:	“Hola, primeramente me disculpó por llegar hasta está instancia, lamentablemente se me dificultó la inscripción porque tenía bastante desconocimiento acerca del proceso, pero quiero solicitarles amablemente un cupo adicional en la materia de Redes Neuronales, la verdad estoy muy interesado en ver la materia para ir construyendo mi formación hacia el tema de interés que deseo desarrollar en la tesis, que son la construcción de modelos computacionales para el análisis de imágenes médicas y esto lo quiero llevar acabo principalmente con la aplicación de las redes neuronales, por eso les solicitó muy amablemente que tenga en consideración esta petición, muchas gracias por su atención.”
+Soportes:	solicitud
+Fecha de radicación:	octubre 6
+	Análisis: Horario:	
+1.
+2. SIA: La asignatura se encuentra ofertada para el plan de estudios.
+3. SIA: El grupo 1 de la asignatura cuenta con dos  cupos disponibles el día de la revisión 17/10/2021 
+4. No presenta cruces con el horario inscrito.
+Concepto: El Comité Asesor recomienda al Consejo de Facultad APROBAR inscribir la siguiente asignatura del programa Maestría en Ingeniería – Ingeniería de Sistemas y Computación (2702)  en el periodo académico de 2021-2S:
+CódigoAsignaturaGrupoTipologíaCréditos2019781Redes neuronales1l4
+10.9.2 Medina Carrillo Sebastián Rodrigo	DNI. 1020805304
+Tipo de solicitud:	Inscripción de asignaturas.
+Justificación:	Inscripción de materia tesis de maestría ya que fue aprobada la propuesta de proyecto de tesis en el acta del 30 de Septiembre de 2021. Durante el periodo de inscripción de asignaturas y adiciones y cancelaciones no fue posible inscribirla porque el sistema no se había actualizado con esta aprobación, la dirección de área curricular recomendó solicitar la inscripción por este medio.
+Soportes:	 solicitud
+Fecha de radicación:	octubre 8
+	Análisis:	
+1. SIA: La asignatura se encuentra ofertada para el plan de estudios.
+2. SIA: Cumple con asignatura prerrequisito Proyecto de Tesis de Maestría (2019778) aprobada en el periodo 2021-1s Modelo de Deep Learning para la gradación automática de imágenes histopatológicas de cáncer de próstata
+Director Fabio Augusto González Osorio. Codirector Ángel Alfonso Cruz Roa
+Concepto: El Comité Asesor recomienda al Consejo de Facultad APROBAR inscribir la siguiente asignatura del programa Maestría en Ingeniería – Ingeniería de Sistemas y Computación (2702),  en el periodo académico de 2021-2S:
+CódigoAsignaturaGrupoTipologíaCréditos2019811Tesis de Maestría1P22
+DESIGNACIÓN/NOMBRAMIENTO DE JURADOS CALIFICADORES DE TESIS
+10.9.3 Toquica Cáceres Hans Milos	DNI. 1033757650
+
+Tipo de solicitud:	Cambio de Tutor, de director, de codirector y de título 
+Justificación:	El trabajo final se redactó en inglés, pensando que el lenguaje de la propuesta y el lenguaje del trabajo final no tenían que coincidir.	
+	Mediante el Acta 003 del 28 de Enero de 2021 se me aprobó la Propuesta de Trabajo Final con título “Estimación de pérdida de energía en accidentes de tránsito usando visión tridimensional”, sin embargo, mi trabajo final fue redactado en inglés en su totalidad, razón por la que en la documentación enviada al consejo registra el título “Traffic Accident Energy Loss Estimation Using Three-Dimensional Computer Vision”.
+	Por medio de la presente solicito comedidamente una excepción a la norma expuesta en el ARTÍCULO 9 del ACUERDO 40 DE 2017 de tal manera que se puedan realizar los siguientes ajustes, con el fin de solucionar la discordancia mencionada anteriormente y poder proceder con el nombramiento de los evaluadores del trabajo: 
+ÍtemValor aprobado según el Acta 003 del 28 de Enero de 2021
+Nuevo valor según la presente solicitud de excepciónTítuloEstimación de pérdida de energía en accidentes de tránsito usando visión tridimensional
+Traffic Accident Energy Loss Estimation Using Three-Dimensional Computer Vision
+ObjetivosGeneral:  Evaluar el desempeño de la estimación
+de pérdida energética en accidentes de tránsito usando vision tridimensionalGeneral:
+To evaluate the performance of the
+estimation of energy loss in traffic
+accidents using three-dimensional vision.Específicos:  
+· Desarrollar un algoritmo que permita obtener la reconstrucción tridimensional de vehículos accidentados a partir de imágenes de cámaras monoculares.
+· Estimar la pérdida energética del accidente de tránsito con la información obtenida anteriormente.
+· Comparar el resultado obtenido con la información real del choque y los demás trabajos usando las métricas que se encuentres adecuadas para tal fin
+Specific:
+• To develop an algorithm that allows
+obtaining the three-dimensional reconstruction of crashed vehicles from images of monocular cameras.
+
+• Estimate the energy loss of the traffic accident with the information obtained
+Previously
+• Compare the Obtained results with the ground-truth information of the crash and the other works using the metrics that are suitable for this purpose
+
+	Por favor tener en cuenta que estos cambios de ninguna manera constituyen una modificación al alcance de la Propuesta de Trabajo Final de maestría presenta con anterioridad y que representan simplemente la traducción  de los valores inicialmente aprobados.
+Fecha de solicitud:	octubre 11
+Soportes:	Carta firmada por el estudiante y el director Flavio Augusto Prieto Ortiz.
+https://drive.google.com/open?id=13SDL_0yzRam6BLBmDPuwvGJyUYm8-XjP 
+Análisis: 	
+1. El artículo 9 del acuerdo 40 de 2017 de Consejo de Facultad dice:
+	ARTÍCULO 9. Modificación de la Propuesta de Trabajo Final de Maestría: el estudiante podrá solicitar modificaciones justificadas a la Propuesta de Trabajo Final de Maestría aprobada, hasta antes de finalizar la semana décima del periodo académico en que entregue el documento final al Comité Asesor de Posgrado. Es requisito el aval escrito del director del Trabajo Final de Maestría. El Comité Asesor de Posgrado será el encargado de evaluar la solicitud. 
+2. El estudiante y el director están solicitando excepción al anterior artículo dado que en simultánea presentan la solicitud de designación de jurados del Trabajo Final de Maestría para la matrícula de 2021-1S.
+Concepto: El Comité Asesor recomienda al Consejo de Facultad APROBAR conceder excepción al Artículo 9 del acuerdo 40 de 2017 de Consejo de Facultad, el sentido de aprobar cambiar título de Trabajo Final de Maestría en Ingeniería – Ingeniería de Sistemas y Computación (2702):“ Traffic Accident Energy Loss Estimation Using Three-Dimensional Computer Vision”, ratifica director al profesor Flavio Augusto Prieto Ortiz del Departamento de Ingeniería Eléctrica y Electrónica.
+
+10.9.4 Toquica Cáceres Hans Milos	DNI. 1033757650
+Tipo de solicitud:	Designación de jurados.
+Justificación:	Se solicita designación de jurados.
+Soportes:	Copia impresa de tesis, copia digital de tesis, formato de solicitud de nombramiento de jurados.
+https://drive.google.com/open?id=1-SlNmbvqQ8Hvhe8sXtdGX-GTal23v6pYhttps://drive.google.com/open?id=14rIYAYylzgv_g8cDYlUf9NAjl9TV5KhRhttps://drive.google.com/open?id=1zqskNAKwqV8CzinOl8V9ykHdkhLYJRbchttps://drive.google.com/open?id=1Yzfuvu5eBBPlpT4MGFwEGwAf3xibfX-g
+Fecha de radicación:	septiembre 27
+Análisis:	Acuerdo 40 de 2017 – Consejo de Facultad
+1. Continúa con el acuerdo 40 de 2017 Consejo de Facultad
+2. SIA: Perfil de Profundización, El estudiante si tuvo inscrita la asignatura Trabajo Final de Maestría (2019813) pero le fue anulada a no presentar Avance satisfactorio y quedarle reprobada.
+3. Propuesta de tesis aprobada: Estimación de Pérdida de Energía en Accidentes de Tránsito Usando Visión Tridimensional, acta 3 de 2021. 
+4. versión electrónica en formato pdf (Artículo 43).
+5. Solicitud de nombramiento de jurados (Artículo 44) con firma del director Flavio Augusto Prieto Ortiz
+6. Uno o más evaluadores para los trabajos finales, dos o más jurados para las tesis de Maestría y cuatro jurados para tesis de Doctorado (Artículo 44).
+7. El título del documento presentado está en inglés: “Traffic Accident Energy Loss Estimation Using Three-Dimensional Computer Vision” pero la propuesta fue aprobada en español: Estimación de Pérdida de Energía en Accidentes de Tránsito Usando Visión Tridimensional
+8. El director no sugiere jurados
+9. En el punto anterior de esta misma acta se tramita el cambio de título de la propuesta de Trabajo final.
+10. El coordinador del programa recomienda designar evaluador del trabajo final de maestría al profesor Cesar Augusto Pedraza Bonilla.
+Concepto: El Comité Asesor recomienda al Consejo de Facultad APROBAR designar evaluadores del Trabajo Final de Maestría  del  Maestría en Ingeniería – Ingeniería de Sistemas y Computación (2702), cuyo título es: “Traffic Accident Energy Loss Estimation Using Three-Dimensional Computer Vision”, al profesor Cesar Augusto Pedraza Bonilla de Departamento de Ingeniería de Sistemas e Industrial. 
+
+10.9.5 Sánchez Legarda Yeison David	DNI. 1104704188
+Tipo de solicitud:	Designación de jurados.
+Justificación:	Se solicita designación de jurados.
+Soportes:	Copia impresa de tesis, copia digital de tesis, formato de solicitud de nombramiento de jurados.
+https://drive.google.com/open?id=1caLtlxOSCQ97ukKBNoTZvtreDB_qkwg9https://drive.google.com/open?id=1kCJxfeh5GBqvI826ANaBpfIu7V5TXDD1https://drive.google.com/open?id=1TNKiGf5qK6p3ZwZ_OiHMGt0Z9eChVh4Ehttps://drive.google.com/open?id=1izAlZLsi_JRXhYPatSgbd0d21zkiYem3https://drive.google.com/open?id=1vxvlJmQcvwWQWggmoGCZWT_JHRVMqrFf
+https://drive.google.com/open?id=1_Ibb47r5gMvBcgpLYTMxDRt5-ZSnkGYH 
+https://drive.google.com/file/d/1i2kkkhlC8pPOy4GNuocekW4Xb9XBi2xM/view?usp=sharing
+Fecha de radicación:	octubre 13
+Análisis:	Acuerdo 40 de 2017 – Consejo de Facultad
+1. Continúa con el acuerdo 40 de 2017 Consejo de Facultad
+2. SIA: Perfil de Profundización, El estudiante si tuvo inscrita la asignatura Trabajo Final de Maestría (2019813).
+3. Propuesta de tesis aprobada: “Aprendizaje profundo para identificación de enfermedades maculares en imágenes de tomografía de coherencia óptica”, acta 3 de 2020. 
+4. versión electrónica en formato pdf (Artículo 43).
+5. Solicitud de nombramiento de jurados (Artículo 44) con firma del director Ph.D. Fabio Augusto González y Codirector Ph.D. Oscar Julián Perdomo Charry  Universidad del rosario
+6. Uno o más evaluadores para los trabajos finales, dos o más jurados para las tesis de Maestría y cuatro jurados para tesis de Doctorado (Artículo 44).
+7. El título del documento presentado está en inglés: “Deep Learning Approach to Identify Diseases and Biomarkers in Optical Coherence Tomography Scans” pero la propuesta fue aprobada en español: Aprendizaje profundo para identificación de enfermedades maculares en imágenes de tomografía de coherencia óptica”,
+8. En la aprobación de la propuesta de Trabajo Final (acta 3 de 2020) no quedó la designación del codirector, a pesar que en la propuesta presentada si aparecía dicha.
+a.
+Imagen tomada de un soporte de la solicitud de jurados: la propuesta de Trabajo final.
+
+9. El director sugiere jurados:
+a. César Pedraza -Departamento de Ingeniería de Sistemas e Industrial.
+b. Eduardo Romero - Imágenes Diagnósticas de la Facultad de Medicina
+10. El coordinador sugiere a Eduardo Romero - Imágenes Diagnósticas de la Facultad de Medicina
+11. Tomando como precedente el caso anterior de esa misma acta, se le comunicó al estudiante y al director la opción de solicitar excepción  a la norma, con el ánimo de darle trámite a la modificación de la propuesta, cambiando el título de español a inglés. Se está a la espera de la respuesta del estudiante y del codirector.
+Concepto: El Comité Asesor recomienda al Consejo de Facultad APROBAR: 
+1.  ACLARAR decisión tomada en acta 3 de 2020, debido a un error de trascripción se omitió la designación del codirector, en consecuencia APROBAR Designar codirector de la Tesis de Maestría en Ingeniería – Ingeniería de Sistemas y Computación (2702) cuyo título es “Aprendizaje profundo para identificación de enfermedades maculares en imágenes de tomografía de coherencia óptica” Oscar Julián Perdomo Charry  Universidad del Rosario.
+2. conceder excepción al Artículo 9 del acuerdo 40 de 2017 de Consejo de Facultad, el sentido de aprobar cambiar título de Trabajo Final de Maestría en Ingeniería – Ingeniería de Sistemas y Computación (2702):“Deep Learning Approach to Identify Diseases and Biomarkers in Optical Coherence Tomography Scans”, ratifica director al profesor Fabio González  de Departamento de Ingeniería de Sistemas e Industrial. y codirector al profesor Oscar Julián Perdomo Charry -  Universidad del Rosario
+
+3.  designar evaluadores del Trabajo Final de Maestría  del  Maestría en Ingeniería – Ingeniería de Sistemas y Computación (2702), cuyo título es: “Deep Learning Approach to Identify Diseases and Biomarkers in Optical Coherence Tomography Scans”, al profesor Eduardo Romero - Imágenes Diagnósticas de la Facultad de Medicina
+10.9.6 Roa García Fabio Andrés	DNI. 1075654641
+Tipo de solicitud:	Designación de jurados.
+Justificación:	Se solicita designación de jurados.
+Soportes:	Copia impresa de tesis, copia digital de tesis, formato de solicitud de nombramiento de jurados.
+ https://drive.google.com/open?id=1j5EjSEJyIP_vcvrusp0SjP0B5TX7BM90
+https://drive.google.com/open?id=157P_jgQnT13pixQaADDTHA9IxneN1yLP
+https://drive.google.com/open?id=1IpS13e2znzJVtiaJfrnLrpywpos5-RyX
+https://drive.google.com/open?id=1cu4XTuUWX3FXIcx0Y4L2GXbzCVUU8j0T
+Fecha de radicación:	octubre 15
+Análisis:	Acuerdo 40 de 2017 – Consejo de Facultad
+1. Continúa bajo del Acuerdo 40 de 2017 Consejo de Facultad
+2. SIA: Perfil de Profundización, El estudiante si tuvo inscrita la asignatura Trabajo Final de Maestría (2019813).
+3. versión electrónica en formato pdf (Artículo 43).
+4. Solicitud de nombramiento de jurados (Artículo 44) con firma del director Ph.D. Luis Fernando Niño.
+5. Uno o más evaluadores para los trabajos finales, dos o más jurados para las tesis de Maestría y cuatro jurados para tesis de Doctorado (Artículo 44). 
+6. Propuesta de tesis aprobada: “Secuencias de video mediante un modelo de Redes Neuronales Convolucionales y Transfer Learning”, acta 15 de 2020. 
+7. El título del documento presentado es: “Implementar un sistema de reconocimiento e identificación de rostros sobre secuencias de video mediante un modelo de Redes Neuronales Convolucionales y Transfer Learning” pero la propuesta aprobada fue: “Secuencias de video mediante un modelo de Redes Neuronales Convolucionales y Transfer Learning” y verificando el archivo digital de la propuesta presentada para 2020-1S se encuentra que hubo un error de transcripción por parte del comité por lo que procede la Aclaración.
+8. En el avance satisfactorio de 2021-1S el titulo informado era “Implementar un sistema de reconocimiento e identificación de rostros sobre secuencias de video mediante un modelo de Redes Neuronales Convolucionales y Transfer Learning”
+9. El director sugiere jurados:
+a. Jean Pierre Charalambos Hernández-Departamento de Ingeniería de Sistemas e Industrial.
+b. Germán Jairo Hernández Pérez- Departamento de Ingeniería de Sistemas e Industrial. 
+10. El coordinador recomienda a Jean Pierre Charalambos Hernández del Departamento de Ingeniería de Sistemas e Industrial.
+Concepto: El Comité Asesor recomienda al Consejo de Facultad 
+1. ACLARAR  decisión tomada en acta 15 de 2020 debido a un error de trascripción en el título, se colocó incompleto el mismo: “Secuencias de video mediante un modelo de Redes Neuronales Convolucionales y Transfer Learning”, en consecuencia APROBAR el Propuesta de Trabajo final de Maestría en Ingeniería – Ingeniería de Sistemas y Computación (2702) cuyo título es: “Implementar un sistema de reconocimiento e identificación de rostros sobre secuencias de video mediante un modelo de Redes Neuronales Convolucionales y Transfer Learning” ratificando como director al profesor Luis Fernando Niño de Departamento de Ingeniería de Sistemas e Industrial;
+
+2. APROBAR designar evaluadores del Trabajo Final de Maestría  del  Maestría en Ingeniería – Ingeniería de Sistemas y Computación (2702), cuyo título es: “Implementar un sistema de reconocimiento e identificación de rostros sobre secuencias de video mediante un modelo de Redes Neuronales Convolucionales y Transfer Learning”, al profesor Jean Pierre Charalambos Hernández del Departamento de Ingeniería de Sistemas e Industrial
+
+10.9.7 Suat Rojas Néstor Eduardo	DNI. 1121893894
+Tipo de solicitud:	Designación de jurados.
+Justificación:	Se solicita designación de jurados.
+Soportes:	Copia de tesis, copia digital de tesis, formato de solicitud de nombramiento de jurados.
+https://drive.google.com/open?id=1wVrVr3RmaU5AD5ws51THe-2DWPz8f8Wb
+https://drive.google.com/open?id=1Bzky1E_BpI1FFWjVCb4c6-Tlf6S0wBYP
+https://drive.google.com/open?id=1m4oGPzbMa5e1yiz3oyOvYQXxiPIld09E
+https://drive.google.com/open?id=1yH2LQNeBu11cDmHDV_5JLqxiUcYSGL4C
+Fecha de radicación:	octubre 13
+Análisis:	Acuerdo 40 de 2017 – Consejo de Facultad
+1. Continúa bajo el Acuerdo 40 de 2017 Consejo de Facultad
+2. SIA: Perfil de Profundización, El estudiante si tuvo inscrita la asignatura Trabajo Final de Maestría (2019813).
+3. Propuesta de tesis aprobada: “Extracción y análisis de información de accidentes de tránsito desde redes sociales”, abril 2019. 
+4. versión electrónica en formato pdf (Artículo 43).
+5. Solicitud de nombramiento de jurados (Artículo 44) con firma del director Cesar Augusto Pedraza Bonilla. Codirector Camilo Albeiro Gutiérrez Osorio
+6. Uno o más evaluadores para los trabajos finales, dos o más jurados para las tesis de Maestría y cuatro jurados para tesis de Doctorado (Artículo 44).
+7. El director sugiere jurado https://drive.google.com/open?id=12QNo1bp0SACLoCS0r-sH_o0RLiIcVdSE :
+a. MsC. Julio Ernesto Suárez Páez – Colpatria Multibanca del Grupo Scotiabank
+8. El coordinador esta de acuerdo con la sugerencia de Julio Ernesto Suárez Páez – Colpatria Multibanca del Grupo Scotiabank.
+Concepto: El Comité Asesor recomienda al Consejo de Facultad APROBAR designar evaluadores del Trabajo Final de Maestría  del  Maestría en Ingeniería – Ingeniería de Sistemas y Computación (2702), cuyo título es: “Extracción y análisis de información de accidentes de tránsito desde redes sociales”, al Doctor en Telecomunicaciones Julio Ernesto Suárez Páez – Colpatria Multibanca del Grupo Scotiabank.
+10.9.8 Quintero Pulgar Jorge Arcenio	DNI. 1015994669
+Tipo de solicitud:	Designación de jurados.
+Justificación:	Se solicita designación de jurados.
+Soportes:	Copia de tesis, copia digital de tesis, formato de solicitud de nombramiento de jurados.
+https://drive.google.com/open?id=1zK4CpsIptolMsJwON9zu-9dYXEWfI2rw
+https://drive.google.com/open?id=1ThyYFUtEIhf_0PeYqjcknGsSqqrlCIqU
+https://drive.google.com/open?id=10ggSyQYFmRC22vxfHzDft35mnnMogBmh
+https://drive.google.com/open?id=1IbAhX8w4HjM0wN0UH1_vmJy4yujFxlSB
+Fecha de radicación:	octubre 15
+Análisis:	Acuerdo 40 de 2017 – Consejo de Facultad
+1. Continúa bajo el Acuerdo 40 de 2017 Consejo de Facultad
+2. SIA: Perfil de Profundización, El estudiante si tuvo inscrita la asignatura Trabajo Final de Maestría (2019813).
+3. Propuesta de tesis aprobada: “Sistema para el manejo de datos climáticos de pequeñas producciones agrícolas bajo invernadero: un acercamiento a la agricultura inteligente”, abril 2019. 
+4. versión electrónica en formato pdf (Artículo 43).
+5. Solicitud de nombramiento de jurados (Artículo 44) con firma del director Fabio Rodrigo Leiva Baron
+6. Uno o más evaluadores para los trabajos finales, dos o más jurados para las tesis de Maestría y cuatro jurados para tesis de Doctorado (Artículo 44).
+7. El director NO sugiere jurado.
+8. El Coordinador sugiere a  Félix Antonio Cortés Aldana del Departamento de Ingeniería de Sistemas e Industrial.
+
+Concepto: El Comité Asesor recomienda al Consejo de Facultad APROBAR designar evaluadores del Trabajo Final de Maestría  del  Maestría en Ingeniería – Ingeniería de Sistemas y Computación (2702), cuyo título es: “Sistema para el manejo de datos climáticos de pequeñas producciones agrícolas bajo invernadero: un acercamiento a la agricultura inteligente”, al profesor Félix Antonio Cortés Aldana del Departamento de Ingeniería de Sistemas e Industrial.
+
+10.9.9 Méndez Lara Jhon Alexis	DNI. 1024495512
+Tipo de solicitud:	Designación de jurados.
+Justificación:	Se solicita designación de jurados.
+Soportes:	Copia de tesis, copia digital de tesis, formato de solicitud de nombramiento de jurados.
+https://drive.google.com/open?id=1TKkQJJRNqHchR8lKvP51Yup5I_QNd2tGhttps://drive.google.com/open?id=1jICMkOHTh_Y8DasIBjFPdkJg6HB4xBUDhttps://drive.google.com/open?id=18_7F19vS-9m0ZS5lGWm4C68j4StX0VMUhttps://drive.google.com/open?id=1XqCLBXclUC_MXbAyRl4tiNe5pDfsIzJnhttps://drive.google.com/open?id=1yoc02uGkOUWYoxMyYI7M2nNeD4yTX1n7
+https://drive.google.com/open?id=1chzNYST_J7HlcOGAHsKYrxSIC1VDdxCR 
+Fecha de radicación:	octubre 8
+Análisis:	Acuerdo 40 de 2017 – Consejo de Facultad
+1. Continúa bajo el Acuerdo 40 de 2017 Consejo de Facultad
+2. SIA: Perfil de Investigación, El estudiante si tuvo inscrita la asignatura Tesis Maestría  en el semestre 2021-1S y presentó Avance Satisfactorio
+3. Propuesta de tesis aprobada: Prototipo de herramienta computacional para el aprendizaje colaborativo de programación de computadores, Abril 2019. 
+4. versión electrónica en formato pdf (Artículo 43).
+5. Solicitud de nombramiento de jurados (Artículo 44) con firma del director Felipe Restrepo Calle, y codirector  Jhon Jairo Ramírez Echeverry,
+6. Uno o más evaluadores para los trabajos finales, dos o más jurados para las tesis de Maestría y cuatro jurados para tesis de Doctorado (Artículo 44).
+7. El director sugiere jurados https://drive.google.com/open?id=1iRRHY2y6tQw14ylkIdYiNIjtsYs0x6AH :  
+a. José Daniel Rodríguez Munca - UNIVERSIDAD MANUELA BELTRÁN - ingeniería de software UMB virtual
+b. Víctor Andrés Bucheli Guerrero - UNIVERSIDAD DEL VALLE - Escuela de Ingeniería de Sistemas y Computación (EISC)
+8. El coordinador está de acuerdo con los sugeridos por el director.
+Concepto: El Comité Asesor recomienda al Consejo de Facultad APROBAR designar jurado calificador de la Tesis de Maestría en Ingeniería – Ingeniería de Sistemas y Computación (2702), cuyo título es: “Prototipo de herramienta computacional para el aprendizaje colaborativo de programación de computadores ”, a los profesores:
+a. José Daniel Rodríguez Munca - UNIVERSIDAD MANUELA BELTRÁN - ingeniería de software UMB virtual
+b. Víctor Andrés Bucheli Guerrero - UNIVERSIDAD DEL VALLE - Escuela de Ingeniería de Sistemas y Computación (EISC)
+
+10.9.10 Babativa Melgarejo Diego Alejandro	DNI. 1012352378
+Tipo de solicitud:	Designación de jurados.
+Justificación:	Se solicita designación de jurados.
+Soportes:	Copia de tesis, copia digital de tesis, formato de solicitud de nombramiento de jurados.
+https://drive.google.com/open?id=117n9I3H_hkAc64JTyN90QAUTCa5cspB_
+https://drive.google.com/open?id=1vbs4outhOtvisKZeZpn6zPzc7c_dzHgy
+https://drive.google.com/open?id=1EQ4EXy_hjdEA7AGgfzB6dkbmfhNJN58j
+https://drive.google.com/open?id=1nI24z-8nF72SpENtpnyLv4KUppflMY2h
+Fecha de radicación:	octubre 15
+Análisis:	Acuerdo 40 de 2017 – Consejo de Facultad
+1. Continúa bajo el Acuerdo 40 de 2017 Consejo de Facultad
+2. SIA: Perfil de Investigación, El estudiante si tuvo inscrita la asignatura Tesis Maestría  en el semestre 2021-1S y presentó Avance Satisfactorio
+3. Proyecto de tesis aprobada: Modelo de aprendizaje automático para la clasificación temprana de flujos de texto  aplicado a la detección de desórdenes psicológicos, febrero 2020. 
+4. versión electrónica en formato pdf (Artículo 43).
+5. Solicitud de nombramiento de jurados (Artículo 44) con firma del director Fabio Augusto González,
+6. Uno o más evaluadores para los trabajos finales, dos o más jurados para las tesis de Maestría y cuatro jurados para tesis de Doctorado (Artículo 44).
+7. El director sugiere jurados https://drive.google.com/open?id=1zfQYFlg-fLkZJbgCzDPuvJhJ6rnO1zKI :  
+a. Andrés Enrique Rosso Mateus - Universidad Sergio Arboleda
+b. Felipe Restrepo – Departamento de Ingeniería de Sistemas e Industrial. 
+c. Jorge Camargo – Departamento de Ingeniería de Sistemas e Industrial. 
+8. El coordinador esta de acuerdo con dos de los sugeridos: 
+a. Andrés Enrique Rosso Mateus - Universidad Sergio Arboleda
+b. Felipe Restrepo – Departamento de Ingeniería de Sistemas e Industrial. 
+Concepto: El Comité Asesor recomienda al Consejo de Facultad APROBAR designar jurado calificador de la Tesis de Maestría en Ingeniería – Ingeniería de Sistemas y Computación (2702), cuyo título es: “Modelo de aprendizaje automático para la clasificación temprana de flujos de texto  aplicado a la detección de desórdenes psicológicos ”, a los profesores:
+a. Andrés Enrique Rosso Mateus - Universidad Sergio Arboleda
+b. Felipe Restrepo – Departamento de Ingeniería de Sistemas e Industrial. 
+
+MAESTRÍA EN TELECOMUNICACIONES
+
+DESIGNACIÓN/NOMBRAMIENTO DE JURADOS CALIFICADORES DE TESIS
+10.9.11 Cárdenas Duarte David Andrés	DNI. 1020763624
+Tipo de solicitud:	Designación de jurados.
+Justificación:	Se solicita designación de jurados.
+Soportes:	Copia de tesis, copia digital de tesis, formato de solicitud de nombramiento de jurados.
+https://drive.google.com/open?id=122etQS1VBZ1tjSVrxzMgMZnhPD4EdmRz
+https://drive.google.com/open?id=17FMu2xFsXVyNf326VMDsMVKj7NIqsv6c
+https://drive.google.com/open?id=1-azR_pulEkQlehuImlSvm092QF7pSm24
+https://drive.google.com/open?id=1itaLQLp2AwpiGXsWXkPwZb_IJSMQBhW6
+Fecha de radicación:	
+Análisis:	Acuerdo 40 de 2017 – Consejo de Facultad
+1. SIA: Perfil de Profundización. El estudiante tiene la asignatura Trabajo final de Maestría (2022298) en el periodo 2021-1S pero le fue cancelada al no presentar Avance Satisfactorio.
+2. Concepto motivado acerca del trabajo por parte del director Octavio Salcedo Parra (Artículo 43).
+3. Propuesta de tesis aprobada: - Evaluación de modelos para QoS en Voz (VolTE) en tecnología 4G y 4,5G- Diciembre 2017
+4. Copia y versión electrónica en formato pdf (Artículo 43).
+5. Solicitud de nombramiento de jurados (Artículo 44).
+6. Uno o más evaluadores para los trabajos finales, dos o más jurados para las tesis de Maestría y cuatro jurados para tesis de Doctorado (Artículo 44).
+7. El director no sugiere jurados
+8. El coordinador sugiere a Oswaldo Rojas Camacho del Departamento de Ingeniería de Sistemas e Industrial, como jurado.
+Concepto: El Comité Asesor recomienda al Consejo de Facultad APROBAR designar evaluadores del Trabajo Final de Maestría en Ingeniería – Telecomunicaciones (2707), cuyo título es: “Evaluación de modelos para QoS en Voz (VolTE) en tecnología 4G y 4,5G”, al profesor Oswaldo Rojas Camacho del Departamento de Ingeniería de Sistemas e Industria
+
+MAESTRIA EN INGENIERÍA – INGENIERÍA INDUSTRIAL
+
+EXENCIÓN DE PAGO – CRÉDITOS SOBRANTES DE PREGRADO
+10.9.12 Suárez Cuellar Nicolás	DNI. 1015464122
+Tipo de solicitud:	Exención de pago por créditos sobrantes de pregrado.
+Justificación:	Mediante el oficio CSU 2749-2021, la comisión delegataria del CSU decidió conceder la excepción al artículo 58 literal d del acuerdo 008 de 2008 CSU,  por lo que autoriza la utilización de los créditos disponibles del pregrado en Ingeniería Química en el programa Maestría de Maestría en Ingeniería – Ingeniería Industrial (2708) a partir de 2021-2S  
+Soportes:	oficio CSU 2749-2021
+https://drive.google.com/file/d/1Hx_uVup9fkjyj6y4KtnW4Td_YJb4oUA_/view?usp=sharing 
+Fecha de radicación:	octubre 5
+	Análisis:	Acuerdo 008 de 2008.
+1. NO se matriculó en un programa de posgrado de la Universidad en el año siguiente a la culminación de sus estudios de pregrado pero el CSU le autorizó la excepción a este punto
+Concepto: El Comité Asesor recomienda al Consejo de Facultad APROBAR otorgar exención del pago de los puntos de Derechos Académicos, a partir del periodo 2021-2S, y durante los siguientes 3 periodos académicos, por tener créditos disponibles al finalizar estudios del programa de pregrado en Ingeniería Química. En coherencia a la excepción aprobada al Artículo 58 del Acuerdo 008 de 2008 del Consejo Superior Universitario por el CSU mediante el oficio CSU 2749-2021. El cálculo de los créditos disponibles se realiza con base en el cupo de créditos establecido en el Artículo 2 del Acuerdo 014 de 2008 del Consejo Académico.
+No.EstudianteDNIProgramaPregradoPuntos1Nicolás Suárez Cuellar1015464122Maestría de Maestría en Ingeniería – Ingeniería Industrial (2708)2549 Ingeniería Química65
+DESIGNACIÓN/NOMBRAMIENTO DE JURADOS CALIFICADORES DE TESIS
+10.9.13 Niño Casallas Jorge Andrei	DNI. 1014262421
+Tipo de solicitud:	Designación de jurados.
+Justificación:	Se solicita designación de jurados.
+Soportes:	Copia de tesis, copia digital de tesis, formato de solicitud de nombramiento de jurados.
+https://drive.google.com/open?id=1dTVSa9HMEkITCG1onBKAJZfp1vib00Qo
+https://drive.google.com/open?id=14fORsJYcxG5FtqChFqSAw4vN3MVAh7lk
+https://drive.google.com/open?id=1IaecZW5kJstGCEUAkjHWg0PtZx7ttZbh
+https://drive.google.com/open?id=1sEYjB3_sTVxOpqVSLIoNtiR9FzgL5QtF
+Fecha de radicación:	octubre 15
+Análisis:	Se acoge al Acuerdo 104 de 2020 de Consejo de Facultad 
+1. SIA: Perfil de Profundización, El estudiante si tuvo inscrita la asignatura Trabajo Final de Maestría pero al no presentar Avance Satisfactorio se la cancelaron.
+2. Propuesta de tesis aprobada: “Implementación del método emergético para el análisis de la ecoeficiencia en el proceso de tostación de una planta de producción de malta cervecera”, enero 2021. 
+3. versión electrónica en formato pdf (Artículo 43).
+4. Solicitud de nombramiento de jurados (Artículo 44) con firma del director: Carlos Eduardo Moreno Mantilla Codirector: Paulo Cesar Narváez Rincón
+5. Uno o más evaluadores para los trabajos finales, dos o más jurados para las tesis de Maestría y cuatro jurados para tesis de Doctorado (Artículo 44).
+6. El director sugiere jurado  https://drive.google.com/open?id=1kn11V879oIrUO40iYztG1bqI1ROQC1Vy
+a. WILLIAM ARIEL SARACHE CASTRO - Departamento de Ingeniería Industrial, Universidad Nacional de Colombia, Sede Manizales.
+b. JULIANA SERNA RODAS – UNIVERSITÉ DE LORRAINE
+c. SANDRA CECILIA BAUTISTA RODRIGUEZ -  Universidad Central de Colombia
+7. El coordinador esta de acuerdo con la sugerencia del WILLIAM ARIEL SARACHE CASTRO - Departamento de Ingeniería Industrial, Universidad Nacional de Colombia, Sede Manizales.
+Concepto: El Comité Asesor recomienda al Consejo de Facultad APROBAR designar evaluadores del Trabajo Final de Maestría  del  Maestría de Maestría en Ingeniería – Ingeniería Industrial (2708). cuyo título es: “Implementación del método emergético para el análisis de la ecoeficiencia en el proceso de tostación de una planta de producción de malta cervecera”, al profesor WILLIAM ARIEL SARACHE CASTRO - Departamento de Ingeniería Industrial, Universidad Nacional de Colombia, Sede Manizales.
+
+MAESTRIA EN BIOINFORMÁTICA
+10.9.14 Carabali Mosquera Oscar Eduardo	DNI. 16843909
+Tipo de solicitud:	Inscripción de asignaturas.
+Justificación:	No logre inscribirla en el proceso regular las asignaturas  Métodos estadísticos con código 2020031 del DEPARTAMENTO DE AGRONOMÍA - CIENCIAS AGRARIA porque no me aparece en el listado de materias habilitadas en el portal académico.
+Soportes:	 solicitud https://drive.google.com/open?id=12Bo4Cw0JcGFjeCUt3B_Xerh-KFoAk6lM
+Fecha de radicación:	octubre 13
+	Análisis:	
+1. SIA: La asignatura se encuentra ofertada para el plan de estudios. no está ofertada ese semestre la asignatura para Maestría en Bioinformática pero si la están dictando.
+2. Se le solicita a la Facultad de Ciencias Agrarias incluir en la oferta de la asignatura al programa de Bioinforática.
+Concepto: El Comité Asesor recomienda al Consejo de Facultad APROBAR inscribir la siguiente asignatura del programa Maestría en Bioinformática,  en el periodo académico de 2021-2S:
+CódigoAsignaturaGrupoTipologíaCréditos2020031Métodos estadísticos1L4
+ESPECIALIZACION EN GOBIERNO ELECTRÓNICO
+	
+DOCTORADO EN INGENIERÍA – INDUSTRIA Y ORGANIZACIONES
+
+
+RENUNCIA A EXECENCIÓN 
+10.9.15 Osorio Bustamante Ferney	DNI. 1098655581
+Tipo de solicitud:	Renuncia a Exención
+Justificación:	"- Siguiendo las fechas establecidas para la aplicación del artículo 16 del acuerdo 002 del 2011, realice desde mayo de este año los trámites correspondientes para optar por el mismo
+	- Con fecha septiembre 28, fue realizada la invitación para la aplicación de la beca auxiliar docente de la Facultad de Ingeniería para la asignatura de Taller de Proyectos Interdisciplinarios, de la cual fui seleccionado
+	- Con fecha octubre 10 se informa del Acta 25 de 2021 relacionada con la aplicación del Literal C , Artículo 16 del Acuerdo 002 de 2011 del Consejo de Facultad
+	- Con fecha octubre 13 se genera la resolución 3271 de 2021 de la Facultad de Ingeniería, donde se detalla, en el artículo 3, viñeta 1: "" La exención del cien por ciento (100%) del pago de los Derechos Académicos, correspondientes al programa de posgrado en el cual se encuentra vinculado, durante el periodo académico 2021-02""
+
+	Con base en lo anterior solicito respetuosamente la renuncia al estimulo de la exención de pago por inscripción de tesis como única actividad académica para el periodo académico 2021-02, aprobada en el Acta 25 de 2021 del Consejo de Facultad.
+	".
+	Respetuosamente solicito la renuncia al estímulo de la exención de pago por inscripción de tesis como única actividad académica para el periodo académico 2021-02, aprobada en el Acta 25 de 2021 del Consejo de Facultad.
+Soportes:	Carta de Solicitud  y copia de la resolución de Beca asistente docente. https://drive.google.com/open?id=1kzFDq9AOVA0bnxd5yc3JS4MlCLKR1YQP
+
+Concepto: El Comité Asesor recomienda al Consejo de Facultad APPROBAR renuncia a la exención por solo cursar tesis de Doctorado en Ingeniería – Industria y Organizaciones, aprobada mediante acta 25 de  Consejo de Facultad aplicado en el), debido a que mediante la Resolución3271 de 2021 de Decanatura es beneficiario de la Beca Auxiliar Docente en 2021-1S
+
+
+DESIGNACIÓN/NOMBRAMIENTO DE JURADOS CALIFICADORES DE TESIS
+10.9.16 Osorio Bustamante Ferney	DNI. 1098655581
+Tipo de solicitud:	Designación de jurados.
+Justificación:	Se solicita designación de jurados.
+Soportes:	Copia de tesis, copia digital de tesis, formato de solicitud de nombramiento de jurados.
+https://drive.google.com/open?id=1lIVofL7VFAWSmJ4KkOif7tN8qHkuLrKj
+https://drive.google.com/open?id=1Nuuzc6RjYAmSMA6VQOCEkZFMYJlURkRd
+https://drive.google.com/open?id=12YrEeTPf4NhZFIEnHX8dzVbiPGx5pkUD
+https://drive.google.com/open?id=1Rm1gnKOQO7E9U39kB5zewnWyWNfM7Kdz
+https://drive.google.com/open?id=1DxYGW_zhYPSLTjeAB2hl1DWfR_cSc5F3
+https://drive.google.com/open?id=1dM0dUpSjiOTl6Pl8mPLJonfkBhy5kd8c
+https://drive.google.com/open?id=1O7kDSvDJk5KOzfZXnA8LbX9Du50gpjYD
+Fecha de radicación:	octubre 15
+Análisis:	Acuerdo 104 de 2020 – Consejo de Facultad
+1. El estudiante tiene la asignatura Tesis de doctorado en 2021-1S.
+2. Concepto motivado acerca del trabajo por parte del director José Ismael Peña y los Codirectores Mauricio Camargo de la Universidad de Lorraine y Laurent Dupont  de la Universidad de Lorraine
+3. Proyecto de tesis aprobado: Management of innovation laboratories: an enabling methodological approach for strategic intention design ACTA 014 15 DE AGOSTO DE 2019
+4. Se presentan unas pequeñas diferencias entre el título aprobado y la tesis presentada:
+a. En remplazo de la palabra “laboratories” se coloca la palabra “labs”
+b. En remplazo de la palabra “intention” se coloca la palabra “intent”
+Mediante una carta remitida por el estudiante y los directores (https://drive.google.com/file/d/1TLhs3VaBYXZTB6pTwWX0b4FuwJg0YONR/view?usp=sharing) se informa que el título corresponde al aprobado en el Proyecto salvo una abreviación laboratories= labs y un sinónimo intention= intent.
+El estudiante está informado que para el acta de sustentación, y el documento final que entregue para efectos de graduación, deberá referirse al título aprobado en el  Acta 014 del 15 de agosto de 2019. 
+5. versión electrónica en formato pdf (Artículo 43).
+6. Solicitud de nombramiento de jurados (Artículo 44).
+7. Uno o más evaluadores para los trabajos finales, dos o más jurados para las tesis de Maestría y cuatro jurados para tesis de Doctorado (Artículo 44).
+8. Para las tesis de doctorado, al menos dos de los jurados deberán ser externos a la Universidad Nacional de Colombia y preferiblemente laborar en el extranjero. (Artículo 44)
+9. Cotutela con Université de Lorraine  https://drive.google.com/open?id=1Q-EC1eLSIzA60V0ZSad7-uoHG34ZkY7V
+10. La cotutela establece que la sustentación se realizará I´Université de Lorraine   y que:
+
+Y en el Acta de Doctorado:
+
+11. Los directores dicen en la solicitud de jurados: “Dado que esta tesis se desarrolló en convenio de co-tutela internacional con la Université de Lorraine, la composición de los jurados calificadores debe ser acorde a lo estipulado en dicho convenio. Con base en lo anterior y en coordinación con la Université de Lorraine se ha acordado que el comité de jurados sea compuesto de la siguiente manera: 
+a. Bernard Yannou  - Université Paris-Saclay
+b. Simon Richir - Arts et Métiers ParisTech
+c. Véronique Falk - Université de Lorraine
+d. Liz Karen Herrera – Departamento de Ingeniería Mecánica y Mecatrónica
+e. Sebastián Eslava - Departamento de Ingeniería Eléctrica y Electrónica
+12. El director y los Codirectores proponen como invitados a:
+a. Pr. Letizia Mortara, University of Cambridge
+b. Pr. Assist, Ferran Guines, Univesity of Stuttgart
+13. El Coodirector Mauricio Camargo de la Universidad de Lorraine informa mediante un correo el 20 de octubre lo siguiente: 
+…apreciados todos,
+ Entiendo la complejidad y el esfuerzo colectivo que tenemos que aportar para lograr el reconocimiento de nuestras universidades y en el que todos, además del doctorante ganamos.
+ Sin embargo me sorprende mucho la interpretación sobre la conformación del jurado. Pues desde 2011 esta es la sexta defensa de cotutela que organizo entre nuestra escuela doctoral y la UNAL ( la última fue en diciembre 2020) en todas sistemáticamente hemos respetado el equilibrio de participantes entre las universidades y hemos seguido el mismo patrón (pueden verificar con las anteriores). Hasta ahora, siempre hemos contado el conjunto total de participantes en la defensa, incluidos los directores ( en este caso 3 por cada institución)
+Si hay un cambio en la interpretación de las reglas, les pido por favor tenerlo en cuenta para las próximas cotutelas, pues en esta ocasión ya estamos muy cerca del jurado e incluso ya recibimos esta mañana la aprobación de la escuela doctoral (ver mail adjunto).
+ De nuevo gracias por su comprensión.
+-- 
+Mauricio Camargo 
+Professeur des Universités
+Directeur ERPI
+Equipe de Recherche sur les Processus Innovatifs
+Université de Lorraine
+14. En el documente de Tesis ya figura información de la sustentación programada para el 9 de diciembre con los jurados informados.
+
+Concepto: El Comité Asesor no emite recomendación al Consejo de Facultad dado que prefiere abstenerse ante la solicitud, como quiera que los jurados ya vienen nombrados, no se requiere consulta de comité. Solicita a la instancia superior tomar la decisión del caso.
+
+MOVILIDAD SALIENTE
+10.9.17 Cruz Sánchez Oscar Mauricio	DNI. 80157246
+
+Tipo de solicitud:	Movilidad saliente.
+Justificación:	La Universidad de Oviedo es la institución pública de educación superior e investigación del Principado de Asturias. Tiene más de 410 años de historia, dispone de una completa oferta de grados adaptados al Espacio Europeo de Educación Superior (EEES) en todas las ramas de conocimiento, itinerarios bilingües, dobles titulaciones con universidades internacionales, y másteres Erasmus Mundus e interuniversitarios y en colaboración con más de 250 empresas. Esta oferta se complementa con un completo programa se títulos propios y aulas y cursos de Extensión Universitaria. Es una institución comprometida con su entorno territorial y con una fuerte apuesta por la transferencia de conocimiento hacia el tejido productivo.
+		 Todo lo anterior, me motiva a realizar esta movilidad. Soy estudiante doctoral y deseo profundizar mis conocimientos en áreas de investigación tratadas en mi tesis doctoral a través de los cursos ofertados por esta prestigiosa universidad. Los cursos seleccionados han sido los que por sugerencia de mi tutor son los apropiados para conocer más respecto a los temas que se abordan en el desarrollo de mi tesis doctoral.
+Soportes:	Formato de solicitud de movilidad, copia de la cédula, copia del pasaporte, certificado de notas, 
+https://drive.google.com/file/d/1p8KlsqqRWtx4QA9nepi3UsaCYWUiHvqe/view?usp=sharing
+Fecha de radicación:	octubre 21
+Análisis:		
+o La solicitud de movilidad cuenta con el aval de la dirección del área
+o Estudiante admitido en 2018-1S 
+o PAPA 4.5
+o Avance 17% - Todos los créditos Elegibles y Seminario I
+o Mediante acta 2021 se le aprobó movilidad para Universidade Federal Fluminense (UFF)  en 2021-2S 
+		
+Concepto: El Comité Asesor recomienda al Consejo de Facultad APROBAR movilidad a estudiantes, así:
+
+ProgramaNombreDNIDestinoPeriodoModalidad: Cursar AsignaturasProrrogaAsignatura Universidad de Oviedo -EspañaAsignatura Universidad NacionalDoctorado en Ingeniería – Industria y Organizaciones	Cruz Sánchez Oscar Mauricio80157246Universidad de Oviedo -España2022-1STécnicas Informáticas para la Estadística|ElegibleNOImplementación de Business IntelligenceElegible	
+DOCTORADO EN INGENIERÍA – SISTEMAS Y COMPUTACIÓN
+
+PROYECTO DE TESIS DE DOCTORADO
+10.9.18 Álvarez Jiménez Charlems	DNI. 53160371
+Tipo de solicitud:	Proyecto de tesis y designación de director.
+Justificación:	El estudiante sustentó satisfactoriamente su proyecto de tesis. Se pide aprobación de proyecto de tesis.
+Soportes:	1. Oficio B.FI.1.053.0436-2021 remisión Acta de sustentación y de examen de calificación. 
+	2. Acta de sustentación proyecto de tesis.
+	3. Acta examen de calificación.
+https://drive.google.com/file/d/1RUjXHIercLO38yKC_bwoCGpbox-txju3/view?usp=sharing 
+https://drive.google.com/file/d/10I89dY8N8HQc-PLwfBLDFlIIfzOZYPz8/view?usp=sharing 
+https://drive.google.com/file/d/13Zidx2Il7aXCCBNiGEuZobEMin7-41Ik/view?usp=sharing 
+Fecha de radicación:	octubre 6
+Análisis:
+1. El estudiante tiene la asignatura Proyecto de Tesis de Doctorado (2019849) inscrita y con AS en 2021-1S 
+2. Jurados designados por acta de comité 9 de 2021 (mayo 4de 2021)
+3. Presenta acta de calificación firmada con jurados evaluadores designados.
+4. Para la inscripción y registro de la calificación del examen de calificación es necesario enviar al CSU la solicitud excepción de inscripción extemporánea, según el ACUERDO 350 DE 2021 del CSU http://www.legal.unal.edu.co/rlunal/home/doc.jsp?d_i=98050. Desde el área se realizará este trámite.
+Concepto: El Comité Asesor recomienda al Consejo de Facultad APROBAR :
+1. Calificar aprobado (AP) el Proyecto de Tesis de Doctorado en Ingeniería – Ingeniería de sistemas y Computación, con código 2019849 en el periodo académico 2021-1S, cuyo título es: “Radiomic exploration: From characterization of pathological changes and histo-radiological connection to treatment response”.
+2. Designar director de la Tesis de Doctorado cuyo título es “Radiomic exploration: From characterization of pathological changes and histo-radiological connection to treatment response” al profesor Edgar Eduardo Romero Castro Facultad de Medicina – Ingeniería Biomédica.
+3. Designar codirector de la Tesis de Doctorado cuyo título es “Radiomic exploration: From characterization of pathological changes and histo-radiological connection to treatment response” al profesor Satish E. Viswanath - Department of Biomedical Engineering at Case Western Reserve University
+4. inscribir y calificar aprobado (AP) el Examen de calificación con código 2019848 en el periodo académico 2021-1S.
+
+DESIGNACIÓN/NOMBRAMIENTO DE JURADOS CALIFICADORES DE TESIS
+10.9.19 Bayuelo Sierra Alfredo José	DNI. 80882583
+Tipo de solicitud:	Designación de jurados.
+Justificación:	Se solicita designación de jurados.
+Soportes:	Copia de tesis, copia digital de tesis, formato de solicitud de nombramiento de jurados.
+https://drive.google.com/open?id=10Z8fauQQ_FfCIKF0_3USGqGfArPZlb00
+https://drive.google.com/open?id=13pXB9pKsdzWKpzat1QZR5uom5OJey1xl
+https://drive.google.com/open?id=1UOBHlYf_Kazd5ocM6LU5ra_ZSy3ent2L
+https://drive.google.com/open?id=1vqE0AB-yw6TVLsURq12D3SQGSAsnHAZ9
+https://drive.google.com/open?id=1-a5oh4qTo13R6xaYWCEqOApfL6YQdyxc
+https://drive.google.com/open?id=1jYnZucdr3H6fJ-iTIDgrai0Rdxh0BA59
+Fecha de radicación:	octubre 15
+Análisis:	Acuerdo 40 de 2017 – Consejo de Facultad
+1. El estudiante tiene la asignatura Tesis de doctorado en el periodo 2021-1S
+2. Concepto motivado acerca del trabajo por parte del director Luis Fernando Niño Vásquez
+3. Propuesta de tesis aprobada: Planning under Uncertainty using a Dynamical System Approach for Autonomous Vehicles Acta 05 de 2019
+4. versión electrónica en formato pdf (Artículo 43).
+5. Solicitud de nombramiento de jurados (Artículo 44).
+6. Uno o más evaluadores para los trabajos finales, dos o más jurados para las tesis de Maestría y cuatro jurados para tesis de Doctorado (Artículo 44).
+7. Para las tesis de doctorado, al menos dos de los jurados deberán ser externos a la Universidad Nacional de Colombia y preferiblemente laborar en el extranjero. (Artículo 44)
+8. No es cotutela.
+9. En los documentos de soporte de la solicitud de designación de jurados incluyen al profesor Jaime Leonardo Bobadilla - School of Computing and Information Science FIU como codirector pero este no aparece designado por el Consejo de Facultad. En el acta de Comité Asesor (acta 5 de 2019) de recomendación de aprobar el Proyecto de tesis de Doctorado aparece el texto de la designación de él como codirector y en los correos de ese comité aparece la discusión que sería codirector PERO en el envío por correo (22 de marzo 2019) de los casos a la Secretaría Académica no aparece dicha designación, por lo que no salió aprobada por Consejo de Facultad. 
+10. En el Avance satisfactorio de 2020-1S, 2020-2S y 2021-1S no figuraba Codirector.
+11. El director propone como jurados: https://drive.google.com/open?id=168auPxLtCJ8H1qwNfqsBtk4KZ_RxETfh
+a. RYAN N. SMITH  - VP of Technology Solutions at Oxbotica
+b. MARCO MORALES AGUIRRE - Teaching Associate Professor University Of Illinois Urbana-Champaign
+c. GERMAN JAIRO HERNANDEZ P.  – Departamento de Ingeniería de Sistemas e Industrial. 
+d. JESUS ALBERTO DELGADO RIVERA - Profesor Titular Universidad Nacional de Colombia
+e. DIEGO ALEXANDER GARZÓN ALVARADO - Profesor Titular Universidad Nacional de Colombia
+f. PEDRO FABIAN CARDENAS HERRERA  - Profesor Titular Universidad Nacional de Colombia
+12. La coordinadora está de acuerdo con los siguientes jurados informados por el director:
+a. RYAN N. SMITH  - VP of Technology Solutions at Oxbotica
+b. MARCO MORALES AGUIRRE - Teaching Associate Professor University Of Illinois Urbana-Champaign
+c. JESUS ALBERTO DELGADO RIVERA - Profesor Titular Universidad Nacional de Colombia
+d. PEDRO FABIAN CARDENAS HERRERA  - Profesor Titular Universidad Nacional de Colombia  
+
+Concepto: El Comité Asesor recomienda al Consejo de Facultad 
+1. ACLARAR  decisión tomada en acta 5 de 2019, debido a un error de trascripción se omitió la designación del codirector, en consecuencia APROBAR Designar codirector de la Tesis de Doctorado cuyo título es “Planning under Uncertainty using a Dynamical System Approach for Autonomous Vehicles” a Jaime Leonardo Bobadilla Molina Vásquez de School of Computing and Information Science FIU
+2. APROBAR  designar en el jurado calificador Tesis de Doctorado en Ingeniería – Ingeniería de Sistemas y Computación, cuyo título es: “Planning under Uncertainty using a Dynamical System Approach for Autonomous Vehicles”, a los profesores:
+a. RYAN N. SMITH  - VP of Technology Solutions at Oxbotica
+b. MARCO MORALES AGUIRRE - Teaching Associate Professor University Of Illinois Urbana-Champaign
+c. JESUS ALBERTO DELGADO RIVERA - Profesor Titular Universidad Nacional de Colombia
+d. PEDRO FABIAN CARDENAS HERRERA  - Profesor Titular Universidad Nacional de Colombia  
+
+10.9.20 Giraldo Franco Diana Lorena	DNI. 1032394718
+Tipo de solicitud:	Designación de jurados.
+Justificación:	Se solicita designación de jurados.
+Soportes:	Copia de tesis, copia digital de tesis, formato de solicitud de nombramiento de jurados.
+https://drive.google.com/open?id=1e5JWTFx_UmEu50lxZkA7C6oTrdTmIxl8
+https://drive.google.com/open?id=19pzzQJaOL_n_Cwqc7DxDthoTytRnPdV8
+https://drive.google.com/open?id=1gY1S5UulYtSWXVsW3AWcKeQQn8sD00UA
+https://drive.google.com/open?id=1EKyOjwuiYU6AEKIprQ70kFGloKzyxrrD
+https://drive.google.com/open?id=1tWmRd4kgh6Y9RwgQLUsagIHpRfQUnrQh
+https://drive.google.com/open?id=1pmVa6JYVnzrPNvOfrNlWHcxrGuzTnpR0
+Fecha de radicación:	octubre 14
+Análisis:	Acuerdo 40 de 2017 – Consejo de Facultad
+1. El estudiante tiene la asignatura Tesis de doctorado en el periodo 2021-1S pero no presentó Avance Satisfactorio por lo que la asignatura se eliminó
+2. Concepto motivado acerca del trabajo por parte del director Eduardo Romero Castro y el codirector Jan Sijbers  University of Antwerp y otro codirector Ben Jeurissen (Universiteit Antwerpen)
+3. El segundo codirector, Ben Jeurissen (Universiteit Antwerpen), figura en la solicitud de jurados y la tesis pero no aparece designado por el Consejo de Facultad, además que en el Proyecto no aparecía, ni en el avance satisfactorio 2020-2S.  Dicho director no aparece antes de 2021 dado que el convenio de cotutela fue firmada en abril 2021 y en una enmienda firmada en julio-agosto se incluyó al profesor Ben Jeurissen (Universiteit Antwerpen) como otro codirector, designación que no ha pasado por Consejo de Facultad-
+4. Propuesta de tesis aprobada: Computational anatomy strategies for characterization of brain patterns associated with Alzheimer's disease. Acta 20 2018
+5. versión electrónica en formato pdf (Artículo 43).
+6. Solicitud de nombramiento de jurados (Artículo 44).
+7. Uno o más evaluadores para los trabajos finales, dos o más jurados para las tesis de Maestría y cuatro jurados para tesis de Doctorado (Artículo 44).
+8. Para las tesis de doctorado, al menos dos de los jurados deberán ser externos a la Universidad Nacional de Colombia y preferiblemente laborar en el extranjero. (Artículo 44)
+9. SI es cotutela con University of Antwerp  https://drive.google.com/open?id=1h4R4zI9CM6AHkvbv9ve2jbOlXQGRyW_z
+10. El director informa que los siguientes los jurados aprobados por la U. Antwerpen:  https://drive.google.com/open?id=11z-s3SZC4bpfN-Uz-y-oMvS0w8Q62JE3
+a. Norberto Malpica, PhD. - Universidad Rey Juan Carlos
+b. Marleen Verhoye, PhD. - Department of Biomedical Sciences, University of Antwerp
+c. Ileana Jelescu, PhD.-  University of Lausanne and Lausanne University Hospital
+11. La coordinadora está de acuerdo con la los jurados informados por el director y agrega a Diego Alexander Garzón Alvarado - Mecánica y mecatrónica, Facultad de Ingeniería - Unal-Bogotá  y al Ing Fabio Gonzáles.
+
+Concepto: El Comité Asesor recomienda al Consejo de Facultad APROBAR:
+1. conceder excepción al Artículo 9 del acuerdo 40 de 2017 de Consejo de Facultad, en el sentido de APROBAR designar codirector de la Tesis de Doctorado cuyo título es “Computational anatomy strategies for characterization of brain patterns associated with Alzheimer's disease” a Ben Jeurissen (Universiteit Antwerpen), teniendo como soporte la enmienda del convenio de cotutela de la estudiante.
+
+2. designar en el jurado calificador Tesis de Doctorado en Ingeniería – Ingeniería de Sistemas y Computación, cuyo título es: “Computational anatomy strategies for characterization of brain patterns associated with Alzheimer's disease”, a los profesores:
+a. Norberto Malpica, PhD. - Universidad Rey Juan Carlos
+b. Marleen Verhoye, PhD. - Department of Biomedical Sciences, University of Antwerp
+c. Ileana Jelescu, PhD.-  University of Lausanne and Lausanne University Hospital
+d.  Diego Alexander Garzón Alvarado – Departamento de Ingeniería Mecánica y mecatrónica, Facultad de Ingeniería - Unal-Bogotá 
+e. Fabio González -  Departamento de Ingeniería de Sistemas e Industrial.  Facultad de Ingeniería - Unal-Bogotá
+
+10.9.21 Martínez Riaño Darwin Eduardo	DNI. 80238002
+Tipo de solicitud:	Designación de jurados.
+Justificación:	Se solicita designación de jurados.
+Soportes:	Copia de tesis, copia digital de tesis, formato de solicitud de nombramiento de jurados.
+https://drive.google.com/open?id=1ribKU2f1pXiB_w1oAXpSIThdvZnbluEt
+https://drive.google.com/open?id=1NbYusy2ifoujTQQ6kwrl7u6V3GtqcQw-
+https://drive.google.com/open?id=1o2MWjmKNAuUSHhJ8QZMdp1b7z7E4nnkn
+https://drive.google.com/open?id=13Aty6GrE083ljInya0JK_nrklCh_dv3N
+https://drive.google.com/open?id=1Y0EbyelO902HpZPn95GKgXItGH2Efq9f
+https://drive.google.com/open?id=1UEziKjv76ORBm9AQ4aCdqJ9eA9ND1QaG
+Fecha de radicación:	octubre 14
+Análisis:	Acuerdo 40 de 2017 – Consejo de Facultad
+1. El estudiante tiene la asignatura Tesis de doctorado en el periodo 2021-1S 
+2. Concepto motivado acerca del trabajo por parte del director Francisco Albeiro Gómez Jaramillo PERO no del codirector designado Fabio Gonzáles.
+3. El Codirector no aparece en la tesis, ni en la solitud de jurados, ni en el Avance Satisfactorio 2021-1S, ni 2020-2S, ni 2020-1S pero si aparece en designado en el Proyecto Acta 12 de 2016
+4. El codirector, Fabio González manifiesta que él supervisó, junto con el profesor Francisco Gómez el proyecto de tesis, sin embargo después de la defensa del Proyecto (2016) el estudiante no se volvió a  contactar con él. Hace dos semanas el profesor Francisco Gómez le informó al codirector que pensaban presentar la tesis y que querían mostrársela para que le diera el aval (a menos de una semana de cumplirse el plazo de entrega). El codirector le manifestó que no estaba de acuerdo en aparecer como codirector de una tesis que no dirigió y que lo más apropiado era hacer una solicitud de cambio de la propuesta para que quedara como único director el profesor Francisco Gómez. 
+5. Como está la Tesis en este momento no es posible designarle jurados dado que carece del aval del codirector que figura aprobado por el Consejo de Facultad 
+6. Propuesta de tesis aprobada: Computational strategies to characterize topological properties of pathologically altered functional brain networks. Acta 12 de 2016
+7. versión electrónica en formato pdf (Artículo 43).
+8. Solicitud de nombramiento de jurados (Artículo 44).
+9. Para las tesis de doctorado, al menos dos de los jurados deberán ser externos a la Universidad Nacional de Colombia y preferiblemente laborar en el extranjero. (Artículo 44)
+10. NO es cotutela 
+11. El director propone los siguientes jurados: https://drive.google.com/open?id=17Jkk6dVc8rVvKNFQDfDOWxJPKBOU1cU-
+a. Gabriel Castellanos Castañeda - Departamento de Ciencias Fisiológicas, Pontificia Universidad Javeriana
+b. Luis Fernando Niño – Departamento de Ingeniería de Sistemas e Industrial. 
+c. Norberto Antonio Malpica González - Departamento de Matemática Aplicada, Ciencia e Ingeniería de los Materiales y Tecnología Electrónica, Universidad Rey Juan Carlos
+d. Enrico Amico -  SNSF Ambizione Research Leader EPFL and University of Geneva
+
+Concepto: El Comité Asesor APLAZA  designar en el jurado calificador Tesis de Doctorado en Ingeniería – Ingeniería de Sistemas y Computación, cuyo título es: “Computational strategies to characterize topological properties of pathologically altered functional brain networks”, hasta que se esclarezca la situación del codirector.
+
+
+
+Ing. Jenny Marcela Sánchez Torres
+Directora de Área Curricular
+
+proyecto
+cultural,
+científico
+y colectivo
+de nación
+Av. Carrera 30 # 45-03 - Ciudad Universitaria
+Edificio 453, Oficina 209
+(+57 1) 3165357 - (+57 1) 3165000 EXT: 14068
+Bogotá, D. C., Colombia
+acisi_fibog@unal.edu.co
+
+
+[ Página 2 de 2 ] 
+Elaboró: LS/IV/JMS
+
+
+

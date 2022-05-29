@@ -1,206 +1,0 @@
-﻿Área Curricular de Ingeniería de Sistemas e Industrial | Facultad de Ingeniería | Sede Bogotá
-
-COMITÉ ASESOR DE CARRERA - INGENIERÍA DE SISTEMAS Y COMPUTACIÓN 
-ACTA No. 10 de mayo 18 de 2021
-
-ASISTENTES
-Ing. Jenny Marcela Sánchez Torres		Directora de Área Curricular
-Ing. Elizabeth León Guzmán		Coordinadora Curricular Ingeniería de Sistemas y Computación
-Ing. Jorge Eduardo Ortiz Triviño			Representante de los profesores
-Ing. Jean Pierre Charalambos Hernández		Representante de los profesores
-Gabriela María García				Representante estudiantil
-Ing. Luis Fernando Caicedo		Egresado Ing. Sistemas - Invitado
-Ing. Leonardo Salgado				Asesor curricular
-
-AUSENTE 
-Angela María Cárdenas Orjuela 		Representante estudiantil
-
-
-Lugar: Virtual.
-Fecha: martes 18  de mayo  de 2021
-Hora: 2:30 pm.
-
-ORDEN DEL DÍA
-1. Asuntos Varios
-2. Asuntos estudiantiles
-
-DESARROLLO DEL ORDEN DEL DÍA
-
-ASUNTOS VARIOS
-
-· Profesor Mario Alberto, aclarará las proporciones de los cupos PEAMA,
-
-La oferta final de cupos es resultado de lo siguiente:
-o Admisión Regular es la que aprueba Consejo de Sede,  teniendo en cuenta el cupo aprobado por Consejo de Facultad, más un aumento previendo los NO MATRICULADOS de ese proceso de admisión que se estima de procesos de admisión anteriores, en espera que el total de matriculados sea el mismo de los cupos aprobados por Consejo de Sede.
-o PAES es 2 % de los cupos regulares en para cada uno de los siguientes casos 
-§ Bachilleres miembros de Comunidades Indígenas
-§ Mejores Bachilleres de Población Negra, Afrocolombiana, Palenquera y Raizal
-§ Mejores Bachilleres de Municipios Pobres
-o Admisión PEAMA es la que informa la Vicerrectoría Académica más un aumento previendo los NO MATRICULADOS de ese proceso de admisión que se estima con el histórico de procesos de admisión anteriores, en espera que el total de matriculados sea el mismo de los cupos aprobados por Vicerrectoría Académica.
-
-· La profesora Jenny Marcela Sánchez, Directora de Área,  presenta la propuesta de ofertar el curso de Fundamentos de Programación de la sede de Medellín como curso de Programación de Computadores, en respuesta a la problemática de la sobredemanda al curso de programación de computadores. El contenido del curso coincide aproximadamente en un 90% con el contenido del curso ofertado en Bogotá. El curso ha sido completamente virtualizado por profesores de la Facultad de Minas, está disponible en un LMS denominado TICAdemia, también creado especialmente para los procesos de docencia de cursos de programación, por los mismos docentes. Se trata de una plataforma que permite procesos de gamificación y de evaluación automática y de realimentación para los estudiantes. 
-Al ser una propuesta ya discutida a nivel de Facultad, se discute y analiza  la posibilidad de ofertar el curso de Fundamentos de Programación para los estudiantes del programa de Ingeniería de Sistemas y Computación (2879).
-
-- Las diapositivas presentadas sobre la plataforma TICademia | Herramientas para una educación de la era digital  presentadas por la Directora de Area se encuentran en: 
-https://drive.google.com/file/d/1w3h9vBcmTGNU7upI3TBBhnv-
-xpiCE3G3/view?usp=sharing
-
-- El profesor Juan Carlos Torres, Director del Departamento, asiste al Comité para apoyar la propuesta de la sede de Medellín, y también asegura que se llevará a cabo la propuesta de los profesores del cuso de Programación del MinTIC presentada previamente al Comité.
-
-- Para decidir se realizó  votación nominal, conformo se presenta a continuación: 
-	
-	Votos a favor: 
-§ Ing. Jenny Marcela Sánchez Torres		Directora de Área Curricular
-§ Ing. Jorge Eduardo Ortiz Triviño		Representante de los profesores
-§ Ing. Jean Pierre Charalambos Hernández	Representante de los profesores
-§ Gabriela María García			Representante estudiantil
-	
-	Voto en contra:
-§ Ing. Elizabeth León Guzmán		Coordinadora Curricular 
-
-Concepto: El Comité Asesor APRUEBA por mayoría absoluta que el plan Ingeniería de Sistemas y Computación (2879) sea incluido en los límites de la programación académica de un grupo de 150 cupos de 2015734 Programación de Computadores para el periodo 2021-2S que será desarrollado mediante: TICademia | Herramientas para una educación de la era digital, bajo las siguientes condiciones:
-· Garantizar 2 asistentes docentes para el grupo de 150 estudiantes.
-· Garantizar una manera para que el contenido de la asignatura faltante se les imparta a los estudiantes de Ingeniería de Sistemas y Computación (2879) que curse ese grupo
-· Revisar criterios de validación en el desarrollo del curso en términos de aprendizaje, definiendo un instrumento que permita medir que la metodología del curso funciona en términos de aprendizaje.  Por ejemplo: Teniendo en cuenta un grupo de control.
-· Verificar la satisfacción de los docentes y estudiantes que participen.
-· Aplicación para el semestre 2021-2 como prueba piloto para analizar la propuesta (una solución temporal)
-
-Salvamento de voto de la profesora Elizabeth León: 
-o Es una propuesta de curso virtual, cuenta con 2 horas presenciales a la semana para resolver dudas. El contenido es impartido a través de videos. 
-o No se tuvo en cuenta la opinión de los profesores del área de programación de computadores, ya que esta asignatura es ofertada por el Programa de Ingeniería de Sistemas y Computación.
-o No es claro el instrumento de validación de la metodología en términos de aprendizaje.
-
-ASUNTOS ESTUDIANTILES
-
-CANCELACIÓN DE ASIGNATURAS
-9.1.1 Barbosa Delgado Breyner Alberto	DNI. 1125477736
-Tipo de solicitud:	Cancelación de asignaturas.
-Justificación:	a la fecha no puedo continuar con la asignatura ya que debido a unos fallos eléctricos en el lugar en donde vivo perdí mi herramienta principal de trabajo la cual es mi computador, y no puedo seguir desarrollando las actividades propuestas por el profesor ya que tener un ordenador es indispensable para poder avanzar adecuadamente en la asignatura, ya llevo alrededor de una semana con este problema el cual ya me causo un atraso considerable en la asignatura tanto en temática como en al presentación de trabajos
-Soportes:	Formato de solicitud, 1125477736 - Formato solicitud - Breyner Alberto Barbosa Delgado.pdf - Google Drive 
-	https://drive.google.com/file/d/1iY7TppbOZ2GHCpR6vCwN5Sb4GQ9GuJug/view?usp=sharing
-Fecha de radicación:	abril 30
-	Análisis:	Acuerdo 008 de 2008
-Concepto: El Comité Asesor recomienda al Consejo de Facultad APROBAR cancelar la(s) siguiente(s) asignatura(s) inscrita(s) del periodo académico 2021-1S, porque justifica debidamente la solicitud. (Artículo 15 Acuerdo 008 de 2008 del Consejo Superior Universitario)
-CódigoNombre AsignaturaGrupoTC2016375Programación Orientada a Objetos1C3
-9.1.2 Colmenares Leguízamo Valentina	DNI. 1000611362
-Tipo de solicitud:	Cancelación de asignaturas.
-Justificación:	"Debido a la emergencia sanitaria causada por la pandemia del COVID-19 deseo cancelar la asignatura Estructuras de datos con código-grupo 2016699-3 con el docente Daniel Alejandro Escobar Prieto sin pérdida de créditos ni afectación al P.A.P.P.I."
-Soportes:	Formato de solicitud, https://drive.google.com/open?id=1UIreT59M8kwddiPBy0pspZgxhKnyMMAE
-Fecha de radicación:	mayo 4
-	Análisis:	Acuerdo 008 de 2008
-1. SIA: Al aprobar la cancelación de la asignatura la estudiante quedaría con 10  créditos inscritos.
-Concepto: El Comité Asesor recomienda al Consejo de Facultad APROBAR cancelar la(s) siguiente(s) asignatura(s) inscrita(s) del periodo académico 2021-1S, porque justifica debidamente la solicitud. (Artículo 15 Acuerdo 008 de 2008 del Consejo Superior Universitario)
-CódigoNombre AsignaturaGrupoTC2016699Estructuras de datos3C3
-HOMOLOGACIÓN/EQUIVALENCIA DE ASIGNATURAS
-9.1.3 Balcero Cerón Andrés Felipe	DNI. 1032464203
-Tipo de solicitud:	Homologación de asignaturas.
-Justificación:	Deseo realizar la equivalencia de la asignatura Métodos Numéricos (2015970) que cursé y aprobé previamente en el programa de Ingeniería Mecatrónica en el periodo 2016-1.
-Soportes:	Formato de solicitud, https://drive.google.com/open?id=1n4MfwZI0mQvv5_B1-AjgRQkZnLAonZ4K
-Fecha de radicación:	
-Análisis:	Acuerdo 008 de 2008, Acuerdo 026 de 2014.
-1. Solicitud de homologación de Métodos Numéricos  asignatura del programa Ing. Mecatrónica.
-2. La asignatura a homologar cumple con los prerrequisitos.
-Concepto: El Comité Asesor recomienda al Consejo de Facultad NO APROBAR homologar en el periodo académico 2021-1S, las siguientes asignaturas cursadas en el programa porque no cumple con el prerrequisito establecido – Matemáticas Discretas II o Ecuaciones en Diferencias y Sistemas Dinámicos. (Acuerdo 026 de 2014 de Consejo de Facultad) .
-
-	Balcero Cerón Andrés Felipe	DNI. 1032464203Asignatura que no se equivalen en el programa Ingeniería de Sistemas y Computación (2879)  Asignatura Universidad Nacional de Colombia – (Ingeniería de Sistemas y Computación (2879) ) Asignatura Ingeniería MecatrónicaJustificaciónCNotaMétodos NuméricosMétodos Numéricosno cumple con el prerrequisito establecido Matemáticas Discretas II o Ecuaciones en Diferencias y Sistemas DinámicosO3.9
-
-CANCELACIÓN DE PERIODO ACADÉMICO
-9.1.4 Ortiz Chaparro Nicolas	DNI. 1117552614
-Tipo de solicitud:	Cancelación de periodo académico.
-Justificación:	Debido a la situación actual me he visto en la obligación de dedicarme a trabajar a tiempo completo, algo que no me permite seguir estudiando durante este periodo académico. Ya he cancelado la mayoría de las asignaturas, sin embargo, para poder cancelarlas -todas- me he visto en la obligación de realizar esta solicitud.
-Soportes:	Formato de solicitud, https://drive.google.com/open?id=1lAWNCB4WfrK7qVtJGo--JXYoj3a86pjH
-Fecha de radicación:	abril 30
-Análisis:	Acuerdo 008 de 2008
-1. El comité lo considera fuerza mayor o caso fortuito documentado.
-2. Solo tiene inscrito Arquitectura de Computadores y ya tiene pago el recibo de matrícula 2021-1S
-Concepto: El Comité Asesor recomienda al Consejo de Facultad APROBAR: 
-1. Cancelar el periodo académico 2021-1S, porque justifica documentalmente la fuerza mayor o caso fortuito. (Artículo 18 del Acuerdo 008 del Consejo Superior Universitario)
-2. Devolución proporcional del cuarenta y tres por ciento (43 %) del valor pagado por concepto de derechos de matrícula del periodo 2021-1S, teniendo en cuenta la fecha de presentación de la solicitud y que le fue aprobada la cancelación de periodo en Acta ## de 2021 de Consejo de Facultad. (Acuerdo 032 de 2010 del Consejo Superior Universitario, Artículo 1 Resolución 1416 de 2013 de Rectoría)
-
-9.1.5 Vargas Prieto Santiago Alberto	DNI. 1072700119
-Tipo de solicitud:	Cancelación de periodo académico.
-Justificación:	"Cordial saludo, Santiago Vargas Prieto Identificado con número de cédula de ciudadanía No 1072700119. Estudiante primer semestre del Programa de Ingeniería de Sistemas, solicito muy amablemente la cancelación del actual semestre debido a varios imprevistos que convergen en mi salud mental y física como producto de la Emergencia Sanitaria COVID-19. Agregado a ello, inconvenientes familiares que han implicado la salud de parientes el cual ha generado mucha más confusión acerca de la continuidad del semestre. Agradezco la atención prestada."
-Soportes:	Formato de solicitud, 
-https://drive.google.com/open?id=1g4Ybj0rzQal5G8KKlas5y8RXoiOlLDyLhttps://drive.google.com/open?id=1pkiJYaKD493ui-dkA9IyyZ8BWtFTDmoY
-Fecha de radicación:	mayo 7
-Análisis:	Acuerdo 008 de 2008
-1. El comité lo considera fuerza mayor o caso fortuito documentado.
-2. Estudiante en primer semestre de la Doble titulación
-3. Ya tiene pago el recibo de matrícula 2021-1S 
-
-
-Concepto: El Comité Asesor recomienda al Consejo de Facultad APROBAR: 
-1. Cancelar el periodo académico 2021-1S, porque justifica documentalmente la fuerza mayor o caso fortuito. (Artículo 18 del Acuerdo 008 del Consejo Superior Universitario)
-2. Devolución proporcional del cuarenta y tres por ciento (43 %) del valor pagado por concepto de derechos de matrícula del periodo 2021-1S, teniendo en cuenta la fecha de presentación de la solicitud y que le fue aprobada la cancelación de periodo en Acta ## de 2021 de Consejo de Facultad. (Acuerdo 032 de 2010 del Consejo Superior Universitario, Artículo 1 Resolución 1416 de 2013 de Rectoría)
-
-9.1.6 González Gómez Ángel Vladimir  	DNI. 1000971579
-Tipo de solicitud:	Cancelación de periodo académico.
-Justificación:	"Solicito la cancelación de mi semestre académico debido a que el día 3 de mayo fue la última fecha para poder pagar la matrícula y me encuentro incapaz de cancelar dicho valor debido a que no tengo los fondos suficientes para pagar.
-	Anteriormente solicité reubicación socioeconómica la cual no fue aceptada por falta de papeleo, para ese entonces no disponía de la documentación solicitada así que no fue posible para mi acceder a dicho beneficio. En términos generales solicitaba un cambio en el valor de la matrícula debido a que mi madre ya no es mi responsable económica.
-	Teniendo en cuenta esta información solicito una vez más que me permitan cancelar el semestre ya que, de no ser así perderé mi cupo en la universidad y mi calidad de estudiante. 
-	Agradezco su colaboración y quedo atento a pronta respuesta.
-	Gracias. "
-Soportes:	Formato de solicitud, ###.
-Fecha de radicación:	
-Análisis:	Acuerdo 008 de 2008
-1. El comité lo considera fuerza mayor o caso fortuito documentado.
-2. No ha pagado ninguno de los recibos de 2021-1S
-Concepto: El Comité Asesor recomienda al Consejo de Facultad NO APRUEBA cancelar el periodo académico 2021-1S, en el programa de Ingeniería de Sistemas y Computación (2879), debido a que no ha realizado el pago correspondiente al periodo 2021-1S, por lo que no tiene la calidad de estudiante,  de acuerdo con lo establecido en las Resoluciones 340 de 2020 del CSU, queda en reserva de cupo.
-CRÉDITOS DE DOBLE TITULACIÓN
-9.1.7 Páez González Felipe	DNI.1014305757
-Justificación:   El estudiante es de doble titulación y 2021-1S es el primer semestre en Ingeniería de Sistemas y Computación (2879), dado que en 2020-2S terminó Lingüística, por lo que se requiere asignarle los créditos adicionales dado que tiene un promedio superior a 4.3: 4.6
-Análisis:	
-1. El resumen de créditos al 14 de mayo de 2021 es el siguiente:
-
-
-2. En el presente semestre tiene inscritos 3 créditos.
-
-3. Teniendo en cuenta que el déficit es de 80 créditos pero tiene 3 inscritos el cupo adicional debe ser de 77 créditos adicionales 
-
-
-Concepto: El Comité Asesor recomienda al Consejo de Facultad APROBAR otorgar cupo extraordinario de 77 créditos adicionales para culminar su plan de estudios, teniendo en cuenta que es lo requerido para cursar las asignaturas pendientes del segundo plan dada la doble titulación aprobada ya que culminó su primer plan con un PAPA igual o superior a 4,3. (literal b, parágrafo 2, artículo 6, Acuerdo 155 de 2014 – Consejo Superior Universitario) 
-
-DESCUENTO DE MATRÍCULA PARA LOS BECARIOS JÓVENES INGENIEROS KOSPIE 
-Justificación: PRI escribe: “Con el fin de obtener el aval  del Consejo de Facultad, adjunto la solicitud de descuento de matrícula para los becarios jóvenes ingenieros KOSPIE de la cohorte 2021-2022.
-Cuya aprobación está avalada por el  Consejo Superior Universitario mediante el oficio  Oficio CSU-2502-17 el cual se adjunta. 
-PRI remite el oficio PRI – Fibog 145, que dice: 
-Los beneficiarios de la Beca Jóvenes Ingenieros Alemania 2021-2022 de la Facultad de Ingeniería son los siguientes estudiantes:
-NúmeroNombresApellidosCarrera1003810722Gabriel AndresAvendaño CasadiegoIngeniería de Sistemas y ComputaciónDe acuerdo con el Oficio CSU-2502-17 (anexo) estos estudiantes solo deben pagar los costos asociados con sistematización, bienestar y seguro, durante los semestres 2021-2 y 2022-1.
-Atentamente les solicitamos su aval para enviar la solicitud de descuento de matrícula a la División de Registro y Matrícula.
-MARIA TERESA AMIDO LOZANO, PhD
-Coordinadora
-Programa de Internacionalización
-Facultad de Ingeniería
-Universidad Nacional de Colombia
-
-Soportes: 	Oficio PRI – Fibog 145, Oficio CSU-2502-17 	https://drive.google.com/file/d/1vgqCq3VYwDo_y5GiLp74KSYOqr6e2Bun/view?usp=sharing
-https://drive.google.com/file/d/1IcSwrvnvMR12bRDc9IIAzRtxKZXimHzY/view?usp=sharing
-Análisis: 
-· El Comité considera que con la documentación presentada por PRI, el estudiante cumple las condiciones académicas requeridas para que se autorice excepción al acuerdo 100 de 1993 del Consejo Superior Universitario durante los periodos de movilidad 2021-2S y  2022-1S y no pague matrícula mientras durante la movilidad (CSU – 2025-17)
-· Se pasa a la delegataria para que revisen el caso.
-Concepto: El Comité Asesor recomienda al Consejo de Facultad APROBAR el trámite de excepción al acuerdo 100 de 1993 del Consejo Superior Universitario durante los periodos de movilidad 2021-2S y  2022-1S por cuanto el estudiante cumple las condiciones académicas y está en el programa Jóvenes Ingenieros  DAAD – ICETEX. (CSU – 2025-17)
-NúmeroNombresApellidosCarrera1003810722Gabriel AndresAvendaño CasadiegoIngeniería de Sistemas y Computación
-
-
-
-Ing. Elizabeth León Guzmán	
-Coordinadora Curricular Ingeniería de Sistemas y Computación
-
-
-proyecto
-cultural,
-científico
-y colectivo
-de nación
-Av. Carrera 30 # 45-03 - Ciudad Universitaria
-Edificio 453, Oficina 209
-(+57 1) 3165357 - (+57 1) 3165000 EXT: 14068
-Bogotá, D. C., Colombia
-acisi_fibog@unal.edu.co
-
-
-[ Página 2 de 2 ] 
-Elaboró: LS/IV/JMS
-
-
-

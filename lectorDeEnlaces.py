@@ -2,7 +2,7 @@ import re
 
 #abre el acta
 def lecturaArchivo(ruta):
-    archivo = open(ruta, 'r')
+    archivo = open(ruta, encoding="utf-8")
     return archivo
 
 #crea un .txt donde iran los soportes del acta
@@ -28,32 +28,28 @@ def escribir(urls, soportes):
         soportes.write('\n')
 
 
-def leerActasIndustrial(actaInicial, actaFinal):
+def leerActas(actaInicial, actaFinal):
     # numero de acta inicial
     m = actaInicial   
-    n = m
+    
     #el ciclo se repite tantas veces como la cantidad de actas
     for i in range(actaFinal-actaInicial+1):
-        try:
-            #apertura de acta (se debe cambiar cada que se quiera procesar una nueva acta)
-            nombreActa = '.\Actas_industrial_2020\Acta'
-            rutaActa = nombreActa + str(m) + '.txt'
-            acta = lecturaArchivo(rutaActa)
+        
+        #apertura de acta (se debe cambiar cada que se quiera procesar una nueva acta)
+        nombreActa = r'.\Actas\Acta'
+        rutaActa = nombreActa + str(m) + '.txt'
+        acta = lecturaArchivo(rutaActa)
    
-             #crear archivo con soportes
-            nombreSoporte = '.\soportes_industrial_2020\soportesActa'
-            rutaSoporte = nombreSoporte + str(n) + '.txt'
-            soportes = crearArchivo(rutaSoporte)
+         #crear archivo con soportes
+        nombreSoporte = r'.\soportes\soportesActa'
+        rutaSoporte = nombreSoporte + str(m) + '.txt'
+        soportes = crearArchivo(rutaSoporte)
+            
+        procesarActa(acta, soportes) 
 
-            #actualizacion de indices
-            m=m+1
-            n = m
-            procesarActa(acta, soportes) 
-        except:
-            #actualizacion de indices
-            m=m+1
-            n = m
-            continue
+        m = m + 1
+      
+
 
 def leerActasSistemas(actaInicial, actaFinal):
     # numero de acta inicial
@@ -84,9 +80,9 @@ def leerActasSistemas(actaInicial, actaFinal):
 
 def main(): 
     #especificar numero de acta inicial y final
-    leerActasIndustrial()
+    leerActas(19,24)
     #especificar numero de acta inicial y final
-    leerActasSistemas()
+    #leerActasSistemas()
 
 main()
     
