@@ -1,326 +1,0 @@
-﻿Área Curricular de Ingeniería de Sistemas e Industrial | Facultad de Ingeniería | Sede Bogotá
-
-COMITÉ ASESOR DE PROGRAMAS DE POSGRADO
-ÁREA INGENIERÍA DE SISTEMAS E INDUSTRIAL
-ACTA N° 21
-Noviembre 2  de 2021
-
-Ing. Jenny Marcela Sánchez Torres	Directora de Área Curricular de Ingeniería de Sistemas e Industrial y Coord. Especialización en Gobierno Electrónico
-Ing. Helga Duarte-Amaya	Coord. Doctorado en Ingeniería - Sistemas y Computación
-Ing. Felipe Restrepo Calle	Coord. Maestría en Ingeniería – Ingeniería de Sistemas y Computación y Conv Unillanos 
-Ing. Gustavo Alfredo Bula		Coord. Maestría en Ingeniería -Ingeniería Industrial
-Prof. Emiliano Barreto Hernández	Coord. Maestría en Bioinformática
-Ing. Fabio Augusto González Osorio	Representante de los grupos de investigación 
-Ing. Pedro Julián Ramírez 		Representante de los egresados 
-
-Ing. Héctor Cifuentes Aya	Coord. Doctorado en Ingeniería – Industria y Organizaciones
-Ing. Jesús Guillermo Tovar Rache	Coord. Maestría en Ingeniería – Telecomunicaciones
-
-Lugar: Virtual.
-
-ORDEN DEL DÍA
-
-1.	Asuntos varios
-2.	Estudio de casos estudiantiles
-
-DESARROLLO DEL ORDEN DEL DÍA
-
-ASUNTOS VARIOS
-
-· Revisión de la propuesta de convenio de cotutela con la Université Bretagne Sud del estudiante Jeison Vergara del Doctorado en Ingeniería – Ingeniería de Sistemas y Computación (2702):
-https://docs.google.com/document/d/18lsUn-iMvfD_T3bmrVCMhmIyPitxl99L/edit?usp=sharing&ouid=114639406296458167586&rtpof=true&sd=true 
-
-ESTUDIO DE CASOS ESTUDIANTILES.
-MAESTRÍA EN INGENIERÍA - INGENIERÍA DE SISTEMAS Y COMPUTACIÓN
-INSCRIPCIÓN DE ASIGNATURAS
-10.9.1 Herrera Maldonado Juan Sebastián	DNI. 1031167991
-Tipo de solicitud:	Inscripción de asignaturas.
-Justificación:	" "Buenos días, soy Juan Sebastián Herrera Maldonado con CC 1031167991 estudiante de la maestría en ingeniería de sistemas y computación.
-
-	En este semestre estoy cursando la materia seminario II, sin embargo junto a esta materia debo inscribir la materia propuesta trabajo final de maestría  2019777  como requisito. Y esta no la tengo inscrita, agradecería su amable colaboración con la inscripción de esta materia, para poder continuar  sin mayor retraso mi plan de estudios de la maestría.
-
-	Quedo atento a su respuesta Muchas gracias de antemano."."
-Soportes:	Formato de solicitud.
-Fecha de radicación:	octubre 19
-	Análisis:	
-1. SIA: La asignatura se encuentra ofertada para el plan de estudios.
-2. SIA: Cumple con asignatura prerrequisito aprobado 
-3. No presenta cruces con el horario inscrito.
-Concepto: El Comité Asesor recomienda al Consejo de Facultad APROBAR inscribir la siguiente asignatura del programa Maestría en Ingeniería – Ingeniería de Sistemas y Computación (2702) , en el periodo académico de 2021-2S:
-CódigoAsignaturaGrupoTipologíaCréditos2019777Propuesta trabajo final1C4
-10.9.2 Neiza Mejía Juan Sebastián	DNI. 1032436240
-Tipo de solicitud:	Inscripción de asignaturas.
-Justificación:	El Sistema de Información Académica (SIA), no permitió realizar la inscripción de la materia "Tesis de grado". Me decía que no era posible inscribirla, contacté a la Dirección Curricular, quienes me indicaron que tenía todo en orden y podía inscribirla. Que intentara hacerlo en el periodo de adiciones y cancelaciones. Lo intenté dos veces y no fue posible, por lo cual volví a escribir y me dijeron que ya tenía que hacer la solicitud por este medio al Consejo de Facultad."
-Soportes:	Formato de solicitud.
-https://drive.google.com/open?id=1todsI1znL7KmajHPj6t2MmqkHDuv7oO8
-Fecha de radicación:	octubre 19
-	Análisis:	
-1. SIA: La asignatura se encuentra ofertada para el plan de estudios.
-2. SIA: Cumple con asignatura prerrequisito aprobado 
-3. No presenta cruces con el horario inscrito.
-Concepto: El Comité Asesor recomienda al Consejo de Facultad APROBAR inscribir la siguiente asignatura del programa Maestría en Ingeniería – Ingeniería de Sistemas y Computación (2702) , en el periodo académico de 2021-2S:
-CódigoAsignaturaGrupoTipologíaCréditos2019811Tesis de Maestría1P22
-10.9.3 Cubillos Vergara Lina María	DNI. 1069734706
-Tipo de solicitud:	Inscripción de asignaturas.
-Justificación:	"Buen día,
-	Comedidamente solicito la inscripción de las siguientes materias para el periodo actual 2021-02, ya que el pasado 10 de Octubre se me notificó la aprobación del cambio de programa por lo cual se bloqueó mi historia académica y las materias previamente inscritas fueron eliminadas.
-
-	2021940 Geomática
-	2019781 Redes neuronales
-	2020073 Inteligencia tecnológica	
-	2019777 Propuesta de Trabajo final de Maestría"
-Soportes:	Formato de solicitud.
-https://drive.google.com/open?id=1N_aV8GzpxbumXeIveuvI9isL6lNpWwCg
-Fecha de radicación:	octubre 20
-	Análisis:	
-1. La estudiante proviene de traslado de Ms Telecomunicaciones y recientemente se le creo la Historia Académica de Maestría en Ingeniería – Ingeniería de Sistemas y Computación (2702).
-2. SIA: Las asignaturas se encuentran ofertada para el plan de estudios.
-3. SIA: Cumple con asignatura prerrequisito aprobado.
-4. No presenta cruces con el horario inscrito.
-Concepto: El Comité Asesor recomienda al Consejo de Facultad APROBAR inscribir la siguiente asignatura del programa Maestría en Ingeniería – Ingeniería de Sistemas y Computación (2702) , en el periodo académico de 2021-2S:
-CódigoAsignaturaGrupoTipologíaCréditos2021940Geomática1B42019781Redes neuronales1L42020073Inteligencia tecnológica1B42019777Propuesta de Trabajo final de Maestría1C4
-ADMISIÓN AUTOMÁTICA
-10.9.4 Duarte Aunta Javier Eduardo	DNI. 1015456255
-Tipo de solicitud:	Admisión Automática	.
-Justificación:	Acepta el cupo otorgado por resolución de Consejo de Facultad.
-	Solicito amablemente la Admisión Automática al programa de maestría en ingeniería de sistemas y computación en profundización, de acuerdo con la Resolución número 2 del Acta 3 del 28 de enero de 2021 expedida por la secretaria de Facultad de ingeniería de la cual soy uno de los beneficiarios. Además, fui aceptado a esta maestría por admisión anticipada, cuando cursaba mi pregrado en ingeniería Eléctrica. Pero por problemas causados por la pandemia del covid-19 tuve que regresar a mi lugar de origen impidiendo que tomara el cupo. Sin embargo, he vuelto a Bogotá consiguiendo el recurso económico para cursar la maestría.
-	Anexo: Resolución número 2 del Acta 3 del 28 de enero de 2021 expedida por la secretaria de Facultad de ingeniería
-Soportes:	solicitud, : Resolución número 2 del Acta 3 del 28 de enero de 2021
-Fecha de radicación:	octubre 19
-Análisis:	Acuerdo 070 de 2009 - Consejo Académico, Acuerdo 008 de 2008
-1. El estudiante completó plan de estudios en Ingeniería Eléctrica
-2. Cupo de admisión automática en Resolución número 2 del Acta 3 del 28 de enero de 2021
-3. Solicita admisión al plan de estudios Maestría en Ingeniería – Ingeniería de Sistemas y Computación (2702) Profundización
-4. Se cuenta con un cupo disponible para admisión automática para Maestría en Ingeniería – Ingeniería de Sistemas y Computación (2702) Profundización en 2022-1s
-5. La fecha para realizar este tipo de solicitud, Formalizar la inscripción vía Internet en el proceso regular, venció el 22 de octubre de 2021 y no se  recibieron más solicitudes.
-Concepto: El Comité Asesor recomienda al Consejo de Facultad APROBAR admisión automática al programa Maestría en Ingeniería – Ingeniería de Sistemas y Computación (2702)  en el plan de estudios de Profundización  a partir del primer periodo académico de 2022 (2022-1S) por mayor Promedio Aritmético Ponderado Acumulado. (Acuerdo 070 de 2009 de Consejo Académico, Acuerdo 008 de 2008 del Consejo Superior Universitario.).
-
-MAESTRÍA EN TELECOMUNICACIONES
-
-MAESTRIA EN INGENIERÍA – INGENIERÍA INDUSTRIAL
-
-MAESTRIA EN BIOINFORMÁTICA
-
-ESPECIALIZACION EN GOBIERNO ELECTRÓNICO
-	
-DOCTORADO EN INGENIERÍA – INDUSTRIA Y ORGANIZACIONES
-
-INSCRIPCIÓN DE ASIGNATURAS
-10.9.5 Duarte Forero Edgar Leonardo	DNI. 72227347
-Tipo de solicitud:	Inscripción de asignaturas.
-Justificación:	"En el Acta 25 del 30 de septiembre, el Consejo de Facultad aprobó la calificación de ""Aprobado"" para el Proyecto de tesis de doctorado que presenté a finales de agosto. En esa misma acta se determina ""inscribir y calificar aprobado (AP) el examen de calificación con código 2024656 para el periodo académico 2021-1s.
-
-	A la fecha de remisión de esta solicitud, la actividad ""Examen de calificación"" no ha sido cargada en el sistema SIA. Por esta razón no he podido inscribir la asignatura Tesis de Doctorado (2024654). 
-
-	En consecuencia, solicito la inscripción de la asignatura y presento como justificación que no se habían cargado los pre-requisitos respectivos.
-
-	Agradezco la amable atención."
-Soportes:	Formato de solicitud.
-https://drive.google.com/open?id=1qPuqJLgNQO_FurZIik9wjxQFfA-ggoyX
-Fecha de radicación:	octubre 19
-	Análisis:	
-5. SIA: La asignatura se encuentra ofertada para el plan de estudios.
-6. SIA: Cumple con asignatura prerrequisito aprobado en 
-7. El estudiante cuenta con autorización para cursar la asignatura dado que mediante el oficio [B.FI.1.053. 0461-2021] se le solicitó,  el 22 de octubre, al CSU autorización de la inscripción y registro de la nota del prerequisito aprobada en el Consejo de Facultad 25 de 2021. La respuesta de ese oficio puede demorar 
-8. No presenta cruces con el horario inscrito.
-Concepto: El Comité Asesor recomienda al Consejo de Facultad APROBAR inscribir la siguiente asignatura del programa Doctorado en Ingeniería – Industria Y Organizaciones, en el periodo académico de 2021-2S:
-CódigoAsignaturaGrupoTipologíaCréditos2024654Tesis de doctorado1S90
-10.9.6 Robayo Pinzón Oscar Javier	DNI. 79843140
-	Tipo de solicitud:	Inscripción de asignaturas.
-Justificación:	Por medio de la presente me permito solicitar formalmente su consideración y aprobación de la solicitud de registro en mi carga académica para el período 2021-2S de “Tesis de Doctorado” como única asignatura. Cabe anotar que ya he cumplido con los créditos restantes y otros requisitos del programa y, junto con mi directora de tesis, consideramos que hacia finales de este período académico podré entregar el documento final de tesis. Por ello sería muy valioso para mi proceso poder realizar esta inscripción para el período en curso.
-Soportes:	Formato de solicitud.
-https://drive.google.com/open?id=1JErl3AZAPJ4f5YlpOBWf43d3FKSeyGmZ
-Fecha de radicación:	octubre 28
-	Análisis:	
-1. SIA: La asignatura se encuentra ofertada para el plan de estudios.
-2. SIA: Cumple con asignatura prerrequisito aprobado 
-3. No presenta cruces con el horario inscrito.
-Concepto: El Comité Asesor recomienda al Consejo de Facultad APROBAR inscribir la siguiente asignatura del programa Doctorado en Ingeniería – Industria Y Organizaciones, en el periodo académico de 2021-2S:
-CódigoAsignaturaGrupoTipologíaCréditos2024654Tesis de doctorado1S90
-DESIGNACIÓN DE JURADOS
-10.9.7 Osorio Bustamante Ferney	DNI. 1098655581
-Tipo de solicitud:	Designación de jurados.
-Justificación:	Se solicita designación de jurados.
-Soportes:	Copia de tesis, copia digital de tesis, formato de solicitud de nombramiento de jurados.
-https://drive.google.com/open?id=1lIVofL7VFAWSmJ4KkOif7tN8qHkuLrKj
-https://drive.google.com/open?id=1Nuuzc6RjYAmSMA6VQOCEkZFMYJlURkRd
-https://drive.google.com/open?id=12YrEeTPf4NhZFIEnHX8dzVbiPGx5pkUD
-https://drive.google.com/open?id=1Rm1gnKOQO7E9U39kB5zewnWyWNfM7Kdz
-https://drive.google.com/open?id=1DxYGW_zhYPSLTjeAB2hl1DWfR_cSc5F3
-https://drive.google.com/open?id=1dM0dUpSjiOTl6Pl8mPLJonfkBhy5kd8c
-https://drive.google.com/open?id=1O7kDSvDJk5KOzfZXnA8LbX9Du50gpjYD
-Fecha de radicación:	octubre 15
-Análisis:	Acuerdo 104 de 2020 – Consejo de Facultad
-1. El estudiante tiene la asignatura Tesis de doctorado en 2021-1S.
-2. Concepto motivado acerca del trabajo por parte del director José Ismael Peña y los Codirectores Mauricio Camargo de la Universidad de Lorraine y Laurent Dupont  de la Universidad de Lorraine
-3. Proyecto de tesis aprobado: Management of innovation laboratories: an enabling methodological approach for strategic intention design ACTA 014 15 DE AGOSTO DE 2019
-4. Se presentan unas pequeñas diferencias entre el título aprobado y la tesis presentada:
-a. En remplazo de la palabra “laboratories” se coloca la palabra “labs”
-b. En remplazo de la palabra “intention” se coloca la palabra “intent”
-Mediante una carta remitida por el estudiante y los directores (https://drive.google.com/file/d/1TLhs3VaBYXZTB6pTwWX0b4FuwJg0YONR/view?usp=sharing) se informa que el título corresponde al aprobado en el Proyecto salvo una abreviación laboratories= labs y un sinónimo intention= intent.
-El estudiante está informado que para el acta de sustentación, y el documento final que entregue para efectos de graduación, deberá referirse al título aprobado en el  Acta 014 del 15 de agosto de 2019. 
-5. versión electrónica en formato pdf (Artículo 43).
-6. Solicitud de nombramiento de jurados (Artículo 44).
-7. mínimo tres jurados: al menos uno externo a la Universidad Nacional de Colombia.
-8. Cotutela con Université de Lorraine  https://drive.google.com/open?id=1Q-EC1eLSIzA60V0ZSad7-uoHG34ZkY7V
-9. La cotutela establece que la sustentación se realizará I´Université de Lorraine   y que:
-
-Y en el Acta de Doctorado:
-
-10. Los directores dicen en la solicitud de jurados: “Dado que esta tesis se desarrolló en convenio de co-tutela internacional con la Université de Lorraine, la composición de los jurados calificadores debe ser acorde a lo estipulado en dicho convenio. Con base en lo anterior y en coordinación con la Université de Lorraine se ha acordado que el comité de jurados sea compuesto de la siguiente manera: 
-a. Bernard Yannou  - Université Paris-Saclay
-b. Simon Richir - Arts et Métiers ParisTech
-c. Véronique Falk - Université de Lorraine
-d. Liz Karen Herrera – Departamento de Ingeniería Mecánica y Mecatrónica
-e. Sebastián Eslava - Departamento de Ingeniería Eléctrica y Electrónica
-11. El director y los Codirectores proponen como invitados a:
-a. Pr. Letizia Mortara, University of Cambridge
-b. Pr. Assist, Ferran Guines, Univesity of Stuttgart
-12. El Coodirector Mauricio Camargo de la Universidad de Lorraine informa mediante un correo el 20 de octubre lo siguiente: 
-…apreciados todos,
- Entiendo la complejidad y el esfuerzo colectivo que tenemos que aportar para lograr el reconocimiento de nuestras universidades y en el que todos, además del doctorante ganamos.
- Sin embargo me sorprende mucho la interpretación sobre la conformación del jurado. Pues desde 2011 esta es la sexta defensa de cotutela que organizo entre nuestra escuela doctoral y la UNAL ( la última fue en diciembre 2020) en todas sistemáticamente hemos respetado el equilibrio de participantes entre las universidades y hemos seguido el mismo patrón (pueden verificar con las anteriores). Hasta ahora, siempre hemos contado el conjunto total de participantes en la defensa, incluidos los directores ( en este caso 3 por cada institución)
-Si hay un cambio en la interpretación de las reglas, les pido por favor tenerlo en cuenta para las próximas cotutelas, pues en esta ocasión ya estamos muy cerca del jurado e incluso ya recibimos esta mañana la aprobación de la escuela doctoral (ver mail adjunto).
- De nuevo gracias por su comprensión.
--- 
-Mauricio Camargo 
-Professeur des Universités
-Directeur ERPI
-Equipe de Recherche sur les Processus Innovatifs
-Université de Lorraine
-13. En el documente de Tesis ya figura información de la sustentación programada para el 9 de diciembre con los jurados informados.
-
-14. El  abogado hace el siguiente análisis a la situación:
-Los convenios internacionales se rigen por el Acuerdo que los regula ya que participan dos universidades, en este caso una universidad de otro país, lo que implica que la aplicación prevista en dicho acuerdo de las normas de cada universidad se dé como un asunto subsidiario cuando se trate de asuntos que no estén regulados por el acuerdo, de la misma manera, en tratándose asuntos cuyo manejo deba darse en una de las sedes, se entiende que debe aplicarse la regla de la sede donde se surte el trámite, pues en lo regulado se debe respetar la regla local. En ese sentido, si el asunto de nombrar jurados ya fue decidió por alguna instancia de la universidad en Colombia, no parece proceden la abstención en el nombramiento del jurado o jurados que le corresponda designar a la esta universidad, pues una cosa es el hecho de que el director Colombia haya designado ya los jurados sin la participación del comité, y otra muy distinta es que ese hecho no quede formalizado en el acta del consejo conforme la reglamentación interna de la universidad, pues de hacerse eso quedará ese acto sin el protocolo que exige el reglamento de la facultad. Diferente sería la situación si todos los jurados, incluidos los de Colombia son nombrados por la universidad en Francia, ya que se equipararía a una intromisión en los asuntos internos de la universidad, y de ser ese el caso, lo que debe hacerse es acudir a los mecanismos de solución de conflictos previstos en el acuerdo.
-
-Concepto: El Comité Asesor recomienda al Consejo de Facultad APROBAR designar jurado calificador de Tesis de Doctorado en Ingeniería Industria y Organizaciones, cuyo título es: Management of innovation laboratories: an enabling methodological approach for strategic intention design”, a los profesores: 
-
-a. Bernard Yannou  - Université Paris-Saclay
-b. Simon Richir - Arts et Métiers ParisTech
-c. Véronique Falk - Université de Lorraine
-d. Liz Karen Herrera – Departamento de Ingeniería Mecánica y Mecatrónica
-e. Sebastián Eslava - Departamento de Ingeniería Eléctrica y Electrónica
-
-DOCTORADO EN INGENIERÍA – SISTEMAS Y COMPUTACIÓN
-
-HOMOLOGACIÓN, EQUIVALENCIA Y CONVALIDACIÓN
-10.9.8 Rojas Hernández Alix Erica	DNI. 52745432
-Tipo de solicitud:	Homologación/Equivalencia/convalidación de asignaturas.
-Justificación:	"Como estudiante del Doctorado en Ingeniería de Sistemas y Computación, solicito amablemente se realice la equivalencia (o convalidación) de tres (3) asignaturas que cursé en la Maestría de Ingeniería de Sistemas y Computación de la Universidad Nacional. Las tres asignaturas a considerar en esta solicitud cubren parcialmente el contexto del problema identificado en la propuesta de investigación (presentada en la admisión al programa de doctorado).
-
-	Las asignaturas son:
-
-	Ingeniería de Software Avanzada
-
-	Arquitectura de base de datos
-
-	Probabilidad y estadística para computación"
-Soportes:	Solicitud, https://drive.google.com/open?id=1DchBRtUykxYcmygyAGDZJS0rbCDDSnm6
-Fecha de radicación:	octubre 8	
-Análisis:
-1. Universitas: Asignaturas asociadas al plan de estudios con tipología T/O.
-Concepto: El Comité Asesor recomienda al Consejo de Facultad APROBAR equivaler en el programa Doctorado en Ingeniería – Ingeniería de Sistemas y Computación, en el periodo académico 2021-2S, las siguientes asignaturas cursadas en el programa Maestría en Ingeniería – Ingeniería de Sistemas y Computación (2702), así:
-ASIGNATURA QUE SE EQUIVALEASIGNATURA POR LA QUE SE EQUIVALENOMBRECÓDIGONOMBRENOTACTArquitectura de bases de datos 2013309Arquitectura de bases de datos4.54UIngeniería de Software Avanzada2013310Ingeniería de Software Avanzada4.44UProbabilidad y estadística para computación2014219Probabilidad y estadística para computación4.34U
-10.9.9 Ospina Granados Edgar Alexander	DNI. 80049519
-Tipo de solicitud:	Homologación/Equivalencia/convalidación de asignaturas.
-Justificación:	" Amablemente solicito la homologación de las asignaturas:
-
-	- 2019818 Sistemas inteligentes
-	- 2019775 Probabilidad y estadística para computación
-	- 2019814 Vida artificial
-
-	Lo anterior teniendo en cuenta que cursé las asignaturas durante la Maestría de Ingeniería de Sistemas y Computación en la Universidad Nacional de Colombia."
-Soportes:	Solicitud, https://drive.google.com/open?id=1SttwS7G3FO5lcTRWYKAuc0MvQKktauNZ
-Fecha de radicación:	octubre 11	
-Análisis:
-1. Universitas: Asignaturas asociadas al plan de estudios con tipología T/O.
-Concepto: El Comité Asesor recomienda al Consejo de Facultad APROBAR equivaler en el programa Doctorado en Ingeniería – Ingeniería de Sistemas y Computación, en el periodo académico 2021-2S, las siguientes asignaturas cursadas en el programa Maestría en Ingeniería – Ingeniería de Sistemas y Computación (2702), así:
-ASIGNATURA QUE SE EQUIVALEASIGNATURA POR LA QUE SE EQUIVALENOMBRECÓDIGONOMBRENOTACTSistemas inteligentes2019818Sistemas inteligentes4.44UProbabilidad y estadística para computación2019775Probabilidad y estadística para computación4.24UVida artificial2019814Vida artificial4.54U
-DESIGNACIÓN DE JURADOS
-
-10.9.10 Martínez Riaño Darwin Eduardo	DNI. 80238002
-Tipo de solicitud:	Designación de jurados.
-Justificación:	Se solicita designación de jurados.
-Soportes:	Copia de tesis, copia digital de tesis, formato de solicitud de nombramiento de jurados.
-https://drive.google.com/open?id=1ribKU2f1pXiB_w1oAXpSIThdvZnbluEt
-https://drive.google.com/open?id=1NbYusy2ifoujTQQ6kwrl7u6V3GtqcQw-
-https://drive.google.com/open?id=1o2MWjmKNAuUSHhJ8QZMdp1b7z7E4nnkn
-https://drive.google.com/open?id=13Aty6GrE083ljInya0JK_nrklCh_dv3N
-https://drive.google.com/open?id=1Y0EbyelO902HpZPn95GKgXItGH2Efq9f
-https://drive.google.com/open?id=1UEziKjv76ORBm9AQ4aCdqJ9eA9ND1QaG
-Fecha de radicación:	octubre 14
-Análisis:	Acuerdo 40 de 2017 – Consejo de Facultad
-1. El estudiante tiene la asignatura Tesis de doctorado en el periodo 2021-1S 
-2. Concepto motivado acerca del trabajo por parte del director Francisco Albeiro Gómez Jaramillo PERO no del codirector designado Fabio González.
-3. El Codirector no aparece en la tesis, ni en la solitud de jurados, ni en el Avance Satisfactorio 2021-1S, ni 2020-2S, ni 2020-1S pero si aparece en designado en el Proyecto Acta 12 de 2016
-4. El codirector, Fabio González manifiesta que él supervisó, junto con el profesor Francisco Gómez el proyecto de tesis, sin embargo después de la defensa del Proyecto (2016) el estudiante no se volvió a  contactar con él. Hace dos semanas el profesor Francisco Gómez le informó al codirector que pensaban presentar la tesis y que querían mostrársela para que le diera el aval (a menos de una semana de cumplirse el plazo de entrega). El codirector le manifestó que no estaba de acuerdo en aparecer como codirector de una tesis que no dirigió y que lo más apropiado era hacer una solicitud de cambio de la propuesta para que quedara como único director el profesor Francisco Gómez. 
-5. Como está la Tesis en este momento no es posible designarle jurados dado que carece del aval del codirector que figura aprobado por el Consejo de Facultad 
-6. Propuesta de tesis aprobada: Computational strategies to characterize topological properties of pathologically altered functional brain networks. Acta 12 de 2016
-7. versión electrónica en formato pdf 
-8. Solicitud de nombramiento de jurados 
-9. Para las tesis de doctorado, dos jurados adscritos a la Universidad Nacional de Colombia y dos jurados externos a la Universidad Nacional de Colombia para la Tesis de Doctorado. 
-10. NO es cotutela 
-11. El director propone los siguientes jurados: https://drive.google.com/open?id=17Jkk6dVc8rVvKNFQDfDOWxJPKBOU1cU-
-a. Gabriel Castellanos Castañeda - Departamento de Ciencias Fisiológicas, Pontificia Universidad Javeriana
-b. Luis Fernando Niño – Departamento de Ingeniería de Sistemas e Industrial. 
-c. Norberto Antonio Malpica González - Departamento de Matemática Aplicada, Ciencia e Ingeniería de los Materiales y Tecnología Electrónica, Universidad Rey Juan Carlos
-d. Enrico Amico -  SNSF Ambizione Research Leader EPFL and University of Geneva
-12. El caso viene aplazado del acta de comité anterior.
-13. Se le informó a las partes:
-Profesores: Francisco Gómez - Fabio Augusto González
-Estudiante Darwin Eduardo Martínez Riaño.
-
-Revisando la solicitud de designación de jurados de la Tesis de Doctorado titulada Computational strategies to characterize topological properties of pathologically altered functional brain networks encontramos que en dicha solicitud y en los documentos de soporte no se cuenta con el aval del codirector de dicho proyecto aprobado mediante acta Acta 12 de 2016, el Ingeniero Fabio Gonzáles lo cual es requisito para el trámite ya que el codirector comparte las mismas funciones con el director. 
-
-Por favor aclarar la situación relacionada con el codirector y en caso tal que éste no siga en la codirección solicitar al Consejo de Facultad conceder excepción al Artículo 9 del acuerdo 40 de 2017 de Consejo de Facultad, en el sentido de aprobar la modificación del proyecto eliminando al codirector designado, dado que esta modificación debió presentarse a lo sumo en la semana 10 del periodo en que se presenta la solicitud de jurados (2021-1S). Dicha solicitud debe tener el aval del director, codirector y el estudiante y realizarse a más tardar el próximo jueves 4 de noviembre a las 5:00 p.m. a través del formulario web dispuesto por la Secretaría Académica.
-
-Por lo pronto informamos que la solicitud de designación de jurados no se puede aprobar con la documentación presentada a la fecha,  por ello se encuentra aplazada en el Comité Asesor.
-14. A la fecha del cierre del acta no se tiene la solicitud de conceder excepción al Artículo 41 del acuerdo 104 de 2020 de Consejo de Facultad, en el sentido de modificar el proyecto de tesis de doctorado, revocando la designación del profesor Fabio Gonzáles del Departamento de Ingeniería de Sistemas e Industrial como codirector de la tesis de Doctorado en Ingeniería – Ingeniería de Sistemas y Computación; cuyo título es “Computational strategies to characterize topological properties of pathologically altered functional brain networks”, 
-
-Concepto: El Comité Asesor APLAZA la solicitud de designar en el jurado calificador Tesis de Doctorado en Ingeniería – Ingeniería de Sistemas y Computación, cuyo título es: “Computational strategies to characterize topological properties of pathologically altered functional brain networks”, hasta que se esclarezca la situación del codirector.
-
-PROYECTO DE TESIS DE DOCTORADO
-10.9.11 Vega Márquez Olga Lucero	DNI. 51977720
-Tipo de solicitud:	Proyecto de tesis y designación de director.
-Justificación:	El estudiante sustentó satisfactoriamente su proyecto de tesis. Se pide aprobación de proyecto de tesis.
-Soportes:	1. Oficio B.FI.1.053.0456-2021remisión Acta de sustentación y de examen de calificación. 
-	2. Acta de sustentación proyecto de tesis.
-	3. Acta examen de calificación.
-https://drive.google.com/file/d/1S8MGiH-dGDSVfJu8jEflItaY77BD4Csl/view?usp=sharing
-https://drive.google.com/file/d/1h36J4nqDzcn51OeLEq8RUx-OHQlOgNX8/view?usp=sharing
-https://drive.google.com/file/d/18gCZADIa1LeGJ0BpyzWVaSBb9HrMBKFa/view?usp=sharing
- 
-Fecha de radicación:	octubre 20
-Análisis:
-1. El estudiante tiene la asignatura Proyecto de Tesis de Doctorado (2019849) inscrita y con AS en 2021-1S 
-2. Jurados designados por acta de comité 10 de 2021 (mayo 27 de 2021)
-3. Presenta acta de calificación firmada con jurados evaluadores designados.
-4. Para la inscripción y registro de la calificación del examen de calificación es necesario enviar al CSU la solicitud excepción de inscripción extemporánea, según el ACUERDO 350 DE 2021 del CSU http://www.legal.unal.edu.co/rlunal/home/doc.jsp?d_i=98050. Desde el área se realizará este trámite.
-Concepto: El Comité Asesor recomienda al Consejo de Facultad APROBAR :
-1. Calificar aprobado (AP) el Proyecto de Tesis de Doctorado en Ingeniería – Ingeniería de sistemas y Computación, con código 2019849 en el periodo académico 2021-1S, cuyo título es: “An approach for automatization of traceability among BPMN model activities and their execution links.”.
-2. Designar director de la Tesis de Doctorado cuyo título es “An approach for automatization of traceability among BPMN model activities and their execution links” a la profesora Helga Duarte Amaya  del Departamento de Ingeniería de Sistemas e Industrial.  
-3. inscribir y calificar aprobado (AP) el Examen de calificación con código 2019848 en el periodo académico 2021-1S.
-
-
-
-
-Ing. Jenny Marcela Sánchez Torres
-Directora de Área Curricular
-
-proyecto
-cultural,
-científico
-y colectivo
-de nación
-Av. Carrera 30 # 45-03 - Ciudad Universitaria
-Edificio 453, Oficina 209
-(+57 1) 3165357 - (+57 1) 3165000 EXT: 14068
-Bogotá, D. C., Colombia
-acisi_fibog@unal.edu.co
-
-
-[ Página 2 de 2 ] 
-Elaboró: LS/IV/JMS
-
-
-

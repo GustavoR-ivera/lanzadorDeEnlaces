@@ -1,296 +1,0 @@
-﻿Área Curricular de Ingeniería de Sistemas e Industrial | Facultad de Ingeniería | Sede Bogotá
-
-COMITÉ ASESOR DE PROGRAMAS DE POSGRADO
-ÁREA INGENIERÍA DE SISTEMAS E INDUSTRIAL
-ACTA N° 22
-Noviembre 16  de 2021
-
-Ing. Jenny Marcela Sánchez Torres	Directora de Área Curricular de Ingeniería de Sistemas e Industrial y Coord. Especialización en Gobierno Electrónico
-Ing. Helga Duarte-Amaya	Coord. Doctorado en Ingeniería - Sistemas y Computación
-Ing. Felipe Restrepo Calle	Coord. Maestría en Ingeniería – Ingeniería de Sistemas y Computación y Conv Unillanos 
-Ing. Gustavo Alfredo Bula		Coord. Maestría en Ingeniería -Ingeniería Industrial
-Prof. Emiliano Barreto Hernández	Coord. Maestría en Bioinformática
-Ing. Fabio Augusto González Osorio	Representante de los grupos de investigación 
-Ing. Pedro Julián Ramírez 		Representante de los egresados 
-
-Ing. Héctor Cifuentes Aya	Coord. Doctorado en Ingeniería – Industria y Organizaciones
-Ing. Jesús Guillermo Tovar Rache	Coord. Maestría en Ingeniería – Telecomunicaciones
-
-Lugar: Virtual.
-
-ORDEN DEL DÍA
-
-1.	Asuntos varios
-2.	Estudio de casos estudiantiles
-
-DESARROLLO DEL ORDEN DEL DÍA
-
-ASUNTOS VARIOS
- 
-
-ESTUDIO DE CASOS ESTUDIANTILES.
-MAESTRÍA EN INGENIERÍA - INGENIERÍA DE SISTEMAS Y COMPUTACIÓN
-
-INSCRIPCIÓN DE ASIGNATURAS
-10.9.1 Ramírez Espejo Roger Steven	DNI. 1032419102
-Tipo de solicitud:	Inscripción de asignaturas.
-Justificación:	Por motivos laborales y de tiempo tuve que cambiar algunas clases inscritas originalmente. No obstante la clase Gestión de las tecnologías de la información se ajusta a mis necesidades y la clase no ha arrancado, por lo tanto no afectaría mis actividades curriculares. No obstante, no la pude inscribir porque no hay cupos disponibles, por tal motivo estoy solicitando esta inscripción por consejo. El código de la clase es 2026502
-Soportes:	Formato de solicitud, https://drive.google.com/open?id=1jXSLdi5MxspHNhg0uA7hzgRQn2FEgr_-
-Fecha de radicación:	OCTUBRE 28
-	Análisis:	
-1. SIA: La asignatura se encuentra ofertada para el plan de estudios.
-2. La asignatura cuenta con 4 cupos disponibles.
-3.
-4. El estudiante no manifiesta haber  establecido comunicación con el docente.
-5. SI  presenta cruces con el horario inscrito.
-6.
-Concepto: El Comité Asesor recomienda al Consejo de Facultad NO APROBAR inscribir la siguiente asignatura del programa Maestría en Ingeniería – Ingeniería de Sistemas y Computación (2702), en el periodo académico de 2021-2S debido a que el horario de la misma se solapa con otra asignatura ya inscrita.
-CódigoAsignaturaGrupoTipologíaCréditos2026502Gestión de las tecnologías de la información1L4
-10.9.2 Arias Vanegas Víctor Alfonso	DNI. 1090457208
-Tipo de solicitud:	Inscripción de asignaturas.
-Justificación:	En anteriores oportunidades se me ha inscrito la materia de tesis de grado automáticamente, pero aún no me aparece el pago del recibo, quisiera saber si eso pasara, o en dado caso si es posible inscribir tesis como mi única materia disponible.
-Soportes:	Formato de solicitud, https://drive.google.com/open?id=1GGFtnScFL7XP-FFBdasLQqwWPhyjxNvp
-Fecha de radicación:	Noviembre 8
-	Análisis:	
-1. SIA: La asignatura se encuentra ofertada para el plan de estudios.
-2. El estudiante ya tiene recibo generado, sin pagar y ninguna asignatura inscrita.
-Concepto: El Comité Asesor recomienda al Consejo de Facultad APROBAR inscribir la siguiente asignatura del programa Maestría en Ingeniería – Ingeniería de Sistemas y Computación (2702), en el periodo académico de 2021-2S debido justifica debidamente la solicitud.
-CódigoAsignaturaGrupoTipologíaCréditos2019811Tesis de Maestría1S22
-ADMISIÓN AUTOMÁTICA
-10.9.3 Alvarez Baquero Anyelo Leonardy	DNI. 1074134051
-Tipo de solicitud:	Admisión Automática	.
-Justificación:	Deseo cursar el proceso de ADMISIÓN AUTOMÁTICA a la MAESTRÍA EN INGENIERÍA - INGENIERÍA DE SISTEMAS Y COMPUTACIÓN - PROFUNDIZACIÓN, lo anterior  basado en ser seleccionado como Mejor Trabajo de Grado de Pregrado en Física de la versión XXX del Concurso Mejores Trabajos de Grado de pregrado de la Universidad Nacional de Colombia mediante la resolución 09 de 2021 de la Vicerrectoría Académica de la Universidad Nacional de Colombia, documento que adjunto a esta carta; y amparado en el artículo 21 del Acuerdo 70 de 2009 del Consejo Académico..
-Soportes:	Formato de solicitud, Resolución 09 de 2021 VRA
-Fecha de radicación:	octubre 21
-Análisis:	Acuerdo 070 de 2009 - Consejo Académico, Acuerdo 008 de 2008
-1. El estudiante completó plan de estudios en Física
-2. Cupo de admisión automática en Resolución 09 de 2021 VRA Mejores Trabajos de Grado
-3. Para Admisión Automática para 2022-1S solo se tenía un cupo disponible en Maestría en Ingeniería – Ingeniería de Sistemas y Computación (2702) - Profundización y fue asignado en el acta de Comité Asesor anterior a un estudiante por mejor promedio
-4. El Acuerdo 070 de 2009 establece que la priorización de la asignación de los cupos se hará por 
-a. C. Grado de honor.
-b. CASO2. Mejor promedio ponderado acumulado.
-c. CASO3. Mejor Trabajo de grado en pregrado.
-Concepto: El Comité Asesor recomienda al Consejo de Facultad NO APROBAR admisión automática al programa Maestría en Ingeniería – Ingeniería de Sistemas y Computación (2702)  en el plan de estudios de Profundización a partir del primer periodo académico de 2022 (2022-2S) por no tener cupo disponible para este tipo de admisión siendo que el único cupo ofertado ya fue asignado a un egresado priorizado por Mayor Promedio Aritmético Ponderado Acumulado (PAPA). (Acuerdo 070 de 2009 de Consejo Académico)
-
-MAESTRÍA EN TELECOMUNICACIONES
-
-EXENCIÓN DE PAGO – TESIS COMO ÚNICA ACTIVIDAD ACADÉMICA
-10.9.4 Lopez Vásquez Christian Camilo	DNI. 80176573
-	Justificación:	Consejo de Facultad de Ingeniería
-Cordial Saludo,
-La presente para solicitar cursar la carga mínima y que se vea reflejado en el recibo de pago, ya que cuando realice una solicitud de carga mínima esta no fue aprobada, la idea es poder entregar este semestre mi trabajo final, pero no lo podre hacer si tengo que pagar el total del semestre yo tengo el descuento por votación y quiero que sea tenida en cuenta para el pago del recibo.
-
-Quiero que por favor sea tenida en cuenta esta solicitud y de no ser así, solicito la reserva del cupo para que no me afecte los tiempos de permanencia en la universidad, ya que tengo listo el proyecto final pero por esta afectación debería pedir aplazamiento de semestre.
-
-En anterior acta solicite el descuento del 20 % dentro de la carga mínima, pensé que a la hora de inscribir la carga mínima me iba aparecer el valor de esta carga mínima. aplicando el descuento del legal por votación (10 %), pero este no fue así.
-
-Agradezco me pueda ayudar para poder entregar mi trabajo de grado este semestre, pero pagando la carga mínima.
-Soportes:	https://drive.google.com/open?id=1WhZNLQmpehEwHm9MndcPrwQuipG2ToOg
-Análisis:	La fecha para solicitar la exención ya venció.
-		Acuerdo 099 de 2020 del Consejo de Facultad
-Concepto: El Comité Asesor recomienda al Consejo de Facultad NO APROBAR exención en pago de los puntos de derechos académicos del programa que cursan en el periodo académico 2021-2S, condicionado a la inscripción de tesis o trabajo final como única actividad académica, porque la solicitud se presenta fuera de los plazos establecidos (Acuerdo 099 de 2020 del Consejo de Facultad)
-
-MAESTRIA EN INGENIERÍA – INGENIERÍA INDUSTRIAL
-
-CAMBIO DE TESIS/TRABAJO FINAL DE MAESTRÍA
-10.9.5 Medina Baquero Sergio Iván	DNI. 1018417693
-Justificación:	"Respetados miembros del Consejo de Facultad.
-
-	Con la presente, YO, SERGIO IVAN MEDINA BAQUERO, identificado con cédula de ciudadanía número 1.018.417.693 de Bogotá, en mi calidad de estudiante del programa de Maestría en Ingeniería Industrial (Profundización) de la Facultad de Ingeniería para el segundo periodo académico de 2021, de acuerdo con la aprobación otorgada por la Comisión Delegataria del Consejo Superior Universitario en sesión 07 de 2021 (anexo 1), de manera atenta me permito solicitar la modificación de la propuesta de trabajo final de maestría titulado “evaluación de la alineación de TI para el caso de una organización pública en Colombia”, bajo la dirección de la profesora Jenny Marcela Sánchez Torres, la cual fue aprobada por el Consejo de Facultad en el Acta 26 del 10 de diciembre del 2020, los cambios solicitados se relacionan en el anexo 2 de esta comunicación.
-
-	De otra parte, de manera atenta quisiera solicitar la revisión de la liquidación de mi recibo de matrícula para este semestre (2021-IIS), dado que Trabajo Final de Maestría es la última materia en la que estoy matriculado y que me hace falta para finalizar mi plan de estudios.
-
-	Muchas gracias por su gestión.".
-	El estudiante pide aprobación de propuesta de tesis.
-Soportes:	Nueva Propuesta de trabajo final, oficio [CSU–1706–2021] https://drive.google.com/open?id=1_g0PU4ZuvCBovBqe6sH3OJn0Cb8QF15o
-Fecha de radicación:	noviembre 10
-Análisis:	Acuerdo 002 de 2011 de Consejo de Facultad, Acuerdo 056 de 2012 C.S.U.
-1. Perfil de Profundización. 
-2. Tiene la firma del (los) director(es) de tesis.
-3. Solicita modificaciones de la propuesta en su reingreso aprobado por el CSU
-Concepto: El Comité Asesor recomienda al Consejo de Facultad: 
-1. APRUEBA cambiar la propuesta de Trabajo Final de 2802 a:“ Evaluación del nivel de madurez de la alineación de TI en el sector Estatal en Colombia”, ratifica directora a la profesora Jenny Marcela Sánchez de  Departamento de Ingeniería de Sistemas e Industrial. 
-2. NO APROBAR exención en pago de los puntos de derechos académicos del programa que cursan en el periodo académico 2021-2S, condicionado a la inscripción de tesis o trabajo final como única actividad académica, porque las exenciones establecidas en el Artículo 16 del Acuerdo 002 de 2011 del Consejo de Facultad, no podrán ser concedidas a estudiantes que hayan reingresado a programas de posgrado de la Facultad en cualquier época. (Artículo 19 del Acuerdo 002 de 2011 del Consejo de Facultad) 
-
-CANCELACIÓN DE PERIODO ACADÉMICO
-10.9.6 González Espitia Gabriel Esteban	DNI. 1026587095
-Tipo de solicitud:	Cancelación de periodo académico.
-Justificación:	"Cordial saludo, 
-	mi nombre es Gabriel González con cedula 1026587095 , la presente es para informarles que quiero cancelar mi semestre este periodo ya que no cuento con los fondos suficientes del pago de la matrícula, yo inscribir la materia de tesis pensando que me podían aceptar los papeles de los 50 puntos por única materia pero por no enviarlos a fecha me negaron el descuento, entonces no tengo forma de pagar el restante 
-
-	gracias por la atención prestada y espero su respuesta "
-Soportes:	solicitud, https://drive.google.com/open?id=17yCk94vMuHKfW4PZ6vchtSJVIGb-5aFk
-Fecha de radicación:	Noviembre 1
-Análisis:
-		Acuerdo 008 de 2008.
-1. El estudiante no ha cancelado el recibo de matrícula y tiene inscrita Tesis de Maestría.
-Concepto: El Comité Asesor recomienda al Consejo de Facultad NO APROBAR cancelar la totalidad de asignaturas inscritas en el periodo 2021-2S, en el programa de Maestría de Maestría en Ingeniería – Ingeniería Industrial (2708), teniendo en cuenta que el estudiante no ha renovado la matricula a no cancelar el recibo de matrícula por lo que acogiéndose al acuerdo 356 de 2021 de CSU tendría el derecho de hacer uso de Reserva de cupo en el semestre 2021-2S)
-CódigoAsignaturaGrupoTipologíaCréditos2020088Tesis de Maestría1P22
-10.9.7 Gil Castellanos Luis Eduardo	DNI. 1026587095
-Tipo de solicitud:	Cancelación de periodo académico.
-Justificación:	"Se solicita cancelación de la asignatura "Trabajo final de maestría" inscrita con código 20220097, ya que por motivos económicos no me es posible pagar el valor correspondiente de la matrícula. Adicionalmente me fue negada la solicitud para pagar la mitad de la matricula por tener solamente esta asignatura (se pasó la solicitud fuera de fecha), lo que agrava aún más la situación. 
-	Actualmente solamente tengo pendiente esta asignatura para cumplir con los créditos solicitados por la universidad. Para el siguiente semestre se retomarán las actividades con total normalidad.
-	Intenté cancelar la asignatura el día de ayer por el SIA pero la plataforma no me lo permite, ya que me sale un mensaje que dice que debo inscribir por lo menos un crédito.
-	Solicito su amable colaboración y comprensión con la situación expuesta anteriormente."
-Soportes:	solicitud, https://drive.google.com/open?id=1fXlZ97bHa1Y0DCbWFM0-B9oMPIAWvFdi
-Fecha de radicación:	Noviembre 9
-Análisis:
-		Acuerdo 008 de 2008.
-1. El estudiante no ha cancelado el recibo de matrícula y tiene inscrita Trabajo final de Maestría.
-Concepto: El Comité Asesor recomienda al Consejo de Facultad NO APROBAR cancelar la totalidad de asignaturas inscritas en el periodo 2021-2S, en el programa de Maestría de Maestría en Ingeniería – Ingeniería Industrial (2708), teniendo en cuenta que el estudiante no ha renovado la matricula a no cancelar el recibo de matrícula por lo que acogiéndose al acuerdo 356 de 2021 de CSU tendría el derecho de hacer uso de Reserva de cupo en el semestre 2021-2S)
-CódigoAsignaturaGrupoTipologíaCréditos2020097Trabajo Final de Maestría1P10
-MAESTRIA EN BIOINFORMÁTICA
-
-CANCELACIÓN DE ASIGNATURAS
-9.1.1 Castañeda Valderrama Paula Fernanda	DNI. 1016060566
-Tipo de solicitud:	Cancelación de asignaturas.
-Justificación:	Por la presente me permito solicitar la cancelación de la materia Genómica (2027534), ya que, por motivos laborales del viernes 22 de octubre en adelante, se me programó una reunión inaplazable en el horario de 9:30am - 10:30am que coincide con el horario de la clase (9-11).
-Soportes:	solicitud,  https://drive.google.com/open?id=1DPUKTrQFLQJKiG4QhAJr0fLHmnfhlBJv
-Fecha de radicación:	octubre 22
-	Análisis:	Acuerdo 008 de 2008
-Concepto: El Comité Asesor recomienda al Consejo de Facultad APROBAR cancelar la(s) siguiente(s) asignatura(s) inscrita(s) del periodo académico 2021-2S, porque justifica debidamente la solicitud. (Artículo 15 Acuerdo 008 de 2008 del Consejo Superior Universitario)
-CódigoNombre AsignaturaGrupoTC2027534Genómica1l4
-ESPECIALIZACION EN GOBIERNO ELECTRÓNICO
-	
-DOCTORADO EN INGENIERÍA – INDUSTRIA Y ORGANIZACIONES
-
-DOCTORADO EN INGENIERÍA – SISTEMAS Y COMPUTACIÓN
-
-RECURSO DE REPOSICIÓN CON SUBSIDIO DE APELACIÓN
-9.1.2 Victorino Guzmán Jorge Enrique	DNI. 79643755
-Tipo de solicitud:	Recurso de reposición con subsidio de apelación.
-Justificación:	“Referencia: Reposición con subsidio de apelación a la Notificación del Acta 28 de 2021 Yo, Jorge Enrique Victorino Guzmán, identificado con cédula de ciudadanía No. 79.643.755 de Bogotá, estudiante de Doctorado en Ingeniería de Sistemas y Computación. El día 17 de septiembre del año en curso eleve al Consejo de la facultad de ingeniería mi solicitud de prorroga al descuento en la matricula por cursar tesis como única actividad académica, pero en respuesta, sesión celebrada el 14 de octubre de 2021, Acta 28 me informan la No Aprobación de mi solicitud.
-	
-	De mi parte he estado recibiendo este apoyo por 3 semestres y sinceramente no tenía conocimiento del acuerdo 099 del 2020. A pesar de esto, la situación de la pandemia ha afectado sensiblemente a los recursos económicos de muchos de nosotros los estudiantes de postgrado y las actividades se han visto muy afectadas por la emergencia sanitaria y los paros que ha enfrentado la Universidad. Solicito que solo por esta vez reconsideren esta situación de vulnerabilidad en la que nos encontramos muchos y que finalmente me brinden este valioso
-	apoyo. Agradezco de antemano la atención prestada.”
-Soportes:	Carta de Recurso https://drive.google.com/file/d/1rHJGdAHCuTHJEKEyVzICtar2QvwAsEVf/view?usp=sharing
-Fecha de radicación:	Noviembre 3
-	Análisis:	
-1. Se interpone recurso de reposición sobre la decisión del acta 28  de octubre 14 de 2021.
-2. Recomendación del Comité Asesor en acta de comité 19  
-Concepto: El comité asesor recomienda al Consejo de Facultad NO APROBAR pago de los puntos de derechos académicos del programa que cursan en el periodo académico 2021-2S, condicionado a la inscripción de tesis o trabajo final como única actividad académica, porque la solicitud se presenta fuera de los plazos establecidos (Acuerdo 099 de 2020 del Consejo de Facultad) (Artículo 16 del Acuerdo 002 de 2011 del Consejo de Facultad) 
-3. La recomendación dada en el acta 19 de  Comité Asesor esta soporta en que la solicitud fue radicada el 27 de septiembre mediante el formulario de solicitudes del área de ese momento https://drive.google.com/open?id=1UrR2eJ6PrjZToqpu2HHIPNzqHp9BVvvj, y el ACUERDO 99 DE 2020 de Consejo de Facultad: dice:
-Establecer el último día de clases de cada periodo académico como fecha límite para recibir solicitudes para otorgamiento de los estímulos de la Facultad de Ingeniería a sus estudiantes de posgrado, de acuerdo con lo establecido en el Capítulo IV del Acuerdo 2 de 2011 del Consejo de Facultad.
-Por lo que la fecha límite venció el 3 de septiembre
-
-Concepto: El Comité Asesor recomienda al Consejo de Facultad en atención al recurso de reposición con subsidio de apelación RATIFICAR decisión del Acta 28 de octubre 28 de 2021, en consecuencia, NO APROBAR exención en pago de 100 puntos de derechos académicos del programa que cursan en el periodo académico 2021-2S, condicionado a la inscripción de tesis o trabajo final como única actividad académica 
-, porque la solicitud se presenta fuera de los plazos establecidos (Acuerdo 099 de 2020 del Consejo de Facultad) (Artículo 16 del Acuerdo 002 de 2011 del Consejo de Facultad)
-
-INSCRIPCIÓN DE ASIGNATURAS
-10.9.8 Cala Wilches Oscar Eduardo	DNI. 80931667
-Tipo de solicitud:	Inscripción de asignaturas.
-Justificación:	"Debido a problemas en el sistema académico no me fué posible realizar la inscripción de la materia proyecto de tesis de doctorado. El rango de los 30mins no fue suficiente. El sistema de servicios académicos genera un error cuando uno ingresa el usuario y la contraseña. A veces tarda demasiado y la sesión se acaba antes de que uno alcance a hacer el proceso.
-
-	Muy amablemente solicito la aprobación de la materia.
-
-	Proyecto de Tesis de Doctorado - 2014286 o
-	Proyecto de Tesis de Doctorado - 2019849
-
-	El director de la tesis de doctorado es el profesor Victor Hugo Grisales Palacio, del Departamento de Ing Mecanica y Mecatronica. vhgrisalep@unal.edu.co
-
-	Este semestre fui beneficiado con una Beca de Auxiliar Docente por lo cual tengo el beneficio de exención de 100% de la matricula el cual deseo utilizar. Si no logro inscribir esta materia no se me activaria la historia academica para este semestre. Les ruego el favor de Inscribirme la matería.
-
-	Cordial Saludo."
-Soportes:	Formato de solicitud.
-https://drive.google.com/file/d/1rJp5HUZ1uFEsDqrfKgBUFWCYQP3ptSjM/viewFecha de radicación:	octubre 28
-	Análisis:	
-1. SIA: La asignatura se encuentra ofertada para el plan de estudios.
-2. SIA: Cumple con asignatura prerrequisito aprobado en 
-3. No presenta cruces con el horario inscrito.
-4. Estudiante con Beca Asistente docente
-Concepto: El Comité Asesor recomienda al Consejo de Facultad APROBAR inscribir la siguiente asignatura del programa Doctorado en Ingeniería – Industria Y Organizaciones, en el periodo académico de 2021-2S:
-CódigoAsignaturaGrupoTipologíaCréditos2019849Proyecto Tesis de doctorado1F13
-PROYECTO DE TESIS DE DOCTORADO
-10.9.9 Gallego Mejia Joseph Alejandro	DNI. 1022369610
-Tipo de solicitud:	Proyecto de tesis y designación de director.
-Justificación:	El estudiante sustentó satisfactoriamente su proyecto de tesis. Se pide aprobación de proyecto de tesis.
-Soportes:	1. Oficio B.FI.1.053.0475-2021 remisión Acta de sustentación y de examen de calificación. 
-	2. Acta de sustentación proyecto de tesis.
-	3. Acta examen de calificación.
-https://drive.google.com/file/d/1HYUtw_MrKjVZbXAilF09mV2ywWsP8g7f/view?usp=sharing
-https://drive.google.com/file/d/1HhnHIxuE1yx-LtO9LYVMg59T8vXcS-Ct/view?usp=sharing
-https://drive.google.com/file/d/1HUaFCtOyz79qCSe18RS_NnI4OwUm6715/view?usp=sharing
-
-Fecha de radicación:	Noviembre 6
-Análisis:
-1. El estudiante tiene la asignatura Proyecto de Tesis de Doctorado (2019849) inscrita y con AS en 2021-1S 
-2. Jurados designados por acta de comité 14 de 2021 (Julio 21 de 2021)
-3. Presenta acta de calificación firmada con jurados evaluadores designados.
-4. Para la inscripción y registro de la calificación del examen de calificación es necesario enviar al CSU la solicitud excepción de inscripción extemporánea, según el ACUERDO 350 DE 2021 del CSU http://www.legal.unal.edu.co/rlunal/home/doc.jsp?d_i=98050. Desde el área se realizará este trámite.
-Concepto: El Comité Asesor recomienda al Consejo de Facultad APROBAR :
-1. Cancelar la siguiente asignatura Proyecto de Tesis de Doctorado (2019849),  inscrita del periodo académico 2021-2S, porque se justifica debidamente la solicitud. 
-2. Calificar aprobado (AP) el Proyecto de Tesis de Doctorado en Ingeniería – Ingeniería de sistemas y Computación, con código 2019849 en el periodo académico 2021-1S, cuyo título es: “Efficient Non­Parametric Neural Density Estimation and Its Application to Outlier and Anomaly Detection”.
-3. Designar director de la Tesis de Doctorado cuyo título es “Efficient Non­Parametric Neural Density Estimation and Its Application to Outlier and Anomaly Detection” al profesor Fabio Augusto González Osorio de Departamento de Ingeniería de Sistemas e Industrial.
-4. Inscribir y calificar aprobado (AP) el Examen de calificación con código 2019848 en el periodo académico 2021-1S.
-5. Inscribir la siguiente asignatura del programa Doctorado en Ingeniería – Ingeniería de sistemas y Computación, en el periodo académico de 2021-2S debido a que con los numerales anteriores cumple los prerequisitos establecidos.
-CódigoAsignaturaGrupoTipologíaCréditos2019852Tesis de Doctorado1S90
-DESIGNACIÓN DE JURADOS
-
-10.9.10 Martínez Riaño Darwin Eduardo	DNI. 80238002
-Tipo de solicitud:	Designación de jurados.
-Justificación:	Se solicita designación de jurados.
-Soportes:	Copia de tesis, copia digital de tesis, formato de solicitud de nombramiento de jurados.
-https://drive.google.com/open?id=1ribKU2f1pXiB_w1oAXpSIThdvZnbluEt
-https://drive.google.com/open?id=1NbYusy2ifoujTQQ6kwrl7u6V3GtqcQw-
-https://drive.google.com/open?id=1o2MWjmKNAuUSHhJ8QZMdp1b7z7E4nnkn
-https://drive.google.com/open?id=13Aty6GrE083ljInya0JK_nrklCh_dv3N
-https://drive.google.com/open?id=1Y0EbyelO902HpZPn95GKgXItGH2Efq9f
-https://drive.google.com/open?id=1UEziKjv76ORBm9AQ4aCdqJ9eA9ND1QaG
-Fecha de radicación:	octubre 14
-Análisis:	Acuerdo 40 de 2017 – Consejo de Facultad
-1. El estudiante tiene la asignatura Tesis de doctorado en el periodo 2021-1S 
-2. Concepto motivado acerca del trabajo por parte del director Francisco Albeiro Gómez Jaramillo PERO no del codirector designado Fabio González.
-3. El Codirector no aparece en la tesis, ni en la solitud de jurados, ni en el Avance Satisfactorio 2021-1S, ni 2020-2S, ni 2020-1S pero si aparece en designado en el Proyecto Acta 12 de 2016
-4. El codirector, Fabio González manifiesta que él supervisó, junto con el profesor Francisco Gómez el proyecto de tesis, sin embargo después de la defensa del Proyecto (2016) el estudiante no se volvió a  contactar con él. Hace dos semanas el profesor Francisco Gómez le informó al codirector que pensaban presentar la tesis y que querían mostrársela para que le diera el aval (a menos de una semana de cumplirse el plazo de entrega). El codirector le manifestó que no estaba de acuerdo en aparecer como codirector de una tesis que no dirigió y que lo más apropiado era hacer una solicitud de cambio de la propuesta para que quedara como único director el profesor Francisco Gómez. 
-5. Como está la Tesis en este momento no es posible designarle jurados dado que carece del aval del codirector que figura aprobado por el Consejo de Facultad 
-6. Propuesta de tesis aprobada: Computational strategies to characterize topological properties of pathologically altered functional brain networks. Acta 12 de 2016
-7. versión electrónica en formato pdf 
-8. Solicitud de nombramiento de jurados 
-9. Para las tesis de doctorado, dos jurados adscritos a la Universidad Nacional de Colombia y dos jurados externos a la Universidad Nacional de Colombia para la Tesis de Doctorado. 
-10. NO es cotutela 
-11. El director propone los siguientes jurados: https://drive.google.com/open?id=17Jkk6dVc8rVvKNFQDfDOWxJPKBOU1cU-
-a. Gabriel Castellanos Castañeda - Departamento de Ciencias Fisiológicas, Pontificia Universidad Javeriana
-b. Luis Fernando Niño – Departamento de Ingeniería de Sistemas e Industrial. 
-c. Norberto Antonio Malpica González - Departamento de Matemática Aplicada, Ciencia e Ingeniería de los Materiales y Tecnología Electrónica, Universidad Rey Juan Carlos
-d. Enrico Amico -  SNSF Ambizione Research Leader EPFL and University of Geneva
-12. El caso viene aplazado del acta de comité anterior.
-13. Se les informó a las partes:
-Profesores: Francisco Gómez - Fabio Augusto González
-Estudiante Darwin Eduardo Martínez Riaño.
-
-Revisando la solicitud de designación de jurados de la Tesis de Doctorado titulada Computational strategies to characterize topological properties of pathologically altered functional brain networks encontramos que en dicha solicitud y en los documentos de soporte no se cuenta con el aval del codirector de dicho proyecto aprobado mediante acta Acta 12 de 2016, el Ingeniero Fabio Gonzáles lo cual es requisito para el trámite ya que el codirector comparte las mismas funciones con el director. 
-
-Por favor aclarar la situación relacionada con el codirector y en caso tal que éste no siga en la codirección solicitar al Consejo de Facultad conceder excepción al Artículo 9 del acuerdo 40 de 2017 de Consejo de Facultad, en el sentido de aprobar la modificación del proyecto eliminando al codirector designado, dado que esta modificación debió presentarse a lo sumo en la semana 10 del periodo en que se presenta la solicitud de jurados (2021-1S). Dicha solicitud debe tener el aval del director, codirector y el estudiante y realizarse a más tardar el próximo jueves 4 de noviembre a las 5:00 p.m. a través del formulario web dispuesto por la Secretaría Académica.
-
-Por lo pronto informamos que la solicitud de designación de jurados no se puede aprobar con la documentación presentada a la fecha,  por ello se encuentra aplazada en el Comité Asesor.
-14. A la fecha del cierre del acta no se tiene la solicitud de conceder excepción al Artículo 41 del acuerdo 104 de 2020 de Consejo de Facultad, en el sentido de modificar el proyecto de tesis de doctorado, revocando la designación del profesor Fabio Gonzáles del Departamento de Ingeniería de Sistemas e Industrial como codirector de la tesis de Doctorado en Ingeniería – Ingeniería de Sistemas y Computación; cuyo título es “Computational strategies to characterize topological properties of pathologically altered functional brain networks”, 
-15. El caso viene aplazado del acta de comité anterior.
-16. Siendo el 12 de noviembre no se ha recibido nueva información del caso por parte del estudiante o director ni solicitud de conceder excepción al Artículo 41 del acuerdo 104 de 2020 de Consejo de Facultad, en el sentido de modificar el proyecto de tesis de doctorado, revocando la designación del profesor Fabio Gonzáles del Departamento de Ingeniería de Sistemas e Industrial como codirector de la tesis de Doctorado en Ingeniería – Ingeniería de Sistemas y Computación; cuyo título es “Computational strategies to characterize topological properties of pathologically altered functional brain networks”, 
-
-
-Concepto: El Comité Asesor recomienda al Consejo de Facultad NO APROBAR designar en el jurado calificador Tesis de Doctorado en Ingeniería – Ingeniería de Sistemas y Computación, cuyo título es: “Computational strategies to characterize topological properties of pathologically altered functional brain networks”, debido que la documentación presentada carece del aval del codirector designado para el Proyecto de Tesis.
-
-
-
-
-
-Ing. Jenny Marcela Sánchez Torres
-Directora de Área Curricular
-
-proyecto
-cultural,
-científico
-y colectivo
-de nación
-Av. Carrera 30 # 45-03 - Ciudad Universitaria
-Edificio 453, Oficina 209
-(+57 1) 3165357 - (+57 1) 3165000 EXT: 14068
-Bogotá, D. C., Colombia
-acisi_fibog@unal.edu.co
-
-
-[ Página 2 de 2 ] 
-Elaboró: LS/IV/JMS
-
-
-
